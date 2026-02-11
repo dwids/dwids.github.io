@@ -12,3 +12,16 @@ description:
 ---
 
 DateSignificant Cultural Event**Nov 21–25**🏏 `First Ashes Test` in Perth**Nov 26**🎶 `Beatles Anthology series - extended & remastered` starts on Disney+**Dec 4–8**🏏 `Second Ashes Test` in Brisbane
+
+## Updates 12 Feb 2026 
+
+
+> [!info] Title 
+> > Content goes here
+
+
+|**Date**|**Significant Cultural Event**|
+|---|---|
+|**Nov 21–25**|🏏 First Ashes Test (Perth)|
+|**Nov 26**|🎶 Beatles Anthology (Disney+)|
+|**Dec 4–8**|🏏 Second Ashes Test (Brisbane)|
