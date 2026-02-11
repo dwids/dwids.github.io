@@ -117,8 +117,11 @@ For any (?) link can use the | symbol to give an alternate display text for the 
 *Heading* link: Raw link covering [[George Hudson - Summary#George and Alice]] and the same one covering [[George Hudson - Summary#George and Alice|their marriage]]
 *Block* link: Reginald George was Alice and George Hudson's [[George Hudson - Summary#^c80605]]  first born.   Shorter to write he was their [[George Hudson - Summary#^c80605| first born]] 
 
-## Images
+## Image Tests 
 ### External Image (Website)
+
+I don't think Quartz will do the resizes in  `![text|400](https://content.ngv.vic.gov.au/col-images/api/EXHI013687/1920)`
+
 Link to live embed image of external image, standard/default size
 ![text](https://content.ngv.vic.gov.au/col-images/api/EXHI013687/1920)
 
