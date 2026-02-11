@@ -1,3 +1,12 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+.tags li {
+  background-color: #f0fdf4; /* Very light green background */
+  border: 1px solid #166534; /* Dark green border */
+  border-radius: 9999px;     /* Makes them pills */
+  padding: 0.1rem 0.5rem;
+  color: #166534 !important;
+  font-weight: 600;
+}
