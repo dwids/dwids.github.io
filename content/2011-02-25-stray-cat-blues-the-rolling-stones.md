@@ -1,0 +1,18 @@
+---
+date: 2011-02-25T07:06:00.000Z
+lastmod: 2024-11-22T06:01:27.000Z
+title: Stray Cat Blues - The Rolling Stones
+draft: false
+slug: stray-cat-blues-the-rolling-stones
+tags: ["goldenmiles"]
+cover:
+    image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
+    alt: Stray Cat Blues - The Rolling Stones
+description: 
+---
+
+To get started &#8211; a confession. I first heard this as a live cover on the excellent [RocKwiz ](http://www.sbs.com.au/rockwiz/)TV show. It was Chris Cheney & Chrissy Amphlett doing a rip-roaring duet at the end of the show, backed by the excellent Orkestra house-band.   Twas only after that did I hunt down the 1968 original; off the Stones&#8217; Beggars Banquet LP. It&#8217;s a beauty.
+
+Yes, I really like Mick and the boys, but don&#8217;t know that much of their stuff. So another 2-parter follows. Firstly the Rolling Stones:
+
+ And now the Cheney & Amphlett live cover:
