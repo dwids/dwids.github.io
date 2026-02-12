@@ -14,9 +14,9 @@ Welcome! I write about [insert your topics - tech history, vintage computing, wh
 - [Another great post](/link-to-post)
 
 ### Browse by Topic
-- [Music posts](/tags/music)
-- [Cricket posts](/tags/cricket) 
-- [Tech history](/tags/apana)
+- [Music posts](/tags/Music)
+- [Cricket posts](/tags/Cricket) 
+- [Tech history](/tags/Apana)
 
 ---
 
