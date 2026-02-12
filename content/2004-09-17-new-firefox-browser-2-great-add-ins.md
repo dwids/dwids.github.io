@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:04:27.000Z
 title: New Firefox browser + 2 great add-ins
 draft: false
 slug: new-firefox-browser-2-great-add-ins
-tags: ["Technology"]
+tags: ["technology"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: New Firefox browser + 2 great add-ins
@@ -28,3 +28,7 @@ Links:
 - [Firefox browser](http://www.mozilla.org/products/)
 - [Tabbrowser Extensions and others](http://texturizer.net/firefox/extensions/)
 - [GoogleBar](http://googlebar.mozdev.org/index.html)
+
+---
+
+> [!info] Original Published Date : *2004-09-17*

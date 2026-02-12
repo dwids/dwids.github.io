@@ -4,7 +4,7 @@ lastmod: 2024-10-19T00:54:11.000Z
 title: Lesser Known Songs by Well Known Artists
 draft: false
 slug: lesser-known-songs-by-well-known-artists
-tags: ["songs"]
+tags: ["music"]
 cover:
     image: /images/2024/10/12in-Vinyl-LP-Record-Angle.jpg
     alt: Lesser Known Songs by Well Known Artists
@@ -63,3 +63,7 @@ Have to tell the sad tale of this other wonderful Axiom song *Ford’s Bridge *(
 “…Brian Cadd revealed to Debbie Kruger that the Australian reference in the song “Ford’s Bridge” (named after a town in Queensland) it was, in fact, the result of pressure from outside the band:
 
 ‘ … we wrote a song, which must have been all the stuff that I had left in my head from ‘Arkansas Grass’, which I called ‘We Can Reach Georgia by Morning’. We had done some rough mixes and somebody played some of them to Stan Rofe and Rofe got right off his bike about it and said that it was absolutely unconscionable for us to use Georgia and why couldn’t we use an Australian name? So I succumbed to the browbeating of everybody, and we found in the atlas a place in Northern Queensland called Fords Bridge, which had the right meter for the words … I never really got over that. It really hurt me, It annoyed me … I just got very annoyed with the parochialism. When it reached out and touched me and made me change a word in a song. I hated it.’ …”
+
+---
+
+> [!info] Original Published Date : *2020-05-21*

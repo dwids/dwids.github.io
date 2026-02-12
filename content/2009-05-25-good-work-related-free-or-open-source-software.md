@@ -18,3 +18,7 @@ IrfanView&#160;&#160; [http://www.irfanview.com/](http://www.irfanview.com/)&#16
 Picasa [http://picasa.google.com.au/](http://picasa.google.com.au/)&#160;&#160; image librarian, can invoke IrfanView&#160;&#160; 
 
 Gimp&#160; [http://www.gimp.org/](http://www.gimp.org/)&#160; GNU Image Manipulation Program for Photoshop-like editing
+
+---
+
+> [!info] Original Published Date : *2009-05-25*

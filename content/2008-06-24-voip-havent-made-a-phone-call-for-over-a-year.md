@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:36:50.000Z
 title: "VOIP: Haven't made a 'phone call' for over a year"
 draft: false
 slug: voip-havent-made-a-phone-call-for-over-a-year
-tags: ["VOIP"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: "VOIP: Haven't made a 'phone call' for over a year"
@@ -26,3 +26,7 @@ The final step was to use a current phone (hand set) and plug it into the Intern
 It&#8217;s a tiny box. You plug your standard phone in to one socket and your Internet &#8211; from your Modem, Router, Switch etc &#8211; into the other (Ethernet) port. A bit of configuration later&#8230;and you can pick up the phone and just dial away. If you want you can even use it for inbound phone calls.  
 
 And the price for the calls? Well check out Pennytel for example. I&#8217;ve got one word to say to you, Kimmie: cheap.
+
+---
+
+> [!info] Original Published Date : *2008-06-24*

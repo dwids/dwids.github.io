@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:02:49.000Z
 title: Ideas for The Hollowmen
 draft: false
 slug: ideas-for-the-hollowmen
-tags: ["Hollowmen","TV and Streaming"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Ideas for The Hollowmen
@@ -36,3 +36,7 @@ Perhaps viewers are too removed. Again it&#8217;s hard not to mention *Frontline
 ***The One with the Documentary Crew***.  The ABC is making a documentary on the Department. How does Tony explain their activities to a journalist who clearly knows what is really going on.  As she used to work there&#8230;
 
 Technorati Tags: [Hollowmen](http://technorati.com/tags/Hollowmen)
+
+---
+
+> [!info] Original Published Date : *2008-08-10*

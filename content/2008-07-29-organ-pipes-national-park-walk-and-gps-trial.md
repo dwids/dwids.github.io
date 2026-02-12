@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:02:59.000Z
 title: Organ Pipes National Park walk and GPS trial
 draft: false
 slug: organ-pipes-national-park-walk-and-gps-trial
-tags: ["bushwalks","GPS"]
+tags: ["bushwalks","navigation"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Organ Pipes National Park walk and GPS trial
@@ -22,3 +22,7 @@ Anyway I did this very pleasant walk just fine and the pre-loaded values were ve
 I also logged the walk in the GPS so it could be seen in 3D back in Google Earth; which confirmed what my legs had told me: down a steep hill, along a flat river valley and back up the steep hill. 
 
 One final comment on this National Park. When I first visited it in the early 1970s it was very barren. Just bare grassy hills and weeds. Over the following 30+ years a [group of volunteers](http://home.vicnet.net.au/~foopnp/) have done a sterling job clearing out the weeds and planting native trees and shrubs. The result is nothing sort of amazing as the &#8216;before&#8217; photos ot the place show. Barren to living bush again.  Well done!  
+
+---
+
+> [!info] Original Published Date : *2008-07-29*

@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:03:20.000Z
 title: Digital TV will finally go full steam, then face a huge smack in the head
 draft: false
 slug: digital-tv-will-finally-go-full-steam-then-face-a-huge-smack-in-the-head
-tags: ["DigitalTV"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Digital TV will finally go full steam, then face a huge smack in the head
@@ -20,3 +20,7 @@ Then, a year or two later, announce &#8216;high&#8217; definition.  By effective
 My theory is that by the time the analogue TV is finally turned off &#8211; and digital  TV really kicks in &#8211; we&#8217;ll have the Governments ultra-broadband Internet to our homes.  I think the dates will be about the same; at least for the main cities. So, by then, you should have enough reliable broadband capacity for HD TV on demand from almost anywhere. And hence digital TV better really offer something that adds value&#8230;.or it will be too little too late.
 
 Channel 7 are due to announce Tivo over the next few weeks. For the Mums and Dads this Magic Black Box provides cool content. They probably won&#8217;t even fully realise &#8211; care &#8211; that it&#8217;s delivered via the TV airwaves&#8230;so in 2 years time, swap it for a broadband box and they will hardly notice.
+
+---
+
+> [!info] Original Published Date : *2008-06-11*

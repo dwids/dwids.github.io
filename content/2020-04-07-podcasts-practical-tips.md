@@ -4,7 +4,7 @@ lastmod: 2024-11-21T22:14:55.000Z
 title: Podcasts - Practical Tips
 draft: false
 slug: podcasts-practical-tips
-tags: ["podcasts"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1664195074951-fe91ec456eed?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cG9kY2FzdHxlbnwwfHwwfHx8MA%3D%3D
     alt: Podcasts - Practical Tips
@@ -73,3 +73,7 @@ Then **Save** and copy the mp3 to the phone.
 When I click on *Classic LNL*, it then lists each mp3-podcast&#8217;s episode (Title), ready to play:
 ![](/images/wordpress/2021/02/screenshot_20200407-182251.png)
 **Note**: if you put each each Show&#8217;s (Album) mp3 files in it&#8217;s own sub-folder, you can even add an image, like the photo of Phillip, above.  Pick one that&#8217;s more square in shape and call it *folder.jpg*
+
+---
+
+> [!info] Original Published Date : *2020-04-07*

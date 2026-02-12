@@ -4,7 +4,7 @@ lastmod: 2024-11-22T05:59:49.000Z
 title: GPS really is a miracle of technology
 draft: false
 slug: gps-really-is-a-miracle-of-technology
-tags: ["GPS"]
+tags: ["navigation"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: GPS really is a miracle of technology
@@ -31,8 +31,12 @@ Detailed maths is used to ‘undo’ these ‘errors’ – take them into accou
 
 Source  [1]
 
-The values &#8211; *a, t, e, E*, etc &#8211; are provided by the GPS signal and your unit/phone does the above calculations.  After all is said and done, your position is shown to you, accurate to within a few meters. And in 3 dimensions (latitude, longitude and height) in a car doing 100 km/h.  #miracle ![Smile](/images/wordpress/2021/02/87aab-wlemoticon-smile.png) 
+The values &#8211; *a, t, e, E*, etc &#8211; are provided by the GPS signal and your unit/phone does the above calculations.  After all is said and done, your position is shown to you, accurate to within a few meters. And in 3 dimensions (latitude, longitude and height) in a car doing 100 km/h.  ![Smile](/images/wordpress/2021/02/87aab-wlemoticon-smile.png) 
 
 ### Sources
 
 [1] *Silicon Chip* magazine.  November 2019.   Article:* A Look at GNSS Systems* by Dr David Maddison. [http://www.siliconchip.com.au/Issue/2019/November/A+look+at+SatNav+systems%3A+how+do+they+work%3F?res=nonflash](http://www.siliconchip.com.au/Issue/2019/November/A+look+at+SatNav+systems%3A+how+do+they+work%3F?res=nonflash)
+
+---
+
+> [!info] Original Published Date : *2019-12-05*

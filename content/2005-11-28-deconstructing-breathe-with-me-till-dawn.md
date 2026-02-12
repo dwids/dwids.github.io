@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:03:51.000Z
 title: Deconstructing "Breathe With Me Till Dawn"
 draft: false
 slug: deconstructing-breathe-with-me-till-dawn
-tags: ["musicTheory"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Deconstructing "Breathe With Me Till Dawn"
@@ -42,3 +42,7 @@ I think the creator of the mashup used their software to adjust the pitch of the
 Listening carefully it seems they actually made a micro adjustment of the pitch as the chords are  just a bit below A and B.  This may be because the original songs were not quite in concert pitch; i.e. the instruments on the recordings were all tuned to each other but not &#8216;absolutely&#8217; tuned. Or the recording tape etc may have run a tiny bit slow.
 
 The result works very well. A nice mix of musical and technology smarts.
+
+---
+
+> [!info] Original Published Date : *2005-11-28*

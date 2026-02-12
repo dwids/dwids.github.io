@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:04:12.000Z
 title: My kingdom for an optical bootable
 draft: false
 slug: my-kingdom-for-an-optical-bootable
-tags: ["Technology"]
+tags: ["technology"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: My kingdom for an optical bootable
@@ -22,3 +22,7 @@ I&#8217;d take out the smallest hard drive (20 GB) and replace it with the origi
 So, after confirming it wasn&#8217;t the main boot drive and quickly trying to get the data off it, this was done. By the most excellent local PC store. And whilst I waited too. (I didn&#8217;t actually get the data off, but not an issue as I can grab it via the old Dell Gn PC. Said drive has bootable Debian Linux on it. It was on said Dell PC up until last week)
 
 Thus here we are at 11:53 am and I&#8217;m about to boot DDS_V2.  With 3 hard drives, 1 DVD drive and 2 fingers crossed.
+
+---
+
+> [!info] Original Published Date : *2005-03-17*

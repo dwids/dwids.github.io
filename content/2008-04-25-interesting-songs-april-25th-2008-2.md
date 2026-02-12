@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:03:22.000Z
 title: "Interesting Songs: April 25th 2008"
 draft: false
 slug: interesting-songs-april-25th-2008-2
-tags: ["ipod"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: "Interesting Songs: April 25th 2008"
@@ -21,3 +21,7 @@ Hard and heavy re-doing of this classic dance number. Play loud. [Clip at You Tu
 
 Out of Control (Chemical Brothers)
 Wow. First time I heard this, it just grabbed me.  The full, album version has a great instrumental break too. [You Tube clip](http://www.youtube.com/watch?v=eFNdAmvpaKs).
+
+---
+
+> [!info] Original Published Date : *2008-04-25*

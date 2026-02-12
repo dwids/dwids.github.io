@@ -25,3 +25,7 @@ I also attended two other very good sessions:
 - Professor Marcia Langton. Who is currently Chair of Australian Indigenous Studies at Melbourne Uni. I was a few rows from the front and as she was preparing to go on, Prof Langton kept looking at me. She finally said something like “I think I know you, have we met?”.&#160; I said I wasn’t sure. I did say I had seen her on TV :-)&#160;&#160;&#160; [The excellent SBS series The First Australians].&#160; We talked a bit at the end, but neither could work out if we had met.&#160; 
 
 Again as Prof Langton was preparing, a rather familiar looking lady was standing by the stage, waiting to introduce the speaker. All of a sudden the familiar lady turned to me and asked me how I was going.&#160; “Well”, said I, “and how are you, Mrs Kirner?”
+
+---
+
+> [!info] Original Published Date : *2009-05-02*

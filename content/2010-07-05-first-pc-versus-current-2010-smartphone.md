@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:02:19.000Z
 title: First PC versus current 2010 smartphone
 draft: false
 slug: first-pc-versus-current-2010-smartphone
-tags: ["Technology History"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: First PC versus current 2010 smartphone
@@ -24,3 +24,7 @@ Notes:
 - JX screen was physically bigger, of course. 
 
 This wasn’t my first **computer**, I deliberately said “first **PC**”.&#160;&#160; I can’t quite recall, but I think the first one I used regularly was a* Commodore 64*, but I don’t think it was mine; maybe one of the brothers’ (?)&#160;&#160; A bit later, I know I then paid for a *Commodore Amiga*.&#160;&#160; Pre-dating both of these, I’m sure someone had a [*Sinclair ZX-81*](http://en.wikipedia.org/wiki/ZX81) that I used to briefly tinker with, maybe a neighbour.
+
+---
+
+> [!info] Original Published Date : *2010-07-05*

@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:01:05.000Z
 title: Gold! My PC Invoice from 1994
 draft: false
 slug: gold-my-pc-invoice-from-1994
-tags: ["oldPC"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Gold! My PC Invoice from 1994
@@ -30,3 +30,7 @@ Here it is, with the original Amex slip still attached:
 So x1000 is $1,390 per GB
 
 and x1000 again for TB, thus $1,390,000
+
+---
+
+> [!info] Original Published Date : *2013-04-06*

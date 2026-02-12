@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:02:59.000Z
 title: Got a GPS (at last)
 draft: false
 slug: got-a-gps-at-last
-tags: ["GPS"]
+tags: ["navigation"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Got a GPS (at last)
@@ -22,3 +22,7 @@ Later on I&#8217;ll probably move to route planning. I also tried my first [Geoc
 I think part of the problem was moving the GPS from horizontal up to vertical and back. Moving it up to vertical makes the* GoTo/Compass* function (&#8220;walk THAT way&#8221;) obviously get confused.
 
 Anyway it&#8217;s a Garmin eTrex Vista HCx model, which I purchased [new from the USA](http://www.geomangear.com/index.php?main_page=product_info&amp;cPath=3&amp;products_id=32&amp;zenid=9bonpcg8tero0jon96hoqufbu3).  Even with the postage it was much cheaper than buying it here. And it took only 5 days to get here!
+
+---
+
+> [!info] Original Published Date : *2008-07-28*

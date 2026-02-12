@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:03:20.000Z
 title: Wiki on my mobile phone
 draft: false
 slug: wiki-on-my-mobile-phone
-tags: ["p3600i","wiki"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Wiki on my mobile phone
@@ -22,3 +22,7 @@ I use it for Lists (Books to Read or Buy, Movies to &#8230;, CDs to&#8230;,  Goo
 It&#8217;s very easy to create/edit/link pages. It is supplied with versions for the Phone and Windows Desktop PC. So you can create etc on either environment, then set up syncing, so as to ensure both devices have the same Wiki pages.
 
 Said Tech Buddy also pointed out that another of our Tech Buddies talked about a Wiki on his mobile. And sure enough, yep&#8230;it&#8217;s the same one.  How do I know? Well he&#8217;s thanked in the notes that come with the Wiki !
+
+---
+
+> [!info] Original Published Date : *2008-05-25*

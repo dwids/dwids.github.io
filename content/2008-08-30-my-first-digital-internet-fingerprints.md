@@ -4,10 +4,6 @@ lastmod: 2025-05-09T09:07:40.000Z
 title: My first digital Internet fingerprints
 draft: false
 slug: my-first-digital-internet-fingerprints
-tags:
-  - apana
-  - doom
-  - werple
 cover:
   image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
   alt: My first digital Internet fingerprints
@@ -41,3 +37,7 @@ Up until then I&#8217;d been using my dial up modem to access Bulletin Boards (B
 All these dates make sense now. I recall not being on the BBs that long before The Internet became available. The biggest thing I remember downloading was the (legal!) shareware version of a new game called *Doom*. It was released late 1993. From memory it was 3 diskettes worth, 4 to 5MB, I&#8217;m guessing. Nothing today. But when you are on a slow dial up link and there&#8217;s no error recovery (it has to start again if one little thing goes wrong), it took hours and was a tense time.  So much so I now remember deciding to **not** watch the *amount downloaded* value crawling upwards and left my tiny flat in Windsor to go shopping&#8230;
 
 I came back home to discover the whole lot had downloaded perfectly.
+
+---
+
+> [!info] Original Published Date : *2008-08-30*

@@ -16,3 +16,7 @@ This &#8220;two disc special edition&#8221; of what most critics regard as the B
 Dozens of books have been written about this masterpiece. This DVD does it justice. Two full length commentaries provide insightful and interesting listening. Alas Orson Welles died some years ago; his company on commentary track 3 would have been amazing.
 
 Disk Two has a two hour documentary &#8220;The Battle Over Citizen Kane.&#8221;  This details the clash between Welles and Hearst et al. Hearst, umm, wasn&#8217;t happy with the movie and tried everything to get it stopped.  Even this 1994 documentary was nominated for an Oscar!
+
+---
+
+> [!info] Original Published Date : *2004-01-24*

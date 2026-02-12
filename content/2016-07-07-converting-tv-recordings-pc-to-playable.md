@@ -36,3 +36,7 @@ It kept failing!  Turns out that there was a hiccup with filenames “That_have
 > set fileName=%fileName:&#8221;=%
 
 News to me.   But it worked.  All good now. One drag and drop and it’s done.
+
+---
+
+> [!info] Original Published Date : *2016-07-07*

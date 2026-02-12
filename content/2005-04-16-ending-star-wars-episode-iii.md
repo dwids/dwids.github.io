@@ -4,7 +4,7 @@ lastmod: 2024-11-21T22:17:07.000Z
 title: Ending Star Wars episode III
 draft: false
 slug: ending-star-wars-episode-iii
-tags: ["Movies"]
+tags: ["movies"]
 cover:
     image: https://images.unsplash.com/photo-1440404653325-ab127d49abc1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDd8fG1vdmllJTIwcmV2aWV3fGVufDB8fHx8MTczMTk5NjUzNXww&ixlib=rb-4.0.3&q=80&w=720
     alt: Ending Star Wars episode III
@@ -30,3 +30,7 @@ the above two events are about 20 years apart! In the second one, both Luke and 
 So what to do then. I think what Lucas could do is show the &#8220;Obi-Wan into the wilderness&#8221; closing, then fade to black. Viewers think that&#8217;s it.  He could then have the simple, white caption fade up &#8220;20 Years Later&#8221;. We see the smaller craft (above) coming TOWARDS us, filmed such that we can&#8217;t see what&#8217;s behind and above it.
 
 We cut to on-board. You can guess the rest. C-3PO and R2-D2 are arguing what to do next. We may or may not see Leia. C-3PO and R2-D2 move towards a certain corridor. Cut to outside their ship. The first shot is fired at it. Fade. Music. Credits.
+
+---
+
+> [!info] Original Published Date : *2005-04-16*

@@ -4,7 +4,7 @@ lastmod: 2024-11-22T05:59:50.000Z
 title: Williamstown Racecourse - 1950s images (migrant hostel)
 draft: false
 slug: williamstown-racecourse-1950s-images-migrant-hostel
-tags: ["williamstown racecourse"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Williamstown Racecourse - 1950s images (migrant hostel)
@@ -60,3 +60,7 @@ From Rob: &#8220;&#8230;&#8217;Canteen&#8217; misleading as business sold everyt
 - Tea/coffee &#8211; seats & tables provided indoors
 - biscuits, snack foods etc
 - cigarettes, cigars etc&#8221;
+
+---
+
+> [!info] Original Published Date : *2017-08-03*

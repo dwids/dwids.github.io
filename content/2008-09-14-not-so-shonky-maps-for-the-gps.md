@@ -4,7 +4,7 @@ lastmod: 2024-11-21T21:51:57.000Z
 title: Not so Shonky Maps for the GPS
 draft: false
 slug: not-so-shonky-maps-for-the-gps
-tags: ["GPS","Maps"]
+tags: ["navigation"]
 cover:
     image: https://media.istockphoto.com/id/474951754/photo/melbourne.webp?a=1&b=1&s=612x612&w=0&k=20&c=DC6xnkY6FCyaHEtHV41E1r4Sxsb3QQF5cmvs9Gdg10k=
     alt: Not so Shonky Maps for the GPS
@@ -26,3 +26,7 @@ That quote &#8211; and the maps themselves &#8211; are from the [Shonkymaps](htt
 Something went astray with my usage on the [recent Mt Macedon walk](__GHOST_URL__/2008/09/14/gps-working-very-well-for-bush-logging-err-bush-walk-logging/), the map layer(?) seemed to vanish, but I&#8217;ll look into that. I could have pushed the wrong button or clicked on the wrong menu. The waypoints and log/track were still visible. Strange.
 
 Anyway hats off to Shonky for a great job. The amount of detail is fantastic.
+
+---
+
+> [!info] Original Published Date : *2008-09-14*

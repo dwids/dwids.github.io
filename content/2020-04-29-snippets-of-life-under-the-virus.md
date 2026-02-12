@@ -63,3 +63,7 @@ Not sure why. Probably just filling up the days with other stuff.
 Hey, I&#8217;m not pining and none of this is morbid or expressing any form of loss nor longing. I&#8217;m in a good place; learning and relaxed. We are on the way out of this. 
 
 However, I&#8217;m NOT making plans for where I&#8217;ll go, or who I&#8217;ll see, on Day V+1.  I&#8217;m not even speculating on what date that might be. We&#8217;ve come this far to rush and stuff it up at the last hurdle, so I&#8217;m all for waiting to hear what the doctor&#8217;s say. 
+
+---
+
+> [!info] Original Published Date : *2020-04-29*

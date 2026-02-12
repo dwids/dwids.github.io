@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:03:00.000Z
 title: Write once, publish anywhere?
 draft: false
 slug: write-once-publish-anywhere
-tags: ["docbook","xml"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Write once, publish anywhere?
@@ -57,3 +57,7 @@ It&#8217;s not for the feint hearted, but I&#8217;m getting there. I&#8217;ve go
  
 
 Technorati Tags: [docbook](http://technorati.com/tags/docbook)
+
+---
+
+> [!info] Original Published Date : *2008-07-22*

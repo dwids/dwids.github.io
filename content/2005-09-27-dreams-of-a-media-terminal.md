@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:03:52.000Z
 title: Dreams of a Media Terminal
 draft: false
 slug: dreams-of-a-media-terminal
-tags: ["Technology"]
+tags: ["technology"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Dreams of a Media Terminal
@@ -28,3 +28,7 @@ I would use a remote to control the terminal. Setting up digital TV recordings a
 An open system on the terminal ensures easy addition of new codecs.
 
 There, I&#8217;ve designed it. Now someone please build it. Thanks.
+
+---
+
+> [!info] Original Published Date : *2005-09-27*

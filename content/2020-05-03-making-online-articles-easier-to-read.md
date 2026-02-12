@@ -4,7 +4,7 @@ lastmod: 2024-11-22T05:58:56.000Z
 title: Making Online Articles Easier To Read
 draft: false
 slug: making-online-articles-easier-to-read
-tags: ["Howto"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Making Online Articles Easier To Read
@@ -46,3 +46,7 @@ Something a bit different. This is the free eMagazine app that a lot of librarie
 The above is actually a screenshot. Small font, multi-column layout, white-on-black text.  Okay may not be that easy to read. So click on the *Text *icon at the bottom&#8230;and tada:
 ![](/images/wordpress/2021/02/img_0307.png)
 That&#8217;s better. Some images are there, but shrunk and moved to be less intrusive. You can easily click on the PDF icon at the bottom to return to the facsimile view.
+
+---
+
+> [!info] Original Published Date : *2020-05-03*

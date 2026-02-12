@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:03:00.000Z
 title: Copying BIG files to the mobile phone
 draft: false
 slug: copying-big-files-to-the-mobile-phone
-tags: ["p3600i"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Copying BIG files to the mobile phone
@@ -27,3 +27,7 @@ Within a few minutes I had:
 - Connected away
 
 Right now, as I type, it&#8217;s transferring happily. It even has a resume function, which was needed when the phone went into sleep mode after 2 minutes. Oops. Fixed that by temporarily telling it to not sleep.
+
+---
+
+> [!info] Original Published Date : *2008-07-01*

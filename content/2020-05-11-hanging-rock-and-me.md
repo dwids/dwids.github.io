@@ -71,3 +71,7 @@ D. Joan L&#8217;s problems with clocks……
 and E, the probability that her brother-in-law, Norman Lindsay, was gay..&#8221;
 
 He was true to his word and discussed this on an ABC RN Podcast in 2011. The ABC archives from back them seem to have links that go nowhere &#8211; i.e. get the *404 Not Found* &#8211;  so can&#8217;t find the audio.  Will email them to see if they have it.
+
+---
+
+> [!info] Original Published Date : *2020-05-11*

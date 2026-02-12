@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:03:22.000Z
 title: "Interesting Songs: April 2nd 2008"
 draft: false
 slug: interesting-songs-april-2nd-2008
-tags: ["songs"]
+tags: ["music"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: "Interesting Songs: April 2nd 2008"
@@ -28,3 +28,7 @@ description:
 "I Wish You Were Here" &#8211; Ed Kuepper (1993 AUS) Longing ballad from ex-guitarist of The Saints. [Amazon sample](http://www.amazon.com/gp/music/wma-pop-up/B000004A0E001014/ref=mu_sam_wma_001_014).
 
 "[Like a Rolling Stone](http://www.youtube.com/watch?v=hk3mAX5xdxo)" &#8211; Bob Dylan (1965 USA) How does it feeeeeel?
+
+---
+
+> [!info] Original Published Date : *2008-04-02*

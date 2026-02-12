@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:03:08.000Z
 title: TiVo PVR finally arrives, but the wise may hold fire on buying one.
 draft: false
 slug: tivo-pvr-finally-arrives-but-the-wise-may-hold-fire-on-buying-one
-tags: ["DigitalTV","TiVo"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: TiVo PVR finally arrives, but the wise may hold fire on buying one.
@@ -35,3 +35,7 @@ You know something has made it big when it becomes a verb or is mentioned in pop
 > Phoebe: It&#8217;s slang for pregnant.
 
 Quote from [IMDB](http://www.imdb.com/title/tt0583650/)
+
+---
+
+> [!info] Original Published Date : *2008-06-25*

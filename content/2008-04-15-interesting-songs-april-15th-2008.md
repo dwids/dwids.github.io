@@ -23,3 +23,7 @@ The recent repeat of ABC TV&#8217;s Love is in the Air documentary series, cover
 
 One (Johnny Farnham, 1970).  (can&#8217;t find a clip)
 Stuck in an 1969/72 timewarp with this bunch of songs. This was a slightly more down song from the King of Pop. It also reminds me a bit of The Real Thing with it&#8217;s swirling, rising/falling chord runs. Mmm. The second Russell Morris reference today.
+
+---
+
+> [!info] Original Published Date : *2008-04-15*

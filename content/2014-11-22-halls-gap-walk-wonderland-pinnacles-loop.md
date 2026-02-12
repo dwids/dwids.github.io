@@ -22,3 +22,7 @@ I&#8217;d forgot the beautiful Venus Baths which you see not long after leaving 
 As the writer says, do it the way they did (HG > Venus Baths etc > Wonderland Car Park > Grand Canyon etc > Pinnacle > back down the &#8216;front&#8217; of the mountain on the track to Halls Gap.)
 
 Pack a lunch and have a coffee at HG about 10am.  Lunch at the &#8216;top&#8217; (Pinnacle). Make sure you go a bit further and look at the old Nerve Test (not signed, but it [looks like this](https://www.youtube.com/watch?v=FMH4M1Q6K8M).  Back to the Pinnacle area and down the Halls Gap track. Should be back mid to late afternoon.  Have fun.
+
+---
+
+> [!info] Original Published Date : *2014-11-22*

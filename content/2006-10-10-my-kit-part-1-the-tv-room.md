@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:03:37.000Z
 title: "My Kit - Part 1 : The TV room"
 draft: false
 slug: my-kit-part-1-the-tv-room
-tags: ["Technology"]
+tags: ["technology"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: "My Kit - Part 1 : The TV room"
@@ -26,3 +26,7 @@ The LCD TV has a fair few inputs, one of which is a standard PC socket. I had pl
 Most stuff is shown (streamed) from the PC in the study over wired Ethernet. This PC also has the HD/SD USB2 digitial tv box, so recordings are made on the Study PC and streamed to the 2nd PC in the lounge room.  More on the Study PC in another post,
 
 The lounge PC also supports digital sound out, so it can send the Dolby 5.1 or DTS etc signal to the amp for conversion to surround sound. Happy to report it too works.
+
+---
+
+> [!info] Original Published Date : *2006-10-10*

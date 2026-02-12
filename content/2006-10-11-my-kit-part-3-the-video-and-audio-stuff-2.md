@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:03:36.000Z
 title: "My Kit - Part 3 : The Video and Audio stuff"
 draft: false
 slug: my-kit-part-3-the-video-and-audio-stuff-2
-tags: ["Technology"]
+tags: ["technology"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: "My Kit - Part 3 : The Video and Audio stuff"
@@ -32,3 +32,7 @@ For video conversion
 I use the wonderful [MeGUI ](http://www.videohelp.com/tools?tool=MeGUI)to convert my videos. Bit of a learning curve, but well worth it. Great stuff, developed and supported by a smart bunch. I convert to X.264 (an open version of H.264; the leading-edge video conversion scheme )
 
 If it&#8217;s a TV recording &#8211; from the Nebula box &#8211; I will first pass it through [VideoReDo Plus](http://www.hyperreality.com.au/hyper.php?section=products&amp;category=video_editing). This frame-accurate MPEG editor let&#8217;s me remove the &#8216;junk&#8217; before and after the main show as well as get rid of the ads. I don&#8217;t record (keep) that many commercial TV shows, so don&#8217;t use the ad-removal that much.
+
+---
+
+> [!info] Original Published Date : *2006-10-11*

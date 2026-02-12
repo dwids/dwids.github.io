@@ -4,7 +4,7 @@ lastmod: 2024-11-21T22:17:08.000Z
 title: Great Movie Giggle Moments
 draft: false
 slug: great-movie-giggle-moments
-tags: ["Movies"]
+tags: ["movies"]
 cover:
     image: https://images.unsplash.com/photo-1440404653325-ab127d49abc1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDd8fG1vdmllJTIwcmV2aWV3fGVufDB8fHx8MTczMTk5NjUzNXww&ixlib=rb-4.0.3&q=80&w=720
     alt: Great Movie Giggle Moments
@@ -20,3 +20,7 @@ GMGM #2. Not long after. Probably 1980. Mad Max is still showing at the cinema i
 Anyway, another tense scene is upon us. Jim Goose is about to be told the bad news that there&#8217;s no case against the rogue cycle gang. The music swells, Max enters, all ready to tell Jimbo that all their work was for nothing&#8230;.
 
 There, walking with Max is the actor Gil Tucker; he&#8217;s playing a legal clerk of some type. For years Gil had played Constable Roy Baker on the TV show Cop Shop. The very straight, dorky, daggy Roy Baker.  Again, the cinema rings with giggles and muffled smirks..
+
+---
+
+> [!info] Original Published Date : *2004-05-17*

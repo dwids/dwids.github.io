@@ -4,7 +4,7 @@ lastmod: 2024-10-18T09:48:49.000Z
 title: ePub Sources
 draft: false
 slug: epub-sources
-tags: ["eBooks"]
+tags: ["general"]
 cover:
     image: /images/2024/10/epub.png
     alt: ePub Sources
@@ -42,3 +42,7 @@ description:
 ### Internet Archive
 
 Can be hit and miss and they seem to be OCR only (not manually cleaned up, like the above)
+
+---
+
+> [!info] Original Published Date : *2024-10-18*

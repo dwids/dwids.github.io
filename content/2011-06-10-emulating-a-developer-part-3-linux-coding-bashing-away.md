@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:01:17.000Z
 title: "Emulating a Developer: Part 3 – Linux coding ('bashing away')"
 draft: false
 slug: emulating-a-developer-part-3-linux-coding-bashing-away
-tags: ["coding"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: "Emulating a Developer: Part 3 – Linux coding ('bashing away')"
@@ -61,3 +61,7 @@ PS: Things I want to add in Version 2:
 
 - Pass the file or folder names per se and have the program use them to work out the rar part size 
 - Then add the provided file/folder name to the (end of the) rar command 
+
+---
+
+> [!info] Original Published Date : *2011-06-10*

@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:00:17.000Z
 title: Doongalla Walk - Bills Track
 draft: false
 slug: doongalla-walk-bills-track
-tags: ["Doongalla"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Doongalla Walk - Bills Track
@@ -66,3 +66,7 @@ Near the lower (Doongalla Stables) area. Welcome guest on the lovely Stables Tra
 It’s a climb back up, but with views like this you hardly notice:
 
 [![DavidS_20141109_134229](/images/wordpress/2021/02/17128890536_ced3fa6cc6_z.jpg)](https://www.flickr.com/photos/129464096@N05/17128890536)
+
+---
+
+> [!info] Original Published Date : *2015-04-15*

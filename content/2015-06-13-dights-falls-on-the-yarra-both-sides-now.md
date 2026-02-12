@@ -42,3 +42,7 @@ I plan to merge these into a single walk with my little side trips and flubs rem
 [![Screenshot_20150613_163022](/images/wordpress/2021/02/f2132-screenshot_20150613_163022_thumb1.png)](https://dwids.wordpress.com2020/03/781fe-screenshot_20150613_1630221.png)
 
 **Click to make bigger!**
+
+---
+
+> [!info] Original Published Date : *2015-06-13*

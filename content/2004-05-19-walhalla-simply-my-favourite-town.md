@@ -34,3 +34,7 @@ Things to do:
 Directions:  Follow the Princes Freeway south-east out of Melbourne. Pass Warragul and take the Moe exit. Follow the signs north to Walhalla.  Roads are all asphalt &#8211; for all of the above &#8211; but they become gravel past (north) of Walhalla. 4WD strongly suggested for this section.
 
 Read up a bit first if you can before heading there. Will make it more rewarding. The [Walhalla Heritage and Development League](http://www.walhalla.org.au) would be a great place to start. Also my very own [contribution ](http://en.wikipedia.org/wiki/Victorian_gold_rush) to the excellent Wiki Internet Encylopedia  may be of value.
+
+---
+
+> [!info] Original Published Date : *2004-05-19*

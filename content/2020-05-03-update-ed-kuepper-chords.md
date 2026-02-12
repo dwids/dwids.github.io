@@ -4,7 +4,7 @@ lastmod: 2024-11-22T05:58:58.000Z
 title: "Update: Ed Kuepper Chords"
 draft: false
 slug: update-ed-kuepper-chords
-tags: ["chords"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: "Update: Ed Kuepper Chords"
@@ -38,3 +38,7 @@ It&#8217;s very probably John would have no idea what an &#8220;A-Seventh Flatte
 He may have just held his fingers that way on the guitar&#8217;s neck to give him that sound. The one that occurs [about 1 minute in](https://youtu.be/vdvnOH060Qg?t=58).
 
  
+
+---
+
+> [!info] Original Published Date : *2020-05-03*

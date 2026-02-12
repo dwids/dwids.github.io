@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:04:26.000Z
 title: Daylesford by Sea
 draft: false
 slug: daylesford-by-sea
-tags: ["Culture","Entertainment"]
+tags: ["entertainment"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Daylesford by Sea
@@ -22,3 +22,7 @@ It had some quite amazing errors in it. I should point out that it&#8217;s not a
 - Finally the great and historic town of Maldon is covered. Fair enough too, real history preserved. So why on earth do they show stock footage of the main street of Sovereign Hill?  Including the gravel roads (which the main streets of Maldon do not have), people in 1850&#8217;s costumes and the recreated Cobb and Co thundering past. Oh dear.
 
 You know what, I was reminded of the very funny &#8211; but SATIRICAL &#8211; [Russell Coight. Except this time it was for real.](http://www.bigcoight.com/)
+
+---
+
+> [!info] Original Published Date : *2004-10-01*

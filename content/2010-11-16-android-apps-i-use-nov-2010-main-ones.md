@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:02:19.000Z
 title: Android Apps I Use (Nov 2010) - Main Ones
 draft: false
 slug: android-apps-i-use-nov-2010-main-ones
-tags: ["android"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Android Apps I Use (Nov 2010) - Main Ones
@@ -58,3 +58,7 @@ Other keys ones:
 &#160;
 
 That’s it for now. App Brain tells me I have 81 apps installed, some are services and extras so I don’t actually ‘see’ them.&#160; With Android 2.2 – aka Froyo – I have a number that have installed themselves to the SD Card, which increases the total number that can be installed compared to 2.1 (which only used the limited ‘internal’ memory for apps).
+
+---
+
+> [!info] Original Published Date : *2010-11-16*

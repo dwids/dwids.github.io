@@ -4,7 +4,7 @@ lastmod: 2024-11-22T05:59:39.000Z
 title: eBooks 01 - The Main Types
 draft: false
 slug: ebooks-01-the-main-types
-tags: ["eBooks"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: eBooks 01 - The Main Types
@@ -61,3 +61,7 @@ These are &#8216;closed, one-stop&#8217; app systems; you log in, find the book 
 In the background, *cloudLibrary *uses ePub books, with DRM. Not sure about the other systems.
 
 Some library apps also support eAudiobooks and eMagazines. But that&#8217;s for another day&#8230;
+
+---
+
+> [!info] Original Published Date : *2020-03-30*

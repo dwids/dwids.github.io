@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:04:12.000Z
 title: DDS Trio of Woes
 draft: false
 slug: dds-trio-of-woes
-tags: ["Technology"]
+tags: ["technology"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: DDS Trio of Woes
@@ -43,3 +43,7 @@ I spent the rest of the day trying everything I know, plus some. But she won&#82
 It decided to not talk to the LAN and/or Internet. Or talk to it very slowly or intermittently and with heaps of packet-errors. The Ethernet card seems to be either a cheapie or non-standard; it needed a download of a kernel module to (half) work. Mmm.
 
 So from being happy about DDS I&#8217;m now in sad land. Lots of thinking to do.
+
+---
+
+> [!info] Original Published Date : *2005-03-16*

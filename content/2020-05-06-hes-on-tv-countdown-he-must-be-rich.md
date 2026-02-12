@@ -4,7 +4,7 @@ lastmod: 2024-11-21T22:44:37.000Z
 title: He's on TV (Countdown) - he must be rich
 draft: false
 slug: hes-on-tv-countdown-he-must-be-rich
-tags: ["artist"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1682745684850-7229f196b0c9?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bXVzaWNpYW5zfGVufDB8fDB8fHww
     alt: He's on TV (Countdown) - he must be rich
@@ -80,3 +80,7 @@ Stevie&#8217;s sad, slow decline is [well documented](https://en.wikipedia.org/w
  
 
  
+
+---
+
+> [!info] Original Published Date : *2020-05-06*

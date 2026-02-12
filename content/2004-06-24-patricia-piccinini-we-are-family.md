@@ -28,3 +28,7 @@ Up against the left hand side wall are two young boys. They are sharing a hand-h
 There are other pieces, including a display of motorbike helmets for &#8216;alien&#8217; (or very distorted human) heads and a strangely compelling video piece.
 
 It&#8217;s at the Bendigo Art Gallery for a few more days. PP has a sample of [We Are Family](http://www.patriciapiccinini.net/wearefamily/index.php) on her website.
+
+---
+
+> [!info] Original Published Date : *2004-06-24*

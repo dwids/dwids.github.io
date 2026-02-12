@@ -22,3 +22,7 @@ It&#8217;s on Netflix and has come from nowhere to be the &#8216;you gotta see t
 Trailer below. NSFW language. 
 
 I&#8217;m off to watch Episode 2 later today. Apparently, I ain&#8217;t seen nuffink yet&#8230;.
+
+---
+
+> [!info] Original Published Date : *2020-03-29*

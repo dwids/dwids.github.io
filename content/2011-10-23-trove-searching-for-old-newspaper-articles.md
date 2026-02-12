@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:01:15.000Z
 title: Trove – searching for old newspaper articles
 draft: false
 slug: trove-searching-for-old-newspaper-articles
-tags: ["Trove"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Trove – searching for old newspaper articles
@@ -56,3 +56,7 @@ Notes:
 - If you scroll down the scanned image, your (found) search text has a feint yellow/orange line under it, highlighting it. 
 - There are options – top LHS – to Print the scanned document..or save as PDF, JPG image etc. Or buy it. You should read up on how you can legally use these scanned articles. 
 - If you look carefully you’ll see the search for *25 Albert* returned a reference to “..£25 Albert Edward …”.&#160; It literally did as it was asked. I didn’t put *street* or *st* in the search as that seems to limit it. 
+
+---
+
+> [!info] Original Published Date : *2011-10-23*

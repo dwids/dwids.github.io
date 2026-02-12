@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:33:49.000Z
 title: Moved every bit of laptop's disk to a much bigger disk
 draft: false
 slug: moved-every-bit-of-laptops-disk-to-a-much-bigger-disk
-tags: ["Linux"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Moved every bit of laptop's disk to a much bigger disk
@@ -71,3 +71,7 @@ I may have been able to **directly** copy the data from the old drive to the new
 All in all, very happy indeed. Not something for the feint hearted, but I reckon it saved me hours, if not days of work.
 
 Technorati Tags: [sfdisk](http://technorati.com/tags/sfdisk),[Knoppix](http://technorati.com/tags/Knoppix),[ntfsclone xp clone](http://technorati.com/tags/ntfsclone%20xp%20clone)
+
+---
+
+> [!info] Original Published Date : *2008-07-16*

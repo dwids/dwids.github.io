@@ -4,7 +4,7 @@ lastmod: 2024-11-22T05:59:25.000Z
 title: Golden Miles - Bulk import of 30+ old music Blog posts
 draft: false
 slug: golden-miles-bulk-import-of-30-old-music-blog-posts
-tags: ["songs"]
+tags: ["music"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Golden Miles - Bulk import of 30+ old music Blog posts
@@ -46,3 +46,7 @@ I was quickly able to use a Regular Expression in RegexBuddy to convert that Pos
 ![](/images/wordpress/2021/02/1_image-11.png)Find > Replace > Input Text > Output Text
 
 And then I found it was the only old Post that had this strange old format 🙂
+
+---
+
+> [!info] Original Published Date : *2020-04-16*

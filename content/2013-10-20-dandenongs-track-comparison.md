@@ -4,7 +4,7 @@ lastmod: 2023-07-02T09:06:06.000Z
 title: Dandenongs Track Comparison
 draft: false
 slug: dandenongs-track-comparison
-tags: ["bushwalks","dandenongs"]
+tags: ["bushwalks"]
 cover:
     image: /images/wordpress/2021/02/d6328-dandenongs-walks_thumb.png
     alt: Dandenongs Track Comparison
@@ -42,3 +42,7 @@ Here they are on the one Google Earth screen. Closest = 1000 Steps (red), then B
 Whilst *Height Gain* is unambiguous, I’m not so sure about *Length*.  Too much to go into here#, but I think the discrepancy is (hopefully) small and so my Length and Gradient values are about right.
 
 # Can’t resist wondering? Well: Look at the 1000 Steps blue-triangle above. I think the GPS is saying the total length of the “1000 Steps” blue line should be the 1900m. I’ve plotted the ‘wrong’ value (1900m) In fact you’d need to do some high school trig to work out the ‘correct’ value to graph, being the actual length of the ‘opposite’ side of that blue line, viz. the X (horizontal) axis component of the triangle. Your ‘adjacent’ (316 m) would help with the maths. As I said, the different should hopefully be small.
+
+---
+
+> [!info] Original Published Date : *2013-10-20*

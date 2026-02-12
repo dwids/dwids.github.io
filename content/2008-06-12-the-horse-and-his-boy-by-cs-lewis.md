@@ -4,7 +4,7 @@ lastmod: 2024-11-21T21:30:36.000Z
 title: The Horse and His Boy (by C.S. Lewis)
 draft: false
 slug: the-horse-and-his-boy-by-cs-lewis
-tags: ["books","Movies"]
+tags: ["movies"]
 cover:
     image: https://images.unsplash.com/photo-1505063366573-38928ae5567e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDh8fGJvb2tzfGVufDB8fHx8MTczMjE3MzU1NHww&ixlib=rb-4.0.3&q=80&w=720
     alt: The Horse and His Boy (by C.S. Lewis)
@@ -20,3 +20,7 @@ The one saving grace is I hear the next book in reading order &#8211;The Voyage 
 Overall: nope! 
 
 <img src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1703358949i/84119.jpg" width="300">
+
+---
+
+> [!info] Original Published Date : *2008-06-12*

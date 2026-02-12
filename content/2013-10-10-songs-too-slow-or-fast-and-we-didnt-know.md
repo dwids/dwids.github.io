@@ -4,7 +4,7 @@ lastmod: 2025-01-21T21:53:31.000Z
 title: Songs too slow or fast and we didn’t know
 draft: false
 slug: songs-too-slow-or-fast-and-we-didnt-know
-tags: ["goldenmiles"]
+tags: ["music"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Songs too slow or fast and we didn’t know
@@ -32,3 +32,7 @@ Now the slightly sped up one:
 This is something worth having a look at. I’m sure there are other examples and I’ll have a look later.
 
 #### Read next
+
+---
+
+> [!info] Original Published Date : *2013-10-10*

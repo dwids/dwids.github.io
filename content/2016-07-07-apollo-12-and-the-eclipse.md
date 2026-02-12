@@ -24,3 +24,7 @@ They grabbed the movie camera and shot some footage, but it seems to have been b
 Here&#8217;s a frame from the movie footage. It looks like you can see some of the colours in the atmosphere.![](/images/wordpress/2021/02/earthtomoon11-1017x1024.jpg)
 
 This was the first time any human had seen this. And the last. No other Apollo came back via this trajectory and we haven&#8217;t been that far out since.
+
+---
+
+> [!info] Original Published Date : *2016-07-07*

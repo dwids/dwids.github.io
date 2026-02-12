@@ -22,3 +22,7 @@ If you glance at it, two things jump out at you:
 2. The word **Snow **. Besides* Full Details*.  Sunny then Snow? Unfortunate layout as it&#8217;s actually *Snow Report*, with the 2nd word on the next line&#8230;
 
 I&#8217;ve actually reported the first one to them already and they thanked me.  Only spotted the second one today.
+
+---
+
+> [!info] Original Published Date : *2011-09-02*

@@ -4,7 +4,7 @@ lastmod: 2024-10-18T23:26:18.000Z
 title: "Music: Oklahoma! (The film)"
 draft: false
 slug: oklahoma-the-film
-tags: ["songs"]
+tags: ["music"]
 cover:
     image: /images/2024/10/Oklahoma-_-1956_film_poster-.jpg
     alt: "Music: Oklahoma! (The film)"
@@ -51,3 +51,7 @@ And back to where it started for me:
 ### Oklahoma!
 
 Start strong and end even stronger.
+
+---
+
+> [!info] Original Published Date : *2020-06-07*

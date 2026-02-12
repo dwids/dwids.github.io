@@ -4,7 +4,7 @@ lastmod: 2024-11-21T22:14:54.000Z
 title: StarStuff podcast is back!
 draft: false
 slug: starstuff-podcast-is-back
-tags: ["podcasts"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1664195074951-fe91ec456eed?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cG9kY2FzdHxlbnwwfHwwfHx8MA%3D%3D
     alt: StarStuff podcast is back!
@@ -18,3 +18,7 @@ I&#8217;ll go back and add it back in to my [list of Podcasts](__GHOST_URL__/200
 It was originally a radio show, which (sadly) does not appear to be returning. You can find out more about this [side of things](http://www.gopetition.com.au/petitions/save-abc-news-radio-starstuff-program.html) too.
 
 Technorati Tags: [StarStuff](http://technorati.com/tags/StarStuff)
+
+---
+
+> [!info] Original Published Date : *2008-07-29*

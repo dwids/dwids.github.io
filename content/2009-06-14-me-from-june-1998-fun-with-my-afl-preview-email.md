@@ -89,3 +89,7 @@ Found this lost gem on my hard drive this afternoon.&#160; You see back in 1998 
 > &#8212; 
 > 
 > ## A few years ago,&#160; Tony "Plugger" Lockett was playing for the Swans in a match where a Sydney (rugby) radio station, to their credit, was calling their first AFL game. As the ball was kicked forward by Rooooos, the caller noticed Lockett running towards the ball and witnessed him take a great mark. The caller paused and let fly with the magnificent cry of&#160; "Plunger!!!"
+
+---
+
+> [!info] Original Published Date : *2009-06-14*

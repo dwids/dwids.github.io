@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:44:54.000Z
 title: Fear and Donuts
 draft: false
 slug: fear-and-donuts
-tags: ["Creative"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1681488007344-c75b0cf8b0cd?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y3JlYXRpdmV8ZW58MHx8MHx8fDA%3D
     alt: Fear and Donuts
@@ -20,3 +20,7 @@ All of a sudden the whole carriage looks up when the Dad roars at Sarah. In terr
 After rounding on the Father with another minute or so of fks and donuts, she turns back to Sarah, who is now nearly hysterical with shock and fear. Does Mum comfort the terrified girl? Does she dry her tears and hold her?
 
 No. She shakes her, like a rag doll and yells at her to shut up.
+
+---
+
+> [!info] Original Published Date : *2004-06-07*

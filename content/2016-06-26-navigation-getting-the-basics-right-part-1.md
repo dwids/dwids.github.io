@@ -4,7 +4,7 @@ lastmod: 2025-01-21T21:24:40.000Z
 title: Navigation – Getting the basics right (Part 1)
 draft: false
 slug: navigation-getting-the-basics-right-part-1
-tags: ["GPS","navigation"]
+tags: ["navigation","navigation"]
 cover:
     image: https://images.unsplash.com/photo-1516503424803-708327384b90?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDN8fGNvbXBhc3N8ZW58MHx8fHwxNzMyMjI2NDM4fDA&ixlib=rb-4.0.3&q=80&w=2000
     alt: Navigation – Getting the basics right (Part 1)
@@ -28,3 +28,7 @@ A datum is “a system which allows the location of latitudes and longitudes (an
 There are different ways mathematically of doing this, so lots of different datums. I discovered that my map had an old Australian one (**AGD66**) but the GPS was set up to use the new Australian one; **GDA94**
 
 The difference is about 200 metres to the north-east. Which was exactly what I saw. I’ve never been tripped up like this again. In fact Google Earth uses an international datum virtually identical to GDA94, so that makes things nice and consistent. As I said earlier, this is sort of related to what happened today, as covered in [Part 2](__GHOST_URL__/2016/06/26/navigation-getting-the-basics-right-part-2/).
+
+---
+
+> [!info] Original Published Date : *2016-06-26*

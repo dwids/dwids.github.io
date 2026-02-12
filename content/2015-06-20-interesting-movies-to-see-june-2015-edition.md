@@ -30,3 +30,7 @@ This 2008 Swedish film is chilling and yet moving. It’s a tale of a young vamp
 ## 2001: A Space Odyssey
 
 My favourite film of all time. It took about 3 years to make this sci-fi masterpiece; from 1965 to 1968. When you watch it today just remember there were no computer special effects – everything was done with models and effectively by hand. It unfolds over 3 acts. My terms for these are The Dawn Of Man(kind), A Journey into Space and A Journey Beyond Space.  It’s deep and open to interpretation. The creators have never said exactly what “it’s about”. But don’t let that put you off.  Again when watching it don’t forget we hadn’t landed on the Moon yet and computers – in 1968 – were slow things we talked to using glorified typewriters.   [IBM info](http://www.imdb.com/title/tt0062622/)
+
+---
+
+> [!info] Original Published Date : *2015-06-20*

@@ -4,7 +4,7 @@ lastmod: 2024-10-18T23:51:42.000Z
 title: Song hiccups?
 draft: false
 slug: song-hiccups
-tags: ["songs"]
+tags: ["music"]
 cover:
     image: /images/2024/10/78-784735_question-mark-pic-question-mark-music-symbol-2972412459.jpg
     alt: Song hiccups?
@@ -33,7 +33,7 @@ It’s the bass guitar just as Davey does the final ‘cheer up’. The bass has
 
 Sacrilege!  Yes, it’s one of my all-time favourites too, but I just can’t help it. About 1:34 in (below), just as she’s singing “oh no, no…” the instrumental lead break (solo) kicks in, but it seems to be a ‘drop-in’ edit and you can hear the (fading) final note of the *previous* bar or note of the solo, just before the ‘real’ one starts.
 
-Seems like they missed this on the edit, but it was the days of cutting tapes by hand and manually fading dials and slider. #forgiven
+Seems like they missed this on the edit, but it was the days of cutting tapes by hand and manually fading dials and slider. 
 
 ## Louie Louie – The Kingsmen
 
@@ -44,3 +44,7 @@ Note: this is NOT live. It’s the original sound recording playing over a later
 ## And, to finish, one I can sort of hear
 
 Actually not really…
+
+---
+
+> [!info] Original Published Date : *2020-05-17*

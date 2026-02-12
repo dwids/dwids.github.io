@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:01:03.000Z
 title: Opening chord to a Hard Days Night
 draft: false
 slug: opening-chord-to-a-hard-days-night
-tags: ["goldenmiles"]
+tags: ["music"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Opening chord to a Hard Days Night
@@ -21,3 +21,7 @@ Listen to the magic sound, right near the end, when they play all 3 at once. Wha
 https://youtu.be/gwfH9oAiPH0
 
 I&#8217;m also sure I read that George H says he repeats his opening F (+G +G +C) chord at the end, but plays each note; arpeggio style.
+
+---
+
+> [!info] Original Published Date : *2013-08-28*

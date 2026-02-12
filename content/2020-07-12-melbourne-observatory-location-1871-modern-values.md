@@ -4,7 +4,7 @@ lastmod: 2024-11-21T21:51:58.000Z
 title: Melbourne Observatory Location (1871 and modern values)
 draft: false
 slug: melbourne-observatory-location-1871-modern-values
-tags: ["Maps","Maths","navigation"]
+tags: ["maths","navigation"]
 cover:
     image: https://media.istockphoto.com/id/474951754/photo/melbourne.webp?a=1&b=1&s=612x612&w=0&k=20&c=DC6xnkY6FCyaHEtHV41E1r4Sxsb3QQF5cmvs9Gdg10k=
     alt: Melbourne Observatory Location (1871 and modern values)
@@ -51,3 +51,7 @@ Accessed 12 July 2020
 [2] MELBOURNE OBSERVATORY. (1871, August 28). *The Argus (Melbourne, Vic. : 1848 &#8211; 1957)*, p. 4. Retrieved July 12, 2020, from http://nla.gov.au/nla.news-article5854093
 
 [3] &#8220;THE LONGITUDE OF MELB0URNE.&#8221; The Age (Melbourne, Vic. : 1854 &#8211; 1954) 29 August 1872: 3. Web. 12 Jul 2020 <http://nla.gov.au/nla.news-article199373876>.
+
+---
+
+> [!info] Original Published Date : *2020-07-12*

@@ -4,7 +4,7 @@ lastmod: 2024-11-22T05:51:56.000Z
 title: "Grampians: Hollow Mountain has me in stitches"
 draft: false
 slug: grampians-hollow-mountain-has-me-in-stitches
-tags: ["bushwalks","grampians"]
+tags: ["bushwalks"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: "Grampians: Hollow Mountain has me in stitches"
@@ -42,3 +42,7 @@ No pain, slept okay. Didn’t touch pain-killers.  However doctor had said no m
 
 Stitches out in a week.   And I still haven’t got to Briggs Bluff.
 **Update**:  a very warm Saturday 7th November.  I finally got to have a shower today.  And see my first ever stitches (sutures, they called them)  Please send congratulatory cards and telegrams  to me c/- &#8230;.
+
+---
+
+> [!info] Original Published Date : *2009-11-06*

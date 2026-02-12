@@ -27,3 +27,7 @@ Quick summary of Internet fan theories. No spoilers coz most of this is not in t
 The trailer for this season has hints of a young Ned Stark going into battle. Probably a flashback when he tried to rescue his sister, who was actually engaged to Robert Baratheon!  This started the recent war….
 
 R + L = J  is the meme for Jon Snow’s parents.
+
+---
+
+> [!info] Original Published Date : *2016-04-22*

@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:02:38.000Z
 title: "Mt Dandenong: Kyeema to Doongalla"
 draft: false
 slug: mt-dandenong-kyeema-to-doongalla
-tags: ["bushwalks","dandenongs"]
+tags: ["bushwalks"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: "Mt Dandenong: Kyeema to Doongalla"
@@ -40,3 +40,7 @@ To get back to the car you have at least 3 fun options:
 3. *Bit of a climb, but worth it*:&#160; start the same as 2. but at end of Bills Track, turn *left* along Camelia Track –> *right *into Rankin Track (66-C2). Rankin Tk is a bit of a climb. But not too bad. It stops at Dalcite Track, turn right into Dalcite Tk and soon you are back at the T-intersection, with the sign pointing to Zig-Zag Track. Up Zig-Zag tk and retrace your original descent.&#160; 
 
 Car to Doongalla should be under an hour, with photo-stops.&#160; Bit longer to return as it’s up hill.
+
+---
+
+> [!info] Original Published Date : *2010-03-30*

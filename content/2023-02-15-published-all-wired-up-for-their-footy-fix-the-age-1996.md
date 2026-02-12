@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:42:55.000Z
 title: Published! All wired up for their footy fix [The Age, 1996]
 draft: false
 slug: published-all-wired-up-for-their-footy-fix-the-age-1996
-tags: ["Freelance"]
+tags: ["freelance"]
 cover:
     image: https://images.unsplash.com/photo-1585621243952-f68eae991dd6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDd8fG5ld3NwYXBlcnxlbnwwfHx8fDE3MzIyMDc3MzN8MA&ixlib=rb-4.0.3&q=80&w=720
     alt: Published! All wired up for their footy fix [The Age, 1996]
@@ -46,3 +46,7 @@ There, stuck to the inside of an Uzi and staring out over the Holy Land is the f
 ** Not his real name*
 
 ![](/images/wordpress/2023/02/ss.20230215_121939-263x300.png)
+
+---
+
+> [!info] Original Published Date : *2023-02-15*

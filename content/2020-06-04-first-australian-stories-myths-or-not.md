@@ -4,7 +4,7 @@ lastmod: 2024-11-19T06:08:16.000Z
 title: First Australian stories - myths or not?
 draft: false
 slug: first-australian-stories-myths-or-not
-tags: ["first australians"]
+tags: ["general"]
 cover:
     image: https://images.unsplash.com/photo-1717847377668-044febfe53e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDQzfHxhYm9yaWdpbmFsc3xlbnwwfHx8fDE3MzE5OTY0Nzl8MA&ixlib=rb-4.0.3&q=80&w=2000
     alt: First Australian stories - myths or not?
@@ -35,3 +35,7 @@ One of favourite drives is up in the Snowies; from the lovely, remote town of Co
 
 Well he&#8217;s not a he, he&#8217;s a spider. It&#8217;s a First Australian term; *Tomarogin *meaning *water spider.*
 ![](/images/wordpress/2021/02/image-1.png)
+
+---
+
+> [!info] Original Published Date : *2020-06-04*

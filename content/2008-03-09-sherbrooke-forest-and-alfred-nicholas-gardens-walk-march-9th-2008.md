@@ -20,3 +20,7 @@ We basically left the car at Grants Picnic Area and did the walk (Clematis Track
 So we followed the signs to the most beautiful Gardens. Built into the steep hills, they have a lovely, cool and green theme. Lakes and water features just add to the serenity.
 
 Then we made our way back, pretty much the way we had come.  I myself used Google Maps to create a map of our route and [here it is](http://tinyurl.com/397zg2).
+
+---
+
+> [!info] Original Published Date : *2008-03-09*

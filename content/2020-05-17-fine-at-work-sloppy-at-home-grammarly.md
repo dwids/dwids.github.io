@@ -4,7 +4,7 @@ lastmod: 2024-11-22T05:58:55.000Z
 title: Fine at Work, Sloppy at Home - Grammarly?
 draft: false
 slug: fine-at-work-sloppy-at-home-grammarly
-tags: ["blogging"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Fine at Work, Sloppy at Home - Grammarly?
@@ -19,3 +19,7 @@ It&#8217;s pretty good at spotting obvious errors. And giving me valuable feedba
 ![ss.20200517.121955](/images/wordpress/2021/02/ss.20200517.121955.jpg)
 
  
+
+---
+
+> [!info] Original Published Date : *2020-05-17*

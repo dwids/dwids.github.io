@@ -4,7 +4,7 @@ lastmod: 2024-11-21T22:17:09.000Z
 title: You know that 4 MP camera? It's only 25 times too small for Reality per se
 draft: false
 slug: you-know-that-4-mp-camera-its-only-25-times-too-small-for-reality-per-se
-tags: ["Movies","Photography","Technology"]
+tags: ["movies","technology"]
 cover:
     image: https://images.unsplash.com/photo-1440404653325-ab127d49abc1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDd8fG1vdmllJTIwcmV2aWV3fGVufDB8fHx8MTczMTk5NjUzNXww&ixlib=rb-4.0.3&q=80&w=720
     alt: You know that 4 MP camera? It's only 25 times too small for Reality per se
@@ -49,3 +49,7 @@ January 2016:  1024
 `
 
 So there you go, in 10 to 12 years from now, consumer cameras should capture &#8216;real&#8217; images, that are literally the 100 MP that your eye sees. I&#8217;m tipping that Digital Imax will here a lot quicker than 10 years too.
+
+---
+
+> [!info] Original Published Date : *2004-05-14*

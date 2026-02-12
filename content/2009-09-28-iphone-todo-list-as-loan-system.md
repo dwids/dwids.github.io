@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:02:38.000Z
 title: iPhone ToDo list as Loan system
 draft: false
 slug: iphone-todo-list-as-loan-system
-tags: ["iphone","ipod"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: iPhone ToDo list as Loan system
@@ -22,3 +22,7 @@ The very flexible [Ultimate ToDo](http://www.mmdesoft.com/ut/) program I have al
 Basically I just have a new grouping (“**Context**”) called *Loans Outbound*. And a few new **Tags **like *DVD, Book* etc. Then I add the ToDo item with the persons Name (“**Reference Contact**”) and Date borrowed (as text in the “**Note**” value, only for reference…I guess you could use the Due Date if you wanted to),&#160; plus the Context and Tag.&#160; And all done.
 
 Both the iPhone app and the Toodledo then let me quickly look at my *Loans Outbound* view. Smart stuff.&#160;&#160; 
+
+---
+
+> [!info] Original Published Date : *2009-09-28*

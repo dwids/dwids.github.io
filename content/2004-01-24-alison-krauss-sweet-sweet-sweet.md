@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:04:39.000Z
 title: Alison Krauss - sweet, sweet, sweet
 draft: false
 slug: alison-krauss-sweet-sweet-sweet
-tags: ["songs"]
+tags: ["music"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Alison Krauss - sweet, sweet, sweet
@@ -20,3 +20,7 @@ The same compilation CD also had the Stanley Brothers. A bit more searching foun
 Alison plays the fiddle and viola, to cap off a great mix of talent and emotion. Well worth tracking down.
 
 note: a bit hard to buy Alison Krauss CDs in Melbourne.  Gaslight Records have a few, JB HiFi also have some.
+
+---
+
+> [!info] Original Published Date : *2004-01-24*

@@ -4,7 +4,7 @@ lastmod: 2024-11-26T23:09:47.000Z
 title: "Mark Gillespie: Songs"
 draft: false
 slug: mark-gillespie-songs
-tags: ["songs"]
+tags: ["music"]
 cover:
     image: /images/2024/10/lp_piring_hitam_mark_gillespie_1660444899_cd2ee05c-3343106980.jpg
     alt: "Mark Gillespie: Songs"
@@ -60,3 +60,7 @@ As usual his lyrics are superb; here’s a sample from the start:
 > And he helped her right out of her dress
 
 Copyright (c) Mark Gillespie
+
+---
+
+> [!info] Original Published Date : *2020-04-18*

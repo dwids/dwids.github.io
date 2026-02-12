@@ -4,7 +4,7 @@ lastmod: 2024-11-22T05:51:56.000Z
 title: One problem solved on DDS
 draft: false
 slug: one-problem-solved-on-dds
-tags: ["Technology"]
+tags: ["technology"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: One problem solved on DDS
@@ -22,3 +22,7 @@ A quick reboot later &#8211; not even sure if that was needed &#8211; and Networ
 Of course, I know that the old Dell Gn PC is probably going to have the same Ethernet issues, but at least my main DDS box is networking okay.
 
 Yes, I&#8217;ve simply shifted the problem to another area. Hey, I&#8217;m Citylink 🙂
+
+---
+
+> [!info] Original Published Date : *2005-03-16*

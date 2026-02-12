@@ -24,3 +24,7 @@ Later on friends on Facebook said it was  QFA64 (Johannesburg direct to Sydney).
 [![GE Fullscreen capture 28102012 72631 PM](/images/wordpress/2021/02/02d1d-ge-fullscreen-capture-28102012-72631-pm_thumb.jpg)](https://dwids.wordpress.com2020/03/7824a-ge-fullscreen-capture-28102012-72631-pm.jpg)
 
 I love a good, modern, Internet-based, Google Earthy proof.
+
+---
+
+> [!info] Original Published Date : *2012-10-28*

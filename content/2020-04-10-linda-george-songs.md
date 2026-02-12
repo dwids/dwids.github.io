@@ -4,7 +4,7 @@ lastmod: 2024-11-21T22:44:37.000Z
 title: "Linda George : songs"
 draft: false
 slug: linda-george-songs
-tags: ["artist","songs"]
+tags: ["music"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1682745684850-7229f196b0c9?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bXVzaWNpYW5zfGVufDB8fDB8fHww
     alt: "Linda George : songs"
@@ -32,3 +32,7 @@ https://www.youtube.com/watch?v=tcKQhm6LxPc
 ## Care For Kids (1979 Duet)
 
 A duet, apparently with Paul Meaney.  The theme for the International Year of the Child in 1979.
+
+---
+
+> [!info] Original Published Date : *2020-04-10*

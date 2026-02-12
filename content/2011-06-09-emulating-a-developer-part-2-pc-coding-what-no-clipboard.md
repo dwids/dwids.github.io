@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:01:17.000Z
 title: "Emulating a Developer: Part 2 – PC coding (“what, no clipboard?!”)"
 draft: false
 slug: emulating-a-developer-part-2-pc-coding-what-no-clipboard
-tags: ["coding"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: "Emulating a Developer: Part 2 – PC coding (“what, no clipboard?!”)"
@@ -86,3 +86,7 @@ It worked. I was happy.&#160; But it wasn’t fast, due to IE starting (silently
 So then I thought, I’m sure I could write this on the Server.&#160; Totally remove Windows from the picture and not have the stupid IE overhead and security popup.&#160; Only problem was the Linux FTP server didn’t run vbscript.&#160; Don’t worry, said I. I’ll re-do it.&#160; From the ground up…
 
 <Continues in [Part 3](__GHOST_URL__/2011/06/10/emulating-a-developer-part-3-linux-coding-bashing-away/)>
+
+---
+
+> [!info] Original Published Date : *2011-06-09*

@@ -4,7 +4,7 @@ lastmod: 2024-11-22T05:51:59.000Z
 title: DDS - arrived and working
 draft: false
 slug: dds-arrived-and-working
-tags: ["Technology"]
+tags: ["technology"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: DDS - arrived and working
@@ -78,3 +78,7 @@ The linux fdisk utility shows all 4 disks and lots of partitions. For the geeks 
 > /dev/hdd5         12191     13205    511528+  82  Linux swap
 > 
 > /dev/hdd6         13206     39703  13354960+  83  Linux
+
+---
+
+> [!info] Original Published Date : *2005-03-15*

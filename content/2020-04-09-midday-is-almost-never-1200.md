@@ -38,3 +38,7 @@ There&#8217;s a lot to explore here, so we&#8217;ll leave this for now and retur
 **Notes**:
 
 (1) Yes, yes, the Sun isn&#8217;t &#8216;really&#8217; moving, but 2020 is the year I ignore all pedantry 🙂 Besides it&#8217;s perfectly valid to consider the view from Earth ; we&#8217;ll be doing that more and more in these Astronomy posts.
+
+---
+
+> [!info] Original Published Date : *2020-04-09*

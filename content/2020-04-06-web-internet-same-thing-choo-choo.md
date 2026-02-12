@@ -4,7 +4,7 @@ lastmod: 2024-11-22T05:59:25.000Z
 title: Web, Internet...same thing (choo choo)
 draft: false
 slug: web-internet-same-thing-choo-choo
-tags: ["web","www"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Web, Internet...same thing (choo choo)
@@ -60,3 +60,7 @@ But then that link suddenly becomes busy or develops a fault; after it&#8217;s s
 Your device gets the packets for that web page, puts them back in the correct order and shows you the web page. Or plays you the song. Or starts that interactive web conference, enabling you to work from home.
 
  ##  Some things like Facebook, YouTube and Netflix are apps on your phone, but may be actually using the Web behind the scenes.  Others may be using different Internet &#8216;services&#8217;. 
+
+---
+
+> [!info] Original Published Date : *2020-04-06*

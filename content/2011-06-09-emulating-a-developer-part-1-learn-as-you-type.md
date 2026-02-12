@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:01:16.000Z
 title: "Emulating a Developer: Part 1 – Learn as you type"
 draft: false
 slug: emulating-a-developer-part-1-learn-as-you-type
-tags: ["coding"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: "Emulating a Developer: Part 1 – Learn as you type"
@@ -57,3 +57,7 @@ Note: I decided on the 700, 1400, 2100 based on history. I try and keep the part
 And so I dived in and started coding. Learning the details of the language I was using could come later…
 
 <continues in [Part 2](__GHOST_URL__/2011/06/09/emulating-a-developer-part-2-pc-coding-what-no-clipboard/)> 
+
+---
+
+> [!info] Original Published Date : *2011-06-09*

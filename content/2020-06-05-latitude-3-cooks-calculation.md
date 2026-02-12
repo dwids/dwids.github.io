@@ -90,3 +90,7 @@ Things we will look at in the next post in this series:
 - The sextant
 - How we can now simulate the sextant and get the values for the Meridian Pass and Sun’s Altitude online…and so do the calculation for yourself
 - Longitude….
+
+---
+
+> [!info] Original Published Date : *2020-06-05*

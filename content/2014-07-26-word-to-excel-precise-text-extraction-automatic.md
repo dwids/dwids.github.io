@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:00:22.000Z
 title: "Word to Excel : Precise Text Extraction (automatic)"
 draft: false
 slug: word-to-excel-precise-text-extraction-automatic
-tags: ["conversion","Extraction","Word"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: "Word to Excel : Precise Text Extraction (automatic)"
@@ -41,3 +41,7 @@ It’s also a Table in Excel ; note the dropdown arrows on the Headings so you c
 [![Screenshot - 26_07_2014 , 8_53_15 AM](/images/wordpress/2021/02/f1db9-screenshot-26_07_2014-8_53_15-am_thumb1.png)](https://dwids.wordpress.com2020/03/e243e-screenshot-26_07_2014-8_53_15-am1.png)
 
 If you understand how to use these tools and applications beyond the basics, then what seems like a difficult/complex/manual task, can hopefully be done in a much smarter and more efficient way. And certainly not having to sit down and do over 200 (times 4) manual copy’n’pastes!
+
+---
+
+> [!info] Original Published Date : *2014-07-26*

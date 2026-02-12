@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:02:37.000Z
 title: Falcons Lookout walk at Werribee Gorge State Park
 draft: false
 slug: falcons-lookout-walk
-tags: ["bushwalks","Werribee Gorge"]
+tags: ["bushwalks"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Falcons Lookout walk at Werribee Gorge State Park
@@ -24,3 +24,7 @@ Great walk, starting only about an hour from my place! Spectacular views over th
 **Advice**:&#160; Books say to wear hiking boots (not runners) and take a walking pole. I agree as the walk, whilst under an hour each way, has parts that are a bit steep and with loose stones. I think it would be slippery after rain too.
 
 **Map**:&#160; created from my GPS logs and converted to Google Maps format. Note the link to view it in a larger map at the end. From that larger map, you can then view the route in glorious 3D in Google Earth; highly recommended. [googlemaps https://maps.google.com.au/maps/ms?hl=en&ie=UTF8&msa=0&msid=113937947825616366172.00048853b5111843da89e&ll=-37.661605,144.338593&spn=0.016307,0.027466&z=15&output=embed&w=640&h=480]
+
+---
+
+> [!info] Original Published Date : *2010-06-06*

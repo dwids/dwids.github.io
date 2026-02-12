@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:04:26.000Z
 title: Great Ess v Haw incidents
 draft: false
 slug: great-ess-v-haw-incidents
-tags: ["Sport"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Great Ess v Haw incidents
@@ -42,3 +42,7 @@ What is it about these two teams? Our rivalry with Collingwood and Carlton
 might be greater; but Essendon and Hawthorn seem to have more memorable
 
 incidents. May it never change.
+
+---
+
+> [!info] Original Published Date : *2004-06-05*

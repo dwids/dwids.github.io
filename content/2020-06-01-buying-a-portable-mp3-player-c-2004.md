@@ -46,3 +46,7 @@ Other nice-to-have options would include:
 **Display of MP3 tag data**:    Early players just showed the file name. The MP3 files can have informational ‘tags’ inside it, listing such things as Artist, Title, Album, Genre, Quality etc.
 
 Here’s a real world example to leave you with. I used the tiny MP3 player (recorder!) to record a message from some family members. I plugged the player into my PC and copied the file from it to the PC. I then changed the MP3 tags to say who was talking, the date and time, the topic etc. Finally I emailed it to a relative overseas. Just a few years ago, this would have seemed like science fiction.
+
+---
+
+> [!info] Original Published Date : *2020-06-01*

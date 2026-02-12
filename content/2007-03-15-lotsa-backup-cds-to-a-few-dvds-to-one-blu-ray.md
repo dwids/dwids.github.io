@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:03:37.000Z
 title: Lotsa backup CDs to a few DVDs to one Blu-Ray
 draft: false
 slug: lotsa-backup-cds-to-a-few-dvds-to-one-blu-ray
-tags: ["Technology"]
+tags: ["technology"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Lotsa backup CDs to a few DVDs to one Blu-Ray
@@ -24,3 +24,7 @@ And so to Blu-Ray. The *smallest *capacity (single sided, single layer) Blu-Ray 
 The ratio is a pleasant 5:1. So, 5 DVDs onto 1 Blu-Ray disk.  Or, if you do the maths, 30 CDs.
 
 So, all of my old data backup CDs can easily fit on the smallest Blu-Ray.
+
+---
+
+> [!info] Original Published Date : *2007-03-15*

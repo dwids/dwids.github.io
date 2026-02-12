@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:02:20.000Z
 title: How I find my files (including on external disks and DVDs) & Blu-ray movies etc
 draft: false
 slug: how-i-find-my-files-including-on-external-disks-and-dvds-blu-ray-movies-etc
-tags: ["Software"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: How I find my files (including on external disks and DVDs) & Blu-ray movies etc
@@ -38,3 +38,7 @@ I just use the free [Cathy](http://www.mtg.sk/rva/) software for cataloguing and
 I use the free [EMDB](http://members.upc.nl/e.heesakkers3/emdb/). You don’t actually put the movie disk in,&#160; just give Cathy some basic info – like the Title -&#160; and it will search Amazon to fill in the details, including a cover art image. You confirm/change the details and then save away. It’s stored locally and you don’t need Amazon unless you add a new Movie.&#160;&#160; You can then search your own EMDB Movie catalogue by Title, Genre, Cast, Director etc. 
 
 > I wish there was one single catalogue program that could do all of the above, but I can’t find it.
+
+---
+
+> [!info] Original Published Date : *2010-06-10*

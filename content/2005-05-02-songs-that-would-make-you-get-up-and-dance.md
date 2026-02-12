@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:04:04.000Z
 title: Songs that would make You get up and dance
 draft: false
 slug: songs-that-would-make-you-get-up-and-dance
-tags: ["songs"]
+tags: ["music"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Songs that would make You get up and dance
@@ -28,3 +28,7 @@ Some starters, in random order:
 - Better the Devil You Know &#8211; Kylie
 
 - Smells Like Teen Spirit &#8211; Nirvana
+
+---
+
+> [!info] Original Published Date : *2005-05-02*

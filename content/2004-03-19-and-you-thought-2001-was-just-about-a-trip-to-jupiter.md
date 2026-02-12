@@ -4,7 +4,7 @@ lastmod: 2024-11-21T22:17:08.000Z
 title: "And you thought '2001: A Space Odyssey' was just about a trip to Jupiter"
 draft: false
 slug: and-you-thought-2001-was-just-about-a-trip-to-jupiter
-tags: ["Movies"]
+tags: ["movies"]
 cover:
     image: https://images.unsplash.com/photo-1440404653325-ab127d49abc1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDd8fG1vdmllJTIwcmV2aWV3fGVufDB8fHx8MTczMTk5NjUzNXww&ixlib=rb-4.0.3&q=80&w=720
     alt: "And you thought '2001: A Space Odyssey' was just about a trip to Jupiter"
@@ -42,3 +42,7 @@ To summarize Wheat's opening points, he proposes that the three allegories depic
 ### Conclusion
 
 I find it fascinating reading. The piece is well-written and well-argued. I offer no judgments apart from to suggest that you take a look at it for yourself, plus his subsequent "Fresh Insights into 2001" article. Keep an Open Mind, and I'm sure you'll find them rewarding.
+
+---
+
+> [!info] Original Published Date : *2004-03-19*

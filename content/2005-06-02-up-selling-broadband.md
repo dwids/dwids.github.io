@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:04:03.000Z
 title: Up-selling Broadband
 draft: false
 slug: up-selling-broadband
-tags: ["Entertainment","Technology"]
+tags: ["entertainment","technology"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Up-selling Broadband
@@ -37,3 +37,7 @@ Therefore: I could probably stream this MPEG-4 file over current ADSL 1.5 megabi
 Also, these are open source codecs (XviD) with open (public) compression matrices. Maybe proprietary systems can achieve even greater MPEG-4 quality at lower rates and therefore needing less speed lines.
 
 So, back to their possible motives for this apparent up-selling. Wouldn&#8217;t be to take advantage of consumer ignorance and charge more money for the 4 to 6 megabit links? Surely not. No way.
+
+---
+
+> [!info] Original Published Date : *2005-06-02*

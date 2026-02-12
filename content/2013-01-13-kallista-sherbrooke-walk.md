@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:01:05.000Z
 title: Kallista (Sherbrooke) walk
 draft: false
 slug: kallista-sherbrooke-walk
-tags: ["bushwalks","dandenongs","Kallista","Sherbrooke"]
+tags: ["bushwalks"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Kallista (Sherbrooke) walk
@@ -42,3 +42,7 @@ Click on map for full size. Same with images.
 [![DS_20130112_1240_02_small](/images/wordpress/2021/02/7f944-ds_20130112_1240_02_small_thumb.jpg)](https://dwids.wordpress.com2020/03/f4da8-ds_20130112_1240_02_small.jpg)
 
 Dense bush!
+
+---
+
+> [!info] Original Published Date : *2013-01-13*

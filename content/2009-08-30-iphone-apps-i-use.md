@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:02:39.000Z
 title: iPhone Apps I use
 draft: false
 slug: iphone-apps-i-use
-tags: ["ipod"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: iPhone Apps I use
@@ -76,3 +76,7 @@ An official – free – *Adobe PDF reader*. From Adobe.
 ## What I Don’t Use
 
 These apps ship with the iPod and I may have used them once.&#160; *Stocks, iTunes, Notes, YouTube, AppStore*. Wish I could remove them, without jailbreaking the phone.
+
+---
+
+> [!info] Original Published Date : *2009-08-30*

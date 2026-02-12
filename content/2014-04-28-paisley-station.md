@@ -38,3 +38,7 @@ Above: from Ross Road, looking ~South. The fence isn’t that big here. But it w
 ## Next Steps
 
 To try and find some old photos of it when it was active.
+
+---
+
+> [!info] Original Published Date : *2014-04-28*

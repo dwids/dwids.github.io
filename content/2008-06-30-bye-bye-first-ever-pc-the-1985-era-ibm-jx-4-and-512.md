@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:03:00.000Z
 title: "Bye Bye first ever PC: the 1985 era IBM JX (4 and 512)"
 draft: false
 slug: bye-bye-first-ever-pc-the-1985-era-ibm-jx-4-and-512
-tags: ["Technology History"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: "Bye Bye first ever PC: the 1985 era IBM JX (4 and 512)"
@@ -38,3 +38,7 @@ All done now. So it&#8217;s time to bid a sad bye bye to the old dear.  Even wa
 
 Anyway I&#8217;m not quite sure what I&#8217;ll do with it. It&#8217;s a bit like an old 35mm SLR film camera. Sadly once leading edge and a very useful tool, now just a historical relic.
 ***Update***:  **June 2010**.  I actually did my &#8216;hide and see if you miss it&#8217; technique, like I do with books. So after I wrote the above,  I put it (the JX) into the garage.   It literally sat there gathering dust. For years. So when it came time for my yearly Hard Rubbish removal, the council man took it away.
+
+---
+
+> [!info] Original Published Date : *2008-06-30*

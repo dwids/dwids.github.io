@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:00:19.000Z
 title: Williamstown Racecourse - 1945 and today–aerial comparison
 draft: false
 slug: williamstown-racecourse-1945-and-todayaerial-comparison
-tags: ["williamstown racecourse"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Williamstown Racecourse - 1945 and today–aerial comparison
@@ -40,3 +40,7 @@ The ruins per se.
 [1] [http://vhd.heritage.vic.gov.au/?nosession=1#detail_places;22243](http://vhd.heritage.vic.gov.au/?nosession=1#detail_places;22243)
 
 [2] [https://www.davidphoto.org/2013/08/30/williamstown-racecourseruins-speculation/](__GHOST_URL__/2013/08/30/williamstown-racecourseruins-speculation/)
+
+---
+
+> [!info] Original Published Date : *2014-08-04*

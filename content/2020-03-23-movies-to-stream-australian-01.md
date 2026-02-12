@@ -4,7 +4,7 @@ lastmod: 2024-11-22T05:59:40.000Z
 title: "Movies to stream: Australian 01"
 draft: false
 slug: movies-to-stream-australian-01
-tags: ["australian"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: "Movies to stream: Australian 01"
@@ -34,3 +34,7 @@ Hard to define &#8220;gothic&#8221; in a word or two, but for me it is sorta dar
 &#8220;Under the pretense of having a picnic, a geologist takes his teenage daughter and 6-year-old son into the Australian outback and attempts to shoot them. When he fails, he turns the gun on himself, and the two city-bred children must contend with harsh wilderness alone. They are saved by a chance encounter with an Aborigine boy who shows them how to survive, and in the process underscores the disharmony between nature and modern life.&#8221;  [https://www.justwatch.com/au/movie/walkabout](https://www.justwatch.com/au/movie/walkabout)
 
 A beautiful and extraordinary film.  Almost no dialogue and yet you hardly notice as the imagery and story carry you along. David Gulpilil&#8217;s first movie, working alongside a teenage Jenny Agutter and a young Luc Roeg (the son of the film&#8217;s Director, Nic).  
+
+---
+
+> [!info] Original Published Date : *2020-03-23*

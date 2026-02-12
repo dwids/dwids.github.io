@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:00:19.000Z
 title: University, IBM and the whole lot
 draft: false
 slug: university-ibm-and-the-whole-lot
-tags: ["About_me"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: University, IBM and the whole lot
@@ -30,3 +30,7 @@ Someone asked me what I’d been up to since leaving Monash Uni. Well, here’s 
 Since Monash, I’ve really only lived in 2 suburbs; Windsor (2 different flats) and here in Williamstown (my house. Well, ANZ and me). 
 
 I now love bushwalking, with a focus on Victoria.  That also takes in photography too, another huge interest.  The travel also ties in with another passion: Victorian history, particularly the Gold Rush. Plus local history, that is Williamstown.  I still follow science (Physics & Astronomy) and skeptical thinking via podcasts and blogs. 
+
+---
+
+> [!info] Original Published Date : *2014-05-06*

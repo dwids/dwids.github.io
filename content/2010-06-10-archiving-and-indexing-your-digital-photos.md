@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:02:20.000Z
 title: Archiving and indexing your digital photos
 draft: false
 slug: archiving-and-indexing-your-digital-photos
-tags: ["Software"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Archiving and indexing your digital photos
@@ -47,3 +47,7 @@ And get them to do the same with their archives and you as their off-site place.
 ### 4. Delete the original image files off your hard disk
 
 When you have done all the above – including checking all images etc were burnt to your archive DVDs – then you can delete your images files off your hard disk.&#160; You may want to use a duplicate file finder to verify each folder was archived. The wonderful [Lifehacker](http://www.lifehacker.com.au/2010/05/clean-up-your-photo-collection-with-free-tools/) web site suggests the aptly named [Easy Duplicate Finder](http://www.easyduplicatefinder.com/).&#160; I haven’t tried it, but I guess you get it to check for duplicate files on your archive DVD and your photo&#8217;s folder on the hard drive…in this case a duplicate is a GOOD thing, if you know what I mean.
+
+---
+
+> [!info] Original Published Date : *2010-06-10*

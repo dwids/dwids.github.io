@@ -4,7 +4,7 @@ lastmod: 2024-11-21T21:49:58.000Z
 title: G-ravity is Universal
 draft: false
 slug: g-ravity-is-universal
-tags: ["physics"]
+tags: ["general"]
 cover:
     image: https://media.istockphoto.com/id/1866121335/photo/physics-and-mathematics.webp?a=1&b=1&s=612x612&w=0&k=20&c=H7TaANI15HDuZmLSsuyAPlc7Bb9YEtQrpOtp5QtgOtc=
     alt: G-ravity is Universal
@@ -54,3 +54,7 @@ If you look back at the formula for **g** (above) and plug in the values and the
 > According to the story, Galileo discovered through this experiment that the objects fell with the same acceleration, proving his prediction true, while at the same time disproving Aristotle&#8217;s theory of gravity (which states that objects fall at speed proportional to their mass). Most historians consider it to have been a thought experiment rather than a physical test.
 
  
+
+---
+
+> [!info] Original Published Date : *2020-05-16*

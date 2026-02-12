@@ -22,3 +22,7 @@ Do the numbers on something like 1000 MB. That&#8217;s $29.95 Per Month base + a
 I&#8217;m with Netspace &#8211; who aren&#8217;t even the &#8216;cheapest&#8217; provider &#8211; but here&#8217;s a comparison. I get DOUBLE the speed (512 kbps) and QUADRUPLE the download limit (4 GB) for under HALF of that $149.95. That&#8217;s $59.95.  To me, that&#8217;s about 8 times the value.
 
 Shop around. Do not fall these &#8216;honeymoon&#8217; prices. Numbers, plans and rates used were as of March 21st 2004.  These seem to change every few months. So, you should confirm the current deals, then do your comparisons.
+
+---
+
+> [!info] Original Published Date : *2004-03-22*

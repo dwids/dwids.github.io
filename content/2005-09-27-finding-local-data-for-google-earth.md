@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:03:52.000Z
 title: Finding local data for Google Earth
 draft: false
 slug: finding-local-data-for-google-earth
-tags: ["Entertainment","Technology"]
+tags: ["entertainment","technology"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Finding local data for Google Earth
@@ -22,3 +22,7 @@ Thank goodness for the newish hobby of Geocaching. Some of their sites have [sea
 Noite: if using this format in Google Earth, you have to make a simple change or two; **&#8211; 37° 51.309, 146° 25.993**  The &#8216;-&#8216; means South.
 
 I&#8217;ve found a [few ](http://www.swopnet.com/waypoints/gps/australia3.html)other [sites ](http://soaring.aerobatics.ws/TP/Bacchus/bacchus.hnd.txt)that also have Victorian/Australian listings.
+
+---
+
+> [!info] Original Published Date : *2005-09-27*

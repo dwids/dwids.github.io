@@ -36,3 +36,7 @@ The Racecourse is mentioned in "266 NE" (green text) and "19" (red text)
 Map showing the area of Altona between the Explosives Reserve and Blackshaws Road, including the refinery and Williamstown Racecourse. Shows railway line.
 
 [http://search.slv.vic.gov.au/permalink/f/1cl35st/SLV_VOYAGER3658300](http://search.slv.vic.gov.au/permalink/f/1cl35st/SLV_VOYAGER3658300)
+
+---
+
+> [!info] Original Published Date : *2010-01-01*

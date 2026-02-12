@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:03:10.000Z
 title: New phone as modem for laptop
 draft: false
 slug: new-phone-as-modem-for-laptop
-tags: ["p3600i"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: New phone as modem for laptop
@@ -30,3 +30,7 @@ I can see a use for this straight away. A few places I visit &#8211; including r
 So I just use the phone as modem.
 
 Another benefit, particularly when visiting a customer, is that I&#8217;m not on their network either. So good for security reasons too.
+
+---
+
+> [!info] Original Published Date : *2008-06-21*

@@ -4,7 +4,7 @@ lastmod: 2024-11-22T05:51:54.000Z
 title: The Way I Want To Touch You (1973)
 draft: false
 slug: the-way-i-want-to-touch-you-1973
-tags: ["hidden gems"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: The Way I Want To Touch You (1973)
@@ -19,3 +19,7 @@ Turns out to be the first song that *Captain & Tennille* recorded, according to 
 Her fine singing and the lovely, slightly jazzy chords are further enhanced by some quite good production.  A magical, forgotten gem from the early 70s.
 
 Fun trivia: they both played with the Beach Boys in their early 1970&#8217;s concerts. Mike Love, lead singer of the Beach Boys, used to call Daryl &#8220;Captain Keyboards&#8221;.  The name stuck and he started wearing the nautical kit.
+
+---
+
+> [!info] Original Published Date : *2020-03-31*

@@ -4,7 +4,7 @@ lastmod: 2024-11-22T05:59:49.000Z
 title: How far away is that plane? Using Log tables ...
 draft: false
 slug: how-far-away-is-that-plane-using-log-tables
-tags: ["Maths"]
+tags: ["maths"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: How far away is that plane? Using Log tables ...
@@ -47,3 +47,7 @@ With the result being **21.39** km.  Not bad. Not bad at all.
  [2] Have re-discovered how to do Logarithms as part of another exercise involving studying a calculation which was part of an 1860s gold claim dispute at Walhalla. I had learnt them back in the early 70s, then forgot as calculators took over.
 
 [3] http://flightaware.com/live/flight/QFA64/history/20171208/1650Z/FAOR/YSSY/tracklog
+
+---
+
+> [!info] Original Published Date : *2017-12-09*

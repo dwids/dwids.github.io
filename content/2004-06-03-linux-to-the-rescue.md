@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:04:27.000Z
 title: Linux to the rescue
 draft: false
 slug: linux-to-the-rescue
-tags: ["Technology"]
+tags: ["technology"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Linux to the rescue
@@ -36,3 +36,7 @@ the scp utility to copy files over to the Laptop.
 - I noted that Knoppix had a &#8220;start Samba server&#8221; button
 - So I tried that, answered a few questions then rebooted the Laptop into Windows, to act as the &#8216;client&#8217; for the Samba server (Samba enables Linux directories to appear as Windows shares)
 - Straight away the Windows PC could &#8216;see&#8217; the Linux directories as shares. Copying was working too; I could drag and drop files from Linux onto the Windows XP laptop
+
+---
+
+> [!info] Original Published Date : *2004-06-03*

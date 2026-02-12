@@ -13,3 +13,7 @@ description:
 
 Some recent shots I took. Just trying out the integration of Google Photos.
 ![](/images/wordpress/2021/02/davids_20200628_165915.jpg)Everything just lined up at sunset last night. Phone shot! ![](/images/wordpress/2021/02/davids_20200624_113239.jpg)Mt Macedon summit last week. A chilly little walk up to The Camels Hump. It does snow here.![](/images/wordpress/2021/02/davids_20200624_120915.jpg)Hanging Rock. A quick trip after leaving Mt Macedon. Despite the overcast skies, the Sun briefly popped out and I has the Big Camera ready
+
+---
+
+> [!info] Original Published Date : *2020-06-29*

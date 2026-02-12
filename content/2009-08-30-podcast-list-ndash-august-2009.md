@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:02:39.000Z
 title: Podcast List – August 2009
 draft: false
 slug: podcast-list-ndash-august-2009
-tags: ["ipod"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Podcast List – August 2009
@@ -51,3 +51,7 @@ Both changes are just excellent. I appreciate the effort and use them many times
 
 - *Movie Time* (ABC). In their enthusiasm for films, they gave away too many plot points &#8211; spoilers &#8211; for me.&#160; Unforgivable! 
 - *The Movie Blog*. Was once such a light-hearted show. Lost its way terribly over the last few years as it staggered into being more part of the ‘scene’ instead of keeping their distance. Has paid the price. Come back, Doug and Darren! 
+
+---
+
+> [!info] Original Published Date : *2009-08-30*

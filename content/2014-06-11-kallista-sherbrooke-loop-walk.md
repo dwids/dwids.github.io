@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:01:02.000Z
 title: Kallista (Sherbrooke) Loop walk
 draft: false
 slug: kallista-sherbrooke-loop-walk
-tags: ["bushwalks","dandenongs"]
+tags: ["bushwalks"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Kallista (Sherbrooke) Loop walk
@@ -68,3 +68,7 @@ The ornamental lake, down the hill,  at Alfred Nicholas Memorial Gardens
 [![DavidS_20140609_132327](/images/wordpress/2021/02/40406-davids_20140609_132327_thumb1.jpg)](https://dwids.wordpress.com2020/03/2c010-davids_20140609_1323271.jpg)
 
 The old boatshed on the lake
+
+---
+
+> [!info] Original Published Date : *2014-06-11*

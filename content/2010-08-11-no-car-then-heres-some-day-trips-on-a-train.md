@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:02:19.000Z
 title: No car? Then here’s some day trips on a train
 draft: false
 slug: no-car-then-heres-some-day-trips-on-a-train
-tags: ["Travel Victoria"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: No car? Then here’s some day trips on a train
@@ -66,3 +66,7 @@ Would be about 2 hours each way on a train from Melbourne-area, so getting a bit
 - [Central Deborah Gold Mine](http://www.central-deborah.com/) (including an underground tour)
 - The excellent [Bendigo Art Gallery](http://www.bendigoartgallery.com.au/)
 - Wander around the city exploring the beautiful architecture, including the [Shamrock](http://www.hotelshamrock.com.au/) Hotel and Town Hall. More can be found on their [attractions page](http://www.bendigotourism.com/pages/attractions-tours/).
+
+---
+
+> [!info] Original Published Date : *2010-08-11*

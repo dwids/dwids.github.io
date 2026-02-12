@@ -4,7 +4,7 @@ lastmod: 2024-11-21T21:58:03.000Z
 title: Easy Moon Task
 draft: false
 slug: easy-moon-task
-tags: ["astronomy","Task"]
+tags: ["astronomy"]
 cover:
     image: https://images.unsplash.com/photo-1462332420958-a05d1e002413?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDd8fGFzdHJvbm9teXxlbnwwfHx8fDE3MzIyMjYxNTh8MA&ixlib=rb-4.0.3&q=80&w=720
     alt: Easy Moon Task
@@ -49,3 +49,7 @@ The observant will notice I&#8217;m saying *your* angle.  It actually does depen
 So,  at 8pm on the 6th of April the Az and Alt of the Moon will be subtlety different between Melbourne and Sydney;  but you&#8217;d be hard pressed to see said difference in the real sky. And even more different at Cairns.  You can easily change your location in Stellarium to see this.  
 
 Hence these are your **local coordinates** for that object at that time.  An important concept, which we will definitely return to.
+
+---
+
+> [!info] Original Published Date : *2020-04-05*

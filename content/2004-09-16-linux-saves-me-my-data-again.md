@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:04:26.000Z
 title: Linux saves me (my data) again.
 draft: false
 slug: linux-saves-me-my-data-again
-tags: ["Technology"]
+tags: ["technology"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Linux saves me (my data) again.
@@ -26,3 +26,7 @@ Of course running only in RAM means things are much slower than normal, so Knopp
 All 3 GB of laptop backup data was there smiling at me. Not only that, but I could even use the files; clicking on a PDF showed me it&#8217;s contents in Acrobat Reader. So the files were real and not just a dummy directory listing.  Debian had been so polite and NOT overwritten the &#8216;old&#8217; Mandrake data!
 
 I made a note of the drive&#8217;s name /dev/hda6/ and rebooted into the much faster Debian linux. A quick command later and &#8211; being careful to make it read-only &#8211; I had that drive visible and workable in my main linux system. I&#8217;m sure that if I&#8217;d read up, I could have got Debian to do the hardware detect to find the drives. But I was too busy both kicking myself for being so silly and kissing myself for being so clever to use linux.
+
+---
+
+> [!info] Original Published Date : *2004-09-16*

@@ -4,7 +4,7 @@ lastmod: 2024-11-21T22:42:18.000Z
 title: Just two things I wish I could have shown Pa Hudson
 draft: false
 slug: just-two-things-i-wish-i-could-have-shown-pa-hudson
-tags: ["familyhistory"]
+tags: ["general"]
 cover:
     image: https://media.istockphoto.com/id/1391392232/photo/papers-with-family-tree-templates-pencil-photos-and-glasses-on-wooden-table-closeup.webp?a=1&b=1&s=612x612&w=0&k=20&c=JayNEuzZ15HUjKyCI5E3StJaVRfwqg6jkfyRbhZNJ1o=
     alt: Just two things I wish I could have shown Pa Hudson
@@ -43,3 +43,7 @@ https://youtu.be/a9eEVfaLc1s
 My company is called Artwill Services Pty Ltd.
 
 Just weeks after Arthur William Hudson passed away, Elvis Aaron Presley died. When Elvis passed away, I was probably still in shock and mourning, but I distinctly remember throwing an empty, plastic shampoo bottle in to the bathtub, after stepping out of the shower and hearing an Elvis story on the radio. *How dare people focus on Elvis, when Pa has just left us&#8230;*
+
+---
+
+> [!info] Original Published Date : *2020-05-01*

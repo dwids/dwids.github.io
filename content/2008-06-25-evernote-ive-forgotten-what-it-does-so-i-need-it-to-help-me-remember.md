@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:35:33.000Z
 title: "Evernote: I've forgotten what it does, so I need it to help me remember :-)"
 draft: false
 slug: evernote-ive-forgotten-what-it-does-so-i-need-it-to-help-me-remember
-tags: ["Sharing"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: "Evernote: I've forgotten what it does, so I need it to help me remember :-)"
@@ -20,3 +20,7 @@ You are out having lunch with some friends. They order the wine and you find it 
 Later that day you go home and use your PC or Mac to access your Evernote stuff and search for Penfolds. And there&#8217;s the wine info, including the text and picture. You can then quickly search the web for who sells it nearby. Once you find the web page of a good wine seller, you can copy their details &#8211; including maps/images &#8211; into Evernote&#8230;and it&#8217;s pushed back out to your phone. So your phone now has the information on the wine and who sells it.
 
 More at their [web site](http://www.evernote.com/).   Article found via [Lifehacker](http://feeds.lifehacker.com.au/%7Er/LifehackerAustralia/%7E3/319188891/evernote_30_polishes_interface_adds_mac_client-2.html). 
+
+---
+
+> [!info] Original Published Date : *2008-06-25*

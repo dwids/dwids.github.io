@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:03:37.000Z
 title: High Definition AVI sample
 draft: false
 slug: high-definition-avi-sample
-tags: ["Technology"]
+tags: ["technology"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: High Definition AVI sample
@@ -18,3 +18,7 @@ Some rough comparisons for how big a 38 minute recoding is, for different qualit
 - Standard defintion TV recording (MPEG2):  1.5 GB
 - Compressed to ok quality MPEG4 (XviD or AVC):   230 MB  or 0.22 GB
 - The above Hi Def AVI &#8211;  MPEG4 (DivX) : 1 GB
+
+---
+
+> [!info] Original Published Date : *2006-10-10*

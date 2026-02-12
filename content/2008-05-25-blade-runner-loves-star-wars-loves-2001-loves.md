@@ -4,7 +4,7 @@ lastmod: 2024-11-21T22:17:05.000Z
 title: Blade Runner loves Star Wars loves 2001 loves....
 draft: false
 slug: blade-runner-loves-star-wars-loves-2001-loves
-tags: ["Movies"]
+tags: ["movies"]
 cover:
     image: https://images.unsplash.com/photo-1440404653325-ab127d49abc1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDd8fG1vdmllJTIwcmV2aWV3fGVufDB8fHx8MTczMTk5NjUzNXww&ixlib=rb-4.0.3&q=80&w=720
     alt: Blade Runner loves Star Wars loves 2001 loves....
@@ -24,3 +24,7 @@ Lucas et al returned the compliment with his Star Wars Episode I : The Phantom M
 Not the only reference in The Phantom Menace either. I believe George Lucas said something like &#8220;..before Star Wars there was, and always will be, 2001: A Space Odyssey.&#8221;  And in Phantom Menace he placed a Pod from 2001, clearly shown in the junk yard scene, where young Anakin works.
 
 And we&#8217;re not done yet. In the same movie, Lucas also has E.T. visible. Not just one but a few of them are quickly shown arguing and pointing in the Senate. 
+
+---
+
+> [!info] Original Published Date : *2008-05-25*

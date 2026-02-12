@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:01:06.000Z
 title: Why do you ask, 3 Tracks Climbing ?
 draft: false
 slug: why-do-you-ask-3-tracks-climbing
-tags: ["bushwalks","dandenongs","Doongalla"]
+tags: ["bushwalks"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Why do you ask, 3 Tracks Climbing ?
@@ -28,3 +28,7 @@ And here’s the fun one. Google Earth showing them. With the height of the moun
 [![Dandenongs_3_straightup_tracks](/images/wordpress/2021/02/6f818-dandenongs_3_straightup_tracks_thumb1.jpg)](/images/wordpress/2020/03/11c6c-dandenongs_3_straightup_tracks1.jpg)
 
 I actually want to do Glasgow end to end soon. Car at Glasgow road, straight up, then maybe a rest ![Smile](/images/wordpress/2021/02/30b8c-wlemoticon-smile.png) and down the more gentle Zig Zag and Ch 10 tracks and back to car.
+
+---
+
+> [!info] Original Published Date : *2012-11-15*

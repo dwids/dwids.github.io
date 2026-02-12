@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:35:14.000Z
 title: "TiVo: Only a few days before we find out what we (get, don't get and need)"
 draft: false
 slug: tivo-only-a-few-days-before-we-find-out-what-we-get-dont-get-and-need
-tags: ["DigitalTV","TiVo"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: "TiVo: Only a few days before we find out what we (get, don't get and need)"
@@ -30,3 +30,7 @@ The things that I&#8217;d be interested in finding out include:
 - Does it work with universal remote controls, such as my Logitech Harmony?
 
 All will hopefully be revealed very soon.
+
+---
+
+> [!info] Original Published Date : *2008-06-27*

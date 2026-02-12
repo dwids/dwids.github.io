@@ -65,3 +65,7 @@ I first wandered into this area in 2015, doing the excellent *Ted Errey Nature C
 
 [1][Vic Heritage Database Report](https://vhd.heritagecouncil.vic.gov.au/places/162321/download-report) on the dam wall
 [2][The International Database and Gallery of Structures](https://structurae.net/en/structures/lower-stony-creek-dam) report on the dam wall. Note: this says &#8220;Status: in use&#8221; (!) That could mean the wall is still intact and holding back water&#8230;and/or there is water being drawn from it
+
+---
+
+> [!info] Original Published Date : *2020-01-24*

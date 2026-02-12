@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:04:14.000Z
 title: NASA and Knowledge Capture
 draft: false
 slug: nasa-and-knowledge-capture
-tags: ["Technology"]
+tags: ["technology"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: NASA and Knowledge Capture
@@ -22,3 +22,7 @@ I was therefore interested to read an article in Popular Science magazine.  Cons
 > &#8220;Without a conscious program of mentoring within the organization, this knowledge is only intermittently and imperfectly transmitted to new generations of engineers and scientists. The result is that young  engineers constantly redesign programs without being aware that previous designs for the same item already exist. They may thereby introduce a new problem or layer of risk&#8230;&#8221;
 
 **Source**: *It Doesn’t Take a Rocket Scientist*   Constance Adams  *Popular Science* Feb 2004 issue, p70
+
+---
+
+> [!info] Original Published Date : *2004-12-07*

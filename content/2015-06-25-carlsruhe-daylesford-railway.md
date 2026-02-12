@@ -74,3 +74,7 @@ And a bit further on, the old Line looks obvious to me. At least the sheep are m
 ## Notes
 
 # *Drawing* is the preferred term for such engineering diagrams even today, when they are done by computers.  As you can see, the ones here seem very much hand drawn.
+
+---
+
+> [!info] Original Published Date : *2015-06-25*

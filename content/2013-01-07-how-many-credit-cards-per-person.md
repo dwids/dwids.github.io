@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:01:05.000Z
 title: How many credit cards per person?
 draft: false
 slug: how-many-credit-cards-per-person
-tags: ["Maths"]
+tags: ["maths"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: How many credit cards per person?
@@ -20,3 +20,7 @@ Some in the head, **approximate** numerical pondering followed:
 (b) 7 billion people on Earth. 7x(109).  That 7 is near 10, so I’ll round the whole thing  up to 1010
 
 Thusly dividing (a)/(b) we can have 10 (16-10)  each (remember your exponential maths?). Which is 106       That is **1 million cards** each.
+
+---
+
+> [!info] Original Published Date : *2013-01-07*

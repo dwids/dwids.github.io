@@ -4,7 +4,7 @@ lastmod: 2024-11-21T22:17:08.000Z
 title: Return of the King
 draft: false
 slug: return-of-the-king
-tags: ["Movies"]
+tags: ["movies"]
 cover:
     image: https://images.unsplash.com/photo-1440404653325-ab127d49abc1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDd8fG1vdmllJTIwcmV2aWV3fGVufDB8fHx8MTczMTk5NjUzNXww&ixlib=rb-4.0.3&q=80&w=720
     alt: Return of the King
@@ -94,3 +94,7 @@ Memo: P Jackson c/- New Zealand. So long and thanks for
     magic. By the way, what about The Hobbit? The Silmarillion? 
 
 Come on. You&#8217;re on a roll, mate&#8230;
+
+---
+
+> [!info] Original Published Date : *2004-01-24*

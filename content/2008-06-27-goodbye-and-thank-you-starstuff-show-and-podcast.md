@@ -4,7 +4,7 @@ lastmod: 2024-11-21T21:58:02.000Z
 title: Goodbye and Thank You StarStuff show and podcast
 draft: false
 slug: goodbye-and-thank-you-starstuff-show-and-podcast
-tags: ["astronomy","Science"]
+tags: ["astronomy"]
 cover:
     image: https://images.unsplash.com/photo-1462332420958-a05d1e002413?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDd8fGFzdHJvbm9teXxlbnwwfHx8fDE3MzIyMjYxNTh8MA&ixlib=rb-4.0.3&q=80&w=720
     alt: Goodbye and Thank You StarStuff show and podcast
@@ -16,3 +16,7 @@ There&#8217;s only a handful of [podcasts ](http://en.wikipedia.org/wiki/Podcast
 Sadly it looks like all that is [about to end](http://www.sydneyobservatory.com.au/blog/?p=972) this week. I&#8217;m hopeful the team, including host Stuart Gary, can continue to create the show as &#8216;just&#8217; a podcast. I&#8217;ve emailed them and suggested they talk to the good people at another of my must get podcasts; [AstronomyCast](http://www.astronomycast.com/). 
 
 But, either way, a public thanks to Stuart and the team for their wonderful work over the years.
+
+---
+
+> [!info] Original Published Date : *2008-06-27*

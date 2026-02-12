@@ -26,3 +26,7 @@ Basic route:
 - Turn around and return back the same way.
 
 There are walks that continue &#8216;forward&#8217; rather than returning the same way, but &#8211; to be honest &#8211; they didn&#8217;t add much in terms of interest and the distance was almost identical.
+
+---
+
+> [!info] Original Published Date : *2008-04-09*

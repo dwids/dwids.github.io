@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:01:29.000Z
 title: Johnny Farnham - Comic Conversation
 draft: false
 slug: johnny-farnham-comic-conversation
-tags: ["goldenmiles"]
+tags: ["music"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Johnny Farnham - Comic Conversation
@@ -28,3 +28,7 @@ Maybe I&#8217;m being too harsh. Possibly it was teenage angst poetry. And who h
 And now the Big Hair edition. Live in concert, some years later with my local MSO helping out:
 
  I think that James Rayne did a version too.
+
+---
+
+> [!info] Original Published Date : *2011-02-08*

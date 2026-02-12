@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:01:29.000Z
 title: Mercy Seat - Johnny Cash
 draft: false
 slug: mercy-seat-johnny-cash
-tags: ["goldenmiles"]
+tags: ["music"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Mercy Seat - Johnny Cash
@@ -16,3 +16,7 @@ Mr Johnny Cash does an excellent, heartfelt cover of this Nick Cave song. No I a
 A bit like yesterday&#8217;s Peter Gabriel song, this appears to be another narrator-as-baddie song. Indeed he is sitting on the electric chair and knows that the Mercy Seat is waiting; I assume a Biblical reference that he&#8217;s off to meet his maker. Plus probably a dark pun on chair/seat.
 
 Oh, I forgot to tell you. He&#8217;s telling his tale as his &#8220;head is burning.&#8221;  It&#8217;s extraordinary stuff, both lyrically and performance-wise.
+
+---
+
+> [!info] Original Published Date : *2011-02-07*

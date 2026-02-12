@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:04:27.000Z
 title: "BB 13/6 : When Live TV Goes Bad"
 draft: false
 slug: bb-136-when-live-tv-goes-bad
-tags: ["Entertainment"]
+tags: ["entertainment"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: "BB 13/6 : When Live TV Goes Bad"
@@ -46,3 +46,7 @@ the headlines will be worth all the stress. If they&#8217;ve got any sense, they
 Gretel to replace Merlin on the PR trail this week.
 
 ![043_merlin_sign.jpg](__GHOST_URL__/archives/043_merlin_sign.jpg)
+
+---
+
+> [!info] Original Published Date : *2004-06-13*

@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:01:04.000Z
 title: Williamstown Racecourse–ruins speculation
 draft: false
 slug: williamstown-racecourseruins-speculation
-tags: ["williamstown racecourse"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Williamstown Racecourse–ruins speculation
@@ -24,3 +24,7 @@ The main rubble pile (with steps) is marked as **A**.  I used this as my startin
 The tree position is pure speculation (in or near what looks like a ‘birdcage’ type parade area?), but my bridge (in Google) seems to “point” roughly at the tree. In the photo the bridge seems to be an extension of a road. No surprise there. But which road?
 
 Next steps: find proper maps, plans or descriptions of the exact layout of the Track and it’s entrances. I’ll probably use Trove (online) and contact Racing Victoria. But any other information warmly welcomed.
+
+---
+
+> [!info] Original Published Date : *2013-08-30*

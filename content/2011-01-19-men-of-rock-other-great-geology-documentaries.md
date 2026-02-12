@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:02:18.000Z
 title: Men of Rock & other great Geology documentaries
 draft: false
 slug: men-of-rock-other-great-geology-documentaries
-tags: ["documentaries"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Men of Rock & other great Geology documentaries
@@ -31,3 +31,7 @@ Smiling, I reached for my timetable printout &#8211; knowing I’d never have to
 My timetable simply said “*No combination possible*”.&#160; I went pale.&#160; 
 
 Physics and Geology clashed with their times. I had to drop my major (Physics) to do Geology. Or drop Geology…and replace it via taking a full first year uni-level CHEMISTRY. I felt really sick. But it came to pass. Bye bye uni Geology… 
+
+---
+
+> [!info] Original Published Date : *2011-01-19*

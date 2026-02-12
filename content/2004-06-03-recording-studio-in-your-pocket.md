@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:04:28.000Z
 title: Recording studio in your pocket
 draft: false
 slug: recording-studio-in-your-pocket
-tags: ["Music","Technology"]
+tags: ["Music","technology"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Recording studio in your pocket
@@ -20,3 +20,7 @@ Recently some guys have brought the two ideas together. They have the full Linux
 The beauty of using a USB key drive is that it frees up the CD for burning and it&#8217;s quicker than the CD. (The device that it boots from must remain in place as the O/S + all s/w lives there)
 
 In theory you can plug this into ANY pc as it detects the h/w at boot time. They record away (it goes to the Flash drive), edit and can burn to CD or dump over a network to another PC. The main purpose is to fit all of this into the new very small PC cases called ITX. [Their main project page](http://linuxdevices.com/articles/AT8275095591.html)
+
+---
+
+> [!info] Original Published Date : *2004-06-03*

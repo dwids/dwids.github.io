@@ -4,7 +4,7 @@ lastmod: 2024-11-21T21:20:47.000Z
 title: Crocodile on the Sandbank – Elizabeth Peters
 draft: false
 slug: crocodile-on-the-sandbank-elizabeth-peters
-tags: ["books"]
+tags: ["general"]
 cover:
     image: https://images.unsplash.com/photo-1505063366573-38928ae5567e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDh8fGJvb2tzfGVufDB8fHx8MTczMjE3MzU1NHww&ixlib=rb-4.0.3&q=80&w=720
     alt: Crocodile on the Sandbank – Elizabeth Peters
@@ -16,3 +16,6 @@ description:
 
 
 ![](/images/wordpress/2021/02/crocodile-on-the-sandbank-198x300.jpg) 
+---
+
+> [!info] Original Published Date : *2010-02-28*

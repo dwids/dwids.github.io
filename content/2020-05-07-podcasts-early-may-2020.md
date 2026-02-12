@@ -4,7 +4,7 @@ lastmod: 2024-11-21T22:14:54.000Z
 title: "Podcasts: Early May 2020"
 draft: false
 slug: podcasts-early-may-2020
-tags: ["podcasts","TV and Streaming"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1664195074951-fe91ec456eed?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cG9kY2FzdHxlbnwwfHwwfHx8MA%3D%3D
     alt: "Podcasts: Early May 2020"
@@ -56,3 +56,7 @@ They are watching from s01e01. I (re)watch the ep and then listen. It&#8217;s ve
 ### Eye on Big Brother (Australia)
 
 BB will be rebooted on Ch 7 in a month or so. It&#8217;s going to be very different. Not much detail on this podcast as it&#8217;s just been announced by the TV [Blackbox ](https://tvblackbox.com.au/)team. It will have previous BB winners Ben and Reggie! They plan to do a show every day BB is on.
+
+---
+
+> [!info] Original Published Date : *2020-05-07*

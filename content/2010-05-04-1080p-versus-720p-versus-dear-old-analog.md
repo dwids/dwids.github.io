@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:02:38.000Z
 title: 1080p versus 720p versus dear old analog TV
 draft: false
 slug: 1080p-versus-720p-versus-dear-old-analog
-tags: ["DigitalTV"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: 1080p versus 720p versus dear old analog TV
@@ -30,3 +30,7 @@ Some quick comments, then a footnote:
 - 1080p is sold as High Definition. But it’s barely 2 Megapixel (!).&#160; If I tried to sell you a camera, in 2010, as being 2 MP, you’d probably laugh at me
 
 Footnote: Due to [technical reasons](http://www.animationpost.co.uk/bitmaps/aspect-ratios.htm), to do with pixel shapes not being square, the equivalent digital resolution of our old TV is actually less than this, that is 576&#215;720 pixels (414,720 px total). Makes the double rule slightly more obvious.
+
+---
+
+> [!info] Original Published Date : *2010-05-04*

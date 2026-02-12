@@ -4,7 +4,7 @@ lastmod: 2024-10-18T23:43:54.000Z
 title: Bloke's (Men's) Love Songs
 draft: false
 slug: blokes-love-songs
-tags: ["songs"]
+tags: ["music"]
 cover:
     image: /images/2024/10/A349865-263x300.png
     alt: Bloke's (Men's) Love Songs
@@ -32,3 +32,7 @@ Not the very similarly named Pink Floyd song, but one by a local lad. He was the
 Strangely I can’t quite work the chords out on my guitar. Even dropping the song into ‘find the chords’ software seems to confuse it. It may have been recorded fast or slow, hence isn’t in ‘tune’ with a piano. Ed may have used an alternate guitar tuning. Joni Mitchell, Neil Y[o](https://youtu.be/jREf47BPe5w)ung (& CSNY) and Keith Richards have all used alternate tunings over the years.
 
 I knew of one local guitarist who had **two **electric guitars; one in normal EADGBE tuning, the other in ‘Keith Tuning’ (Open G: DGDGBD). Apparently if you don’t re-tune the guitar that way, songs like *Brown Sugar* just won’t sound quite right. If you know music, that tuning means you can play all 6 *open *strings and a G Major chord rings out ; hence the ironic name for the tuning :-). Put just a one-finger barre on the 2nd fret, and there’s an A Major chord for you. But Keith’s playing is much more nuanced than that.
+
+---
+
+> [!info] Original Published Date : *2020-04-30*

@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:04:28.000Z
 title: Artwill plan to aquire Telstra
 draft: false
 slug: artwill-plan-to-aquire-telstra
-tags: ["Needful Things :-)"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Artwill plan to aquire Telstra
@@ -18,3 +18,7 @@ Mr Sidwell, speaking on the condition he be taken out of context, said &#8220;Wi
 &#8220;I am powerful and yet easy to use&#8221; he said, with a puzzled look on his face, adding &#8220;I hence offer 0.0000032 cents per share&#8221;  Apparently this values Telstra at $1.24.
 
 Analysts were too busy laughing, after Mr Sidwell pointed out that the first four letters of their titles was a rude word. A deeply ironic thing indeed.
+
+---
+
+> [!info] Original Published Date : *2004-04-07*

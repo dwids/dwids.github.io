@@ -18,3 +18,7 @@ Parks Victoria has a [web page](http://www.parkweb.vic.gov.au/1park_display.cfm)
 An added bonus for me was a pair of courting Lyrebirds on the way back down. It&#8217;s pure magic to hear the male one doing his impressions of many bush sounds &#8211; mainly other birds. Indeed part of this walk takes you through an area known as The Farmyard. Names because the Lyrebirds do imitations of the farm animals sounds, from way below in the valley. 
 
 A highly rated walk. You really should wear sturdy boots and take a walking pole. [Some of my photos ](http://picasaweb.google.com.au/sidwell.david/JawbonesWalk)are available too.
+
+---
+
+> [!info] Original Published Date : *2008-04-23*

@@ -52,3 +52,7 @@ It was, of course, part of the reason the above came unstuck. G is 9.8 not 10.  
 But here, cos2(45)  is 0.5 and when we then multiple that by 2, it turns into **1 **and it too **effectively vanishes **in terms of impact, when used in further multiplication!  100 x 1 is still 100. 
 
 If it had been 30 degrees: cos2(30) multiplied by 2 would be 1.5 and so wouldn&#8217;t &#8216;vanish&#8217;
+
+---
+
+> [!info] Original Published Date : *2020-05-10*

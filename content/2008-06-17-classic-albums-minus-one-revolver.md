@@ -37,3 +37,7 @@ A quick look at the track listing:
 &#8230;shows a wide variation of influences and styles. From George&#8217;s political opening number Taxman, through to Paul&#8217;s sad, socially aware Rigby and For No-One.
 
 And John. Wow. John – for me at least  &#8211; provides the Big Jump songs, such as And Your Bird Can Sing,She Said and Tomorrow. The lyrics, the playing and the recording, which included backwards guitars, chants etc, were (are!) stunning.  This brings George Martin and his team of studio magicians into the mix: excellent work from them as well.  Indeed I&#8217;d rate Revolver as a Classic Album unto itself. And hence the whole title and concept of this article is redundant. But I&#8217;ve enjoyed the journey anyway
+
+---
+
+> [!info] Original Published Date : *2008-06-17*

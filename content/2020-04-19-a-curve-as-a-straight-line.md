@@ -63,3 +63,7 @@ As I said, the actual viral graphs won&#8217;t be a straight line, but the focus
 ---
 
     True story: when I was doing 4th Year Physics at Monash, the running joke was:  if the graph from your experiment's results wasn't showing the values the theory predicted, then just re-do with it a Log scale, because they're always a straight line :-)
+
+---
+
+> [!info] Original Published Date : *2020-04-19*

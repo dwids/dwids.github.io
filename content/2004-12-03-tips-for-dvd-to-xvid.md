@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:04:14.000Z
 title: Tips for DVD to XviD
 draft: false
 slug: tips-for-dvd-to-xvid
-tags: ["Technology"]
+tags: ["technology"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Tips for DVD to XviD
@@ -62,3 +62,7 @@ Smaller widths like 320 sometimes appear in AVI files, but really&#8230;yes, the
 Rule of thumb for XviD, a medium quality one should be about 500 or so MB per hour. So a typical 90 minute movie (shrunk to 576 wide) would be a file of about 700 to 800 MB. Seems about right from experience.
 
 A 1 hour commercial TV show, with ads removed, is only about 45 minutes of actual program. Hence an XviD AVI file size of about 350 to 400 MB.
+
+---
+
+> [!info] Original Published Date : *2004-12-03*

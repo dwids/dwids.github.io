@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:04:13.000Z
 title: Software I use
 draft: false
 slug: software-i-use
-tags: ["Technology"]
+tags: ["technology"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Software I use
@@ -24,3 +24,7 @@ File downloads (smaller files): [Limewire](http://www.limewire.org/)
 and for larger files:  the Bittorrent network via the [Azureus ](http://sourceforge.net/projects/azureus/)client program
 
 For document creation: The brilliant [Open Office](http://www.openoffice.org/) can not only read MS Office formats, but create them too. Word. Powerpoint. Excel.  More importantly, it&#8217;s own formats are future-proof; XML text. Unlike the closed, binary formats of Office.
+
+---
+
+> [!info] Original Published Date : *2004-12-29*

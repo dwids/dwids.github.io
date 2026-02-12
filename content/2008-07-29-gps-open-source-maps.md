@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:02:58.000Z
 title: "GPS : Open Source Maps"
 draft: false
 slug: gps-open-source-maps
-tags: ["GPS","map","OSM"]
+tags: ["navigation"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: "GPS : Open Source Maps"
@@ -26,3 +26,7 @@ Of course there are commercial maps out there and I may very well end up buying 
 Worked first time, now have nearly 6 MB map of Victoria.  It shows a fair bit of data.  I loaded up the log I did yesterday (the walk around the block) and it showed the streets where I had walked, but didn&#8217;t name them all. However, I&#8217;m very happy with it so far.  Will be interesting to take it off on a real bushwalk and see how it goes.
 
 Technorati Tags: [OpenStreetMap](http://technorati.com/tags/OpenStreetMap),[OSM](http://technorati.com/tags/OSM),[OSMAustralia](http://technorati.com/tags/OSMAustralia)
+
+---
+
+> [!info] Original Published Date : *2008-07-29*

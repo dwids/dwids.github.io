@@ -4,7 +4,7 @@ lastmod: 2023-07-01T18:24:07.000Z
 title: My eBooks and PDFs
 draft: false
 slug: my-ebooks-and-pdfs
-tags: ["Australian History","eBooks","epub"]
+tags: ["general"]
 cover:
     image: /images/wordpress/2023/06/527759431.jpg
     alt: My eBooks and PDFs
@@ -36,3 +36,7 @@ I read them on my iPad with the standard *Books* app. On the PC (etc), I:
 With Android and Windows just copy the .epub file to a folder/directory and open it with your preferred ePub app.
 
 **PDFs**: I do a quick conversion of the ePub to PDF and make that available. They should open with any PDF reader. They are fixed format and you usually can&#8217;t change the fonts, size etc.
+
+---
+
+> [!info] Original Published Date : *2023-06-30*

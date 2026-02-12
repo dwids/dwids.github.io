@@ -54,3 +54,7 @@ I&#8217;m **right **handed, so I touch knives, containers, bench tops, fridge do
 I then usually have an apple. Which is firmly impaled on to a fork, then washed in warm water. It&#8217;s eaten from the fork, so I never have to touch it.   I came up with this and am quite happy with it. 
 
 Okay, that&#8217;s the first half of the day covered. And enough for now. Part 2 later.
+
+---
+
+> [!info] Original Published Date : *2020-04-12*

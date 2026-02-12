@@ -4,7 +4,7 @@ lastmod: 2024-11-21T21:20:47.000Z
 title: The Great Cataloguing Project
 draft: false
 slug: the-great-cataloguing-project
-tags: ["books"]
+tags: ["general"]
 cover:
     image: https://images.unsplash.com/photo-1505063366573-38928ae5567e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDh8fGJvb2tzfGVufDB8fHx8MTczMjE3MzU1NHww&ixlib=rb-4.0.3&q=80&w=720
     alt: The Great Cataloguing Project
@@ -78,3 +78,7 @@ Which means I have to think about *what *I record for each thing. Early thoughts
 I&#8217;d like to be able to have all of these as database indexes, or at least be able to search/sort on them.
 
 It would have to be able to **import **existing, simple Excel catalogues (or via CSV) and even &#8211; ideally &#8211; LibraryThing exports, enabling me to have everything in one place.
+
+---
+
+> [!info] Original Published Date : *2020-05-04*

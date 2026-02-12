@@ -67,3 +67,7 @@ We will definitely return to what all means a bit later; after closing out the N
 
 This took about 2 hours. I had to learn how to add ‘1 month’ to a date as well as how to get it to show the dates in a nice format.
 ![](/images/wordpress/2021/02/1_image.png)I dropped the output into Excel to quickly format it a bit cleaner. As it was modified from another of my programs it has some stuff not needed (imports)
+
+---
+
+> [!info] Original Published Date : *2020-06-02*

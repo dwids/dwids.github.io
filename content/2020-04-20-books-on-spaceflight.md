@@ -4,7 +4,7 @@ lastmod: 2024-11-21T21:20:47.000Z
 title: Books on Spaceflight
 draft: false
 slug: books-on-spaceflight
-tags: ["books","Space"]
+tags: ["general"]
 cover:
     image: https://images.unsplash.com/photo-1505063366573-38928ae5567e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDh8fGJvb2tzfGVufDB8fHx8MTczMjE3MzU1NHww&ixlib=rb-4.0.3&q=80&w=720
     alt: Books on Spaceflight
@@ -74,3 +74,7 @@ Digital Apollo examines the design and execution of each of the six Apollo moon 
 *Author*: James Hansen. Got this (updated) edition after sitting through the very disappointing film First Man.
 
 I have a few others, but that will do.
+
+---
+
+> [!info] Original Published Date : *2020-04-20*

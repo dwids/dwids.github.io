@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:00:31.000Z
 title: Alfred Hotel (former) - 92 Stevedore Street, Williamstown
 draft: false
 slug: alfred-hotel-former-92-stevedore-street-williamstown
-tags: ["Williamstown History"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Alfred Hotel (former) - 92 Stevedore Street, Williamstown
@@ -43,3 +43,7 @@ Most of this information came from Reference [1]. For copyright reasons, I’m o
 ## References
 
 [1] Hobsons Bay Heritage Study Amended 2010 &#8211; Volume 3 – Heritage Precinct and Place Citations. Part 2 – Heritage Places – 92 Stevedore Street, Williamstown
+
+---
+
+> [!info] Original Published Date : *2014-09-14*

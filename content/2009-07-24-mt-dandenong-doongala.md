@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:02:40.000Z
 title: Mt Dandenong – Doongala
 draft: false
 slug: mt-dandenong-doongala
-tags: ["bushwalks","dandenongs"]
+tags: ["bushwalks"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Mt Dandenong – Doongala
@@ -31,3 +31,7 @@ Here’s a [Google Map](http://maps.google.com.au/maps/ms?ie=UTF8&amp;hl=en&amp;
 And a [few photos](http://www.flickr.com/photos/artwill/sets/72157622345260203/detail/) up there at Flickr.
 
 <July 24th 2009>
+
+---
+
+> [!info] Original Published Date : *2009-07-24*

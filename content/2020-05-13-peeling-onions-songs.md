@@ -4,7 +4,7 @@ lastmod: 2024-10-18T21:15:53.000Z
 title: Peeling Onions (sad songs)
 draft: false
 slug: peeling-onions-songs
-tags: ["songs"]
+tags: ["music"]
 cover:
     image: /images/2024/10/sadsongs.jpg
     alt: Peeling Onions (sad songs)
@@ -33,4 +33,8 @@ Check out the comments on OoToobe. Some people want this to be our national anth
 
 As if this 1971 song wasn’t sad enough, the killer lines – when his *ship pulled into Circular Quay* – just rip me apart. It was looking back at WWI. But, given the time he wrote it, I’d assumed what it may have been also alluding to…and it seems I had guessed right. [He has said](https://en.wikipedia.org/wiki/And_the_Band_Played_Waltzing_Matilda?ref=davidphoto.org) “I wrote it as an oblique comment on the Vietnam War which was in full swing”.
 
-I know there’s been covers. This is the original, by the bloke who wrote it and the one I grew up with. #seriouslyDontBother 🙂
+I know there’s been covers. This is the original, by the bloke who wrote it and the one I grew up with. Seriously don't bother 🙂
+
+---
+
+> [!info] Original Published Date : *2020-05-13*

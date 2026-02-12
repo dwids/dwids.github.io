@@ -4,7 +4,7 @@ lastmod: 2024-11-21T22:42:18.000Z
 title: Family History - Trivia and Dates
 draft: false
 slug: family-history-trivia-and-dates-2
-tags: ["familyhistory"]
+tags: ["general"]
 cover:
     image: https://media.istockphoto.com/id/1391392232/photo/papers-with-family-tree-templates-pencil-photos-and-glasses-on-wooden-table-closeup.webp?a=1&b=1&s=612x612&w=0&k=20&c=JayNEuzZ15HUjKyCI5E3StJaVRfwqg6jkfyRbhZNJ1o=
     alt: Family History - Trivia and Dates
@@ -73,3 +73,7 @@ Unless stated, information from [Wikipedia](https://en.wikipedia.org/wiki/Centen
 *Hookesy?*. [This photo](https://consumer.licensing-publishing.nine.com.au/archive/2ITHRGR9UU_U) says "Centenary Test, Australia v England, Melbourne , MCG, 17 March 1977. David Hookes hits 5 consecutive fours off English Bowler Tony Grieg."  But that was Day 5 and Australia didn't bat.  The photos - and another [NFSA video](https://www.nfsa.gov.au/collection/curated/highlights-centenary-test) - show a packed MCG. Wikipedia (ibid) says of Day One "Hookes played a brief cameo of 17 runs from 19 balls, but it was not a day for fast scoring. Wicketkeeper Rod Marsh joined his captain Greg Chappell"  but the video says Marsh joined Hookes (who then hit the fours) before the 'huge crowd'.
 
 Oops It was there all the time; Wikipedia (ibid) says it, for Day Three as well:  "Hookes and Marsh came together, and the débutant Hookes cut loose by belting Greig for five consecutive boundaries to pass 50, one of the most famous passages of play in the match"
+
+---
+
+> [!info] Original Published Date : *2024-10-18*

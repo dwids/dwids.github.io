@@ -4,7 +4,7 @@ lastmod: 2024-11-21T22:17:07.000Z
 title: Me and Movies
 draft: false
 slug: me-and-movies
-tags: ["Movies"]
+tags: ["movies"]
 cover:
     image: https://images.unsplash.com/photo-1440404653325-ab127d49abc1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDd8fG1vdmllJTIwcmV2aWV3fGVufDB8fHx8MTczMTk5NjUzNXww&ixlib=rb-4.0.3&q=80&w=720
     alt: Me and Movies
@@ -16,3 +16,7 @@ I realised today it&#8217;s been 10 years since I started writing Internet movie
 Anyway, IMDB and others, even back in 1996, harvested the Usenet posts and put them up on their web site. So here&#8217;s an [IMDB listing](http://www.imdb.com/ReviewsBy?David+Sidwell) of my reviews of *Shine, Chopper* etc.
 
 Plus this here blog you are reading has [some movie thoughts ](__GHOST_URL__/?cat=3)and related too.
+
+---
+
+> [!info] Original Published Date : *2006-11-06*

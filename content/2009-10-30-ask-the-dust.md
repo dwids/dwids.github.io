@@ -21,3 +21,6 @@ Borrowed from the local library. Thanks to Marieke et al on the First Tuesday Bo
 -L.jpg" width="200" align="left">
 
 <img src="https://covers.openlibrary.org/b/isbn/`=this.isbn`-L.jpg" width="200" align="left" style="margin-right: 0;">
+---
+
+> [!info] Original Published Date : *2009-10-30*

@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:02:39.000Z
 title: Mt Dandenong highlights walk – take 1 (steep shortcut)
 draft: false
 slug: mt-dandenong-highlights-walk-take-1-steep-shortcut
-tags: ["bushwalks","dandenongs"]
+tags: ["bushwalks"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Mt Dandenong highlights walk – take 1 (steep shortcut)
@@ -37,3 +37,7 @@ Mmm. Need to think more about how to get back from Doongalla to the car. Maybe j
 Anyway here’s the [Google Earth file](http://dl.getdropbox.com/u/1569889/Mt%20Dandenong%20Highlights%20logged.kmz) to explore in 3D.
 
 <Oct 4th 2009>
+
+---
+
+> [!info] Original Published Date : *2009-10-04*

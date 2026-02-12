@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:03:52.000Z
 title: "Digital TV to XviD : 30,000 foot view"
 draft: false
 slug: digital-tv-to-xvid-30000-foot-view-2
-tags: ["Entertainment","Technology"]
+tags: ["entertainment","technology"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: "Digital TV to XviD : 30,000 foot view"
@@ -26,3 +26,7 @@ All software is for Windows. I think all are open source; they certainly are fre
 * I then set the required quality (bit rate) &#8211; usually between 750 (for hardly-anything-in-the-frame-moving chat shows) and 1800 (for fast moving sports etc). Then the frame size (either 576&#215;320 or 608&#215;336) and set it off.
 
 Takes about 40 mins all up for a 30 minute show, including zapping ads. Probably closer to 30 mins in no zap mode.
+
+---
+
+> [!info] Original Published Date : *2005-09-26*

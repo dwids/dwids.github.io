@@ -4,7 +4,7 @@ lastmod: 2024-11-19T06:03:52.000Z
 title: "Zero ideas: Reflections on nothing"
 draft: false
 slug: zero-ideas-reflections-on-nothing
-tags: ["Maths"]
+tags: ["maths"]
 cover:
     image: https://images.unsplash.com/photo-1509228468518-180dd4864904?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDV8fG1hdGhzfGVufDB8fHx8MTczMTk5NjIyNHww&ixlib=rb-4.0.3&q=80&w=2000
     alt: "Zero ideas: Reflections on nothing"
@@ -60,3 +60,7 @@ I wonder what came first, negative numbers (&#8220;I owe you 2 goats&#8221;) or 
  
 
  
+
+---
+
+> [!info] Original Published Date : *2020-05-18*

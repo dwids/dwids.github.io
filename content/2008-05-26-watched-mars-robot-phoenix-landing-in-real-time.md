@@ -22,3 +22,7 @@ And boy was it tense. As you may know Mars is so far away that even at the speed
 It was fascinating to see the reaction of the NASA controllers as the reports came in &#8216;live&#8217;. Parachutes deployed. Radar had found the ground. 5 meters to go. Touchdown.
 
 I was about to turn blue, but was soon breathing again.
+
+---
+
+> [!info] Original Published Date : *2008-05-26*

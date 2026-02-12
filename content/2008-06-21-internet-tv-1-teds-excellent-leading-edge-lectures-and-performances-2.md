@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:36:00.000Z
 title: Internet TV 01 - TEDs Excellent leading edge lectures and performances
 draft: false
 slug: internet-tv-1-teds-excellent-leading-edge-lectures-and-performances-2
-tags: ["IPTV"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Internet TV 01 - TEDs Excellent leading edge lectures and performances
@@ -24,3 +24,7 @@ It&#8217;s best explained by themselves via direct quotes from their web site
 So these fascinating talks are now on line and can be accessed via their [web site](http://www.ted.com/) or subscribed to in iTunes etc. The ones I&#8217;ve grabbed and watched have been excellent; notes from the early computer development, deep multi-week caving explorations (and their relevance to exploring other planets), using the Wii controller for 2 very clever, non-game purposes.  
 
 Yeah it&#8217;s not really TV as you download and not stream, but I do watch them on my TV.![](/images/wordpress/2021/02/ted_logo.gif)
+
+---
+
+> [!info] Original Published Date : *2008-06-21*

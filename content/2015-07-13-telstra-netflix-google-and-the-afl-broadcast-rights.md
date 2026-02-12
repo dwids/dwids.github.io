@@ -21,3 +21,7 @@ I have zero inside knowledge. Just bringing together some threads from the recen
 So here’s my speculation as of 8:05am on Monday July 13th 2015:
 
 [![image](/images/wordpress/2021/02/8031f-image_thumb.png)](https://dwids.wordpress.com2020/03/d3622-image.png)
+
+---
+
+> [!info] Original Published Date : *2015-07-13*

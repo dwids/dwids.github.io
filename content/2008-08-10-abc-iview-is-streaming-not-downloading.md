@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:02:49.000Z
 title: ABC iView is streaming not downloading
 draft: false
 slug: abc-iview-is-streaming-not-downloading
-tags: ["iview","TV and Streaming"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: ABC iView is streaming not downloading
@@ -35,3 +35,7 @@ I&#8217;m sure the ABC had a choice; let us download the whole show but have it 
 I have tried iView and the video quality is just okay. Maybe it was my connection; it was better than (standard) YouTube but not even really VHS tape quality. It a bit blocky and seemed to use a low frame rate, so it the picture &#8216;jerked&#8217;.  But hey, it&#8217;s version 1 and week 1. Give them time. 
 
 Technorati Tags: [iView](http://technorati.com/tags/iView)
+
+---
+
+> [!info] Original Published Date : *2008-08-10*

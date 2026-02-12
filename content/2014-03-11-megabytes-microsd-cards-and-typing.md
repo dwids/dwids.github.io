@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:01:04.000Z
 title: Megabytes, microSD cards and typing
 draft: false
 slug: megabytes-microsd-cards-and-typing
-tags: ["Maths"]
+tags: ["maths"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Megabytes, microSD cards and typing
@@ -22,3 +22,7 @@ One byte of storage is 1 typed character on the screen/page.
 My phone&#8217;s microSD card is tiny (11mm x 15mm) and yet holds 32 GB.  That is 16 million typed pages. 
 
 The poor old Encyclopedia Britannica was about 33,000 printed pages.  So the little phone memory card holds about 484 Britannicas worth of data.
+
+---
+
+> [!info] Original Published Date : *2014-03-11*

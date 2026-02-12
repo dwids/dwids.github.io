@@ -4,7 +4,7 @@ lastmod: 2024-11-22T05:58:57.000Z
 title: "Photo Mystery 1 : Solved"
 draft: false
 slug: photo-mystery-1-solved
-tags: ["Cricket","Photography","Sport"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: "Photo Mystery 1 : Solved"
@@ -39,3 +39,7 @@ To confirm, I randomly picked &#8216;Henry&#8217; Lawson&#8217;s figures.  Well 
 So: it was The 10th ODI of that Benson & Hedges (cough!) World Series Cup tournament and played on **Sunday, January 10th, 1982** at the MCG. The Windes won by 5 wickets (with 17 balls remaining).  
 
 Can&#8217;t yet find the attendance, but it looked well over 80,000.  You could imagine the din with most of them chanting &#8220;Lil-lee&#8221; in unison.   Just 5 years before that, I&#8217;d heard that same chant at the Centenary Test, as a 15 year old.  That was the match &#8211; and probable moment &#8211; where I fell in love with cricket. That or the huge crowd &#8216;encouraging&#8217;  an English bowler with &#8220;Willis, Willis, Weak as Pi$$&#8221;.  I kid you not.
+
+---
+
+> [!info] Original Published Date : *2020-04-23*

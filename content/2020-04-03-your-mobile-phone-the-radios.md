@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:27:53.000Z
 title: Your Mobile Phone - The 'radios'
 draft: false
 slug: your-mobile-phone-the-radios
-tags: ["phones","tablets","wifi"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Your Mobile Phone - The 'radios'
@@ -108,3 +108,7 @@ Each active Radio uses the phone&#8217;s battery, so if you don&#8217;t need one
 - GPS usally **off**. Only turned on for navigation or hike logging&#8230;or if some other app really needs it. 
 
 On my Android phone at least, it&#8217;s swipe down at the top and menu appears, where there are on-off icons for most of these. Google away to find how you do it for your device. 
+
+---
+
+> [!info] Original Published Date : *2020-04-03*

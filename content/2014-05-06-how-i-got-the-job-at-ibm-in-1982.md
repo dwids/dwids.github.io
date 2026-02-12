@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:00:22.000Z
 title: How I got the job at IBM in 1982
 draft: false
 slug: how-i-got-the-job-at-ibm-in-1982
-tags: ["About_me"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: How I got the job at IBM in 1982
@@ -36,3 +36,7 @@ IBM moved quickly. The funny thing was I had the job confirmed, in writing, befo
 So on January 10th 1983, I put on my Roger David blue suit (with regulation white shirt and red tie) and marched up the stairs of 60 Market St, to begin work in the prestigious Finance and Retail branch of IBM.  It was a shock as we were **all** graduates, but it was clear we were at the bottom of the ladder in there. It was literally back to school, for a solid year of graduate training. An invaluable experience. I still refer to it today, 30+years on.
 
 The irony is that – through no great plan – I am now doing just what Professor Bolton said I would: Technical Communications (Documentation, Training etc). And somewhat akin to “Technical Journalist”. 
+
+---
+
+> [!info] Original Published Date : *2014-05-06*

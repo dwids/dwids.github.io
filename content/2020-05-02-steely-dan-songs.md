@@ -4,7 +4,7 @@ lastmod: 2024-11-21T22:44:37.000Z
 title: "Steely Dan: Songs"
 draft: false
 slug: steely-dan-songs
-tags: ["artist"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1682745684850-7229f196b0c9?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bXVzaWNpYW5zfGVufDB8fDB8fHww
     alt: "Steely Dan: Songs"
@@ -63,3 +63,7 @@ https://youtu.be/HV3zWSawJiw
 The two chaps were very literate and their band was named after Steele Rudd the Australian writer (he wrote the *Dad and Dave* series) and Daniel Defoe, he of *Robinson Crusoe* fame.
 
 That is a complete lie. I can&#8217;t say who/what they are really named after as this is a PG-Rated Blog. Off you go to Ms Google, kiddies 🙂
+
+---
+
+> [!info] Original Published Date : *2020-05-02*

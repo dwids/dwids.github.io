@@ -65,3 +65,7 @@ Camera Raw images record all the information that the sensor saw; A .jpg compres
 Up until recently Camera Raw was the domain of the &#8216;stand alone&#8217; cameras. But a recent update to Android makes it available to phones, assuming your phone’s camera can support it. Mine does; being from Google – who make Android – helps
 
 You will need speciality software to properly process/edit Camera Raw images. Some of it is free and some costs money (Lightroom and Photoshop). It&#8217;s a step up and has a learning curve, but the results are well w[o](https://youtu.be/XedDyR0opow)rth [i](https://youtu.be/N4ltLp30KVs)t. 
+
+---
+
+> [!info] Original Published Date : *2020-05-28*

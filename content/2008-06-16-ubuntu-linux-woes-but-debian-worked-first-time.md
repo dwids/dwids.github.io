@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:03:11.000Z
 title: "Ubuntu Linux woes: but Debian worked first time"
 draft: false
 slug: ubuntu-linux-woes-but-debian-worked-first-time
-tags: ["Linux"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: "Ubuntu Linux woes: but Debian worked first time"
@@ -20,3 +20,7 @@ Then it totally failed on first boot. An error about the disk being too big for 
 The web solution: re-install and manually create a /boot partition at the physical start of the disk. I wasn&#8217;t going to wait another few hours, so I gave up on Ubuntu for this &#8216;simple&#8217; install.  Maybe Ubuntu isn&#8217;t really designed for this sort of thing and therefore I should share part of the blame.
 
 Following morning it was back to Ubuntu&#8217;s older, wiser brother, Debian Linux. Opted for network install ; my ISP allows &#8216;free&#8217; access to their Debian archives in terms of monthly usage quota. Within about 1 hour, I had a booted CLI system. Not long after that I had SAMBA installed and was backing up the Windows PC&#8217;s files to my new Debian server&#8230;.
+
+---
+
+> [!info] Original Published Date : *2008-06-16*

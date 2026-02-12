@@ -4,7 +4,7 @@ lastmod: 2024-11-22T05:55:58.000Z
 title: On the Trail of Captain Blowhard (2001)
 draft: false
 slug: on-the-trail-of-captain-blowhard-2001
-tags: ["Gold Rush"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: On the Trail of Captain Blowhard (2001)
@@ -69,3 +69,7 @@ Adventurer Map series from Paoletti&#8217;s Maps and Videos Pty Ltd
 **[1] **This was the route I took from Woods Point the *first* time I went into the site of Jericho. It&#8217;s the *Victor Spur Track.* Later on I used the much shorter *Jericho Track*. On this first trip, I did try and find the Jericho Track, but turns out the sign had been removed.
 
 On my *second* trip, I did get conflicting advice re: Jericho Track. One bloke &#8211; to be fair he was miles away at Tralagon &#8211; remembered it as being very steep and &#8220;in first gear the whole time&#8221;. Mmmm. Later that same day a &#8216;local&#8217; &#8211; to wit the bloke at the Woods Point Store &#8211; said it was quiet easy. He was right.
+
+---
+
+> [!info] Original Published Date : *2020-05-26*

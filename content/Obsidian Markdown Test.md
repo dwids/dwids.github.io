@@ -73,8 +73,6 @@ And this is a block quote with attribution. I don't use these.
 
 \- Albert Einstein
 
-#tips
-
 https://exiftool.org/forum/index.php?topic=11412.0.
 
 ## Footnotes

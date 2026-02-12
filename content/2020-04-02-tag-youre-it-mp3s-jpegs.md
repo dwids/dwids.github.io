@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:42:56.000Z
 title: Tag, you're it (mp3s, jpegs)
 draft: false
 slug: tag-youre-it-mp3s-jpegs
-tags: ["Freelance","metadata","tags"]
+tags: ["freelance"]
 cover:
     image: https://images.unsplash.com/photo-1585621243952-f68eae991dd6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDd8fG5ld3NwYXBlcnxlbnwwfHx8fDE3MzIyMDc3MzN8MA&ixlib=rb-4.0.3&q=80&w=720
     alt: Tag, you're it (mp3s, jpegs)
@@ -51,3 +51,7 @@ Later, we can go to the search engine&#8217;s site and type in one or more of th
 > It was originally written by me about October 2005.  It was published in The Age. (My byline has been removed it seems) . Minor edits made today. [https://www.theage.com.au/technology/tag-youre-it-20051006-gdm6ub.html](https://www.theage.com.au/technology/tag-youre-it-20051006-gdm6ub.html)
 
 **2020 Quick Update**:  The search (indexing) engines are much more sophisticated now.  Some of the software mentioned above isn&#8217;t available now.  But metadata (tags) are more important &#8211; and useful &#8211; than ever. 
+
+---
+
+> [!info] Original Published Date : *2020-04-02*

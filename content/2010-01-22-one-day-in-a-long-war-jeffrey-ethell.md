@@ -4,7 +4,7 @@ lastmod: 2024-11-21T21:20:48.000Z
 title: One Day in a Long War - Jeffrey Ethell
 draft: false
 slug: one-day-in-a-long-war-jeffrey-ethell
-tags: ["books"]
+tags: ["general"]
 cover:
     image: https://images.unsplash.com/photo-1505063366573-38928ae5567e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDh8fGJvb2tzfGVufDB8fHx8MTczMjE3MzU1NHww&ixlib=rb-4.0.3&q=80&w=720
     alt: One Day in a Long War - Jeffrey Ethell
@@ -21,3 +21,7 @@ Out of print and obtained 2nd hand from Better World Books
 
 
 
+
+---
+
+> [!info] Original Published Date : *2010-01-22*

@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:04:03.000Z
 title: Digital TV - How Australia got it wrong
 draft: false
 slug: digital-tv-how-australia-got-it-wrong
-tags: ["Entertainment","Technology"]
+tags: ["entertainment","technology"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Digital TV - How Australia got it wrong
@@ -38,3 +38,7 @@ The government changed two things at once and the issues became clouded. The ben
 Techno-hindsight is bordering on arrogance, but it&#8217;s not too late. We  should have had Standard Definition Digital TV announced first. The &#8220;DVD Quality picture on your current TV&#8221; message would have won over hearts and minds. Clear, widescreen images, with digital sound. Let it bed down for a few years. Then &#8211; and only then &#8211; announce High Definition.
 
 To my way of thinking Standard Definition should be relaunched with just such a theme. No major changes, just get the message out. *SD : It&#8217;s clear, not dear and here.*
+
+---
+
+> [!info] Original Published Date : *2005-04-29*

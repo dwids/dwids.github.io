@@ -4,7 +4,7 @@ lastmod: 2024-11-21T22:17:08.000Z
 title: "Great Movie Spoils - no Spoilers :-)"
 draft: false
 slug: great-movie-spoils-no-spoilers
-tags: ["Movies"]
+tags: ["movies"]
 cover:
     image: https://images.unsplash.com/photo-1440404653325-ab127d49abc1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDd8fG1vdmllJTIwcmV2aWV3fGVufDB8fHx8MTczMTk5NjUzNXww&ixlib=rb-4.0.3&q=80&w=720
     alt: "Great Movie Spoils - no Spoilers :-)"
@@ -24,3 +24,7 @@ It&#8217;s sort of a mystery film and now we all know who lives!
 A similar thing had happened a decade ago, when a friend saw Basic Instinct before I did. I asked her what it was like and was told &#8220;really good, except you never know if Sharon Stone is really killing them&#8230;&#8221;. Oh dear.
 
 Mark S from Monash, if you are out there you may be having a quiet laugh. I do believe after seeing The Empire Strikes Back, you and I walked out passed the queue waiting to go in. I do believe the following words were jointly spoken, out loud: &#8220;Wow, I can&#8217;t believe that Leia is Luke&#8217;s mother&#8230;.&#8221;
+
+---
+
+> [!info] Original Published Date : *2004-05-17*

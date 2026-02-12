@@ -25,3 +25,7 @@ As usual some fascinating items turned up, including:
 - Commodore Amiga Midi interface (to talk to my old Roland keyboard) and an Amiga joystick.
 - Two Iomega Zip drives (all old Zip drive content archived off some years ago). These babies were a marvel. They came after floppies but before CD took off. A floppy could hold 1.44 MB – the reusable Zip drive about 100MB!  CDs came later and were about 600 MB.  
 - The last film-era 35mm camera lens. This one had somehow missed the fate of it’s brethren and was found hiding in a cupboard. If glass could cry, this would be gently sobbing.  
+
+---
+
+> [!info] Original Published Date : *2013-06-23*

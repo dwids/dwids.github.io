@@ -18,3 +18,7 @@ After the robot arm grabs a sample of soil, it&#8217;s sifted a bit. Actually it
 Another way is too look. And to my surprise, Phoenix has a microscope on board too.  So the robotic arm can place a sample under the microscope and the images sent back to Earth.
 
 Compared to earlier probes this one has another advantage. The previous ones had to send their signals directly back to Earth and that took a fair amount of power. We now have a few satellites in orbit around Mars and they can relay signals to and from Phoenix. So the probe needs less power. Clever, eh? 
+
+---
+
+> [!info] Original Published Date : *2008-06-20*

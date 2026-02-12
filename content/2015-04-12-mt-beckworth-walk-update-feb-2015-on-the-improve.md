@@ -99,3 +99,7 @@ I should say: as far as I know – after 3 trips – I can find no obvious *Go T
 Clearly there are other ways.  And part 2 of 2 is next. The green bit on the LHS is Mt Beckworth. Follow the signs to Cork Oaks, viz. turn right:
 
 [![Screenshot_20150412_163821](/images/wordpress/2021/02/0e2a5-screenshot_20150412_163821_thumb.png)](https://dwids.wordpress.com2020/03/e6e88-screenshot_20150412_163821.png)
+
+---
+
+> [!info] Original Published Date : *2015-04-12*

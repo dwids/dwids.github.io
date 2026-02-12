@@ -1,18 +1,14 @@
 ---
 date: 2020-04-25T10:18:33.000Z
 lastmod: 2024-11-21T22:42:18.000Z
-title: "ANZAC Day: Golden Wisps of Pale Men [2004]"
+title: "ANZAC Day: Golden Wisps of Pale Men (2004)"
 draft: false
 slug: anzac-day-golden-wisps-of-pale-men
-tags: ["familyhistory"]
+tags: ["creative"]
 cover:
     image: https://media.istockphoto.com/id/1391392232/photo/papers-with-family-tree-templates-pencil-photos-and-glasses-on-wooden-table-closeup.webp?a=1&b=1&s=612x612&w=0&k=20&c=JayNEuzZ15HUjKyCI5E3StJaVRfwqg6jkfyRbhZNJ1o=
     alt: "ANZAC Day: Golden Wisps of Pale Men [2004]"
 description: 
----
-
-(From the archive. Originally published as *Golden Wisps of Pale Men* &#8211; *Reflections upon ANZAC Day 2004*)
-
 ---
 
 I went in search of gold and there, in the filtered light, I found the leg.
@@ -33,7 +29,7 @@ So I&#8217;m in the shed. One eye on the oil paints and turpentine, the other lo
 
 It&#8217;s a tangible, but very sad, link back to Singapore. To the photos, the war and what he – and his mates &#8211; went through. I dusted it off and gently put it back to its resting place. I&#8217;ve never seen it again.
 
-![](/images/wordpress/2021/02/download-8.jpg)
+
 
 I recently had cause to think of all of this. I&#8217;ve parked in South Melbourne on Boxing Day 2003. My plan is to walk through the gardens, past the Music Bowl and down the hill towards the MCG for the Test. I glance up and I&#8217;m standing, surrounded by sunshine and silence, at the feet of Sir Edward “Weary” Dunlop.
 
@@ -41,4 +37,9 @@ I&#8217;m not even sure if Sir Edward operated on my Great Uncle, but it makes n
 
 Behind him I can nearly see the thousands of pale and wispy men in uniforms. I scan them until I find what I&#8217;m looking for. Two men. One with a paint brush in his hand, the other limping. They&#8217;re chatting away about fishing, gold panning and travel; unaware of what I owe them. They fade and fade, but never vanish.
 
+
+![](/images/wordpress/2021/02/download-8.jpg)
+
 ---
+
+> [!info] Original Published Date : *2020-04-25*

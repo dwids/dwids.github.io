@@ -37,3 +37,7 @@ As for how I did this, well it took a while.  I&#8217;m sure that **Stellarium *
 The free and excellent video/audio toolkit **ffmpeg** was used to merge the 50+ images into a video. It was one command, repeat, *one*. And on Windows.
 
 The last step was to use the free and magical **DaVinci Resolve** video editor to tidy things up, add the second copy of the video (to annotate with months), then finish up by adding the text & music.
+
+---
+
+> [!info] Original Published Date : *2020-04-24*

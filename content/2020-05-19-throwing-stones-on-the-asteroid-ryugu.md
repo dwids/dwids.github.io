@@ -4,7 +4,7 @@ lastmod: 2024-11-21T21:49:57.000Z
 title: Throwing stones on the asteroid Ryugu
 draft: false
 slug: throwing-stones-on-the-asteroid-ryugu
-tags: ["physics"]
+tags: ["general"]
 cover:
     image: https://media.istockphoto.com/id/1866121335/photo/physics-and-mathematics.webp?a=1&b=1&s=612x612&w=0&k=20&c=H7TaANI15HDuZmLSsuyAPlc7Bb9YEtQrpOtp5QtgOtc=
     alt: Throwing stones on the asteroid Ryugu
@@ -47,3 +47,7 @@ I also think if I did throw it when standing on the asteroid &#8211; thanks to N
  
 
  
+
+---
+
+> [!info] Original Published Date : *2020-05-19*

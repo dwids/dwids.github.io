@@ -4,7 +4,7 @@ lastmod: 2024-11-21T22:14:55.000Z
 title: Podcast list - July 2008
 draft: false
 slug: podcast-list-july-2008
-tags: ["podcasts"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1664195074951-fe91ec456eed?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cG9kY2FzdHxlbnwwfHwwfHx8MA%3D%3D
     alt: Podcast list - July 2008
@@ -51,3 +51,7 @@ I reckon I&#8217;d weigh 15 kilograms more if it wasn&#8217;t for [Podcasts](htt
 ### Abandoned!
 
 - *Movie Time* (ABC). In their enthusiasm for films, they gave away too many plot points &#8211; spoilers &#8211; for me.  Unforgivable!
+
+---
+
+> [!info] Original Published Date : *2008-07-16*

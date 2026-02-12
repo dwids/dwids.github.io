@@ -18,3 +18,7 @@ My one trick, discovered 2 years ago when I really did get the flu, was to sleep
 Back nearly 20 years ago I got a bad bad cough whilst on a holiday in the Middle East and it really wasn&#8217;t treated. A few weeks after getting back, the doctors here said it was most probably Whooping Cough (!)    They said that if they&#8217;d known **that** at the time, I probably would have gone into quarantine (!!)
 
 So perhaps the fine tubes or lining of my lungs were damaged and this makes me more susceptible to a post-cold, dry un-productive cough. No, I don&#8217;t smoke!
+
+---
+
+> [!info] Original Published Date : *2008-07-16*

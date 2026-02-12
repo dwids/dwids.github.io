@@ -4,7 +4,7 @@ lastmod: 2024-11-21T21:51:57.000Z
 title: Making maps with QGIS
 draft: false
 slug: making-maps-with-qgis
-tags: ["Maps"]
+tags: ["general"]
 cover:
     image: https://media.istockphoto.com/id/474951754/photo/melbourne.webp?a=1&b=1&s=612x612&w=0&k=20&c=DC6xnkY6FCyaHEtHV41E1r4Sxsb3QQF5cmvs9Gdg10k=
     alt: Making maps with QGIS
@@ -18,3 +18,7 @@ I stick to [UTM ](https://en.wikipedia.org/wiki/Universal_Transverse_Mercator_co
 [![](/images/wordpress/2023/02/Murrindindi-River-Walk-A4_portrait_UTMgrid-212x300.png)](/images/wordpress/2023/02/Murrindindi-River-Walk-A4_portrait_UTMgrid.png)Murrindindi River Walk A4_portrait_UTMgrid. Click on this to show full size
 
 All of this &#8211; the software and the underlying map/data &#8211; are from legally free sources.  Not only that, but you can easily create a geo-referenced PDF; one that has the coordinates stored within in it. You can then use that with software like [Avenza](https://www.avenza.com/avenza-maps/) and navigate without an internet connection.
+
+---
+
+> [!info] Original Published Date : *2023-02-01*

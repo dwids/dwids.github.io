@@ -26,3 +26,7 @@ Off the top of my head, things like:
 - How Stuff Works (aka Explainers) &#8211; maybe with suggestions from my 10s of readers.
 - How to Do Tech Stuff  (Basic coding, well not BASIC but Python :-),   GPS navigation with a paper map)
 - Next Level Tech Stuff (Excel user functions, Regular Expressions in the Real World)
+
+---
+
+> [!info] Original Published Date : *2020-03-22*

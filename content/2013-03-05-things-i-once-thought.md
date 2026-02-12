@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:01:05.000Z
 title: Things I once thought
 draft: false
 slug: things-i-once-thought
-tags: ["I Once Thought"]
+tags: ["once-thought"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Things I once thought
@@ -28,3 +28,7 @@ It was a genuine shock to discover it goes the other way.
 ## # 2 There are no waves at the surf beaches in Winter
 
 We hardly went to the beach at all. If we did, it was in Summer. Somehow, by a pre-teen exercise in Boolean logic,  I deduced there were therefore no waves in Winter.  I can sort of see where I was going. Sort of.
+
+---
+
+> [!info] Original Published Date : *2013-03-05*

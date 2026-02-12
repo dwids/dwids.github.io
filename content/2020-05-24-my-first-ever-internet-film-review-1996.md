@@ -4,7 +4,7 @@ lastmod: 2024-11-21T22:17:06.000Z
 title: My first ever Internet film review (1996)
 draft: false
 slug: my-first-ever-internet-film-review-1996
-tags: ["Movies"]
+tags: ["movies"]
 cover:
     image: https://images.unsplash.com/photo-1440404653325-ab127d49abc1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDd8fG1vdmllJTIwcmV2aWV3fGVufDB8fHx8MTczMTk5NjUzNXww&ixlib=rb-4.0.3&q=80&w=720
     alt: My first ever Internet film review (1996)
@@ -70,3 +70,7 @@ David Sidwell
 e-mail:        dsid…@connexus.apana.org.au
 
 WWW:          [http://connexus.apana.org.au/~dsidwell](http://connexus.apana.org.au/~dsidwell)
+
+---
+
+> [!info] Original Published Date : *2020-05-24*

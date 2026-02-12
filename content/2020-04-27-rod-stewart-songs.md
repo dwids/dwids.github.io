@@ -4,7 +4,7 @@ lastmod: 2024-11-21T22:44:38.000Z
 title: "Rod Stewart: songs"
 draft: false
 slug: rod-stewart-songs
-tags: ["artist","band"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1682745684850-7229f196b0c9?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bXVzaWNpYW5zfGVufDB8fDB8fHww
     alt: "Rod Stewart: songs"
@@ -14,7 +14,7 @@ description:
 I have two key memories of Rod from when I was younger:
 
 1. My parents were members of some sort of record club, in the early 70s. They&#8217;d get these great colour catalogues posted to them.  I used to look at them and see the band *Faces *and think their album covers were strange and &#8211; it follows, logically &#8211; I wouldn&#8217;t like them. Rod was lead singer (but I didn&#8217;t know that then).
-2. *Tonight&#8217;s The Night.* Oh, dear. #getMeAfBucket 🙂
+2. *Tonight&#8217;s The Night.* Oh, dear. getMeAfBucket 🙂
 
 But, to be honest, in the time between 1) and 2), *Maggie May* appeared on my radar. And what a welcome musical ech[o](https://youtu.be/53N99Nim6WE) that was.  In the years since, I&#8217;ve rediscovered his earlier stuff, including *Faces*.  Here&#8217;s a quick sample, most of which are from the same year (!):
 
@@ -43,3 +43,7 @@ Just a year beforehand, The Beatles had done a quick/truncated version of Maggie
 ## Tonight&#8217;s The Night (solo &#8211; 1976)
 ![](/images/wordpress/2021/02/image-36.png)
 Link [here](https://youtu.be/dQw4w9WgXcQ).
+
+---
+
+> [!info] Original Published Date : *2020-04-27*

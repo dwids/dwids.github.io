@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:03:11.000Z
 title: Backing up with Areca
 draft: false
 slug: backing-up-with-areca
-tags: ["backup","Linux"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Backing up with Areca
@@ -24,3 +24,7 @@ The music files are another 80 GB.  The above external drive it getting a bit fu
 For the remote (network) drive and the external USB2 drive, I use the free, open source program [Areca Backup](http://areca.sourceforge.net/) to, umm, back up the nominated PC folders. Works a treat and recommended.
 
 One hiccup is an apparent Windows limitation.  If your c:completefilenameincludingpathis.very.long (more than 256 characters) for either the &#8220;from&#8221; or &#8220;to&#8221; file, Areca stops, due to this Windows problem.  In fact my remote servers &#8216;path&#8217; was initially a UNC one \servernamesharebackupFolder  Hence adding lots of characters. I simply created a SAMBA share direct to this backupFolder and mapped a new drive to it. The above UNC name now simply becomes K:   All okay now.
+
+---
+
+> [!info] Original Published Date : *2008-06-15*

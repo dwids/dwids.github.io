@@ -55,3 +55,7 @@ The last main thing is the *aide-mémoire*.  Latitude lines are horizontal relat
 I can’t draw. Normally I’d use Visio, but currently don’t have it as it’s licensed monthly and I don’t need it.  Also, to be honest, it’s sometimes quicker to just get out a bit of scrap paper, my magical new [mechanical pencil](https://www.amazon.com.au/dp/B004OHNTVC/ref=pe_2361882_282382012_TE_item) … and my brilliant secret weapon:
 ![](/images/wordpress/2021/02/zoombig-mathomat_a44dcbf3-e79f-4737-96f6-3bb5ce2be1d4_grande.jpg)
 I don’t bother with the scanner, just photograph it/them and upload to Dropbox. Quick crop and brighten on the PC &#8211; in the free ‘viewer’ IrfanView &#8211; and we’re done.
+
+---
+
+> [!info] Original Published Date : *2020-05-27*

@@ -4,7 +4,7 @@ lastmod: 2025-01-21T21:28:01.000Z
 title: Navigation – Getting the basics right (Part 2)
 draft: false
 slug: navigation-getting-the-basics-right-part-2
-tags: ["GPS","navigation"]
+tags: ["navigation","navigation"]
 cover:
     image: https://images.unsplash.com/photo-1516503424803-708327384b90?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDN8fGNvbXBhc3N8ZW58MHx8fHwxNzMyMjI2NDM4fDA&ixlib=rb-4.0.3&q=80&w=2000
     alt: Navigation – Getting the basics right (Part 2)
@@ -33,3 +33,7 @@ Earlier I’d taken another photo, with the big camera, when the sun was out, th
 [![Red Bluff photo from Pt G small](/images/wordpress/2021/02/06cde-red-bluff-photo-from-pt-g-small_thumb.png)](https://dwids.wordpress.com2020/03/1c95e-red-bluff-photo-from-pt-g-small.png)
 
 Seems pretty right to me. Just need to work out what the two towers are. And don’t say “a book” ![Smile](/images/wordpress/2021/02/21c06-wlemoticon-smile.png)
+
+---
+
+> [!info] Original Published Date : *2016-06-26*

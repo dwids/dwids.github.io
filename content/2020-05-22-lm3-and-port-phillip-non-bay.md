@@ -4,7 +4,7 @@ lastmod: 2024-11-21T22:11:50.000Z
 title: LM3 and Port Phillip non-Bay
 draft: false
 slug: lm3-and-port-phillip-non-bay
-tags: ["history"]
+tags: ["creative"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1682125784386-d6571f1ac86a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8aGlzdG9yeXxlbnwwfHwwfHx8MA%3D%3D
     alt: LM3 and Port Phillip non-Bay
@@ -22,7 +22,13 @@ Her name is LM3. Sounds more like a robotic companion from a b-grade science fic
 The &#8220;lake&#8221; vanished thousands of years ago. It&#8217;s now a huge bowl in the desert off to the northeast of Mildura. A few other important skeletons [1] had been found there in the 1970s, but the rains of &#8217;73 exposed something quite interesting. The gender of earlier finds could be determined and they were given names like Mungo Man. This third major discovery &#8211; in 1974 &#8211; proved more difficult to classify [2] and was given the name generic tag of LM3.
 
 Evidence suggests that Lake Mungo back 62,000 years ago would have been a very nice place indeed. The lake would have been quite shallow and probably teeming with wildlife. A permanent larder of fish and fowl for LM3 and her friends and family.
-![DavidS_20051027_173416](/images/wordpress/2021/02/davids_20051027_173416.jpg)Lake Mungo. October 27th 2005. (Not in original article)
+
+<figure>
+  <img src="/images/wordpress/2021/02/davids_20051027_173416.jpg" alt="Lake Mungo. October 27th 2005. (Not in original article)">
+  <figcaption>Lake Mungo. October 27th 2005. (Not in original article)</figcaption>
+</figure>
+
+
 It is a quietly moving experience to travel to Mungo today and watch the sunset. Your car drops down into the lake bed. It seems to be only a few metres below the surrounds. Kangaroos and emus go hurtling past you, reflecting a drier version of LM3&#8217;s larder. You finally reach the eastern edge. Even now fragments of bone are visible on the &#8216;shore&#8217;. Look but don&#8217;t touch.
 
 As the sun sets over the dry bowl it puts things in context. Captain Cook did his stuff about 230 years ago. Some 7 generations have passed since then. LM3 was standing here over 2000 generations ago. Who knows how long before that her distant relatives arrived up North.
@@ -32,10 +38,19 @@ In a converse way, Lake Mungo 2001 has its parallels with Melbourne of 18,000 ye
 The Bay of 16,000 BC would have been a shallow depression, probably not even noticeable as the trees within it would have been taller than the dip. A mega-river flowed along the east side of this bowl, out through the two hills and off over the Bass Plains to &#8220;Tasmania&#8221;. The remanent it left behind is what we call the Yarra [3]
 
 The remains of LM3 have only recently been dated. Three different techniques were used and the combined results point[4] towards 62,000 years with an error of about 10%. Think about that. The error margin is 6200 years. Even this error margin predates the start of the great Egyptian civilisation by 1000 years.
-![DavidS_20051027_173228](/images/wordpress/2021/02/davids_20051027_173228.jpg)From the same 2005 trip.
+
+<figure>
+  <img src="/images/wordpress/2021/02/davids_20051027_173228.jpg" alt="From the same trip">
+  <figcaption>From the same trip (above)</figcaption>
+</figure>
+
 **References**
 
 [1] *Archaeology of the Dreamtime* Josephine Flood, 1988
  [2] *Australasian Science *magazine May 2000 p28-31
  [3] *Aboriginal Melbourne* Gary Presland 1994
  [4] It must be said that not all Archaeologists accept this figure
+
+---
+
+> [!info] Original Published Date : *2004*

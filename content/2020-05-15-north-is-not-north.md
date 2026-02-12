@@ -4,7 +4,7 @@ lastmod: 2024-11-21T21:51:58.000Z
 title: North is not North
 draft: false
 slug: north-is-not-north
-tags: ["Maps","navigation"]
+tags: ["navigation"]
 cover:
     image: https://media.istockphoto.com/id/474951754/photo/melbourne.webp?a=1&b=1&s=612x612&w=0&k=20&c=DC6xnkY6FCyaHEtHV41E1r4Sxsb3QQF5cmvs9Gdg10k=
     alt: North is not North
@@ -57,3 +57,7 @@ The approximate current values are:
 
 And check out the current world map showing the Magnetic Declination values from [Wikipedia](https://en.wikipedia.org/wiki/Magnetic_declination):
 ![](/images/wordpress/2021/02/page1-1024px-World_Magnetic_Declination_2015.pdf.jpg)
+
+---
+
+> [!info] Original Published Date : *2020-05-15*

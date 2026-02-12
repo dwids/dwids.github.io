@@ -24,3 +24,7 @@ It&#8217;s a magical place and one well worth visiting. Walk is basically:
 - Back down to cave
 - Go into cave &#8211; or around the back of it &#8211; to find out why it&#8217;s called Hollow Mountain
 - Back to car park
+
+---
+
+> [!info] Original Published Date : *2008-03-22*

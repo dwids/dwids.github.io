@@ -58,3 +58,7 @@ I then re-wrote it to *show *the x,y numbers and it printed out that it was abou
 And that&#8217;s where I stand.  Tomorrow it&#8217;s going to be cold and raining, so no hiking and photography (ironic smile). Instead it&#8217;s Take 5.
 
 **Update**: [Mystery solved](__GHOST_URL__/2020/05/10/trajectories-oh-g-undone-by-multiple-coincidences/)!
+
+---
+
+> [!info] Original Published Date : *2020-05-08*

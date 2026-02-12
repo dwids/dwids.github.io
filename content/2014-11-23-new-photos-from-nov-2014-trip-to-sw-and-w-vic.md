@@ -14,3 +14,7 @@ description:
 I’ve set up a new Flickr account and am uploading some of my photos of this great trip. I did the big loop (triangle?) from Melbourne to Colac, then the Otways (Lavers Hill, Triplet Falls, Johanna Beach & River) and onto Port Campbell (12 Apostles). Then it was over to Warnambool and the Tower Hill volcano and up to the Southern Grampians (Dunkeld). That’s just the first 2 days!  Up the middle of the Grampians to the very top; Mt Zero area for another few days.  
 
 Gradually putting up the photos (suggest you look at the **Albums** view from the top menu as it’s more logical and arranged)  [https://www.flickr.com/photos/129464096@N05/](https://www.flickr.com/photos/129464096@N05/)
+
+---
+
+> [!info] Original Published Date : *2014-11-23*

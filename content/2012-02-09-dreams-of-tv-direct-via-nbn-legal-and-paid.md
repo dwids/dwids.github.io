@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:01:06.000Z
 title: Dreams of TV direct via NBN – legal and paid
 draft: false
 slug: dreams-of-tv-direct-via-nbn-legal-and-paid
-tags: ["TV and Streaming"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Dreams of TV direct via NBN – legal and paid
@@ -26,3 +26,7 @@ In all honestly, I can see this happening in the future:&#160; (That is once the
 
 Maybe the $ amounts may vary, but I&#8217;d cross that bridge. Would it put Channel Bravo Tango out of business? Of course not, it&#8217;s only the TV (not the Movies nor S/W etc). But it&#8217;s a start.   
 The Hulu thing would probably NOT get the US cable shows on it, but that&#8217;s their loss if they won&#8217;t play ball. Literately. uTorrent&#8217;s gain&#8230;
+
+---
+
+> [!info] Original Published Date : *2012-02-09*

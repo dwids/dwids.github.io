@@ -4,7 +4,7 @@ lastmod: 2024-11-21T21:51:58.000Z
 title: Why no Melways of the Bush?
 draft: false
 slug: why-no-melways-of-the-bush
-tags: ["Maps","Maths"]
+tags: ["maths"]
 cover:
     image: https://media.istockphoto.com/id/474951754/photo/melbourne.webp?a=1&b=1&s=612x612&w=0&k=20&c=DC6xnkY6FCyaHEtHV41E1r4Sxsb3QQF5cmvs9Gdg10k=
     alt: Why no Melways of the Bush?
@@ -26,3 +26,7 @@ A bushwalking map is usually in the scale of 1:25,000. Hence 1cm on the map is 2
 Right, so how big is Victoria? According to [the government](http://www.dfat.gov.au/aib/island_continent.html) it’s about 227,400 km².&#160; So do a simple division and you’ll need about 6,500 A4s. Printing double sided means ‘only’ 3,250 pages.
 
 And if printed in the main Melway’s scale it would be worse. The majority of their maps are in a smaller scale, 1:20,000.&#160; So even more that 3,250 pages would be needed.
+
+---
+
+> [!info] Original Published Date : *2009-12-03*

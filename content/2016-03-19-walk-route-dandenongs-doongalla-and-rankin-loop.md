@@ -26,3 +26,7 @@ Suggest you walk down the hill to the lower picnic ground at Doongalla; the Stab
 Fog quickly lifts at the very start. On – on near – Kyeema Track.
 
 ![](https://scontent.fadl1-1.fna.fbcdn.net/hphotos-xpa1/t31.0-8/q82/s960x960/12828358_10153883415336578_7223056421298298282_o.jpg)
+
+---
+
+> [!info] Original Published Date : *2016-03-19*

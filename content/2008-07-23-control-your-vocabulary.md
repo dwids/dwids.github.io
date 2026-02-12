@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:02:58.000Z
 title: Control your vocabulary!
 draft: false
 slug: control-your-vocabulary
-tags: ["tags"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Control your vocabulary!
@@ -44,3 +44,7 @@ One last thing. Google.  Want to see how smart they are and why they are worth b
 Yep, it returns hits with the phrase &#8220;bush-walk&#8221;, &#8220;bushwalk&#8221; and &#8220;Bush Walk&#8221;&#8230;
 
 Technorati Tags: [Controlled Vocabulary](http://technorati.com/tags/Controlled%20Vocabulary),[tags](http://technorati.com/tags/tags)
+
+---
+
+> [!info] Original Published Date : *2008-07-23*

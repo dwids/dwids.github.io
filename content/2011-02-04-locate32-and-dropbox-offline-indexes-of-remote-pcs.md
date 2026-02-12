@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:02:18.000Z
 title: Locate32 and Dropbox – offline indexes of remote PCs
 draft: false
 slug: locate32-and-dropbox-offline-indexes-of-remote-pcs
-tags: ["Software"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Locate32 and Dropbox – offline indexes of remote PCs
@@ -54,3 +54,7 @@ So, I was wondering where my document on my Grampians Trip in 2010 was. I was on
 There it is!&#160; Note that the Database of *Notebook Docs* reminds me it’s on the other system – the Notebook. 
 
 Of course you can now do the vice-versa and create an Index for the Desktop and have it (read only) available via Dropbox on the Notebook. Or any other suitable computer.
+
+---
+
+> [!info] Original Published Date : *2011-02-04*

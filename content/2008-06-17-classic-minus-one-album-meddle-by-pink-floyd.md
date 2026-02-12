@@ -25,3 +25,7 @@ All I can say is just have a listen to it, preferably through headphones or in a
 The soundscape section is very interesting. It&#8217;s not &#8216;music&#8217; in the traditional instrument, chords, melody, rhythm way. It sounds like early synthesisers, but used in a subtle, almost gentle way. There&#8217;s a swirling, whooshing sort of sound set in the bottom layer. In the distance we hear what sounds like birds. In fact that&#8217;s what it all sounds like to me: we&#8217;re on an alien planet, shrouded in a dense fog.  Lonely, bird like creatures are swooping in and out of hearing range. They are occasionally calling out to each other through the cold fog.
 
 No, I&#8217;m not kidding. That&#8217;s the image these amazing sounds create when I hear them. I guess that itself is a tribute to the creative team behind this wonderful work of aural art.
+
+---
+
+> [!info] Original Published Date : *2008-06-17*

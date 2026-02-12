@@ -4,7 +4,7 @@ lastmod: 2024-10-18T23:20:06.000Z
 title: Great Covers (Take 2) - RocKwiz
 draft: false
 slug: great-covers-take-2-rockwiz
-tags: ["songs","covers"]
+tags: ["music"]
 cover:
     image: /images/2024/10/rockwiz-300x234-1.jpg
     alt: Great Covers (Take 2) - RocKwiz
@@ -32,3 +32,7 @@ Superb. That’s all I have to say.
 ### Tina Arena & Jeff Martin – Don’t Give Up
 
 Stunning and beautiful and amazing.
+
+---
+
+> [!info] Original Published Date : *2024-10-18*

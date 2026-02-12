@@ -4,7 +4,7 @@ lastmod: 2024-11-21T22:17:05.000Z
 title: "Podcasts: Late March 2020"
 draft: false
 slug: podcasts-late-march-2020
-tags: ["Movies","podcasts"]
+tags: ["movies"]
 cover:
     image: https://images.unsplash.com/photo-1440404653325-ab127d49abc1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDd8fG1vdmllJTIwcmV2aWV3fGVufDB8fHx8MTczMTk5NjUzNXww&ixlib=rb-4.0.3&q=80&w=720
     alt: "Podcasts: Late March 2020"
@@ -48,3 +48,7 @@ He not only explains how the (drums, vocals, guitar, french horn, harmonies, pia
 *Kiss From a Rose,  Like A Prayer, God Only Know, Stairway to Heaven*&#8230;
 
 http://strongsongspodcast.com/
+
+---
+
+> [!info] Original Published Date : *2020-03-27*

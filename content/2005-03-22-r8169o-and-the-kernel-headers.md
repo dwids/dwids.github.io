@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:04:04.000Z
 title: r8169.o and the kernel headers
 draft: false
 slug: r8169o-and-the-kernel-headers
-tags: ["Technology"]
+tags: ["technology"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: r8169.o and the kernel headers
@@ -46,3 +46,7 @@ A reboot later and the insmod r8169 worked. Aliased that to eth0 in modules.conf
 The above is the cut down version of what happened. I had been down all sorts of rabbit holes, including installing the kernel source, then unzipping it and untarring it. I gotta say, it&#8217;s a lot of mucking about for one 17 kb file;  that&#8217;s all r8169.o was. I just couldn&#8217;t find a version compiled for my kernel anywhere.  So had to do it by hand.
 
 This Debian kernel (2.4.18) is quite &#8216;back level&#8217; relative to other distributions. I&#8217;ve since found out that the above r8169 module has been in the Linux kernel since 2.4.21   For comparison Fedora Core 3 is on a 2.6 level kernel.  I&#8217;m not whinging, I chose Debian with my eyes open  
+
+---
+
+> [!info] Original Published Date : *2005-03-22*

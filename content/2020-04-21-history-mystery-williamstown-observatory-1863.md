@@ -4,7 +4,7 @@ lastmod: 2024-11-21T22:02:08.000Z
 title: History Mystery - Williamstown Observatory (1863)
 draft: false
 slug: history-mystery-williamstown-observatory-1863
-tags: ["navigation","Williamstown History"]
+tags: ["navigation"]
 cover:
     image: https://images.unsplash.com/photo-1550406307-84b491d68ba7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDJ8fG9sZCUyMG1hcHxlbnwwfHx8fDE3MzIyMjY1MDl8MA&ixlib=rb-4.0.3&q=80&w=2000
     alt: History Mystery - Williamstown Observatory (1863)
@@ -52,4 +52,8 @@ Quick estimate: his RA is *just *under 9 hours and 40 minutes. That&#8217;s 9 an
 
 My balcony here in Williamstown has Longitude 144.8922 degrees E.  
 
-QED. In a back-of-the-envelope #ballpark sense 🙂
+QED. In a back-of-the-envelope ballpark sense 🙂
+
+---
+
+> [!info] Original Published Date : *2020-04-21*

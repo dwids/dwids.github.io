@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:04:03.000Z
 title: AFL rights - all 8 games
 draft: false
 slug: afl-rights-all-8-games
-tags: ["Entertainment","Sport"]
+tags: ["entertainment"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: AFL rights - all 8 games
@@ -18,3 +18,7 @@ It would make life interesting if they offered a sweetener; to show Friday night
 In turn this would make life difficult for Foxtel; what &#8216;added-value&#8217; could they bring if all 8 games are on free to air.
 
 Then there&#8217;s the &#8216;spare&#8217; capacity of digital (free to air)  TV. Can it be used for lesser games?  Mmm. More on this later.
+
+---
+
+> [!info] Original Published Date : *2005-05-20*

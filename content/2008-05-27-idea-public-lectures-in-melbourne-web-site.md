@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:03:21.000Z
 title: "Idea: Public Lectures in Melbourne web site"
 draft: false
 slug: idea-public-lectures-in-melbourne-web-site
-tags: ["ideas"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: "Idea: Public Lectures in Melbourne web site"
@@ -24,3 +24,7 @@ Adding a RSS feed should be very simple for the Providers. They may already do i
 Then my consultant side kicked in and I started to think about the issues: who decides what&#8217;s a public lecture? If Big Computer Company has one called The History of the PC from 1979 to 2005, then sweet. But what if they have one called Getting the Best from your Database Server? Is that just a thinly disguised selling-seminar and should it be included in this &#8216;academic/general interest&#8217; Public Lecture site?  
 
 Mmmm. Messy. And is it my decision or should the reader/user decide?  Or perhaps limit the Providers to not-for-profit or non-commercial organisations.
+
+---
+
+> [!info] Original Published Date : *2008-05-27*

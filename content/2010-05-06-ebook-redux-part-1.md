@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:02:38.000Z
 title: Ebook Redux Part 1
 draft: false
 slug: ebook-redux-part-1
-tags: ["eBooks"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Ebook Redux Part 1
@@ -93,3 +93,7 @@ By having this neutral eBook format, the RMO does not have the overhead of forma
 The ID Key would be a [PKS Key-Pair.](http://en.wikipedia.org/wiki/Public-key_cryptography)
 
 All of this is just speculation, with a dash of wishful thinking thrown in.
+
+---
+
+> [!info] Original Published Date : *2010-05-06*

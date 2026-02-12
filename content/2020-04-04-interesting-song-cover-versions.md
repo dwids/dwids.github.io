@@ -48,3 +48,7 @@ In 1975 Eric Carmen had a big hit with *All By Myself*. He had been playing musi
 The Wikipedia article goes on &#8220;Rachmaninoff&#8217;s music was in the public domain in the United States at that time and so Carmen thought no copyright existed on it, but it was still protected outside the U.S. Subsequent to the release of the album, he was contacted by the Rachmaninoff estate and informed that it was protected. An agreement was reached in which the estate would receive 12 percent of the royalties from &#8220;All by Myself&#8221; as well as from &#8220;Never Gonna Fall in Love Again&#8221;, which was based on the third movement from Rachmaninoff&#8217;s Symphony No. 2.&#8221;
 
 **Jump to about 12:20** in this clip:
+
+---
+
+> [!info] Original Published Date : *2020-04-04*

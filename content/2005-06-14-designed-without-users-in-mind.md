@@ -26,3 +26,7 @@ Unfortunately, that flat area also has the outlet hole for the printed sales doc
 Maybe it&#8217;s a bit harsh to say it was designed without talking to end users. But it seems clear they didn&#8217;t take into account such &#8216;obvious&#8217; usage patterns as re-usable bags. Which they themselves sell and encourage us to use.
 
 I don&#8217;t suffer fools. I am a surgeon of cynics. I cut dumb DNA.
+
+---
+
+> [!info] Original Published Date : *2005-06-14*

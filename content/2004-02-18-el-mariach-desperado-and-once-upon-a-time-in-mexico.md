@@ -4,7 +4,7 @@ lastmod: 2024-11-21T22:17:08.000Z
 title: El Mariach, Desperado and Once Upon a Time in Mexico
 draft: false
 slug: el-mariach-desperado-and-once-upon-a-time-in-mexico
-tags: ["Movies"]
+tags: ["movies"]
 cover:
     image: https://images.unsplash.com/photo-1440404653325-ab127d49abc1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDd8fG1vdmllJTIwcmV2aWV3fGVufDB8fHx8MTczMTk5NjUzNXww&ixlib=rb-4.0.3&q=80&w=720
     alt: El Mariach, Desperado and Once Upon a Time in Mexico
@@ -26,3 +26,7 @@ In a great piece of timing, A Fistful of Dollars and For A Few Dollars More are 
 Also known as spaghetti westerns, this trilogy sent their star, a certain Mr Clint Eastwood, rocketing into mega-star land.
 
 Now, the 4th Sergio Leone SpagWes film &#8211; but not with Clint this time &#8211;  was Once Upon a Time in the West. Whilst acting in Desperado, it was that great movie buff Tarantino who suggested that &#8220;El Mariachi 3&#8243; be made and named &#8220;Once Upon A Time In Mexico.&#8221;
+
+---
+
+> [!info] Original Published Date : *2004-02-18*

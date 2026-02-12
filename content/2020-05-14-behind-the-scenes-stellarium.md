@@ -4,7 +4,7 @@ lastmod: 2024-11-21T21:58:02.000Z
 title: "Behind The Scenes: Stellarium"
 draft: false
 slug: behind-the-scenes-stellarium
-tags: ["astronomy","behindthescenes"]
+tags: ["astronomy"]
 cover:
     image: https://images.unsplash.com/photo-1462332420958-a05d1e002413?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDd8fGFzdHJvbm9teXxlbnwwfHx8fDE3MzIyMjYxNTh8MA&ixlib=rb-4.0.3&q=80&w=720
     alt: "Behind The Scenes: Stellarium"
@@ -22,3 +22,7 @@ Anyway, it&#8217;s been sorta slow going, but I&#8217;ve taken some Big Boy Step
 You just know I&#8217;m learning-as-I-go when my comment (// bit&#8217;s) have the term *d&#8217;oh *in them. The idea of first sitting down and properly learning the language &#8211; and only then designing the code &#8211; is anathema to me. *Adam *not *Jamie *mode here.
 
 I&#8217;ve actually broken the back of the core things I want to do. Now time to put it all together. 
+
+---
+
+> [!info] Original Published Date : *2020-05-14*

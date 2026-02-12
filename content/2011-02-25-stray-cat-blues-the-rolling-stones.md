@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:01:27.000Z
 title: Stray Cat Blues - The Rolling Stones
 draft: false
 slug: stray-cat-blues-the-rolling-stones
-tags: ["goldenmiles"]
+tags: ["music"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Stray Cat Blues - The Rolling Stones
@@ -16,3 +16,7 @@ To get started &#8211; a confession. I first heard this as a live cover on the e
 Yes, I really like Mick and the boys, but don&#8217;t know that much of their stuff. So another 2-parter follows. Firstly the Rolling Stones:
 
  And now the Cheney & Amphlett live cover:
+
+---
+
+> [!info] Original Published Date : *2011-02-25*

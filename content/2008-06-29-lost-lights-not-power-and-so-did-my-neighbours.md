@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:03:00.000Z
 title: Lost Lights, not Power and so did my neighbours
 draft: false
 slug: lost-lights-not-power-and-so-did-my-neighbours
-tags: ["Interesting"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Lost Lights, not Power and so did my neighbours
@@ -28,3 +28,7 @@ Trying to remain logical I looked up and saw both our houses had power lines com
 But in a stroke of luck, he is an electrician. He pointed out that different **phases** of power come into our houses&#8230;and it depends what is wired to where. So Phase A does not always go to Lights, and B to Power.  He said that they &#8211; the power supplier &#8211; had probably lost one phase. 
 
 Just as he said that, his lights came on. And, inside my house &#8211; and indeed my head &#8211; so did mine. 
+
+---
+
+> [!info] Original Published Date : *2008-06-29*

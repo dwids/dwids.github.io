@@ -4,7 +4,7 @@ lastmod: 2025-01-22T00:41:12.000Z
 title: Closing Hell's Gates (by Dr Hamish Maxwell-Stewart)
 draft: false
 slug: closing-hells-gates-by-dr-hamish-maxwell-stewart
-tags: ["books","history"]
+tags: ["general"]
 cover:
     image: https://images.unsplash.com/photo-1505063366573-38928ae5567e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDh8fGJvb2tzfGVufDB8fHx8MTczMjE3MzU1NHww&ixlib=rb-4.0.3&q=80&w=720
     alt: Closing Hell's Gates (by Dr Hamish Maxwell-Stewart)
@@ -28,3 +28,7 @@ Based on detailed accounts from the time, Closing Hell&#8217;s Gates contains do
 So far, it&#8217;s excellent. I feel cold and miserable already &#8211; but in an informed way &#8211; and I&#8217;m only a 60 pages in.
 
 ![img](https://s3-ap-southeast-2.amazonaws.com/assets.allenandunwin.com/images/small/9781741751499.jpg)
+
+---
+
+> [!info] Original Published Date : *2008-06-12*

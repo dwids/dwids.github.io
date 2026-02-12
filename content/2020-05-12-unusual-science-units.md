@@ -4,7 +4,7 @@ lastmod: 2024-11-21T22:35:43.000Z
 title: Unusual Science Units
 draft: false
 slug: unusual-science-units
-tags: ["Science"]
+tags: ["general"]
 cover:
     image: https://media.istockphoto.com/id/470172609/photo/measurement-of-joules.webp?a=1&b=1&s=612x612&w=0&k=20&c=9-OzwtDLw74BV5V3y37L3BzMZWnasYPfSXoh_PT0-uM=
     alt: Unusual Science Units
@@ -67,3 +67,7 @@ Or maybe break a Day up into 100; a *centi-day* or centiday (cd)?  Of course the
 Maybe the same with Angles/Circles? Instead of 360 degrees, define a circle as being 100 centi-circles (cc? no can&#8217;t use that!, cs?)  That would, by definition, change navigational Latitude and Longitude as they are actually angles (more on this later)
 
 I&#8217;m 99% sure I&#8217;m not the first to ponder these changes. And 100% sure it won&#8217;t happen.
+
+---
+
+> [!info] Original Published Date : *2020-05-12*

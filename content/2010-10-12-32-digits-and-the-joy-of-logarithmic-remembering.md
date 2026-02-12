@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:02:20.000Z
 title: 32 digits and the joy of logarithmic remembering
 draft: false
 slug: 32-digits-and-the-joy-of-logarithmic-remembering
-tags: ["Maths"]
+tags: ["maths"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: 32 digits and the joy of logarithmic remembering
@@ -26,3 +26,7 @@ So how many GUID’s per person?&#160; If you remember your maths it’s quite e
 But that’s not enough maths for today. Oh no. We still have our own **galaxy** to think about.&#160; The milky way has about [100 billion stars](http://en.wikipedia.org/wiki/Milky_Way).&#160; That is 1011 stars. If each of those stars supported a population like ours, there would be 10(11 + 9) or 1020 beings. 
 
 So with our humble 32 hex GUIDs, we could give each being 10(38 &#8211; 20) or 1018 GUIDs each. Hey, isn&#8217;t that a billion billion each? Nice.
+
+---
+
+> [!info] Original Published Date : *2010-10-12*

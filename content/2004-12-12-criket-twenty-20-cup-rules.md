@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:04:13.000Z
 title: Cricket - Twenty 20 Cup Rules
 draft: false
 slug: criket-twenty-20-cup-rules
-tags: ["Sport"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Cricket - Twenty 20 Cup Rules
@@ -36,3 +36,7 @@ The main thing than interested me were the rules.  These below, which come from 
 9 &#8211; No-balls will be penalised by a free-hit next ball with standard rules on no-ball dismissals applying.
 
 10 &#8211; Each side must face a minimum of five overs for a match to be valid. The Duckworth-Lewis method will be used to calculate run targets in rain-affected games.
+
+---
+
+> [!info] Original Published Date : *2004-12-12*

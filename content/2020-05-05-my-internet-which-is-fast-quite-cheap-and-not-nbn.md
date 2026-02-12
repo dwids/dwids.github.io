@@ -4,7 +4,7 @@ lastmod: 2024-11-22T05:58:57.000Z
 title: My Internet, which is fast, quite cheap and not NBN
 draft: false
 slug: my-internet-which-is-fast-quite-cheap-and-not-nbn
-tags: ["Internet"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: My Internet, which is fast, quite cheap and not NBN
@@ -28,3 +28,7 @@ To their credit, Aussie Broadband, who had still been trying to help me, called 
 My Optus quota was originally **200 **GB PM for $60 including modem purchase; not quite enough data. In Feb this year, I went to the Optus shop nearby. They offered me a great deal: &#8220;pay out the $8 PM fee &#8211; 1 years worth &#8211; and we&#8217;ll give you a big discount on our **500 **GB PM plan, with **no contract**.&#8221; So I happen to also pay $8 PM more to get 300 GB PM more 🙂
 
  
+
+---
+
+> [!info] Original Published Date : *2020-05-05*

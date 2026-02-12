@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:04:39.000Z
 title: The Williamstown Racetrack circa 1869
 draft: false
 slug: the-williamstown-racetrack-circa-1869
-tags: ["williamstown racecourse"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: The Williamstown Racetrack circa 1869
@@ -26,3 +26,7 @@ The ruins are off Racecourse Road, Williamstown right near where the Ford crosse
 I&#8217;ve only just started this project and the people at the local Williamstown Museum have been very helpful. I&#8217;ve found at least three books that mention the Racecourse too. More will appear as I discover it&#8230;
 
 If you know anything or can point me in the direction of some good resources, please click on the Comments link. That would be great!
+
+---
+
+> [!info] Original Published Date : *2004-01-24*

@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:02:37.000Z
 title: iPhone (iPod Touch) Picture Board idea
 draft: false
 slug: iphone-ipod-touch-picture-board-idea
-tags: ["iphone"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: iPhone (iPod Touch) Picture Board idea
@@ -53,3 +53,7 @@ I’m very happy with this, as a first effort. Some points of interest
 1. Notice how the Verbs/Actions appear first (*I See, I Want*).&#160; The trick was that the iPod sorts the pictures by file name. So I called the files 1_iWant.jpg, 2_iSee.jpg ; these bubble to the top of the sort list. 
 2. You could create multiple folders, for different actions, time of day, activities etc 
 3. As I said, you can tailor it with your own images, phrases, have your own display order etc etc 
+
+---
+
+> [!info] Original Published Date : *2010-04-21*

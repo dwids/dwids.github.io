@@ -12,3 +12,7 @@ description:
 ---
 
 I&#8217;m slowly updating [this list](__GHOST_URL__/bushwalks/). I&#8217;m trying to find a way to automate it, but for now it&#8217;s done by hand. So therefore it&#8217;s not quite up to date.
+
+---
+
+> [!info] Original Published Date : *2010-05-04*

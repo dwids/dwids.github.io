@@ -16,3 +16,7 @@ Probably the single most useful piece of software on my PC is Password Safe. It 
 As Bruce describes it &#8220;With Password Safe, a free Windows 9x/2000 utility from Counterpane Labs, users can keep their passwords securely encrypted on their computers. A single Safe Combination&#8211;just one thing to remember&#8211;unlocks them all.&#8221; &#8211; (quote from above schneier.com)
 
 As I said, Password Safe is now an open source project, and is available from  its [SourceForge page](http://sourceforge.net/projects/passwordsafe/).  Look at me virtual-kimmies. I&#8217;ve got one word to say to you: Get It
+
+---
+
+> [!info] Original Published Date : *2004-03-19*

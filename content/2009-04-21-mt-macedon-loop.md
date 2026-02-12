@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:02:48.000Z
 title: Mt Macedon loop
 draft: false
 slug: mt-macedon-loop
-tags: ["bushwalks","Mt Macedon"]
+tags: ["bushwalks"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Mt Macedon loop
@@ -44,3 +44,7 @@ Grab the Parks Victoria [Macedon Regional Park &#8211; Walking Trails](http://ww
 13 Hemphills to Mount Towrong Track
 
 14 Mt Towrong Track to Mt Macedon village (and car)
+
+---
+
+> [!info] Original Published Date : *2009-04-21*

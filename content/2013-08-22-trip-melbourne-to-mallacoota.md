@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:00:30.000Z
 title: "Trip: Melbourne to Mallacoota"
 draft: false
 slug: trip-melbourne-to-mallacoota
-tags: ["trips"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: "Trip: Melbourne to Mallacoota"
@@ -74,3 +74,7 @@ Or 0ne of the many wilderness beaches, like **Secret Beach** (an easy drive from
 Of, if you want a little off-road adventure (nothing too hard) the huge dunes of Thurra River are worth a trip. Take water, sun screen etc:
 
 [![DavidS_20130204_131913](/images/wordpress/2021/02/191a9-davids_20130204_131913_thumb.jpg)](https://dwids.wordpress.com2020/03/ec872-davids_20130204_131913.jpg)
+
+---
+
+> [!info] Original Published Date : *2013-08-22*

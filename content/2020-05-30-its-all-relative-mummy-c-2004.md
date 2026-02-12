@@ -4,7 +4,7 @@ lastmod: 2024-10-18T20:53:53.000Z
 title: It's all relative, mummy (c.2004)
 draft: false
 slug: its-all-relative-mummy-c-2004
-tags: ["egypt"]
+tags: ["creative","egypt"]
 cover:
     image: /images/2024/10/12835.webp
     alt: It's all relative, mummy (c.2004)
@@ -31,3 +31,7 @@ I ended with the fall of Egypt, arguably when Nero took over, not long after Cle
 
 How about that. A civilisation that lasted over 3000 years. In the equivalent world, Cleopatra would not be around for another 1000 years from now. Y3K anyone?
 ![](/images/wordpress/2021/02/ds-egypt-sphinx-scanned_20200530_200602.jpg)c. 1988 
+
+---
+
+> [!info] Original Published Date : *c. 2004*

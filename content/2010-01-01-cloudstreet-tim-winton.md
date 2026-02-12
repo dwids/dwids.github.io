@@ -4,7 +4,7 @@ lastmod: 2024-11-21T21:20:48.000Z
 title: Cloudstreet - Tim Winton
 draft: false
 slug: cloudstreet-tim-winton
-tags: ["books"]
+tags: ["general"]
 cover:
     image: https://images.unsplash.com/photo-1505063366573-38928ae5567e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDh8fGJvb2tzfGVufDB8fHx8MTczMjE3MzU1NHww&ixlib=rb-4.0.3&q=80&w=720
     alt: Cloudstreet - Tim Winton
@@ -33,3 +33,6 @@ Re-reading it for 3 reasons:
 3. I wanted to (well, after I heard about the first 2) 
 
 <img src="https://covers.openlibrary.org/b/isbn/0140273980-L.jpg" width="200" align="left">
+---
+
+> [!info] Original Published Date : *2010-01-01*

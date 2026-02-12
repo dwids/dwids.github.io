@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:04:04.000Z
 title: B-VOPS, Lanc and I
 draft: false
 slug: b-vops-lanc-and-i
-tags: ["Technology"]
+tags: ["technology"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: B-VOPS, Lanc and I
@@ -23,3 +23,7 @@ Another pause, ponder and reflect moment as I read back a forum entry I&#8217;ve
 - B-VOPS,  Adaptive Quantization,  Interlaced Encoding, Quarter Pixel and Global Motion Compensation  are all options for encoding.  
 
 A VOP is a Video Object  Plane, sort of like a frame. B means Bidirectional; this frame&#8217;s compression is influence by the frames before and after it.
+
+---
+
+> [!info] Original Published Date : *2005-04-12*

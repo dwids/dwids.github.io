@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:02:47.000Z
 title: Trip & Walk - Warracknabeal, Wyperfeld NP and Warrnambool
 draft: false
 slug: trip-walk-warracknabeal-wyperfeld-np-and-warrnambool
-tags: ["bushwalks","Wyperfeld"]
+tags: ["bushwalks"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Trip & Walk - Warracknabeal, Wyperfeld NP and Warrnambool
@@ -28,3 +28,7 @@ Day 4. W’bool back home but via Loch Ard Gorge near Port Campbell to see the r
 And speaking of Maps, [here it is](http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;msa=0&amp;msid=113937947825616366172.00046c330c049276563b5&amp;ll=-36.244273,143.55835&amp;spn=5.226864,9.42627&amp;z=7). It also had problems trying to show the route to Wyperfeld NP, but it’s north-west of Warracknabeal via Hopetoun.
 
 <more to come>
+
+---
+
+> [!info] Original Published Date : *2009-06-13*

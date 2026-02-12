@@ -22,3 +22,7 @@ You literally pop-out right next to the famous memorial cross at the top. From t
 Use the PDF and walk back towards the Cross, but only a few km along turn left into Clyde Track and descend back to good old Douglas Road. Note: the PDF text instructions are in error &#8211; or misleading. They advise you to walk back &#8220;to&#8221; the Cross then turn into Clyde Track, it should be &#8220;towards&#8221; the Cross. I&#8217;ve done the right thing and called Parks Vic to let them know.
 
 Rating: very good. About 7km one-way from township to Camels Hump. So start before lunch. First track is, as I said, a bit slippery, so take a walking pole and sturdy boots. 
+
+---
+
+> [!info] Original Published Date : *2008-05-24*

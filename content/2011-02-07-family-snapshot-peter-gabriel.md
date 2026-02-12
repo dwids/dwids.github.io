@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:01:29.000Z
 title: Family Snapshot - Peter Gabriel
 draft: false
 slug: family-snapshot-peter-gabriel
-tags: ["goldenmiles"]
+tags: ["music"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Family Snapshot - Peter Gabriel
@@ -21,3 +21,7 @@ If I worked it out right
 They won&#8217;t see me or the gun
 
 As the car moves closer, the intensity builds up, including the (Phil Collins?) drumming. Until at the very end, he holds his breath, releases the catch&#8230;and&#8230;
+
+---
+
+> [!info] Original Published Date : *2011-02-07*

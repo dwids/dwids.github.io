@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:00:30.000Z
 title: And thus I made a light blink
 draft: false
 slug: and-thus-i-made-a-light-blink
-tags: ["arduino"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: And thus I made a light blink
@@ -54,3 +54,7 @@ void loop() {
 The LED was wired to (Digital) output 10 of the Arduino.  HIGH turns the signal On and I’ll leave you to work out what LOW does. The delays are in milliseconds
 
 And thus I made a light blink.  For 1 second at a time. I am master of the digital universe ![Smile](/images/wordpress/2021/02/897ea-wlemoticon-smile.png)
+
+---
+
+> [!info] Original Published Date : *2014-09-16*

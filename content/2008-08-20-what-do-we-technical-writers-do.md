@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:02:49.000Z
 title: What do (we) Technical Writers do?
 draft: false
 slug: what-do-we-technical-writers-do
-tags: ["Technical Writing","Work"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: What do (we) Technical Writers do?
@@ -42,3 +42,7 @@ This is one side &#8211; or type &#8211; of Technical Writing in the computer wo
 Another side is more business focused. Looking at &#8211; and documenting &#8211; more of the &#8216;human side&#8217; processes: &#8220;If a phone call with a complaint comes in and the team leader of that product isn&#8217;t available, then we&#8230;.&#8221;   Lots of flow charts!   And that sort of stuff isn&#8217;t for me.
 
 Or as I say; I&#8217;m a ***TECHNICAL***Writer&#8230;.
+
+---
+
+> [!info] Original Published Date : *2008-08-20*

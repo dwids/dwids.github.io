@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:32:36.000Z
 title: Zoot Suit Riot - Cherry Poppin' Daddies
 draft: false
 slug: zoot-suit-riot-cherry-poppin-daddies
-tags: ["goldenmiles"]
+tags: ["music"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Zoot Suit Riot - Cherry Poppin' Daddies
@@ -16,3 +16,7 @@ I first heard this 1990&#8217;s swinging wonder on ABC 774&#8217;s breakfast rad
 I also remember hearing later that they were part of a late 90&#8217;s big-band, swing revival.  Wow. It must have been local and/or short lived as I would have jumped on board. Always liked swing. One of the first CDs I bought was In The Digital Mood; Glenn Millers original band recorded afresh in the 80s in &#8220;pure digital.&#8221;
 
 As for the CPDs (naughty name), get your dancing trousers on and dig this. 
+
+---
+
+> [!info] Original Published Date : *2011-04-29*

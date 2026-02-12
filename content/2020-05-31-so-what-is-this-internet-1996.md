@@ -150,3 +150,7 @@ Someone on the same IBM Network in Australia would send email to &#8220;davids@m
 Finally, a person at that school in Norway would send email to &#8220;davids@melbsys1.ibm.com.au&#8221;
 
 **Note: **This is not a real email address; there is no melbsys1.ibm.com.au &#8211; but you get the general idea.
+
+---
+
+> [!info] Original Published Date : *2020-05-31*

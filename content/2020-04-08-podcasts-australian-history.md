@@ -4,7 +4,7 @@ lastmod: 2024-11-21T22:11:51.000Z
 title: "Podcasts: Australian History"
 draft: false
 slug: podcasts-australian-history
-tags: ["history","podcasts"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1682125784386-d6571f1ac86a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8aGlzdG9yeXxlbnwwfHwwfHx8MA%3D%3D
     alt: "Podcasts: Australian History"
@@ -56,3 +56,7 @@ Local history. I&#8217;ve had a very pleasant email exchange, just last week, wi
 I think these used to be on the uni&#8217;s website, but I can&#8217;t find them there any more. This (unorganised) external archive of them will have to do for now.  I&#8217;m grateful, but some are part of a series and meant to be heard in order, but you can&#8217;t tell which ones or which order here, AFAIK. 
 
 https://player.fm/series/series-2224279
+
+---
+
+> [!info] Original Published Date : *2020-04-08*

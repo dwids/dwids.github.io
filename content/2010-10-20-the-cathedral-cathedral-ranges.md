@@ -30,3 +30,7 @@ More [photos available](http://picasaweb.google.com/sidwell.david/CathedralRange
 Truth be told this was my 2nd time on this route and I found it slightly more difficult. I’d think part of that was a slight complacency, which you just can’t afford to be on rocky, steep, uneven tracks. Twice I did the old semi-slip-slide. And twice I thought I had pulled a muscle; once in the arm and once in the back. A sit down and rest quickly got rid of the throbbing pain, but not before the heart was ticking that little bit faster.
 
 It may have been the recent rain loosened the surface just that bit more too.&#160; 
+
+---
+
+> [!info] Original Published Date : *2010-10-20*

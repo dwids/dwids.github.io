@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:03:36.000Z
 title: "PVRs : Chapter 1"
 draft: false
 slug: pvrs-chapter-1
-tags: ["Technology"]
+tags: ["technology"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: "PVRs : Chapter 1"
@@ -38,3 +38,7 @@ The Dick Smith store I went to had terrible support, the guy obviously had no id
 The local [Digital TV forum](http://www.dtvforum.info/index.php?showforum=8) has some excellent discussion on this topic.
 
 Powered by [ScribeFire](http://scribefire.com/).
+
+---
+
+> [!info] Original Published Date : *2007-04-03*

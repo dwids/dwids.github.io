@@ -64,3 +64,7 @@ So there seems to be no way to see the tiny viruses in a &#8216;normal&#8217; (o
 [4] [https://www.sciencedaily.com/releases/2020/04/200422132556.htm](https://www.sciencedaily.com/releases/2020/04/200422132556.htm)
 
 [5] [https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/type-ii-pneumocyte](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/type-ii-pneumocyte)
+
+---
+
+> [!info] Original Published Date : *2020-05-09*

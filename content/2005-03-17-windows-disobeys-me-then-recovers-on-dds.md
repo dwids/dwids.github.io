@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:04:12.000Z
 title: Windows disobeys me then recovers on DDS
 draft: false
 slug: windows-disobeys-me-then-recovers-on-dds
-tags: ["Technology"]
+tags: ["technology"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Windows disobeys me then recovers on DDS
@@ -28,3 +28,7 @@ Just to be sure I copied all the main data over to a spare drive.  There was a l
 I then put on [GAG](http://gag.sourceforge.net/), a Graphical Boot Manager. I was able to use it to find both Old and New Windows then add them to its Boot Menu. A final reboot and ta da!  Windows x 2 both work.
 
 Forgot to say that I checked the first 2 hard drives, which were playing up. One of them seemed to have  its power cable half hanging out. Since pushing it back in, both drives have been fine for hours.
+
+---
+
+> [!info] Original Published Date : *2005-03-17*

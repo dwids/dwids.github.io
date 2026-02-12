@@ -24,3 +24,7 @@ And here&#8217;s a (shrunk) screen capture of my very own Newspaper for One. You
 [![](/images/wordpress/2021/02/2582224018_71686bfd8a.jpg)](http://www.flickr.com/photos/83863130@N00/2582224018)
 
 David&#8217;s Google Reader main page.
+
+---
+
+> [!info] Original Published Date : *2008-06-16*

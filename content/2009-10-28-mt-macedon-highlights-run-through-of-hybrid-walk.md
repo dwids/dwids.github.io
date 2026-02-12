@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:02:39.000Z
 title: Mt Macedon Highlights – run through of hybrid walk
 draft: false
 slug: mt-macedon-highlights-run-through-of-hybrid-walk
-tags: ["bushwalks","Mt Macedon"]
+tags: ["bushwalks"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Mt Macedon Highlights – run through of hybrid walk
@@ -32,3 +32,7 @@ Then off we go, walking unless noted:
 This is a good compromise. The Car 1 bits are – to be honest – a bit of a drag if done by foot. Pretty much an hour+ of walking on level ground.&#160; 
 
 Did it today and it works very well.&#160; As I only had one car, I got a lift to simulate Car 1 (thank you to the bloke who helped me, if you somehow are reading this!).&#160; Walkers really need good boots and a pole or stick to help with the steep, rocky descent of Mt Towrong. But apart from that, I’d vote it a Yes. 
+
+---
+
+> [!info] Original Published Date : *2009-10-28*

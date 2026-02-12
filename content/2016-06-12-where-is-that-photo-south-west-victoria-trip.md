@@ -35,3 +35,7 @@ Johanna River as it enters the wild sea at **Johanna Beach**. Also the scary wav
 [![image](/images/wordpress/2021/02/d1403-image_thumb4.png)](https://dwids.wordpress.com2020/03/9c2c5-image4.png)
 
 The other end of the Grampians. Coming East from Hamilton area towards Dunkeld in the **Southern Grampians**. One of those is Mt Abrupt, I think.
+
+---
+
+> [!info] Original Published Date : *2016-06-12*

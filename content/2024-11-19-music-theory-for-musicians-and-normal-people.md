@@ -4,7 +4,7 @@ lastmod: 2024-11-22T07:36:47.000Z
 title: Music Theory for Musicians and Normal People
 draft: false
 slug: music-theory-for-musicians-and-normal-people
-tags: ["musicTheory"]
+tags: ["general"]
 cover:
     image: https://images.unsplash.com/photo-1632234032819-fe390001b9b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fHNoZWV0JTIwbXVzaWN8ZW58MHx8fHwxNzMyMjYwOTkxfDA&ixlib=rb-4.0.3&q=80&w=2000
     alt: Music Theory for Musicians and Normal People
@@ -18,3 +18,7 @@ I was happy to give Toby a donation.
 [https://tobyrush.com/theorypages/index.html](https://tobyrush.com/theorypages/index.html)
 
 ![ss.20241119_163554_Music_Theory_for_Musicians_and_Normal_People_-_Goo.png](/images/2024/11/ss.20241119_163554_Music_Theory_for_Musicians_and_Normal_People_-_Goo.png)
+
+---
+
+> [!info] Original Published Date : *2024-11-19*

@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:02:49.000Z
 title: About to watch shows on a Popcorn
 draft: false
 slug: about-to-watch-shows-on-a-popcorn
-tags: ["DigitalTV","Popcorn A-100","TV and Streaming"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: About to watch shows on a Popcorn
@@ -40,3 +40,7 @@ The cost. About $270 Australian, landed ; meaning including shipping from the US
 From what I read it can handle nearly every media file you can throw at it. Now that&#8217;s interesting for me because I can **record** HD TV on the bigger PC in the Study, but have no way of playing it back on the TV in the lounge.  My understanding is the Popcorn A-100 can do exactly this playback. Plus it has regular firmware/software updates you grab of the Net.
 
 Time will tell. The local forums say it shouldn&#8217;t take long to get here. More information at the [Popcorn web site](http://www.popcornhour.com/onlinestore/index.php?pluginoption=catalog&amp;task=info&amp;item_id=5&amp;main_id=0&amp;category_id=).
+
+---
+
+> [!info] Original Published Date : *2008-08-24*

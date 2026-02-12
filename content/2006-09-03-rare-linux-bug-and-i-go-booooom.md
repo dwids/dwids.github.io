@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:03:37.000Z
 title: Rare Linux bug and I go booooom
 draft: false
 slug: rare-linux-bug-and-i-go-booooom
-tags: ["Technology"]
+tags: ["technology"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Rare Linux bug and I go booooom
@@ -33,3 +33,7 @@ I got around it via these steps (safely recorded here &#8211; and elsewhere &#82
 6. save it, shutdown Ubuntu, remove live cd and reboot
 
 And it worked.
+
+---
+
+> [!info] Original Published Date : *2006-09-03*

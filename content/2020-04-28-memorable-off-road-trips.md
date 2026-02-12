@@ -4,7 +4,7 @@ lastmod: 2024-11-22T05:58:56.000Z
 title: Memorable off-road trips
 draft: false
 slug: memorable-off-road-trips
-tags: ["4WD"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Memorable off-road trips
@@ -56,3 +56,7 @@ I was rather nervous and obviously driving very slowly over the remaining cattle
 Here&#8217;s the photo. Just after I&#8217;d changed the tyre.  
 ![](/images/wordpress/2021/02/wheel-change-menindee-2002-scanned_20200428_205101.jpg)
 I now remember the guide book had the *wrong *instructions; trying to get you to take the silver &#8216;mag wheel&#8217; bit off.  That just added to the slight 🙂 tension in the air.
+
+---
+
+> [!info] Original Published Date : *2020-04-28*

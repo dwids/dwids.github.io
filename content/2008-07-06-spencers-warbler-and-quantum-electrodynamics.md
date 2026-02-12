@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:34:13.000Z
 title: "Spencer's warbler and quantum electrodynamics"
 draft: false
 slug: spencers-warbler-and-quantum-electrodynamics
-tags: ["Quotes"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: "Spencer's warbler and quantum electrodynamics"
@@ -18,3 +18,7 @@ Heard a great quote from the late, great physicist [Richard P Feynman](http://en
 Feynman went on to win a Nobel prize for his theory of Quantum Electrodynamics, which has the satisfying acronym (contraction?) of QED. He was also involved with the development of the first atomic bombs as well as the commission into the Challenger space shuttle disaster. 
 
 Variation of quote heard today via ABC Radio National Podcast of an [In Conversation](http://www.abc.net.au/rn/inconversation/stories/2008/2276846.htm) episode. The above text, which is a variation of the same theme, was found at [another web site.](http://www.vigyanprasar.gov.in/dream/april99/AprilArticle.htm) Apparently he used this example a number of times. 
+
+---
+
+> [!info] Original Published Date : *2008-07-06*

@@ -18,3 +18,7 @@ South Africa hung on for longer than most people (me included) tipped. Despite l
 Walked back &#8211; armed with water &#8211; in the hot wind over the new William Barak foot bridge. Into city and caught a tram to Lush to buy my shampoo (solid bar). One lasts me nearly 6 months (insert joke here)
 
 Anyway found what I wanted and was talking to the two store ladies about the heat. One of them spotted my water bottle was 90% empty and said &#8220;you would like me to fill that up?&#8230;it&#8217;s only tap water, but it&#8217;s pretty good.&#8221;   How sweet. She did and after a chat about how great our water is compared to other cities, I wandered off along Swanston St. Happier and less thirsty for the experience.
+
+---
+
+> [!info] Original Published Date : *2005-12-30*

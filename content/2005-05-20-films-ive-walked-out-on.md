@@ -4,7 +4,7 @@ lastmod: 2024-11-21T22:17:07.000Z
 title: Films I've walked out on
 draft: false
 slug: films-ive-walked-out-on
-tags: ["Movies"]
+tags: ["movies"]
 cover:
     image: https://images.unsplash.com/photo-1440404653325-ab127d49abc1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDd8fG1vdmllJTIwcmV2aWV3fGVufDB8fHx8MTczMTk5NjUzNXww&ixlib=rb-4.0.3&q=80&w=720
     alt: Films I've walked out on
@@ -22,3 +22,7 @@ The list isn&#8217;t that big and there&#8217;s one I remember leaving, but can&
 - *Bad Lieutenant *(1992) &#8211; think I walked out. This film had no redeeming features.
 
 **Update! Update! ** I remembered some key elements of the film whose title I&#8217;d even forgotten. A quick search at IMDB showed it to be *The Rules of Attraction *(2002)
+
+---
+
+> [!info] Original Published Date : *2005-05-20*

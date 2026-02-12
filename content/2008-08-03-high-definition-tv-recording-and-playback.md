@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:02:50.000Z
 title: High Definition TV recording and playback
 draft: false
 slug: high-definition-tv-recording-and-playback
-tags: ["DigitalTV","TiVo","TV and Streaming"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: High Definition TV recording and playback
@@ -28,3 +28,7 @@ Anyway I&#8217;ve got a two-pronged wish list:
 2. Later on, when the price of add-on BluRay players for PCs has fallen, simply drop one in and go.  
 
 Hopefully by then I may have a proper 1080p TV too. Dream on&#8230;
+
+---
+
+> [!info] Original Published Date : *2008-08-03*

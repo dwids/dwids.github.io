@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:00:18.000Z
 title: Day Train Trip to Ballarat (Art Gallery)
 draft: false
 slug: day-train-trip-to-ballarat-art-gallery
-tags: ["Train Trips"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Day Train Trip to Ballarat (Art Gallery)
@@ -29,3 +29,7 @@ The [Art Gallery of Ballarat](http://www.artgalleryofballarat.com.au/) web site 
 I walked to the station from home. So this journey was almost exactly like someone would have done 100+ years ago.
 
 #  
+
+---
+
+> [!info] Original Published Date : *2015-05-20*

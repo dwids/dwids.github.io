@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:02:19.000Z
 title: Kindle eBook – many editions of the same thing? – consumer confusion
 draft: false
 slug: kindle-ebook-many-editions-of-the-same-thing-consumer-confusion
-tags: ["eBooks"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Kindle eBook – many editions of the same thing? – consumer confusion
@@ -35,3 +35,7 @@ Having done some research I had earlier discovered ManyBooks.net which offers �
 It has no table of contents.&#160; But hey, the Kindle lets me add my own notes and I can Go To them if I want. 
 
 So there you go. I’m guessing the non-free ones do have a TOC. Maybe they have been professionally edited too. But it’s not clear as to what added-value they bring as most of them don’t spell it out.&#160; And spelling out such things is called *marketing*.
+
+---
+
+> [!info] Original Published Date : *2010-10-26*

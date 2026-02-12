@@ -31,3 +31,7 @@ And here’s just a few of the Steps themselves:
 This is a really good walk particularly on a sunny day. Full details are Walk 22 (Ferntree Gully Forest) in the [Day Walks Victoria](__GHOST_URL__/2008/01/12/daywalks-around-melbourne-book/) book. Some tracks have been renamed or merged since this edition was published; but nothing too complicated. 
 
 All tracks are in the Melways, starting on Map 74 H4.
+
+---
+
+> [!info] Original Published Date : *2010-10-29*

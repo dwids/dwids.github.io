@@ -4,7 +4,7 @@ lastmod: 2024-11-22T05:55:57.000Z
 title: Indexing PC Stuff 01 - Inside Documents
 draft: false
 slug: indexing-pc-stuff-01-inside-documents
-tags: ["Indexing","Windows Utilities"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Indexing PC Stuff 01 - Inside Documents
@@ -58,3 +58,7 @@ This gave me the confidence to index my main archive, while I walked up to Nelso
 But searches take a fraction of a second.  I can happily say mission accomplished.
 
 Oh yeah, Mir[a](https://youtu.be/TkMDAbDBB4s)nda, it&#8217;s an optical illusion. 
+
+---
+
+> [!info] Original Published Date : *2020-05-23*

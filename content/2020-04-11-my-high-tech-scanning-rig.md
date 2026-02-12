@@ -4,7 +4,7 @@ lastmod: 2024-11-22T05:59:25.000Z
 title: "My high-tech :-) scanning rig"
 draft: false
 slug: my-high-tech-scanning-rig
-tags: ["Technical Writing"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: "My high-tech :-) scanning rig"
@@ -23,3 +23,7 @@ Roll the phone over, click and tada.
 
 I&#8217;ll turn the jpg images into a PDF and upload it later today.
 ![](/images/wordpress/2021/02/img-0294.jpg)![](/images/wordpress/2021/02/img-0293.jpg)
+
+---
+
+> [!info] Original Published Date : *2020-04-11*

@@ -4,7 +4,7 @@ lastmod: 2024-11-22T05:51:56.000Z
 title: AVC and AAC compression timings for 1 hour DVD movie (black and white)
 draft: false
 slug: compressing-timings-for-1-hour-dvd-movie-black-and-white
-tags: ["Technology"]
+tags: ["technology"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: AVC and AAC compression timings for 1 hour DVD movie (black and white)
@@ -34,3 +34,7 @@ Size comparison for this 1 hour 5 minute movie:
 - Final mp4 is:  534 MB
 
 But, to be fair, VOB has multiple soundtracks. Also this is an old black and white movie. Will try colour when I have another 5 hours to spare 🙂
+
+---
+
+> [!info] Original Published Date : *2006-09-14*

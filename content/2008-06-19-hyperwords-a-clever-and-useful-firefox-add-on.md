@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:03:10.000Z
 title: "Hyperwords: a clever and useful Firefox add-on"
 draft: false
 slug: hyperwords-a-clever-and-useful-firefox-add-on
-tags: ["Firefox"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: "Hyperwords: a clever and useful Firefox add-on"
@@ -22,3 +22,7 @@ Also, if it&#8217;s a numerical amount you have selected, it can convert it from
 You can even add your own searches. I&#8217;ve added in &#8220;Search my local Williamstown library&#8221;. So if I&#8217;m reading a web page that mentions a great book or author, with 2 clicks Hyperwords is searching my local library for it.
 
 Highly recommended. And great at the price.
+
+---
+
+> [!info] Original Published Date : *2008-06-19*

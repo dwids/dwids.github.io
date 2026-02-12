@@ -4,7 +4,7 @@ lastmod: 2024-11-21T22:13:10.000Z
 title: "Old Commodore Amiga music file: reborn"
 draft: false
 slug: old-commodore-amiga-music-file-reborn
-tags: ["Creative"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1681488007344-c75b0cf8b0cd?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y3JlYXRpdmV8ZW58MHx8MHx8fDA%3D
     alt: "Old Commodore Amiga music file: reborn"
@@ -26,3 +26,7 @@ The hardest bit was getting the [free video-capture program ](https://obsproject
 And here it is:
 
 https://youtu.be/AfSzmgMzE2c
+
+---
+
+> [!info] Original Published Date : *2020-06-06*

@@ -4,7 +4,7 @@ lastmod: 2024-11-21T21:30:38.000Z
 title: Books I use
 draft: false
 slug: daywalks-around-melbourne-book
-tags: ["books"]
+tags: ["general"]
 cover:
     image: https://images.unsplash.com/photo-1505063366573-38928ae5567e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDh8fGJvb2tzfGVufDB8fHx8MTczMjE3MzU1NHww&ixlib=rb-4.0.3&q=80&w=720
     alt: Books I use
@@ -27,3 +27,7 @@ Available from lots of book stores and the [OSP web site](http://www.osp.com.au/
 
 First Edition (2001). Also available from lots of book stores and [John&#8217;s  web site](http://www.ozemail.com.au/~johnchapman)
 
+
+---
+
+> [!info] Original Published Date : *2008-01-12*

@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:01:28.000Z
 title: November Spawned A Monster - Morrissey
 draft: false
 slug: november-spawned-a-monster-morrissey
-tags: ["goldenmiles"]
+tags: ["music"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: November Spawned A Monster - Morrissey
@@ -16,3 +16,7 @@ Can&#8217;t remember where or when I first heard this song. I know it was years,
 I totally missed the whole Smiths thing from the UK, but this solo effort from Morrissey is intriguing. Probably best for Wikipedia to provide an [overview ](http://en.wikipedia.org/wiki/November_Spawned_a_Monster)
 
 The song tackles the plight of the disabled, a remarkable subject matter  for a pop single. As ever with Morrissey the tone and sentiments are  riddled with ambiguity. His use of words such as &#8216;monster&#8217; and &#8216;twisted&#8217;  creates a strange mix of revulsion, sympathy and black comedy, all used  to enlighten, and disturb, the audience. By forcing the ambivalent persona of tormentor and saviour, Morrissey forces the listener to confront their own prejudices head on.
+
+---
+
+> [!info] Original Published Date : *2011-02-14*

@@ -36,3 +36,7 @@ Stick with me here, it&#8217;s different but well worth it. This Canadian album 
 Sadly they had already been subjected to the silly rumour they were The Beatles, secretly re-united.  The band wanted to just record and be left alone. They never really took off.
 
 These two songs start off as a wistful ballad, but then quickly soars into a full blown classical-rock masterpiece with choir. If you listen carefully, it&#8217;s Science Fiction; the &#8220;creature&#8221; is on a space lighthouse. He&#8217;s the sole survivor of an arrogant civilisation which destroyed itself and their planet. He warns others to stay away from the ruins.  
+
+---
+
+> [!info] Original Published Date : *2020-03-26*

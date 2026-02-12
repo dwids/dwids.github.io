@@ -39,3 +39,7 @@ More details of some of the walks is available in a [particular section](__GHOST
 - Lake Eildon (Auriferiour Spur and Goschnick&#8217;s Lookout)
 - Wilsons Promintory (Little Oberon Bay, Oberon Bay)
 - Warburton (Little Peninsular Tunnel area)
+
+---
+
+> [!info] Original Published Date : *2008-05-26*

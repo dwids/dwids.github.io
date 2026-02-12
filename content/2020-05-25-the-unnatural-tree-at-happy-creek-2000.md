@@ -4,14 +4,14 @@ lastmod: 2024-11-22T06:44:30.000Z
 title: The Unnatural Tree at Happy Creek (2000)
 draft: false
 slug: the-unnatural-tree-at-happy-creek-2000
-tags: ["Creative"]
+tags: ["creative"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1681488007344-c75b0cf8b0cd?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y3JlYXRpdmV8ZW58MHx8MHx8fDA%3D
     alt: The Unnatural Tree at Happy Creek (2000)
 description: 
 ---
 
-In 2000 I found myself just outside of Walhalla on the old railway line. The issues of immigration and refugees were starting to bubble up in the media and just about to used as a political football. #hanson #howard #toxic
+In 2000 I found myself just outside of Walhalla on the old railway line. The issues of immigration and refugees were starting to bubble up in the media and just about to used as a political football. 
 
 ---
 ![](/images/wordpress/2021/02/walhalla-goldfields-railway-5d64c6ba14ffc0361eccfdfb-800x533.jpg)The Walhalla Goldfields Railway. Happy Creek is on this magic line. Photo from [here](https://www.australias.guide/vic/attraction-tour/walhalla-goldfields-railway/).
@@ -32,3 +32,7 @@ Today a small train takes tourists along that same steep valley. It ends its jou
 That oak (or maple) tree just seems to fit in. It doesn&#8217;t make a big thing about its presence; just retains a silent dignity. Standing there, all golden and symmetrical leaves quietly suicidal. It is very different from our green and pale and stringy eucalyptus, but it adds rather than subtracts from the whole.
 
 The pretty tree at Happy Creek is not from around these parts. It is different. But that really doesn&#8217;t seem to matter. If you close both eyes you can clearly see it.
+
+---
+
+> [!info] Original Published Date : *2020-05-25*

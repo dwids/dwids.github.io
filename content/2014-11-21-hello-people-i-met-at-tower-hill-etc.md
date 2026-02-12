@@ -12,3 +12,7 @@ description:
 ---
 
 Hi guys. At the moment I&#8217;m not putting my photos up here on this blog. I&#8217;ll make a few Public on Facebook under my name (David Sidwell) &#8211; so you should be able to see them there without having to Friend me. Let me know, via email or a comment (below)! Otherwise, when I get back, I&#8217;ll put them up on Flickr etc
+
+---
+
+> [!info] Original Published Date : *2014-11-21*

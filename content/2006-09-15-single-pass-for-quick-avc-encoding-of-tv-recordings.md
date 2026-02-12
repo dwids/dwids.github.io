@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:03:37.000Z
 title: Single pass for quick AVC encoding of TV recordings
 draft: false
 slug: single-pass-for-quick-avc-encoding-of-tv-recordings
-tags: ["Technology"]
+tags: ["technology"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Single pass for quick AVC encoding of TV recordings
@@ -32,3 +32,7 @@ I did a quick series of tests on a 2 minute DVD sample (**video **only) to confi
 - **1P-Goodquality**: About 8.5 mins
 
 On balance, I&#8217;d be aiming for **1P-Intermediate**. If it&#8217;s a show that has little or no movement &#8211; say, a chat or comedy show &#8211; I&#8217;d probably copy that profile and drop the data rate to say 700kpbs from the default of 1000.
+
+---
+
+> [!info] Original Published Date : *2006-09-15*

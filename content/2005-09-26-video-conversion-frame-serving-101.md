@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:03:53.000Z
 title: Video Conversion - Frame Serving 101
 draft: false
 slug: video-conversion-frame-serving-101
-tags: ["Technology"]
+tags: ["technology"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Video Conversion - Frame Serving 101
@@ -54,3 +54,7 @@ MSharpen(15, 100, true, false, false)
 GreyScale()
 
 Subtitle("Copyright me 2005",font="Arial")`
+
+---
+
+> [!info] Original Published Date : *2005-09-26*

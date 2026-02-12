@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:02:58.000Z
 title: "Happy 50th NASA : TLI and The Two Towers missions"
 draft: false
 slug: happy-50th-nasa-tli-and-the-two-towers-missions
-tags: ["NASA","Space"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: "Happy 50th NASA : TLI and The Two Towers missions"
@@ -36,3 +36,7 @@ Gemini refers to two. And this was *The Two Towers* of missions. It was the midd
 As such it tends to be forgotten today, or perhaps less remembered. Some recent reading and a [documentary](http://en.wikipedia.org/wiki/When_We_Left_Earth:_The_NASA_Missions) reminded me how vital these Gemini missions were.  There were the key steps between (relatively) simple orbital flights on modified nuclear missiles and the full blown man on the moon stuff.  NASA refers to them as the Bridge to the Moon and is justifiably proud of them. Their [official Gemini web site](http://www.nasa.gov/mission_pages/gemini/index.html) is a great place to start reading, with [another related site](http://www-pao.ksc.nasa.gov/kscpao/history/gemini/gemini.htm) full of information too. As for books. Mmm. Time for me to start looking for a good book on the Gemini Program.
 
 Technorati Tags: [NASA](http://technorati.com/tags/NASA),[Gemini](http://technorati.com/tags/Gemini),[Apollo](http://technorati.com/tags/Apollo)
+
+---
+
+> [!info] Original Published Date : *2008-07-31*

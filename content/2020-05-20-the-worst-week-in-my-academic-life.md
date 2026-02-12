@@ -4,7 +4,7 @@ lastmod: 2025-01-08T23:20:06.000Z
 title: The Worst Week in My Academic Life
 draft: false
 slug: the-worst-week-in-my-academic-life
-tags: ["university"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: The Worst Week in My Academic Life
@@ -66,3 +66,7 @@ Chemistry.
 
 ---
 ![](/images/wordpress/2021/02/img_6021ab7133f28.gif)Typical 1970s computer paper. I still get a tiny shiver when I see this; imagining it with a just a few devastating words on it and feeling my stomach drop all over again.
+
+---
+
+> [!info] Original Published Date : *2020-05-20*

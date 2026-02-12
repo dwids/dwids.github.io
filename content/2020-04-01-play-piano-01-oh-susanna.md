@@ -4,7 +4,7 @@ lastmod: 2024-11-22T05:59:39.000Z
 title: "Play Piano 01: Oh! Susanna"
 draft: false
 slug: play-piano-01-oh-susanna
-tags: ["lesson","piano"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: "Play Piano 01: Oh! Susanna"
@@ -32,3 +32,7 @@ Some clues:
 - If you are on an **F** note when you play &#8220;*Oh! Su*&#8230;&#8221;  start of the chorus,  you are doing well.
 
 If this is too much you can check out this fun &#8216;here&#8217;s the note *names *as I play them&#8217; clip.
+
+---
+
+> [!info] Original Published Date : *2020-04-01*

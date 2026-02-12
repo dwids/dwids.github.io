@@ -4,7 +4,7 @@ lastmod: 2024-11-22T05:51:56.000Z
 title: Finally got 192 MB file on to mobile phone
 draft: false
 slug: finally-got-192-mb-file-on-to-mobile-phone
-tags: ["p3600i"]
+tags: ["general"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Finally got 192 MB file on to mobile phone
@@ -35,3 +35,7 @@ Important notes:
  
 
 Technorati Tags: [Pocket Wikipedia](http://technorati.com/tags/Pocket%20Wikipedia),[PPC](http://technorati.com/tags/PPC),[Windows Mobile](http://technorati.com/tags/Windows%20Mobile),[p3600i](http://technorati.com/tags/p3600i)
+
+---
+
+> [!info] Original Published Date : *2008-07-02*

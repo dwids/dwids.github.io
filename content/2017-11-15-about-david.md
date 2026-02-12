@@ -41,3 +41,7 @@ Whilst David is a hands-on technical person, he really enjoys the creative side.
 The above is just an overview.  You can find out more about how David puts the Technical in Technical Writer, by calling him on 0438 397 822
 
  
+
+---
+
+> [!info] Original Published Date : *2017-11-15*

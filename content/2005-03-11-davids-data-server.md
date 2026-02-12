@@ -4,7 +4,7 @@ lastmod: 2024-11-22T06:38:31.000Z
 title: David's Data Server
 draft: false
 slug: davids-data-server
-tags: ["Technology"]
+tags: ["technology"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: David's Data Server
@@ -30,3 +30,7 @@ It&#8217;s currently off with my local PC guru store whose mission is  &#8211; a
 > Please leave 2 hard drives already in place there. The first (boot) has both Windows and Linux on it
 
 The system currently dual-boots Windows XP and Linux. Not for long.  Windows  will soon be purged, wiped, nuked and deleted. 
+
+---
+
+> [!info] Original Published Date : *2005-03-11*

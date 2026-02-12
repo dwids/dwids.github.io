@@ -28,3 +28,7 @@ Here is the link to the [PDF version of the scanned pages](https://www.dropbox.c
 Decades on, it was a real buzz to read this. Particularly the teacher&#8217;s comments, thanking me (!) 🙂  Yes, I&#8217;ve forgotten their name, sorry teacher.
 
 Seriously &#8211; you can hopefully now see why, when a year of two later the &#8220;sci fi&#8221; film *Star Wars* came out&#8230;I went &#8220;yeah, it&#8217;s ok, but nah&#8221;.
+
+---
+
+> [!info] Original Published Date : *2020-04-14*
