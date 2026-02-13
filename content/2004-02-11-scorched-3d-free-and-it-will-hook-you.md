@@ -1,6 +1,6 @@
 ---
 date: 2004-02-11T16:24:36.000Z
-lastmod: 2024-11-22T06:04:39.000Z
+lastmod: 2004-02-11T16:24:36.000Z
 title: "Scorched 3D: free... and it will hook you"
 draft: false
 slug: scorched-3d-free-and-it-will-hook-you

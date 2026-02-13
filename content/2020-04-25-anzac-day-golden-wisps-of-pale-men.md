@@ -1,6 +1,6 @@
 ---
-date: 2020-04-25T10:18:33.000Z
-lastmod: 2024-11-21T22:42:18.000Z
+date: 2004-05-25
+lastmod: 2004-05-25
 title: "ANZAC Day: Golden Wisps of Pale Men (2004)"
 draft: false
 slug: anzac-day-golden-wisps-of-pale-men
@@ -42,4 +42,4 @@ Behind him I can nearly see the thousands of pale and wispy men in uniforms. I s
 
 ---
 
-> [!info] Original Published Date : *2020-04-25*
+> [!info] Original Published Date : *2004-04-25*

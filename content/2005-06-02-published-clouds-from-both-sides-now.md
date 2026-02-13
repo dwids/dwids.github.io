@@ -1,6 +1,6 @@
 ---
 date: 2005-06-02T11:17:06.000Z
-lastmod: 2024-11-22T06:45:07.000Z
+lastmod: 2005-06-02T11:17:06.000Z
 title: Published! Clouds from both sides now
 draft: false
 slug: published-clouds-from-both-sides-now

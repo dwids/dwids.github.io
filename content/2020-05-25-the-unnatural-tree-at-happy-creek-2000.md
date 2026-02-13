@@ -1,6 +1,6 @@
 ---
-date: 2020-05-25T21:40:24.000Z
-lastmod: 2024-11-22T06:44:30.000Z
+date: 2001-05-25T21:40:24.000Z
+lastmod: 2001-11-22T06:44:30.000Z
 title: The Unnatural Tree at Happy Creek (2000)
 draft: false
 slug: the-unnatural-tree-at-happy-creek-2000
@@ -11,7 +11,7 @@ cover:
 description: 
 ---
 
-In 2000 I found myself just outside of Walhalla on the old railway line. The issues of immigration and refugees were starting to bubble up in the media and just about to used as a political football. 
+In c. 2001 I found myself just outside of Walhalla on the old railway line. The issues of immigration and refugees were starting to bubble up in the media and just about to used as a political football. 
 
 ---
 ![](/images/wordpress/2021/02/walhalla-goldfields-railway-5d64c6ba14ffc0361eccfdfb-800x533.jpg)The Walhalla Goldfields Railway. Happy Creek is on this magic line. Photo from [here](https://www.australias.guide/vic/attraction-tour/walhalla-goldfields-railway/).
@@ -35,4 +35,4 @@ The pretty tree at Happy Creek is not from around these parts. It is different. 
 
 ---
 
-> [!info] Original Published Date : *2020-05-25*
+> [!info] Original Published Date : *2001*

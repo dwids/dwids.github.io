@@ -1,6 +1,6 @@
 ---
 date: 2023-02-15T12:12:14.000Z
-lastmod: 2024-11-22T06:42:55.000Z
+lastmod: 1996-09-30
 title: Published! All wired up for their footy fix [The Age, 1996]
 draft: false
 slug: published-all-wired-up-for-their-footy-fix-the-age-1996
@@ -49,4 +49,4 @@ There, stuck to the inside of an Uzi and staring out over the Holy Land is the f
 
 ---
 
-> [!info] Original Published Date : *2023-02-15*
+> [!info] Original Published Date : *1996*

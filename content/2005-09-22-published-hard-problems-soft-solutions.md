@@ -1,6 +1,6 @@
 ---
 date: 2005-09-22T13:03:36.000Z
-lastmod: 2024-11-22T06:42:57.000Z
+lastmod: 2005-09-22T13:03:36.000Z
 title: Published! Hard problems, soft solutions
 draft: false
 slug: published-hard-problems-soft-solutions

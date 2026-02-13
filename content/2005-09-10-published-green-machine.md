@@ -1,6 +1,6 @@
 ---
 date: 2005-09-10T16:43:42.000Z
-lastmod: 2024-11-22T06:42:57.000Z
+lastmod: 2005-09-10T16:43:42.000Z
 title: Published! Green machine
 draft: false
 slug: published-green-machine

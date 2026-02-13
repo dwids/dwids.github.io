@@ -1,6 +1,6 @@
 ---
 date: 2005-07-11T16:45:56.000Z
-lastmod: 2024-11-22T06:42:58.000Z
+lastmod: 2005-07-11T16:45:56.000Z
 title: Published! Homing In
 draft: false
 slug: published-homing-in

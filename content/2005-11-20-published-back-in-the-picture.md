@@ -1,6 +1,6 @@
 ---
 date: 2005-11-20T09:06:26.000Z
-lastmod: 2024-11-22T06:42:56.000Z
+lastmod: 2005-11-17
 title: Published! - Back in the picture
 draft: false
 slug: published-back-in-the-picture
@@ -15,4 +15,4 @@ description:
 
 ---
 
-> [!info] Original Published Date : *2005-11-20*
+> [!info] Original Published Date : *2005-11-17*

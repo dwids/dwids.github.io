@@ -1,6 +1,6 @@
 ---
 date: 2005-10-08T06:54:30.000Z
-lastmod: 2024-11-22T06:42:57.000Z
+lastmod: 2005-10-08T06:54:30.000Z
 title: Published! Tag, you're it
 draft: false
 slug: published-tag-youre-it

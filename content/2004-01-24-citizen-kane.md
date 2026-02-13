@@ -1,6 +1,6 @@
 ---
 date: 2004-01-24T19:33:19.000Z
-lastmod: 2024-11-22T06:04:39.000Z
+lastmod: 2004-01-24T19:33:19.000Z
 title: Citizen Kane
 draft: false
 slug: citizen-kane

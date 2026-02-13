@@ -1,6 +1,6 @@
 ---
 date: 2005-06-10T13:14:26.000Z
-lastmod: 2024-11-22T06:45:07.000Z
+lastmod: 2005-06-10T13:14:26.000Z
 title: Published! Beam me down
 draft: false
 slug: published-beam-me-down

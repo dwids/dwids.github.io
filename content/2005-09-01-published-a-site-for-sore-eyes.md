@@ -1,6 +1,6 @@
 ---
 date: 2005-09-01T12:19:40.000Z
-lastmod: 2024-11-22T06:42:57.000Z
+lastmod: 2005-07-26T12:19:40.000Z
 title: Published! - A site for sore eyes
 draft: false
 slug: published-a-site-for-sore-eyes
@@ -11,7 +11,7 @@ cover:
 description: 
 ---
 
-Melbourne Age and [Sydney Morning Herald](http://smh.com.au/articles/2005/07/26/1122143850344.html). A look at content managers.
+Melbourne Age and [Sydney Morning Herald](http://smh.com.au/articles/2005/07/26/1122143850344.html). A look at content managers. 
 
 ---
 

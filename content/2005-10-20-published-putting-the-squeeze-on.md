@@ -1,6 +1,6 @@
 ---
 date: 2005-10-20T16:44:59.000Z
-lastmod: 2024-11-22T06:42:56.000Z
+lastmod: 2005-10-20T16:44:59.000Z
 title: Published! Putting the squeeze on
 draft: false
 slug: published-putting-the-squeeze-on

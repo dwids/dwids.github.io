@@ -1,7 +1,7 @@
 ---
 date: 2005-12-08T11:05:15.000Z
-lastmod: 2024-11-22T06:42:56.000Z
-title: Published! - Memory burn [2005]
+lastmod: 2005-12-08T11:05:15.000Z
+title: Published! - Memory burn 
 draft: false
 slug: published-memory-burn
 tags: ["freelance"]

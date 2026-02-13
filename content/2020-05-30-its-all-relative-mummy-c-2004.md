@@ -1,6 +1,6 @@
 ---
 date: 2020-05-30T20:11:17.000Z
-lastmod: 2024-10-18T20:53:53.000Z
+lastmod: 2004-10-18T20:53:53.000Z
 title: It's all relative, mummy (c.2004)
 draft: false
 slug: its-all-relative-mummy-c-2004

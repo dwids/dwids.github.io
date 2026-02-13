@@ -1,6 +1,6 @@
 ---
 date: 2004-01-24T19:15:13.000Z
-lastmod: 2024-11-22T06:04:39.000Z
+lastmod: 2004-01-24T19:15:13.000Z
 title: The Williamstown Racetrack circa 1869
 draft: false
 slug: the-williamstown-racetrack-circa-1869
