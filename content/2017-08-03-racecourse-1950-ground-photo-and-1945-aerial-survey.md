@@ -1,10 +1,10 @@
 ---
 date: 2017-08-03T19:17:26.000Z
-lastmod: 2024-11-22T05:59:49.000Z
+lastmod: 2017-08-03T19:17:26.000Z
 title: Racecourse - 1950 ground photo and 1945 aerial survey
 draft: false
 slug: racecourse-1950-ground-photo-and-1945-aerial-survey
-tags: ["general"]
+tags: ["racecourse"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: Racecourse - 1950 ground photo and 1945 aerial survey

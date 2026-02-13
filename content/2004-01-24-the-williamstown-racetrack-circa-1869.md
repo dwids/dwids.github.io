@@ -4,7 +4,7 @@ lastmod: 2004-01-24T19:15:13.000Z
 title: The Williamstown Racetrack circa 1869
 draft: false
 slug: the-williamstown-racetrack-circa-1869
-tags: ["general"]
+tags: ["racecourse"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: The Williamstown Racetrack circa 1869

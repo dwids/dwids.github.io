@@ -1,14 +1,15 @@
 ---
 date: 2013-08-30T21:58:49.000Z
-lastmod: 2024-11-22T06:01:04.000Z
+lastmod: 2013-08-30T21:58:49.000Z
 title: Williamstown Racecourse–ruins speculation
 draft: false
 slug: williamstown-racecourseruins-speculation
-tags: ["general"]
+tags:
+  - racecourse
 cover:
-    image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
-    alt: Williamstown Racecourse–ruins speculation
-description: 
+  image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
+  alt: Williamstown Racecourse–ruins speculation
+description:
 ---
 
 I went for a walk out there today and paid more attention to the ruins. Not just the obvious things, like the rubble with the steps and the single tree, but the less obvious items. I came home and looked at both the Google Earth view and the excellent 1930s aerial photograph. Here’s my first cut and what might be what in the ruins, starting with the photograph with some markers added by me:
