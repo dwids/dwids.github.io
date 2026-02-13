@@ -11,11 +11,17 @@ cover:
 description: 
 ---
 
-I&#8217;ve been thinking about [today&#8217;s post](__GHOST_URL__/2017/08/03/williamstown-racecourse-1950s-images-migrant-hostel/) (1950 ground level photograph) in the context an earlier aerial survey (1945) as [mentioned here ](__GHOST_URL__/2014/08/04/williamstown-racecourse-1945-and-todayaerial-comparison/) on my blog, then speculating on **where** the 1950 photo was taken against the 1945 image.
 
-Firstly Rob Medlen&#8217;s 1950 image, with mark-up by me (as usual, **click on image** for full size):
+>[!note] Note
+>This 2017 post was lightly edited today (13 Feb 2026),mainly to ensure the images were full sized.
 
-[![](/images/wordpress/2017/08/Capture-2_with1945_speculation-300x221.png)](/images/wordpress/2017/08/Capture-2_with1945_speculation.png)
+
+Firstly here is Rob Medlen&#8217;s 1950 image - of the Migrant Hostel in the grounds of the Williamstown Racecourse  (as covered earlier today [[2017-08-03-williamstown-racecourse-1950s-images-migrant-hostel | here]] ) but with numbered markers added by me:
+
+<figure>
+  <img src="images/wordpress/2017/08/Capture-2_with1945_speculation.png" alt="Robs Capture-2 with my numbered markers">
+  <figcaption>Rob's Capture-2 with my numbered markers (Source: Rob Medlen)</figcaption>
+</figure>
 
 **Legend:**
 
@@ -29,11 +35,11 @@ Firstly Rob Medlen&#8217;s 1950 image, with mark-up by me (as usual, **click on 
 
 Here is the 1945 aerial survey (source [here](http://www.lib.unimelb.edu.au/collections/maps/historical/1945melb/l_sheets/848b3d.jpg)) marked up with the same legend, plus my speculation as to the (approximate) location of the photographer and the area captured by their image (the pale aqua arrows)
 
-[![](/images/wordpress/2017/08/848b3d_racecourse_with_Rob_speculation_marked-up-300x210.jpg)](/images/wordpress/2017/08/848b3d_racecourse_with_Rob_speculation_marked-up.jpg)1945 aerial survey (with my speculation of 1950 photo items)
+<figure>
+  <img src="images/wordpress/2017/08/848b3d_racecourse_with_Rob_speculation_marked-up.jpg" alt="1945 aerial survey (with my speculation of 1950 photo items)">
+  <figcaption> new 1945 aerial survey (with my speculation of 1950 photo items)</figcaption>
+</figure>
 
- 
-
- 
 
 ---
 

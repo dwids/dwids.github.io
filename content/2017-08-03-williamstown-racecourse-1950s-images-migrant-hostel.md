@@ -17,6 +17,12 @@ description:
 
 The old racecourse was used as a migrant hostel from about 1949. Rob Medlen’s father ran a business there and sent me scanned images with some very valuable hand written text, which I have manually transcribed.
 
+<figure>
+  <img src="images/wordpress/2021/02/98a39-capture-2.png" alt="Lake Mungo. October 27th 2005. (Not in original article)">
+  <figcaption>Main Canteen c.1950 with old Grandstand in background (Source: Rob Medlen)</figcaption>
+</figure>
+
+
 ## Rob Medlen’s Images
 
 The source of this is a handwritten letter to me from September 2015. Rob’s father “had his business” [a ‘kiosk’- more later on this] here at the old Racecourse, “from 1950….up until the late 50’s when the migrant hostel was consolidated north of the Kororoit Creek & numbers of immigrants dropped significantly from the hostel system” He adds “Dad also had the catering contract with Braun Transworld Corporation when they were building the refinery & pipelines. This was run from the same premises…”

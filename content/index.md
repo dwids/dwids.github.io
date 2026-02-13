@@ -16,7 +16,7 @@ Welcome to SiC Blog! I write about technology, music, bushwalking, navigation, a
 * [[2020-05-30-its-all-relative-mummy-c-2004|Ancient Egypt lasted a long time. How long relative to 0 AD?📅]]
 
 
-## Browse by Topic
+## Browse by Topic (aka Tags)
 
 - [Music](/tags/music) - Albums, concerts, and musical discoveries
 - [Creative](/tags/creative) - Pieces on ANZAC day, Lake Mungo history, Egypt etc
@@ -30,6 +30,10 @@ Welcome to SiC Blog! I write about technology, music, bushwalking, navigation, a
 - [Maths](/tags/maths) - Numbers and patterns
 - [Once Thought](/tags/once-thought) - Sorta silly things I once genuinely thought
 - [COVID-19](/tags/covid-19) - Keeping myself same during pandemic times
+
+And here's the full list of Topics (Tags).  Including lots of `general` ones which haven't been sorted yet on this new site
+
+- [Full tags and topic list](/tags/)
 
 
 
