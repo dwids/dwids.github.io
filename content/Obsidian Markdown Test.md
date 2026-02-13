@@ -130,7 +130,4 @@ Same image but now forced to be 200 px
 ![text|200](https://content.ngv.vic.gov.au/col-images/api/EXHI013687/1920)
 
 
-### Local Image File
-For me, these are artefacts from OneNote etc. I did convert them so they still work in Obsidian
-![[Pages-External-HDDs-and-Interface-types-image1.jpg]]
 

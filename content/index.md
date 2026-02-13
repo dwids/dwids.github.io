@@ -40,6 +40,6 @@ As I have moved and migrated this site many times, some things have gone wrong. 
 I've just noticed today (13 Feb 2026) that the most recent on has removed YouTube links.
 
 ### About some Dates
-Due to me migrating from multiple, very different blog-systems and sites over *decades*, some 'published' dates got a bit mixed up. We (Claude AI and I) found a way to get  some/most of real 'first created' date and have added them to the posts, usually at  **bottom** of the page. Looks like this:
+Due to me migrating from multiple, very different blog-systems and sites over *decades*, some 'published' dates got a bit mixed up. We (Claude AI and I) found a way to get  some/most of real 'first created' date and have added them to the posts, usually at  **bottom** of the page. Looks like this: 
 
 > [!info] Original Published Date : *2004-05-19*

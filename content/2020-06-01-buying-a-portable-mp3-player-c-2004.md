@@ -4,7 +4,7 @@ lastmod: 2024-11-19T06:10:52.000Z
 title: Buying a portable MP3 player (c. 2004)
 draft: false
 slug: buying-a-portable-mp3-player-c-2004
-tags: ["Music"]
+tags: ["music"]
 cover:
     image: https://images.unsplash.com/photo-1515010137531-66995c7f40e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDEyfHxtcDN8ZW58MHx8fHwxNzMxOTk2NjMyfDA&ixlib=rb-4.0.3&q=80&w=2000
     alt: Buying a portable MP3 player (c. 2004)
