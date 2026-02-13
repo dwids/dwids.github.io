@@ -11,7 +11,7 @@ cover:
 description: 
 ---
 
-*The Age,* actually the *Livewire *section of the *Green Guide*, today published an article of mine about using squashing down digital TV recordings to save disk space.  It&#8217;s called [Crush and Burn ](http://www.theage.com.au/news/Livewire/Crush-and-burn/2005/05/18/1116361588550.html) and I&#8217;m very happy with it.
+*The Age,* actually the *Livewire *section of the *Green Guide*, today published an article of mine about using squashing down digital TV recordings to save disk space.  It&#8217;s called [Crush and Burn ](http://www.theage.com.au/news/Livewire/Crush-and-burn/2005/05/18/1116361588550.html) and I&#8217;m very happy with it. 
 
 ---
 
