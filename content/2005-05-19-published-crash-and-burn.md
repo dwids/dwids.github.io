@@ -1,6 +1,6 @@
 ---
 date: 2005-05-19T14:32:27.000Z
-lastmod: 2024-11-22T06:45:07.000Z
+lastmod: 2005-05-19T14:32:27.000Z
 title: Published! Crush and burn
 draft: false
 slug: published-crash-and-burn
