@@ -11,9 +11,9 @@ Welcome to SiC Blog! I write about technology, music, bushwalking, navigation, a
 ## Some Fave Pieces
 
 ### Creative Writing
-* [ANZAC Day - on Pa and his brother](2020-04-25-anzac-day-golden-wisps-of-pale-men.md)
-* [Lake Mungo and early human remains](2020-05-22-lm3-and-port-phillip-non-bay.md)
-* [Ancient Egypt lasted a long time. How long relative to 0 AD?📅](2020-05-30-its-all-relative-mummy-c-2004.md)
+* [ANZAC Day - on Pa and his brother](anzac-day-golden-wisps-of-pale-men.md)
+* [Lake Mungo and early human remains](lm3-and-port-phillip-non-bay.md)
+* [Ancient Egypt lasted a long time. How long relative to 0 AD?📅](its-all-relative-mummy-c-2004.md)
 
 
 ## Browse by Topic (aka Tags)
