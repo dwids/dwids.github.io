@@ -1,14 +1,16 @@
 ---
 date: 2004-06-03T07:34:05.000Z
-lastmod: 2024-11-22T06:04:28.000Z
+lastmod: 2004-06-03T07:34:05.000Z
 title: Recording studio in your pocket
 draft: false
 slug: recording-studio-in-your-pocket
-tags: ["music","technology"]
+tags:
+  - music
+  - technology
 cover:
-    image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
-    alt: Recording studio in your pocket
-description: 
+  image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
+  alt: Recording studio in your pocket
+description:
 ---
 
 As per the earlier post, I&#8217;ve been using something called &#8220;live&#8221; Linux ; which is where the entire O/S plus all software lives on a bootable media (CD) and doesn&#8217;t actually need a hard drive (!).   Full GUI, mouse, network, sound etc. Windows cannot do this. It helped me rescue GB of data yesterday&#8230;
