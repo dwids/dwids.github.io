@@ -21,8 +21,7 @@ Yet the GPS was telling me I was **hundreds** of metres away from where I should
 
 Later, when I loaded the GPS log into their map program on the PC, I saw the log was ‘correct’ but displaced, in both directions. The image below is a very rough recreation, showing the walk I really did in pale red and the GPS log in red.
 
-
-![[ae0b0-gps-datum-error-simulated.jpg|GPS datum error (simulated)]]
+![GPS datum error -simulated](images/ae0b0-gps-datum-error-simulated.jpg)
 
 My first reaction was “my new GPS from America is faulty!” But a bit of reading taught me something: the paper map had the same co-ordinate system, but a different **datum** than the GPS.
 
