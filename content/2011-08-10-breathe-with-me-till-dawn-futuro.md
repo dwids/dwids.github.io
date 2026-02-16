@@ -1,6 +1,6 @@
 ---
 date: 2011-08-10T22:48:00.000Z
-lastmod: 2024-11-22T06:01:16.000Z
+lastmod: 2011-08-10T22:48:00.000Z
 title: Breathe With Me Till Dawn - FuTuRo
 draft: false
 slug: breathe-with-me-till-dawn-futuro
@@ -16,6 +16,8 @@ One of the first mashups I heard. And what a beauty. Mashups are created by taki
 At this point an interruption and shout-out to Mr Lee Simon. My memory is that Lee did create an analog mashup back in the 1970s on radio 3XY. Linda Ronstadt had done a cover of Elvis&#8217;s Love Me Tender. The 2 records were pretty much in the same key and same speed. So he could merge them! It was excellent.
 
 Today you can digitally slow a song down and NOT adjust its pitch. Thus creative people can merge two of my favourite songs, like Breathe (Pink Floyd) and Stay With Me Till Dawn (Judie Tzuke). Two slow, lovely songs that you&#8217;d think wouldn&#8217;t &#8216;work&#8217; together. But boy, do they. Judge for yourself:
+
+<iframe width="720" height="405" src="https://www.youtube.com/embed/QEkHRZqfPzc" title="Pink Floyd vs. Judie Tzuke Breathe With Me Till Dawn" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

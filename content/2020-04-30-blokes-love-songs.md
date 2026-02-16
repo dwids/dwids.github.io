@@ -1,6 +1,6 @@
 ---
 date: 2020-04-30T20:17:06.000Z
-lastmod: 2024-10-18T23:43:54.000Z
+lastmod: 2020-04-30T20:17:06.000Z
 title: Bloke's (Men's) Love Songs
 draft: false
 slug: blokes-love-songs

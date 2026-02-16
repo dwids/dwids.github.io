@@ -1,6 +1,6 @@
 ---
 date: 2020-06-01T20:10:20.000Z
-lastmod: 2024-11-19T06:10:52.000Z
+lastmod: 2004-06-01T20:10:20.000Z
 title: Buying a portable MP3 player (c. 2004)
 draft: false
 slug: buying-a-portable-mp3-player-c-2004
@@ -49,4 +49,4 @@ Here’s a real world example to leave you with. I used the tiny MP3 player (rec
 
 ---
 
-> [!info] Original Published Date : *2020-06-01*
+> [!info] Original Published Date : *c.2004*

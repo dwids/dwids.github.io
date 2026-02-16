@@ -1,6 +1,6 @@
 ---
 date: 2011-08-10T23:34:00.000Z
-lastmod: 2024-11-22T06:01:16.000Z
+lastmod: 2011-08-10T23:34:00.000Z
 title: Doina Lui Petru Unc - Gheorghe Zamfir
 draft: false
 slug: gheorghe-zamfir
@@ -12,6 +12,8 @@ description:
 ---
 
 It&#8217;s a beautiful, traditional Romanian pan pipe folk tune.  But for me &#8211; and lots of others &#8211; it is memorable and haunting for another reason.  Link updated April 2015, working again (hopefully!):
+
+![](https://youtu.be/TV3dAvVpji4)
 
 ---
 

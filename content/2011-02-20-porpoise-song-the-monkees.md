@@ -1,6 +1,6 @@
 ---
 date: 2011-02-20T22:47:00.000Z
-lastmod: 2024-11-22T06:01:27.000Z
+lastmod: 2011-02-20T22:47:00.000Z
 title: Porpoise Song -The Monkees
 draft: false
 slug: porpoise-song-the-monkees
@@ -17,7 +17,11 @@ Now, as they were a manufactured group, most of their songs were up-beat, pure p
 
 This is a haunting, magnificent song, provided to them by Carole King. Yes that Carole King who feels the earth move under her feet. It&#8217;s 1968 and so we are really towards the end of the (first) Monkees era. Very psychedelic and surreal lyrics, with orchestration to boot.
 
+<iframe width="720" height="540" src="https://www.youtube.com/embed/ZpvCxYikRFA" title="The Monkees- Porpoise Song" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 And a bonus of the fairly rare original Demo tape that Carole made. It even has Latin chanting in it!  Quality of the recording is not that good, but for we fans it&#8217;s a marvel.
+
+<iframe width="720" height="540" src="https://www.youtube.com/embed/wbJrUYz1T78" title="Carole King - Porpoise Song (demo, higher quality)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

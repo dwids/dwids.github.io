@@ -1,6 +1,6 @@
 ---
 date: 2024-10-18T23:18:09.000Z
-lastmod: 2024-10-18T23:20:06.000Z
+lastmod: 2024-10-18T23:18:09.000Z
 title: Great Covers (Take 2) - RocKwiz
 draft: false
 slug: great-covers-take-2-rockwiz

@@ -1,7 +1,7 @@
 ---
 date: 2011-02-09T21:41:00.000Z
-lastmod: 2024-11-22T06:01:28.000Z
-title: Sub-Rosa Subway - Klaatu (Beatles stuff)
+lastmod: 2011-02-09T21:41:00.000Z
+title: Sub-Rosa Subway - Klaatu (NOT the Beatles!)
 draft: false
 slug: sub-rosa-subway-klaatu-beatles-stuff
 tags: ["music"]
@@ -17,6 +17,9 @@ I think there were at least 2 reasons:
 
 1. It does sound a bit like Paul singing and the whole tune has a Beatle-like feel to it (story-in-a-song, production, instrumentation) Plus the bass-playing at the start is a bit Macca-ish.
 2. The title. Sub-Rosa means secret and Paul had an album called Red Rose Speedway, so a play on words or hint?  Or maybe a joke or coincidence&#8230;
+
+
+<iframe width="720" height="540" src="https://www.youtube.com/embed/Dc9-MPMJLBo" title="Sub-Rosa Subway by Klaatu (1st album)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

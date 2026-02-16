@@ -1,6 +1,6 @@
 ---
 date: 2011-02-06T02:03:00.000Z
-lastmod: 2024-11-22T06:01:29.000Z
+lastmod: 2011-02-06T02:03:00.000Z
 title: Golden Miles by Healing Force
 draft: false
 slug: golden-miles-by-healing-force

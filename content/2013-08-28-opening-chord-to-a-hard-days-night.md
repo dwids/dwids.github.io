@@ -1,6 +1,6 @@
 ---
 date: 2013-08-28T06:18:00.000Z
-lastmod: 2024-11-22T06:01:03.000Z
+lastmod: 2013-08-28T06:18:00.000Z
 title: Opening chord to a Hard Days Night
 draft: false
 slug: opening-chord-to-a-hard-days-night
@@ -18,7 +18,8 @@ Rhythm Guitar (John)  D sus 4 (F# becomes G)
 
 Listen to the magic sound, right near the end, when they play all 3 at once. What a beauty, no wonder they sound excited at having nailed it :
 
-https://youtu.be/gwfH9oAiPH0
+
+<iframe width="942" height="707" src="https://www.youtube.com/embed/5b-awuNzko4" title="The Beatles   The REAL First Chord of A Hard Day&#39;s Night" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 I&#8217;m also sure I read that George H says he repeats his opening F (+G +G +C) chord at the end, but plays each note; arpeggio style.
 

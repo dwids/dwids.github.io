@@ -1,6 +1,6 @@
 ---
 date: 2013-10-10T22:05:00.000Z
-lastmod: 2025-01-21T21:53:31.000Z
+lastmod: 2013-10-10T22:05:00.000Z
 title: Songs too slow or fast and we didn’t know
 draft: false
 slug: songs-too-slow-or-fast-and-we-didnt-know
@@ -18,8 +18,12 @@ The other being that some recordings were recorded or mastered too fast or slow.
 ### Crossroads
 
 The first example is 1930’s early-Blues legend Robert Johnson. It seems his 78rpm recordings were sped up a fair bit. I always thought this was the case, to be honest. Maybe photos of him playing “**Crossroads**” – or other archival sources – showed him playing the chords of A, D and E; that is in the key of A. Yet the 78rpm is something like in the key of B or Bb; a fair bit faster. People have slowed it down to “A” again and it does – to me at least – sound more realistic. Original first:
+![](https://youtu.be/Yd60nI4sa9A)
+
 
 And now the slowed down to “A”
+
+<iframe width="720" height="540" src="https://www.youtube.com/embed/snLe-f1g8IY" title="Have you ever heard true voice of &quot;Robert Johnson&quot;?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Light My Fire
 
@@ -27,7 +31,11 @@ The other one was news to me. It seems the first few Doors albums were slowed do
 
 This one is more subtle – and the Sped Up one has a different vocal mixing which adds another layer of newness. It does sound a bit more like Jim M in their other songs. Firstly the one we are used to:
 
+<iframe width="720" height="407" src="https://www.youtube.com/embed/LY1l8T2Lcl0" title="The Doors - Light My Fire (2006 Remastered)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Now the slightly sped up one:
+
+<iframe width="720" height="407" src="https://www.youtube.com/embed/PkyLtmkujyo" title="The Doors Light My Fire - 40th Anniversary Mix (speed-corrected)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 This is something worth having a look at. I’m sure there are other examples and I’ll have a look later.
 

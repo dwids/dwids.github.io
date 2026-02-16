@@ -1,7 +1,7 @@
 ---
 date: 2011-02-06T21:33:00.000Z
-lastmod: 2024-11-22T06:01:29.000Z
-title: California Jam - Klaatu
+lastmod: 2011-02-06T21:33:00.000Z
+title: California Jam - Klaatu (1976)
 draft: false
 slug: california-jam-klaatu
 tags: ["music"]
@@ -20,6 +20,8 @@ Being a teenager besotted with the Fab Four, I purchased it. And was hooked on i
 The whole &#8220;are they The Beatles?&#8221; thing got totally out of control and the (innocent?) band suffered as a consequence.  However not before releasing 2 excellent albums, including a 2nd one recorded &#8211; still anonymously &#8211; with the London Symphony Orchestra!  More on that one in a future post.
 
 But for now, off their first album, here&#8217;s the most good California Jam.
+
+<iframe width="720" height="540" src="https://www.youtube.com/embed/7z7xK7Sszdg" title="California Jam" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

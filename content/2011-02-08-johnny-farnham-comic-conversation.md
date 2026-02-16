@@ -1,7 +1,7 @@
 ---
 date: 2011-02-08T20:33:00.000Z
-lastmod: 2024-11-22T06:01:29.000Z
-title: Johnny Farnham - Comic Conversation
+lastmod: 2011-02-08T20:33:00.000Z
+title: Johnny Farnham - Comic Conversation (1970)
 draft: false
 slug: johnny-farnham-comic-conversation
 tags: ["music"]
@@ -25,9 +25,13 @@ I can&#8217;t keep on pretending
 
 Maybe I&#8217;m being too harsh. Possibly it was teenage angst poetry. And who hasn&#8217;t BTDT?    I have 2 versions to enjoy. Firstly the original:
 
+<iframe width="720" height="540" src="https://www.youtube.com/embed/yxd7kuJC4hY" title="Johnny Farnham - Comic Conversation (Stereo)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 And now the Big Hair edition. Live in concert, some years later with my local MSO helping out:
 
- I think that James Rayne did a version too.
+<iframe width="720" height="540" src="https://www.youtube.com/embed/YjpL3aodoZ4" title="&quot;Comic Conversation&quot; [Live] from the &#39;Classic Jack Live!&#39; DVD" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+I think that James Rayne did a version too.
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 date: 2020-06-08T18:25:12.000Z
-lastmod: 2024-10-18T23:20:28.000Z
+lastmod: 2020-06-08T18:25:12.000Z
 title: "Great Cover Songs: RockWiz"
 draft: true
 slug: great-cover-songs-rockwiz

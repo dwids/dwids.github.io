@@ -1,6 +1,6 @@
 ---
 date: 2011-03-22T04:10:00.000Z
-lastmod: 2024-11-22T06:01:17.000Z
+lastmod: 2011-03-22T04:10:00.000Z
 title: John Nemeth - Why Not Me
 draft: false
 slug: john-nemeth-why-not-me
@@ -16,6 +16,8 @@ Wow. Just heard this on the radio 5 mins ago;  specifically on [The Planet](http
 Now, it seems it was recorded quite recently but is a cover of an old, obscure soul number. John does a magic job.
 
 To add to the feeling, this clip is from a 45 RPM record version. Yes a vinyl, analogue SINGLE released in 2010. And this one has a click or pop where the record seems to be scratched&#8230;  
+
+<iframe width="720" height="540" src="https://www.youtube.com/embed/tZb5XO_CJo0" title="John Nemeth - Why Not Me (45 RPM)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

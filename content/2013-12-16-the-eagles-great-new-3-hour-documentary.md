@@ -1,6 +1,6 @@
 ---
 date: 2013-12-16T21:17:00.000Z
-lastmod: 2024-11-22T06:00:20.000Z
+lastmod: 2013-12-16T21:17:00.000Z
 title: The Eagles–great new 3 hour documentary
 draft: false
 slug: the-eagles-great-new-3-hour-documentary

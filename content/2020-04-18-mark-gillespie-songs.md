@@ -1,6 +1,6 @@
 ---
 date: 2020-04-18T19:59:35.000Z
-lastmod: 2024-11-26T23:09:47.000Z
+lastmod: 2020-04-18T19:59:35.000Z
 title: "Mark Gillespie: Songs"
 draft: false
 slug: mark-gillespie-songs

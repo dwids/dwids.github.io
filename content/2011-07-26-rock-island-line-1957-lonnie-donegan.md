@@ -1,6 +1,6 @@
 ---
 date: 2011-07-26T08:35:00.000Z
-lastmod: 2024-11-22T06:01:17.000Z
+lastmod: 2011-07-26T08:35:00.000Z
 title: Rock Island Line (1957) - Lonnie Donegan
 draft: false
 slug: rock-island-line-1957-lonnie-donegan
