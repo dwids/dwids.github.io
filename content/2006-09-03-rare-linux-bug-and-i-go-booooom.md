@@ -1,6 +1,6 @@
 ---
 date: 2006-09-03T19:05:23.000Z
-lastmod: 2024-11-22T06:03:37.000Z
+lastmod: 2006-09-03T19:05:23.000Z
 title: Rare Linux bug and I go booooom
 draft: false
 slug: rare-linux-bug-and-i-go-booooom

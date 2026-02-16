@@ -1,6 +1,6 @@
 ---
 date: 2008-03-22T15:24:00.000Z
-lastmod: 2024-11-22T06:03:22.000Z
+lastmod: 2008-03-22T15:24:00.000Z
 title: Hollow Mountain (Grampians) walk - March 22nd 2008
 draft: false
 slug: hollow-mountain-grampians-walk-march-22nd-2008

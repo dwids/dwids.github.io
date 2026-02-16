@@ -1,6 +1,6 @@
 ---
 date: 2008-09-14T15:36:26.000Z
-lastmod: 2024-11-22T06:02:48.000Z
+lastmod: 2008-09-14T15:36:26.000Z
 title: GPS working very well for bush logging, err bush walk logging.
 draft: false
 slug: gps-working-very-well-for-bush-logging-err-bush-walk-logging

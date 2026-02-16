@@ -1,6 +1,6 @@
 ---
 date: 2006-09-15T10:11:50.000Z
-lastmod: 2024-11-22T06:03:37.000Z
+lastmod: 2006-09-15T10:11:50.000Z
 title: Single pass for quick AVC encoding of TV recordings
 draft: false
 slug: single-pass-for-quick-avc-encoding-of-tv-recordings

@@ -1,6 +1,6 @@
 ---
 date: 2008-05-26T12:25:00.000Z
-lastmod: 2024-11-21T21:58:04.000Z
+lastmod: 2008-05-26T12:25:00.000Z
 title: Watched Mars robot Phoenix landing in real time
 draft: false
 slug: watched-mars-robot-phoenix-landing-in-real-time

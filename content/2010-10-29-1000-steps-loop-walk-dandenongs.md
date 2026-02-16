@@ -1,6 +1,6 @@
 ---
 date: 2010-10-29T07:10:23.000Z
-lastmod: 2024-11-22T06:02:18.000Z
+lastmod: 2010-10-29T07:10:23.000Z
 title: 1000 Steps Loop walk (Dandenongs)
 draft: false
 slug: 1000-steps-loop-walk-dandenongs

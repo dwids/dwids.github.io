@@ -1,6 +1,6 @@
 ---
 date: 2012-11-15T13:07:04.000Z
-lastmod: 2024-11-22T06:01:06.000Z
+lastmod: 2012-11-15T13:07:04.000Z
 title: Why do you ask, 3 Tracks Climbing ?
 draft: false
 slug: why-do-you-ask-3-tracks-climbing

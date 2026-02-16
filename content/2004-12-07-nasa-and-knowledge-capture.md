@@ -1,6 +1,6 @@
 ---
 date: 2004-12-07T07:41:58.000Z
-lastmod: 2024-11-22T06:04:14.000Z
+lastmod: 2004-12-07T07:41:58.000Z
 title: NASA and Knowledge Capture
 draft: false
 slug: nasa-and-knowledge-capture

@@ -1,6 +1,6 @@
 ---
 date: 2004-03-19T20:20:57.000Z
-lastmod: 2024-11-21T22:17:08.000Z
+lastmod: 2004-03-19T20:20:57.000Z
 title: "And you thought '2001: A Space Odyssey' was just about a trip to Jupiter"
 draft: false
 slug: and-you-thought-2001-was-just-about-a-trip-to-jupiter

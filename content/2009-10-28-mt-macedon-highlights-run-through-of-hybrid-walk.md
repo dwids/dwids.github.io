@@ -1,6 +1,6 @@
 ---
 date: 2009-10-28T09:01:00.000Z
-lastmod: 2024-11-22T06:02:39.000Z
+lastmod: 2009-10-28T09:01:00.000Z
 title: Mt Macedon Highlights – run through of hybrid walk
 draft: false
 slug: mt-macedon-highlights-run-through-of-hybrid-walk

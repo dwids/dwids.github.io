@@ -1,6 +1,6 @@
 ---
 date: 2005-05-20T07:35:43.000Z
-lastmod: 2024-11-21T22:17:07.000Z
+lastmod: 2005-05-20T07:35:43.000Z
 title: Films I've walked out on
 draft: false
 slug: films-ive-walked-out-on

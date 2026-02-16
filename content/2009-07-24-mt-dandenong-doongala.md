@@ -1,6 +1,6 @@
 ---
 date: 2009-07-24T19:20:00.000Z
-lastmod: 2024-11-22T06:02:40.000Z
+lastmod: 2009-07-24T19:20:00.000Z
 title: Mt Dandenong – Doongala
 draft: false
 slug: mt-dandenong-doongala

@@ -1,6 +1,6 @@
 ---
 date: 2020-05-24T19:56:16.000Z
-lastmod: 2024-11-21T22:17:06.000Z
+lastmod: 2020-05-24T19:56:16.000Z
 title: My first ever Internet film review (1996)
 draft: false
 slug: my-first-ever-internet-film-review-1996

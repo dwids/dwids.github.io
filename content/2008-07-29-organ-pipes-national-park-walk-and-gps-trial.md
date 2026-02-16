@@ -1,6 +1,6 @@
 ---
 date: 2008-07-29T20:06:10.000Z
-lastmod: 2024-11-22T06:02:59.000Z
+lastmod: 2008-07-29T20:06:10.000Z
 title: Organ Pipes National Park walk and GPS trial
 draft: false
 slug: organ-pipes-national-park-walk-and-gps-trial

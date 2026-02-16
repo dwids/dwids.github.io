@@ -1,6 +1,6 @@
 ---
 date: 2005-05-25T10:56:58.000Z
-lastmod: 2024-11-22T06:04:02.000Z
+lastmod: 2005-05-25T10:56:58.000Z
 title: Cables suck , well...
 draft: false
 slug: cables-suck-well

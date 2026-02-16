@@ -1,6 +1,6 @@
 ---
 date: 2009-06-13T14:40:37.000Z
-lastmod: 2024-11-22T06:02:47.000Z
+lastmod: 2009-06-13T14:40:37.000Z
 title: Trip & Walk - Warracknabeal, Wyperfeld NP and Warrnambool
 draft: false
 slug: trip-walk-warracknabeal-wyperfeld-np-and-warrnambool

@@ -1,6 +1,6 @@
 ---
 date: 2005-06-13T17:36:12.000Z
-lastmod: 2025-01-22T00:31:16.000Z
+lastmod: 2005-06-13T17:36:12.000Z
 title: Julianne Moore
 draft: false
 slug: julianne-moore

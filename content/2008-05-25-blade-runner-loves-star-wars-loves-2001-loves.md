@@ -1,6 +1,6 @@
 ---
 date: 2008-05-25T16:24:00.000Z
-lastmod: 2024-11-21T22:17:05.000Z
+lastmod: 2008-05-25T16:24:00.000Z
 title: Blade Runner loves Star Wars loves 2001 loves....
 draft: false
 slug: blade-runner-loves-star-wars-loves-2001-loves

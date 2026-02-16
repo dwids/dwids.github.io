@@ -1,6 +1,6 @@
 ---
 date: 2013-01-13T16:46:08.000Z
-lastmod: 2024-11-22T06:01:05.000Z
+lastmod: 2013-01-13T16:46:08.000Z
 title: Kallista (Sherbrooke) walk
 draft: false
 slug: kallista-sherbrooke-walk

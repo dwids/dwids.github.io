@@ -1,6 +1,6 @@
 ---
 date: 2007-03-15T09:45:18.000Z
-lastmod: 2024-11-22T06:03:37.000Z
+lastmod: 2007-03-15T09:45:18.000Z
 title: Lotsa backup CDs to a few DVDs to one Blu-Ray
 draft: false
 slug: lotsa-backup-cds-to-a-few-dvds-to-one-blu-ray

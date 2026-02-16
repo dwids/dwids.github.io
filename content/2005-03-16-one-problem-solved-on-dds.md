@@ -1,6 +1,6 @@
 ---
 date: 2005-03-16T21:23:04.000Z
-lastmod: 2024-11-22T05:51:56.000Z
+lastmod: 2005-03-16T21:23:04.000Z
 title: One problem solved on DDS
 draft: false
 slug: one-problem-solved-on-dds

@@ -1,6 +1,6 @@
 ---
 date: 2005-02-24T08:37:39.000Z
-lastmod: 2024-11-22T06:04:14.000Z
+lastmod: 2005-02-24T08:37:39.000Z
 title: Dolby Digital 5.1 on CD
 draft: false
 slug: dolby-digital-51-on-cd

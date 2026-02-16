@@ -1,6 +1,6 @@
 ---
 date: 2005-03-22T20:42:06.000Z
-lastmod: 2024-11-22T06:04:04.000Z
+lastmod: 2005-03-22T20:42:06.000Z
 title: r8169.o and the kernel headers
 draft: false
 slug: r8169o-and-the-kernel-headers

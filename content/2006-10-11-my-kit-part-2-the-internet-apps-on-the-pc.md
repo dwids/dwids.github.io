@@ -1,6 +1,6 @@
 ---
 date: 2006-10-11T19:59:50.000Z
-lastmod: 2024-11-22T06:03:36.000Z
+lastmod: 2006-10-11T19:59:50.000Z
 title: "My Kit - Part 2 : The Internet apps on the PC"
 draft: false
 slug: my-kit-part-2-the-internet-apps-on-the-pc

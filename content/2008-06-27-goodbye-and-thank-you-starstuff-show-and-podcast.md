@@ -1,6 +1,6 @@
 ---
 date: 2008-06-27T09:12:54.000Z
-lastmod: 2024-11-21T21:58:02.000Z
+lastmod: 2008-06-27T09:12:54.000Z
 title: Goodbye and Thank You StarStuff show and podcast
 draft: false
 slug: goodbye-and-thank-you-starstuff-show-and-podcast

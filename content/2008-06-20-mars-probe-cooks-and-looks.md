@@ -1,6 +1,6 @@
 ---
 date: 2008-06-20T12:27:00.000Z
-lastmod: 2024-11-21T21:58:04.000Z
+lastmod: 2008-06-20T12:27:00.000Z
 title: Mars probe cooks and looks
 draft: false
 slug: mars-probe-cooks-and-looks

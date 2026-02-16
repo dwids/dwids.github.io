@@ -1,6 +1,6 @@
 ---
 date: 2008-09-14T18:01:17.000Z
-lastmod: 2024-11-21T21:51:57.000Z
+lastmod: 2008-09-14T18:01:17.000Z
 title: Not so Shonky Maps for the GPS
 draft: false
 slug: not-so-shonky-maps-for-the-gps

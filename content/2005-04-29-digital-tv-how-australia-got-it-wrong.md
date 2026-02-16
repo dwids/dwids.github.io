@@ -1,6 +1,6 @@
 ---
 date: 2005-04-29T06:57:13.000Z
-lastmod: 2024-11-22T06:04:03.000Z
+lastmod: 2005-04-29T06:57:13.000Z
 title: Digital TV - How Australia got it wrong
 draft: false
 slug: digital-tv-how-australia-got-it-wrong

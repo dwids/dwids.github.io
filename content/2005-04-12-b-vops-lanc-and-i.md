@@ -1,6 +1,6 @@
 ---
 date: 2005-04-12T16:10:50.000Z
-lastmod: 2024-11-22T06:04:04.000Z
+lastmod: 2005-04-12T16:10:50.000Z
 title: B-VOPS, Lanc and I
 draft: false
 slug: b-vops-lanc-and-i

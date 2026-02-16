@@ -1,6 +1,6 @@
 ---
 date: 2005-05-20T08:07:11.000Z
-lastmod: 2024-11-22T06:04:03.000Z
+lastmod: 2005-05-20T08:07:11.000Z
 title: Is Pay TV doomed?
 draft: false
 slug: is-pay-tv-doomed

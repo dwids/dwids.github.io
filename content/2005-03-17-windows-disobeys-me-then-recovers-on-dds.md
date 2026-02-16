@@ -1,6 +1,6 @@
 ---
 date: 2005-03-17T18:00:32.000Z
-lastmod: 2024-11-22T06:04:12.000Z
+lastmod: 2005-03-17T18:00:32.000Z
 title: Windows disobeys me then recovers on DDS
 draft: false
 slug: windows-disobeys-me-then-recovers-on-dds

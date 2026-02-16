@@ -1,6 +1,6 @@
 ---
 date: 2004-05-14T12:11:04.000Z
-lastmod: 2024-11-21T22:17:09.000Z
+lastmod: 2004-05-14T12:11:04.000Z
 title: You know that 4 MP camera? It's only 25 times too small for Reality per se
 draft: false
 slug: you-know-that-4-mp-camera-its-only-25-times-too-small-for-reality-per-se

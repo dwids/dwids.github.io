@@ -1,6 +1,6 @@
 ---
 date: 2005-09-27T11:02:07.000Z
-lastmod: 2024-11-22T06:03:52.000Z
+lastmod: 2005-09-27T11:02:07.000Z
 title: Finding local data for Google Earth
 draft: false
 slug: finding-local-data-for-google-earth

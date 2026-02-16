@@ -1,6 +1,6 @@
 ---
 date: 2004-03-19T20:07:35.000Z
-lastmod: 2025-01-22T00:37:47.000Z
+lastmod: 2004-03-19T20:07:35.000Z
 title: Michael Rennie was ill, The Day the Earth Stood Still
 draft: false
 slug: michael-rennie-was-ill-the-day-the-earth-stood-still

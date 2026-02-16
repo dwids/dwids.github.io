@@ -112,7 +112,8 @@ Same with alias [Heading 2](#H2%20Quick%20Test)
 ### Link to Heading/Block in other File 
 For any (?) link can use the | symbol to give an alternate display text for the link
 
-*Heading* link: Raw link covering [[George Hudson - Summary#George and Alice]] and the same one covering [[George Hudson - Summary#George and Alice|their marriage]]
+*Heading* link: Raw link covering [George Hudson - Summary#George and Alice]
+and the same one covering [[George Hudson - Summary#George and Alice|their marriage]]
 *Block* link: Reginald George was Alice and George Hudson's [[George Hudson - Summary#^c80605]]  first born.   Shorter to write he was their [[George Hudson - Summary#^c80605| first born]] 
 
 ## Image Tests 

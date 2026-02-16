@@ -1,6 +1,6 @@
 ---
 date: 2005-03-15T11:37:33.000Z
-lastmod: 2024-11-22T05:51:59.000Z
+lastmod: 2005-03-15T11:37:33.000Z
 title: DDS - arrived and working
 draft: false
 slug: dds-arrived-and-working

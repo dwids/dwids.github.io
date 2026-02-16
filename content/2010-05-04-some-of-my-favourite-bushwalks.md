@@ -1,6 +1,6 @@
 ---
 date: 2010-05-04T11:41:02.000Z
-lastmod: 2024-11-22T06:02:37.000Z
+lastmod: 2010-05-04T11:41:02.000Z
 title: Some of my favourite bushwalks
 draft: false
 slug: some-of-my-favourite-bushwalks

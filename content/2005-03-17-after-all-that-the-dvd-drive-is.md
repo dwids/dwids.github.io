@@ -1,6 +1,6 @@
 ---
 date: 2005-03-17T15:26:53.000Z
-lastmod: 2024-11-22T06:04:13.000Z
+lastmod: 2005-03-17T15:26:53.000Z
 title: After all that, the DVD drive is...
 draft: false
 slug: after-all-that-the-dvd-drive-is

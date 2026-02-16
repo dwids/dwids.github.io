@@ -1,6 +1,6 @@
 ---
 date: 2020-05-18T18:13:34.000Z
-lastmod: 2024-11-19T06:03:52.000Z
+lastmod: 2020-05-18T18:13:34.000Z
 title: "Zero ideas: Reflections on nothing"
 draft: false
 slug: zero-ideas-reflections-on-nothing

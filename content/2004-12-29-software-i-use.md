@@ -1,6 +1,6 @@
 ---
 date: 2004-12-29T08:24:11.000Z
-lastmod: 2024-11-22T06:04:13.000Z
+lastmod: 2004-12-29T08:24:11.000Z
 title: Software I use
 draft: false
 slug: software-i-use

@@ -1,6 +1,6 @@
 ---
 date: 2008-07-29T08:45:16.000Z
-lastmod: 2024-11-22T06:02:58.000Z
+lastmod: 2008-07-29T08:45:16.000Z
 title: "GPS : Open Source Maps"
 draft: false
 slug: gps-open-source-maps

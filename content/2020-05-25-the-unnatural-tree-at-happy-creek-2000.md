@@ -1,6 +1,6 @@
 ---
 date: 2001-05-25T21:40:24.000Z
-lastmod: 2001-11-22T06:44:30.000Z
+lastmod: 2001-05-25T21:40:24.000Z
 title: The Unnatural Tree at Happy Creek (2000)
 draft: false
 slug: the-unnatural-tree-at-happy-creek-2000

@@ -1,6 +1,6 @@
 ---
 date: 2009-10-04T17:00:13.000Z
-lastmod: 2024-11-22T06:02:39.000Z
+lastmod: 2009-10-04T17:00:13.000Z
 title: Mt Dandenong highlights walk – take 1 (steep shortcut)
 draft: false
 slug: mt-dandenong-highlights-walk-take-1-steep-shortcut

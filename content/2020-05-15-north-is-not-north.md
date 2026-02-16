@@ -1,6 +1,6 @@
 ---
 date: 2020-05-15T20:21:55.000Z
-lastmod: 2024-11-21T21:51:58.000Z
+lastmod: 2020-05-15T20:21:55.000Z
 title: North is not North
 draft: false
 slug: north-is-not-north

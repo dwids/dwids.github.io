@@ -1,6 +1,6 @@
 ---
 date: 2008-06-12T17:44:48.000Z
-lastmod: 2024-11-21T21:30:36.000Z
+lastmod: 2008-06-12T17:44:48.000Z
 title: The Horse and His Boy (by C.S. Lewis)
 draft: false
 slug: the-horse-and-his-boy-by-cs-lewis

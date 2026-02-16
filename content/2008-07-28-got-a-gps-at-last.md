@@ -1,6 +1,6 @@
 ---
 date: 2008-07-28T19:25:53.000Z
-lastmod: 2024-11-22T06:02:59.000Z
+lastmod: 2008-07-28T19:25:53.000Z
 title: Got a GPS (at last)
 draft: false
 slug: got-a-gps-at-last

@@ -1,6 +1,6 @@
 ---
 date: 2020-05-14T20:37:38.000Z
-lastmod: 2024-11-21T21:58:02.000Z
+lastmod: 2020-05-14T20:37:38.000Z
 title: "Behind The Scenes: Stellarium"
 draft: false
 slug: behind-the-scenes-stellarium

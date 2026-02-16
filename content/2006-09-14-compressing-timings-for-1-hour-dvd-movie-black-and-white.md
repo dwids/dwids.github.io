@@ -1,6 +1,6 @@
 ---
 date: 2006-09-14T18:45:30.000Z
-lastmod: 2024-11-22T05:51:56.000Z
+lastmod: 2006-09-14T18:45:30.000Z
 title: AVC and AAC compression timings for 1 hour DVD movie (black and white)
 draft: false
 slug: compressing-timings-for-1-hour-dvd-movie-black-and-white

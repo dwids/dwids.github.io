@@ -1,7 +1,7 @@
 ---
 date: 2020-06-02T18:35:58.000Z
-lastmod: 2024-11-21T21:54:52.000Z
-title: Navigation (2 of 3) - Latitude, The Sun and The Book
+lastmod: 2020-06-02T18:35:58.000Z
+title: Latitude (2 of 3) - The Sun and The Book
 draft: false
 slug: latitude-02-the-sun-and-the-book
 tags: ["navigation"]
@@ -10,6 +10,8 @@ cover:
     alt: Latitude 02 - The Sun and The Book
 description: 
 ---
+
+>[!info] Jump to [[2020-05-27-latitude-01-what-is-it|Part 1]], [[2020-06-02-latitude-02-the-sun-and-the-book|Part 2]], [[2020-06-05-latitude-3-cooks-calculation|Part 3]]
 
 Before we calculate our Latitude (in the next post in this series) we have one vital concept to understand.
 
@@ -60,8 +62,10 @@ As you can see it shows hourly values (**h**).  6:36 UTC is pretty much halfway
 It comes in at 22 degrees 15 minutes North.   **22° 15’ N.** In the next post in this series, we&#8217;ll **see this Declination is vital for calculating our Latitude.**
 
 So how does it change over the Year?  A quick [*cough*, see below] Python program to calculate it for the first of each month, shows:
-![](/images/wordpress/2021/02/ss.20200602.180103.jpg)Declination here is **negative **if South and **positive **if North.
-We will definitely return to what all means a bit later; after closing out the Navigation/Latitude part.
+![](/images/wordpress/2021/02/ss.20200602.180103.jpg)Declination here is **negative** if South and **positive** if North. 
+We may return to what all means a bit later; after closing out the Navigation/Latitude part.
+
+>[!info] Next> [[2020-06-05-latitude-3-cooks-calculation|Captain Cook's Calculation]]
 
 ## Behind the Scenes: &#8216;Quick&#8217; Python Program
 

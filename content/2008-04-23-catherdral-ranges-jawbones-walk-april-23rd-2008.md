@@ -1,6 +1,6 @@
 ---
 date: 2008-04-23T18:22:00.000Z
-lastmod: 2024-11-22T06:03:21.000Z
+lastmod: 2008-04-23T18:22:00.000Z
 title: Catherdral Ranges (Jawbones) Walk - April 23rd 2008
 draft: false
 slug: catherdral-ranges-jawbones-walk-april-23rd-2008

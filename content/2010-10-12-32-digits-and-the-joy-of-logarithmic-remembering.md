@@ -1,6 +1,6 @@
 ---
 date: 2010-10-12T16:34:58.000Z
-lastmod: 2024-11-22T06:02:20.000Z
+lastmod: 2010-10-12T16:34:58.000Z
 title: 32 digits and the joy of logarithmic remembering
 draft: false
 slug: 32-digits-and-the-joy-of-logarithmic-remembering

@@ -1,6 +1,6 @@
 ---
 date: 2020-05-26T18:18:05.000Z
-lastmod: 2001-10-22T05:55:58.000Z
+lastmod: 2020-05-26T18:18:05.000Z
 title: On the Trail of Captain Blowhard 
 draft: false
 slug: on-the-trail-of-captain-blowhard-2001

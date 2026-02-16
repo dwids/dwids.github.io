@@ -1,6 +1,6 @@
 ---
 date: 2010-10-20T15:20:00.000Z
-lastmod: 2024-11-22T06:02:19.000Z
+lastmod: 2010-10-20T15:20:00.000Z
 title: The Cathedral – Cathedral Ranges
 draft: false
 slug: the-cathedral-cathedral-ranges

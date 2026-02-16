@@ -1,6 +1,6 @@
 ---
 date: 2020-07-12T18:22:11.000Z
-lastmod: 2024-11-21T21:51:58.000Z
+lastmod: 2020-07-12T18:22:11.000Z
 title: Melbourne Observatory Location (1871 and modern values)
 draft: false
 slug: melbourne-observatory-location-1871-modern-values

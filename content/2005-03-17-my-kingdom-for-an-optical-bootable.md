@@ -1,6 +1,6 @@
 ---
 date: 2005-03-17T11:55:54.000Z
-lastmod: 2024-11-22T06:04:12.000Z
+lastmod: 2005-03-17T11:55:54.000Z
 title: My kingdom for an optical bootable
 draft: false
 slug: my-kingdom-for-an-optical-bootable

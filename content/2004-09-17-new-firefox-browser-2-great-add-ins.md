@@ -1,6 +1,6 @@
 ---
 date: 2004-09-17T10:30:02.000Z
-lastmod: 2024-11-22T06:04:27.000Z
+lastmod: 2004-09-17T10:30:02.000Z
 title: New Firefox browser + 2 great add-ins
 draft: false
 slug: new-firefox-browser-2-great-add-ins

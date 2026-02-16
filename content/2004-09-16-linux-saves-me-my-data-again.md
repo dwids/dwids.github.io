@@ -1,6 +1,6 @@
 ---
 date: 2004-09-16T14:58:35.000Z
-lastmod: 2024-11-22T06:04:26.000Z
+lastmod: 2004-09-16T14:58:35.000Z
 title: Linux saves me (my data) again.
 draft: false
 slug: linux-saves-me-my-data-again

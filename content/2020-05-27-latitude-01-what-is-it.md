@@ -1,7 +1,7 @@
 ---
 date: 2020-05-27T18:52:46.000Z
-lastmod: 2025-01-21T21:13:21.000Z
-title: "Latitude 01 : What is it?"
+lastmod: 2020-05-27T18:52:46.000Z
+title: "Latitude (1 of 3) - What is Latitude?"
 draft: false
 slug: latitude-01-what-is-it
 tags: ["navigation"]
@@ -10,6 +10,8 @@ cover:
     alt: "Latitude 01 : What is it?"
 description: 
 ---
+
+>[!info] Jump to [[2020-05-27-latitude-01-what-is-it|Part 1]], [[2020-06-02-latitude-02-the-sun-and-the-book|Part 2]], [[2020-06-05-latitude-3-cooks-calculation|Part 3]]
 
 In this first post, we’ll cover what latitude is. In the second one, we’ll deduce our latitude, exactly as Lt. James Cook would have done in the 1770s.
 
@@ -49,6 +51,8 @@ It can also be useful to convert them to ‘decimal degrees’. Google Earth sup
 I haven’t forgotten *Longitude*. It’s more ‘around&#8217; the Earth, specifically: “The angular distance of a place east or west of the meridian at Greenwich, England…usually expressed in degrees and minutes.”  From the same web site as Latitude&#8217;s defintion. 
 
 The last main thing is the *aide-mémoire*.  Latitude lines are horizontal relative to the Earth. So they are flat.  And thus **flat**itude as the memory aid. I only heard this a few months ago and love it.
+
+>[!info] Next> [[2020-06-02-latitude-02-the-sun-and-the-book | Part 2 : The Sun and The Book]]
 
 ## Behind The Scenes
 

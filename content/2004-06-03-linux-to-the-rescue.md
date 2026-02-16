@@ -1,6 +1,6 @@
 ---
 date: 2004-06-03T07:26:31.000Z
-lastmod: 2024-11-22T06:04:27.000Z
+lastmod: 2004-06-03T07:26:31.000Z
 title: Linux to the rescue
 draft: false
 slug: linux-to-the-rescue

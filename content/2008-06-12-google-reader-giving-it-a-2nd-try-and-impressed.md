@@ -1,6 +1,6 @@
 ---
 date: 2008-06-12T17:29:44.000Z
-lastmod: 2024-11-22T06:03:11.000Z
+lastmod: 2008-06-12T17:29:44.000Z
 title: Google Reader ; giving it a 2nd try and impressed
 draft: false
 slug: google-reader-giving-it-a-2nd-try-and-impressed

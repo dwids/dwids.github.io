@@ -1,6 +1,6 @@
 ---
 date: 2006-11-06T10:48:00.000Z
-lastmod: 2024-11-21T22:17:07.000Z
+lastmod: 2006-11-06T10:48:00.000Z
 title: Me and Movies
 draft: false
 slug: me-and-movies

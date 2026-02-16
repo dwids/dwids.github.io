@@ -1,6 +1,6 @@
 ---
 date: 2020-01-24T18:11:39.000Z
-lastmod: 2024-11-22T05:59:49.000Z
+lastmod: 2020-01-24T18:11:39.000Z
 title: "Walk: Lower Stony Creek Reservoir (Staughton Vale)"
 draft: false
 slug: walk-lower-stony-creek-reservoir-staughton-vale

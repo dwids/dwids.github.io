@@ -1,14 +1,15 @@
 ---
 date: 2023-02-15T12:12:14.000Z
-lastmod: 1996-09-30
+lastmod: 1996-09-30T12:12:14.000Z
 title: Published! All wired up for their footy fix [The Age, 1996]
 draft: false
 slug: published-all-wired-up-for-their-footy-fix-the-age-1996
-tags: ["freelance"]
+tags:
+  - freelance
 cover:
-    image: https://images.unsplash.com/photo-1585621243952-f68eae991dd6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDd8fG5ld3NwYXBlcnxlbnwwfHx8fDE3MzIyMDc3MzN8MA&ixlib=rb-4.0.3&q=80&w=720
-    alt: Published! All wired up for their footy fix [The Age, 1996]
-description: 
+  image: https://images.unsplash.com/photo-1585621243952-f68eae991dd6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDd8fG5ld3NwYXBlcnxlbnwwfHx8fDE3MzIyMDc3MzN8MA&ixlib=rb-4.0.3&q=80&w=720
+  alt: Published! All wired up for their footy fix [The Age, 1996]
+description:
 ---
 
 > *This article, my first ever published, originally appeared in the Melbourne Age newspaper on Monday 30th September 1996. Page 22 in the post-Grand-Final Sports Age section.*

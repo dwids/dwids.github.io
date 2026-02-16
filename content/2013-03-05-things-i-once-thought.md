@@ -1,6 +1,6 @@
 ---
 date: 2013-03-05T20:38:35.000Z
-lastmod: 2024-11-22T06:01:05.000Z
+lastmod: 2013-03-05T20:38:35.000Z
 title: Things I once thought
 draft: false
 slug: things-i-once-thought

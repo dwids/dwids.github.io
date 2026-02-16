@@ -1,6 +1,6 @@
 ---
 date: 2006-09-18T19:46:27.000Z
-lastmod: 2024-11-22T06:37:15.000Z
+lastmod: 2006-09-18T19:46:27.000Z
 title: How much 'modern' movie compression can fit on a CD?
 draft: false
 slug: how-much-modern-compression-can-fit-on-a-cd

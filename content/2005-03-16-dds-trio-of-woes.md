@@ -1,6 +1,6 @@
 ---
 date: 2005-03-16T17:13:55.000Z
-lastmod: 2024-11-22T06:04:12.000Z
+lastmod: 2005-03-16T17:13:55.000Z
 title: DDS Trio of Woes
 draft: false
 slug: dds-trio-of-woes

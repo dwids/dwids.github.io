@@ -1,6 +1,6 @@
 ---
 date: 2005-04-16T08:29:16.000Z
-lastmod: 2024-11-21T22:17:07.000Z
+lastmod: 2005-04-16T08:29:16.000Z
 title: Ending Star Wars episode III
 draft: false
 slug: ending-star-wars-episode-iii

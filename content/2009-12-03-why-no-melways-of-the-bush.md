@@ -1,14 +1,16 @@
 ---
 date: 2009-12-03T08:35:54.000Z
-lastmod: 2024-11-21T21:51:58.000Z
+lastmod: 2009-12-03T08:35:54.000Z
 title: Why no Melways of the Bush?
 draft: false
 slug: why-no-melways-of-the-bush
-tags: ["maths"]
+tags:
+  - maths
+  - navigation
 cover:
-    image: https://media.istockphoto.com/id/474951754/photo/melbourne.webp?a=1&b=1&s=612x612&w=0&k=20&c=DC6xnkY6FCyaHEtHV41E1r4Sxsb3QQF5cmvs9Gdg10k=
-    alt: Why no Melways of the Bush?
-description: 
+  image: https://media.istockphoto.com/id/474951754/photo/melbourne.webp?a=1&b=1&s=612x612&w=0&k=20&c=DC6xnkY6FCyaHEtHV41E1r4Sxsb3QQF5cmvs9Gdg10k=
+  alt: Why no Melways of the Bush?
+description:
 ---
 
 I remember years ago wondering why there wasn&#8217;t a Melways (street directory) of the entire State of Victoria, including the bush areas. 

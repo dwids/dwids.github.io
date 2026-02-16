@@ -1,6 +1,6 @@
 ---
 date: 2005-09-27T19:59:50.000Z
-lastmod: 2024-11-22T06:03:52.000Z
+lastmod: 2005-09-27T19:59:50.000Z
 title: Dreams of a Media Terminal
 draft: false
 slug: dreams-of-a-media-terminal

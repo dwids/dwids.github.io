@@ -1,6 +1,6 @@
 ---
 date: 2019-12-05T10:40:15.000Z
-lastmod: 2024-11-22T05:59:49.000Z
+lastmod: 2019-12-05T10:40:15.000Z
 title: GPS really is a miracle of technology
 draft: false
 slug: gps-really-is-a-miracle-of-technology

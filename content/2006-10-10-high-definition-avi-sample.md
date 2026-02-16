@@ -1,6 +1,6 @@
 ---
 date: 2006-10-10T09:49:02.000Z
-lastmod: 2024-11-22T06:03:37.000Z
+lastmod: 2006-10-10T09:49:02.000Z
 title: High Definition AVI sample
 draft: false
 slug: high-definition-avi-sample

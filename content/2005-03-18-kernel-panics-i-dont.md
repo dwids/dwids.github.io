@@ -1,6 +1,6 @@
 ---
 date: 2005-03-18T07:34:41.000Z
-lastmod: 2024-11-22T06:38:11.000Z
+lastmod: 2005-03-18T07:34:41.000Z
 title: Kernel panics but I don't
 draft: false
 slug: kernel-panics-i-dont

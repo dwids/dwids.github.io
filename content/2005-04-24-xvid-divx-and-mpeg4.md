@@ -1,6 +1,6 @@
 ---
 date: 2005-04-24T08:39:06.000Z
-lastmod: 2024-11-21T22:17:06.000Z
+lastmod: 2005-04-24T08:39:06.000Z
 title: Xvid, DivX and MPEG4
 draft: false
 slug: xvid-divx-and-mpeg4

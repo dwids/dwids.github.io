@@ -1,4 +1,4 @@
-# Bad links (68 files)
+ Bad links (68 files)
 [2005-09-26-video-conversion-frame-serving-101](2005-09-26-video-conversion-frame-serving-101.md):
 - (line 14): `__GHOST_URL__/?p=49`
 

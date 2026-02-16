@@ -1,6 +1,6 @@
 ---
 date: 2006-10-11T20:10:57.000Z
-lastmod: 2024-11-22T06:03:36.000Z
+lastmod: 2006-10-11T20:10:57.000Z
 title: "My Kit - Part 3 : The Video and Audio stuff"
 draft: false
 slug: my-kit-part-3-the-video-and-audio-stuff-2

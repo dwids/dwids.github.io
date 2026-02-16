@@ -1,6 +1,6 @@
 ---
 date: 2020-05-09T19:40:48.000Z
-lastmod: 2024-11-21T22:37:22.000Z
+lastmod: 2020-05-09T19:40:48.000Z
 title: "Viruses: How big are they?"
 draft: false
 slug: viruses-how-big-are-they

@@ -1,6 +1,6 @@
 ---
 date: 2014-03-11T19:22:25.000Z
-lastmod: 2024-11-22T06:01:04.000Z
+lastmod: 2014-03-11T19:22:25.000Z
 title: Megabytes, microSD cards and typing
 draft: false
 slug: megabytes-microsd-cards-and-typing

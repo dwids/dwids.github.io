@@ -1,6 +1,6 @@
 ---
 date: 2010-03-30T14:51:37.000Z
-lastmod: 2024-11-22T06:02:38.000Z
+lastmod: 2010-03-30T14:51:37.000Z
 title: "Mt Dandenong: Kyeema to Doongalla"
 draft: false
 slug: mt-dandenong-kyeema-to-doongalla

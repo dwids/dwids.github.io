@@ -1,6 +1,6 @@
 ---
 date: 2005-11-25T10:16:05.000Z
-lastmod: 2024-11-22T06:03:51.000Z
+lastmod: 2005-11-25T10:16:05.000Z
 title: 3 lounge room devices into 1
 draft: false
 slug: 3-lounge-room-devices-into-1

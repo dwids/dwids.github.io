@@ -1,6 +1,6 @@
 ---
 date: 2005-06-02T12:32:48.000Z
-lastmod: 2024-11-22T06:04:03.000Z
+lastmod: 2005-06-02T12:32:48.000Z
 title: Up-selling Broadband
 draft: false
 slug: up-selling-broadband

@@ -1,6 +1,6 @@
 ---
 date: 2013-06-30T19:38:16.000Z
-lastmod: 2024-11-22T06:32:17.000Z
+lastmod: 2013-06-30T19:38:16.000Z
 title: Contrails Fun 2 – Angles and Distances
 draft: false
 slug: contrails-fun-2angles-and-distances

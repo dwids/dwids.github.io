@@ -1,6 +1,6 @@
 ---
 date: 2013-01-07T18:40:49.000Z
-lastmod: 2024-11-22T06:01:05.000Z
+lastmod: 2013-01-07T18:40:49.000Z
 title: How many credit cards per person?
 draft: false
 slug: how-many-credit-cards-per-person

@@ -1,6 +1,6 @@
 ---
 date: 2020-04-09T18:02:29.000Z
-lastmod: 2024-11-21T21:58:03.000Z
+lastmod: 2020-04-09T18:02:29.000Z
 title: "Midday is almost never 12:00"
 draft: false
 slug: midday-is-almost-never-1200

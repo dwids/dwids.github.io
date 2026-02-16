@@ -1,6 +1,6 @@
 ---
 date: 2005-09-26T13:52:09.000Z
-lastmod: 2024-11-22T06:03:52.000Z
+lastmod: 2005-09-26T13:52:09.000Z
 title: "Digital TV to XviD : 30,000 foot view"
 draft: false
 slug: digital-tv-to-xvid-30000-foot-view-2

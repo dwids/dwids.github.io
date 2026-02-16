@@ -18,22 +18,26 @@ Welcome to SiC Blog! I write about technology, music, bushwalking, navigation, a
 
 ## Browse by Topic (aka Tags)
 
-- [Music](/tags/music) - Albums, concerts, and musical discoveries
-- [Creative](/tags/creative) - Pieces on ANZAC day, Lake Mungo history, Egypt etc
-- [Technology](/tags/technology) - Tech, Linux, and digital tools
-- [Bush Walks](/tags/bushwalks) - Hiking and exploring the outdoors
-- [Movies](/tags/movies) - Film and cinema
-- [Navigation](/tags/navigation) - GPS, mapping, and wayfinding
-- [Freelance](/tags/freelance) - Ye Olde pieces published in the Age
-- [Entertainment](/tags/entertainment) - General entertainment
-- [Astronomy](/tags/astronomy) - Looking up at the stars
-- [Maths](/tags/maths) - Numbers and patterns
-- [Once Thought](/tags/once-thought) - Sorta silly things I once genuinely thought
-- [COVID-19](/tags/covid-19) - Keeping myself same during pandemic times
+- [Music 🎼](/tags/music) - Albums, concerts, and musical discoveries
+- [Creative ✍️](/tags/creative) - Pieces on ANZAC day, Lake Mungo history, Egypt etc
+- [Technology 💻 ](/tags/technology) - Tech, Linux, and digital tools
+- [Bush Walks 🥾](/tags/bushwalks) - Hiking and exploring the outdoors
+- [Movies 🎞️](/tags/movies) - Film and cinema
+- [Navigation and Maps 🧭](/tags/navigation) - GPS, mapping, and wayfinding
+- [Freelance 💰✍️](/tags/freelance) - Ye Olde pieces published in the Age
+- [Entertainment 🥰](/tags/entertainment) - General entertainment
+- [Astronomy 🌠](/tags/astronomy) - Looking up at the stars
+- [Maths ✖️🟰](/tags/maths) - Numbers and patterns
+- [Once Thought ⁉️](/tags/once-thought) - Sorta silly things I once genuinely thought
+- [COVID-19 🦠](/tags/covid-19) - Keeping myself same during pandemic times
 
 And here's the full list of Topics (Tags).  Including lots of `general` ones which haven't been sorted yet on this new site
 
 - [Full tags and topic list](/tags/)
+
+To see the (many) untagged posts here you go
+
+- [General (un-tagged)](/tags/general/)
 
 
 

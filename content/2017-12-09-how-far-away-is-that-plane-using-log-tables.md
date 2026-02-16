@@ -1,6 +1,6 @@
 ---
 date: 2017-12-09T16:50:05.000Z
-lastmod: 2024-11-22T05:59:49.000Z
+lastmod: 2017-12-09T16:50:05.000Z
 title: How far away is that plane? Using Log tables ...
 draft: false
 slug: how-far-away-is-that-plane-using-log-tables

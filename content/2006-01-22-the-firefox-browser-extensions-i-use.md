@@ -1,6 +1,6 @@
 ---
 date: 2006-01-22T09:42:17.000Z
-lastmod: 2024-11-22T06:03:38.000Z
+lastmod: 2006-01-22T09:42:17.000Z
 title: The Firefox browser extensions I use
 draft: false
 slug: the-firefox-browser-extensions-i-use

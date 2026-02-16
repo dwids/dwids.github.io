@@ -1,6 +1,6 @@
 ---
 date: 2005-09-26T13:10:13.000Z
-lastmod: 2024-11-22T06:03:53.000Z
+lastmod: 2005-09-26T13:10:13.000Z
 title: Ouch - iTunes updates cause browser failures
 draft: false
 slug: ouch-itunes-updates-cause-browser-failure

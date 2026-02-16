@@ -1,6 +1,6 @@
 ---
 date: 2020-04-24T10:19:15.000Z
-lastmod: 2024-11-21T21:58:03.000Z
+lastmod: 2020-04-24T10:19:15.000Z
 title: "Solar Dance - The Sun's weekly position at 12:00"
 draft: false
 slug: solar-dance-the-sun-at-1200

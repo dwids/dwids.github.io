@@ -1,6 +1,6 @@
 ---
 date: 2008-06-21T08:55:01.000Z
-lastmod: 2024-11-21T21:58:04.000Z
+lastmod: 2008-06-21T08:55:01.000Z
 title: Water ice on Mars.
 draft: false
 slug: water-ice-on-mars

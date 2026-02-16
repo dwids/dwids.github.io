@@ -1,6 +1,6 @@
 ---
 date: 2008-05-16T10:36:00.000Z
-lastmod: 2024-11-22T06:03:21.000Z
+lastmod: 2008-05-16T10:36:00.000Z
 title: First GPS logging with new phone - NMEA sentence
 draft: false
 slug: first-gps-logging-with-new-phone-nmea-sentence

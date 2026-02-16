@@ -1,6 +1,6 @@
 ---
 date: 2008-05-24T21:18:00.000Z
-lastmod: 2024-11-22T06:03:21.000Z
+lastmod: 2008-05-24T21:18:00.000Z
 title: Mt Macedon walk - May 22nd 2008
 draft: false
 slug: mt-macedon-walk-may-22nd-2008

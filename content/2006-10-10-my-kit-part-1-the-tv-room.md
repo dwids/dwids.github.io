@@ -1,6 +1,6 @@
 ---
 date: 2006-10-10T09:20:46.000Z
-lastmod: 2024-11-22T06:03:37.000Z
+lastmod: 2006-10-10T09:20:46.000Z
 title: "My Kit - Part 1 : The TV room"
 draft: false
 slug: my-kit-part-1-the-tv-room

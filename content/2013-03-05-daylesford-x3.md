@@ -1,6 +1,6 @@
 ---
 date: 2013-03-05T21:01:23.000Z
-lastmod: 2024-11-22T06:01:05.000Z
+lastmod: 2013-03-05T21:01:23.000Z
 title: Daylesford - Used to scare me
 draft: false
 slug: daylesford-x3

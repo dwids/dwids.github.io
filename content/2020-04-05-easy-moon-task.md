@@ -1,6 +1,6 @@
 ---
 date: 2020-04-05T17:50:16.000Z
-lastmod: 2024-11-21T21:58:03.000Z
+lastmod: 2020-04-05T17:50:16.000Z
 title: Easy Moon Task
 draft: false
 slug: easy-moon-task

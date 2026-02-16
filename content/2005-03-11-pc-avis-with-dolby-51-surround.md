@@ -1,6 +1,6 @@
 ---
 date: 2005-03-11T21:31:55.000Z
-lastmod: 2024-11-22T06:04:13.000Z
+lastmod: 2005-03-11T21:31:55.000Z
 title: PC AVIs with Dolby 5.1 surround and subtitles?
 draft: false
 slug: pc-avis-with-dolby-51-surround

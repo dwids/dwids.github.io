@@ -1,6 +1,6 @@
 ---
 date: 2008-04-21T04:22:00.000Z
-lastmod: 2024-11-22T06:03:22.000Z
+lastmod: 2008-04-21T04:22:00.000Z
 title: Hepburn Springs walk - April 20th 2008
 draft: false
 slug: hepburn-springs-walk-april-20th-2008

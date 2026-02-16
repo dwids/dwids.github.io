@@ -1,6 +1,6 @@
 ---
 date: 2020-04-29T20:42:16.000Z
-lastmod: 2024-11-21T22:37:23.000Z
+lastmod: 2020-04-29T20:42:16.000Z
 title: Snippets of Life under The Virus
 draft: false
 slug: snippets-of-life-under-the-virus

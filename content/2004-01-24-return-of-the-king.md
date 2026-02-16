@@ -1,6 +1,6 @@
 ---
 date: 2004-01-24T19:19:47.000Z
-lastmod: 2024-11-21T22:17:08.000Z
+lastmod: 2004-01-24T19:19:47.000Z
 title: Return of the King
 draft: false
 slug: return-of-the-king

@@ -1,6 +1,6 @@
 ---
 date: 2005-09-01T12:19:40.000Z
-lastmod: 2005-07-26T12:19:40.000Z
+lastmod: 2005-09-01T12:19:40.000Z
 title: Published! - A site for sore eyes
 draft: false
 slug: published-a-site-for-sore-eyes

@@ -1,6 +1,6 @@
 ---
 date: 2009-11-06T13:04:42.000Z
-lastmod: 2024-11-22T05:51:56.000Z
+lastmod: 2009-11-06T13:04:42.000Z
 title: "Grampians: Hollow Mountain has me in stitches"
 draft: false
 slug: grampians-hollow-mountain-has-me-in-stitches

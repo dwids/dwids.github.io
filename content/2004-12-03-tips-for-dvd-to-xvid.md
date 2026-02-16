@@ -1,6 +1,6 @@
 ---
 date: 2004-12-03T18:07:09.000Z
-lastmod: 2024-11-22T06:04:14.000Z
+lastmod: 2004-12-03T18:07:09.000Z
 title: Tips for DVD to XviD
 draft: false
 slug: tips-for-dvd-to-xvid

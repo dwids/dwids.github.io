@@ -1,6 +1,6 @@
 ---
 date: 2005-09-26T17:43:45.000Z
-lastmod: 2024-11-22T06:03:51.000Z
+lastmod: 2005-09-26T17:43:45.000Z
 title: How big is one minute of TV?
 draft: false
 slug: how-big-is-one-minute-of-tv

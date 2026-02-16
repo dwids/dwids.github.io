@@ -1,6 +1,6 @@
 ---
 date: 2004-05-17T19:46:56.000Z
-lastmod: 2024-11-21T22:17:08.000Z
+lastmod: 2004-05-17T19:46:56.000Z
 title: "Great Movie Spoils - no Spoilers :-)"
 draft: false
 slug: great-movie-spoils-no-spoilers

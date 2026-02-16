@@ -1,6 +1,6 @@
 ---
 date: 2008-04-09T21:13:56.000Z
-lastmod: 2024-11-22T06:03:22.000Z
+lastmod: 2008-04-09T21:13:56.000Z
 title: Marysville, Falls and De La Rue Lookout walk - April 9th, 2008
 draft: false
 slug: marysville-falls-and-de-la-rue-lookout-walk-april-9th-2008

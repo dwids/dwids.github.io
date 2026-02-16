@@ -1,6 +1,6 @@
 ---
 date: 2005-03-11T21:20:30.000Z
-lastmod: 2024-11-22T06:38:31.000Z
+lastmod: 2005-03-11T21:20:30.000Z
 title: David's Data Server
 draft: false
 slug: davids-data-server

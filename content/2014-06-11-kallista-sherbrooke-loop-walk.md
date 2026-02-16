@@ -1,6 +1,6 @@
 ---
 date: 2014-06-11T19:24:33.000Z
-lastmod: 2024-11-22T06:01:02.000Z
+lastmod: 2014-06-11T19:24:33.000Z
 title: Kallista (Sherbrooke) Loop walk
 draft: false
 slug: kallista-sherbrooke-loop-walk

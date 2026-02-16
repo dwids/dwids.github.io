@@ -1,6 +1,6 @@
 ---
 date: 2020-04-21T18:08:40.000Z
-lastmod: 2024-11-21T22:02:08.000Z
+lastmod: 2020-04-21T18:08:40.000Z
 title: History Mystery - Williamstown Observatory (1863)
 draft: false
 slug: history-mystery-williamstown-observatory-1863

@@ -1,6 +1,6 @@
 ---
 date: 2009-04-21T19:17:55.000Z
-lastmod: 2024-11-22T06:02:48.000Z
+lastmod: 2009-04-21T19:17:55.000Z
 title: Mt Macedon loop
 draft: false
 slug: mt-macedon-loop

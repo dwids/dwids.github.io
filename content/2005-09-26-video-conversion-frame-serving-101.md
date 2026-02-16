@@ -1,6 +1,6 @@
 ---
 date: 2005-09-26T13:23:21.000Z
-lastmod: 2024-11-22T06:03:53.000Z
+lastmod: 2005-09-26T13:23:21.000Z
 title: Video Conversion - Frame Serving 101
 draft: false
 slug: video-conversion-frame-serving-101
