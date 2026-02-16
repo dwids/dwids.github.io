@@ -15,23 +15,31 @@ Just another superb local singer. Even at the time of these &#8211; mainly the 7
 
 ## Mama&#8217;s Little Girl (1974)
 
+<iframe width="720" height="540" src="https://www.youtube.com/embed/niuYaZ4Yi7k" title="Linda George   Mama&#39;s Little Girl" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Our Day Will Come (1973)
 
 The quality here &#8211; and on Spotify (same version) &#8211; isn&#8217;t the best. It may just be that the master tapes are lost and we only have this version, which sounds like it&#8217;s from a record with it &#8211; or the stylus &#8211; worn down 🙁  Sounds muffled and the &#8216;t&#8217; on &#8216;tell me&#8217; (etc) is bad, as well as some &#8216;s&#8217; sounds. 
 
+
+<iframe width="720" height="540" src="https://www.youtube.com/embed/tosVZ17AldA" title="Our Day Will Come" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Neither One Of Us (1973)
 
 Full title is *Neither One of Us (Wants to Be the First to Say Goodbye)*
+<iframe width="720" height="540" src="https://www.youtube.com/embed/dk8zUlAuPxk" title="Linda George   Neither One of Us" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Love is Enough (1980 Duet)
 
 A duet with Paul McKay
 
-https://www.youtube.com/watch?v=tcKQhm6LxPc
+<iframe width="942" height="530" src="https://www.youtube.com/embed/sILOp3B_eSQ" title="Linda George and Paul McKay - Love Is Enough (1980)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Care For Kids (1979 Duet)
 
 A duet, apparently with Paul Meaney.  The theme for the International Year of the Child in 1979.
+
+<iframe width="720" height="405" src="https://www.youtube.com/embed/JifQTVkF-ZI" title="Care For Kids TV Commercial 1979 Australia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

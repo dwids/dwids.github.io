@@ -21,6 +21,8 @@ Without spoilers, the next verse loops back and tells, in euphemisms, what reall
 
 Just checked. I **was** young; only when 7 it came out in 1968 and hit #1 here. I actually now doubt that time-frame for me, so it must have been on later hearings.
 
+<iframe width="720" height="407" src="https://www.youtube.com/embed/rZiEY3O-FWk" title="HONEY (Lyrics) - BOBBY GOLDSBORO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## How To Make Gravy (Paul Kelly)
 
 Even though I knew – and loved – Paul’s songs when they first came out, somehow this one missed me. So I came to it quite late. A bloke is in jail, just before Christmas and is writing to Dan.
@@ -29,11 +31,15 @@ It’s actually more like *onion* gravy for me. Why? I’ve only got one thing t
 
 Check out the comments on OoToobe. Some people want this to be our national anthem.
 
+<iframe width="720" height="540" src="https://www.youtube.com/embed/fh79619xxk8" title="Paul Kelly - How To Make Gravy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## The Band Played Waltzing Matilda (Eric Bogle)
 
 As if this 1971 song wasn’t sad enough, the killer lines – when his *ship pulled into Circular Quay* – just rip me apart. It was looking back at WWI. But, given the time he wrote it, I’d assumed what it may have been also alluding to…and it seems I had guessed right. [He has said](https://en.wikipedia.org/wiki/And_the_Band_Played_Waltzing_Matilda?ref=davidphoto.org) “I wrote it as an oblique comment on the Vietnam War which was in full swing”.
 
 I know there’s been covers. This is the original, by the bloke who wrote it and the one I grew up with. Seriously don't bother 🙂
+
+<iframe width="720" height="540" src="https://www.youtube.com/embed/ajPSmnZ2PRY" title="And The Band Played Waltzing Matilda" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

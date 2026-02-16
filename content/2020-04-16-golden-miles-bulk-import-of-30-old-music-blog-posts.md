@@ -11,7 +11,11 @@ cover:
 description: 
 ---
 
-What seemed like a quick task, turned into hours of work. But worth it. I had at least two Sadly Neglected Blogs still hanging around. The original *SiC *(reborn here) and one mainly on Music things (*Golden Miles*).  Today I decided to export all the *Golden Miles* Posts and import them here.
+> [!info]+ Historical post 
+> As I have moved blogs multiple times, words like "today" and "here" etc below, refer to when I first migrated the old *Golden Miles* blog to a newer platform, c. 2020.
+
+
+What seemed like a quick task, turned into hours of work. But worth it. I had at least two Sadly Neglected Blogs still hanging around. The original *SiC*(reborn here, mulitple times) and one mainly on Music things (*Golden Miles*).  Today I decided to export all the *Golden Miles* Posts and import them here.
 
 They are different blogging systems (Blogger and WordPress) but the export/import of the 30+ Posts took just minutes.  Of course, the real work then started. 
 
@@ -34,15 +38,20 @@ https://www.trailhiking.com.au/wp-content/uploads/2016/01/sealerscave.jpg
 Sealers Cove from [https://www.trailhiking.com.au/wilsons-promontory-sealers-cove/](https://www.trailhiking.com.au/wilsons-promontory-sealers-cove/)
 #### Tech Talk: Link Conversion
 
-Initially, I thought *all *the YouTube links would have to be converted. The first one had links in this format:
+Initially, I thought *all* the YouTube links would have to be converted. The first one had links in this format:
 
+```
     [http://youtube.googleapis.com/v/Yd60nI4sa9A&source=uds](http://youtube.googleapis.com/v/Yd60nI4sa9A&amp;source=uds)
+```
 
 Yuk. They just don&#8217;t work 9 years on. BUT, I spotted the Yd60&#8230; bit looks like a modern YouTube video id, from which the correct link is built:
 
+```
     https://www.youtube.com/watch?v=Yd60nI4sa9A
+```
 
 I was quickly able to use a Regular Expression in RegexBuddy to convert that Post&#8217;s four links in one hit, via find and replace:
+
 ![](/images/wordpress/2021/02/1_image-11.png)Find > Replace > Input Text > Output Text
 
 And then I found it was the only old Post that had this strange old format 🙂

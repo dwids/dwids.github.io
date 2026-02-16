@@ -11,23 +11,41 @@ cover:
 description: 
 ---
 
-"[Stray Cat Blues](http://www.youtube.com/watch?v=Mt_493ktyto)" &#8211; Rolling Stones (1968 UK) classic-period blues/rock, play LOUD     
+"**Stray Cat Blues**; Rolling Stones (1968 UK) classic-period blues/rock, play LOUD     
 
-"[I&#8217;m Waiting for the Man](http://www.youtube.com/watch?v=hugY9CwhfzE)" &#8211; Velvet Underground inc Lou Reed (1967 ! USA ) driving, simple song. Possibly about, umm, heroin dealers
+<iframe width="471" height="265" src="https://www.youtube.com/embed/oOSYB38y2xA" title="The Rolling Stones - Stray Cat Blues (Official Lyric Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-"[Appetite](http://www.youtube.com/watch?v=X7oJAR4iYuw)" &#8211; Prefab Sprout (1985 UK) pop, just sweet pop
+"**I'm Waiting for the Man**"; Velvet Underground inc Lou Reed (1967 ! USA ) driving, simple song. Possibly about, umm, heroin dealers
 
-"[Where Is the Love"](http://www.youtube.com/watch?v=6kIjFCgtcoI) &#8211; Roberta Flack and Donny Hathaway (1972 USA) sweet soul pop
+<iframe width="471" height="467" src="https://www.youtube.com/embed/99og_g7rXnA" title="I&#39;m Waiting For The Man" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-"[Fall](http://www.youtube.com/watch?v=BvoEJqo5yjg)" &#8211; Single Gun Theory (1994 AUS) gentle and relaxing. [Youtube clip](http://www.youtube.com/watch?v=z-AuKsiGbQ4).
+"**Appetite**" ; Prefab Sprout (1985 UK) pop, just sweet pop
 
-"[I Saved the World Today](http://www.youtube.com/watch?v=GPKgsd4BzMQ)" &#8211; Eurythmics (1999 UK) well crafted, high quality and thoughtful.
+<iframe width="471" height="404" src="https://www.youtube.com/embed/AjcxtE6HfgU" title="Appetite (2007 Remastered Version)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-"[Brandy (You&#8217;re a Fine Girl)"](http://www.youtube.com/watch?v=7-dleViv2nc) &#8211; Looking Glass (1972 USA). High standard white soul/pop    
+"**Where Is the Love**"; Roberta Flack and Donny Hathaway (1972 USA) sweet soul pop
 
-"I Wish You Were Here" &#8211; Ed Kuepper (1993 AUS) Longing ballad from ex-guitarist of The Saints. [Amazon sample](http://www.amazon.com/gp/music/wma-pop-up/B000004A0E001014/ref=mu_sam_wma_001_014).
+<iframe width="471" height="471" src="https://www.youtube.com/embed/sI7UOwOhKEs" title="Where Is the Love (Remastered Version)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-"[Like a Rolling Stone](http://www.youtube.com/watch?v=hk3mAX5xdxo)" &#8211; Bob Dylan (1965 USA) How does it feeeeeel?
+"**Fall**" ; Single Gun Theory (1994 AUS) gentle and relaxing. 
+
+<iframe width="471" height="471" src="https://www.youtube.com/embed/dAVLxNX81Zc" title="Fall" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+"**I Saved the World Today**" ; Eurythmics (1999 UK) well crafted, high quality and thoughtful. I'd never heard of it until it was used - in a bitterly ironic way - at the end of a shocking episode of The Sopranos.
+
+<iframe width="471" height="471" src="https://www.youtube.com/embed/-IIHiFv2Uhw" title="I Saved the World Today (Remastered)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+"**Brandy (You're a Fine Girl**)" ; Looking Glass (1972 USA). High standard white soul/pop    
+
+<iframe width="471" height="265" src="https://www.youtube.com/embed/DVx8L7a3MuE" title="Looking Glass - Brandy (You&#39;re a Fine Girl) (Official Audio)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+"I Wish You Were Here" ; Ed Kuepper (1993 AUS) Longing ballad from ex-guitarist of The Saints.
+
+<iframe width="471" height="265" src="https://www.youtube.com/embed/P514LYKDEws" title="Ed Kuepper - I Wish You Were Here" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+"Like a Rolling Stone" ; Bob Dylan (1965 USA) How does it feeeeeel?
+
+<iframe width="471" height="265" src="https://www.youtube.com/embed/IwOfCgkyEj0" title="Bob Dylan - Like a Rolling Stone (Official Audio)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
