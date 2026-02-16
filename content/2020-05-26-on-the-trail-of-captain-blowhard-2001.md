@@ -1,10 +1,10 @@
 ---
 date: 2020-05-26T18:18:05.000Z
-lastmod: 2024-11-22T05:55:58.000Z
-title: On the Trail of Captain Blowhard (2001)
+lastmod: 2001-10-22T05:55:58.000Z
+title: On the Trail of Captain Blowhard 
 draft: false
 slug: on-the-trail-of-captain-blowhard-2001
-tags: ["general"]
+tags: ["creative"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: On the Trail of Captain Blowhard (2001)
@@ -72,4 +72,4 @@ On my *second* trip, I did get conflicting advice re: Jericho Track. One bloke &
 
 ---
 
-> [!info] Original Published Date : *2020-05-26*
+> [!info] Original Published Date : *c. 2001*

@@ -1,14 +1,16 @@
 ---
 date: 2016-06-26T19:58:05.000Z
 lastmod: 2025-01-21T21:24:40.000Z
-title: Navigation – Getting the basics right (Part 1)
+title: Navigation (1 of 3) – GPS Error? Getting the basics right
 draft: false
 slug: navigation-getting-the-basics-right-part-1
-tags: ["navigation","navigation"]
+tags:
+  - navigation
+  - navigation
 cover:
-    image: https://images.unsplash.com/photo-1516503424803-708327384b90?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDN8fGNvbXBhc3N8ZW58MHx8fHwxNzMyMjI2NDM4fDA&ixlib=rb-4.0.3&q=80&w=2000
-    alt: Navigation – Getting the basics right (Part 1)
-description: 
+  image: https://images.unsplash.com/photo-1516503424803-708327384b90?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDN8fGNvbXBhc3N8ZW58MHx8fHwxNzMyMjI2NDM4fDA&ixlib=rb-4.0.3&q=80&w=2000
+  alt: Navigation – Getting the basics right (Part 1)
+description:
 ---
 
 Something that happened today (see [Part 2](__GHOST_URL__/navigation-getting-the-basics-right-part-2/)) reminded me when I first got a GPS. This was 2008 and it was a hand-held Garmin which cost a wee bit ($280 USD, inc $50 USD shipping). Arguably, most of the function I used then is now available in a $4.99 phone app.
@@ -19,7 +21,8 @@ Yet the GPS was telling me I was **hundreds** of metres away from where I should
 
 Later, when I loaded the GPS log into their map program on the PC, I saw the log was ‘correct’ but displaced, in both directions. The image below is a very rough recreation, showing the walk I really did in pale red and the GPS log in red.
 
-[![GPS datum error (simulated)](/images/wordpress/2021/02/ae0b0-gps-datum-error-simulated_thumb.jpg)](https://dwids.wordpress.com2020/03/efadd-gps-datum-error-simulated.jpg)
+
+![[ae0b0-gps-datum-error-simulated.jpg|GPS datum error (simulated)]]
 
 My first reaction was “my new GPS from America is faulty!” But a bit of reading taught me something: the paper map had the same co-ordinate system, but a different **datum** than the GPS.
 

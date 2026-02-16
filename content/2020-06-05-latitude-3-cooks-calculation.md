@@ -1,7 +1,7 @@
 ---
 date: 2020-06-05T17:57:44.000Z
 lastmod: 2024-11-19T06:07:13.000Z
-title: "Latitude 3 : Cook's Calculation"
+title: "Navigation (3 of 3) - Cook's Calculation"
 draft: false
 slug: latitude-3-cooks-calculation
 tags: ["navigation"]

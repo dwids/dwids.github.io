@@ -1,7 +1,7 @@
 ---
 date: 2020-06-02T18:35:58.000Z
 lastmod: 2024-11-21T21:54:52.000Z
-title: Latitude 02 - The Sun and The Book
+title: Navigation (2 of 3) - Latitude, The Sun and The Book
 draft: false
 slug: latitude-02-the-sun-and-the-book
 tags: ["navigation"]

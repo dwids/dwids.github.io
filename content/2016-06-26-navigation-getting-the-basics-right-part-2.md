@@ -1,7 +1,7 @@
 ---
 date: 2016-06-26T20:26:28.000Z
 lastmod: 2025-01-21T21:28:01.000Z
-title: Navigation – Getting the basics right (Part 2)
+title: Navigation (2 of 3) – Getting the basics right
 draft: false
 slug: navigation-getting-the-basics-right-part-2
 tags: ["navigation","navigation"]
