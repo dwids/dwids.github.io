@@ -37,17 +37,20 @@ And here's the full list of Topics (Tags).  Including lots of `general` ones whi
 
 To see the (many) untagged posts here you go
 
-- [General (un-tagged)](/tags/general/)
+- [General (un-tagged)](/tags/general)
 
 
 
 ## Site Issues
-As I have moved and migrated this site many times, some things have gone wrong. Some internal links (between pages) and`click on this image to show it full size` things don't work. Yet.
+As I have moved and migrated this site many times, some things have gone wrong. Some internal links (between pages) and`click on this image to show it full size` things don't work. Yet.  ==Update== 17 Feb 2026 -> hopefully fixed
 
 ### YouTube links
-I've just noticed today (13 Feb 2026) that the most recent on has removed YouTube links.
+I've just noticed today (13 Feb 2026) that the most recent on has removed YouTube links.  ==Update== 16 Feb 2026 -> hopefully fixed
 
 ### About some Dates
 Due to me migrating from multiple, very different blog-systems and sites over *decades*, some 'published' dates got a bit mixed up. We (Claude AI and I) found a way to get  some/most of real 'first created' date and have added them to the posts, usually at  **bottom** of the page. Looks like this: 
 
 > [!info] Original Published Date : *2004-05-19*
+
+
+ ==Update== 17 Feb 2026 -> hopefully fixed, the 'date' on the most posts should be 'correct' (ie original). Left the Info box at the end of the pages.
