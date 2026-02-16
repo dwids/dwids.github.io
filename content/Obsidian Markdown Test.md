@@ -105,8 +105,8 @@ Same [link](https://sidwell.id.au/2020/07/12/melbourne-observatory-location-1871
 
 ### Link to Heading in Same file
 
-Raw link: [[#H2 Quick Test]]
-Same with alias [[#H2 Quick Test|Heading 2]]
+Raw link: [Obsidian Markdown Test](Obsidian%20Markdown%20Test.md#H2%20Quick%20Test)
+Same with alias [Heading 2](#H2%20Quick%20Test)
 
 
 ### Link to Heading/Block in other File 

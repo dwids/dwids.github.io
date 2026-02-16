@@ -29,29 +29,29 @@ The source of this is a handwritten letter to me from September 2015. Rob’s fa
 
 Here are some of photos. **You can click on each one to enlarge.**
 
-[![](/images/wordpress/2021/02/98a39-capture-2.png)](/images/wordpress/2021/02/98a39-capture-2.png)c1950 Main ‘Canteen’ with old Grandstand in background (source: Rob Medlen)
+[![](/images/wordpress/2021/02/98a39-capture-2.png)](images/wordpress/2021/02/98a39-capture-2.png)c1950 Main ‘Canteen’ with old Grandstand in background (source: Rob Medlen)
 
 Rob also posted me an annotated version to explain what’s what:
 
-[![](/images/wordpress/2021/02/ac4ec-rob-m-racecouse-main-annottated-scanned_20170803_115143_smaller.jpg)](/images/wordpress/2020/03/ac4ec-rob-m-racecouse-main-annottated-scanned_20170803_115143_smaller.jpg)Annotated by Rob Medlen
+[![](/images/wordpress/2021/02/ac4ec-rob-m-racecouse-main-annottated-scanned_20170803_115143_smaller.jpg)](images/wordpress/2020/03/ac4ec-rob-m-racecouse-main-annottated-scanned_20170803_115143_smaller.jpg)Annotated by Rob Medlen
 
 Notes on the above “This area was the hub of activity in the Racecourse area from 1950 on. The rest of the Racecourse was out of bounds & mostly fenced off with slow amounts of demolition progressing.  * Public Grandstand was intact & undamaged. Kitchen in undercroft (sic) was used for meal preparation in early days of displaced persons camp before further development of migration hostel on other side of creek”
 
 An overview image from August 1950 (assumed, based on similar image – below). “Taken from Grandstand” :
 
-[![](/images/wordpress/2021/02/69a8f-capture-3.png)](/images/wordpress/2021/02/69a8f-capture-3.png)Overview with creek etc (source: Rob Medlen)
+[![](/images/wordpress/2021/02/69a8f-capture-3.png)](images/wordpress/2021/02/69a8f-capture-3.png)Overview with creek etc (source: Rob Medlen)
 
 The above, hand annotated:
 
  
 
-[![](/images/wordpress/2017/08/Scanned_20170803_121832-Racecourse-300x212.png)](/images/wordpress/2017/08/Scanned_20170803_121832-Racecourse.png)Overview – annotated by Rob
+[![](/images/wordpress/2017/08/Scanned_20170803_121832-Racecourse-300x212.png)](Scanned_20170803_121832-Racecourse.png)Overview – annotated by Rob
 
 Cut-off text on RHS “Seating area Tables & Chairs for coffee/drinks etc”
 
 Lastly an Overview, but from closer up:
 
-[![](/images/wordpress/2021/02/fb7cf-capture.png)](/images/wordpress/2021/02/fb7cf-capture.png)Overview (source: Rob Medlen)
+[![](/images/wordpress/2021/02/fb7cf-capture.png)](images/wordpress/2021/02/fb7cf-capture.png)Overview (source: Rob Medlen)
 
 ### “Canteen” ?
 

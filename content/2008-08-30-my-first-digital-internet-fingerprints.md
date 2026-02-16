@@ -14,7 +14,7 @@ It all started yesterday when my dear old Dell laptop started making that dreade
 
 Not sure if it&#8217;s really broken, but it got me pondering how old the laptop was.
 
-As  [mentioned earlier](2008-07-31-windows-file-librarians-index-then-search-your-disks) I use an indexing program to index my old emails. So it was easy to search and locate the &#8220;new laptop&#8221; emails exchanged with Dell. Turns out the laptop is 4.5 years old. 
+As  [mentioned earlier](2008-07-31-windows-file-librarians-index-then-search-your-disks.md) I use an indexing program to index my old emails. So it was easy to search and locate the &#8220;new laptop&#8221; emails exchanged with Dell. Turns out the laptop is 4.5 years old. 
 
 Further thinking: when did I get my first PC?  What about the first time I went &#8216;online&#8217; (pre-Internet access)?  What about my first Internet access itself? I did a quick bit of searching on Google Groups and found this:
 

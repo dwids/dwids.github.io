@@ -23,7 +23,7 @@ Here’s the graphs. Hopefully it makes sense. I did it with the same scale for 
 
  
 
-[![](/images/wordpress/2013/10/Dandenongs-Walks-Gradients_.png)](/images/wordpress/2013/10/Dandenongs-Walks-Gradients_.png)
+[![](/images/wordpress/2013/10/Dandenongs-Walks-Gradients_.png)](Dandenongs-Walks-Gradients_.png)
 
  
 
@@ -31,7 +31,7 @@ Here’s the graphs. Hopefully it makes sense. I did it with the same scale for 
 
 Here they are on the one Google Earth screen. Closest = 1000 Steps (red), then Bills (green), Rankin (orange) and Glasgow (blue).  Height doubled for effect. Click on to enlarge:
 
-[![](/images/wordpress/2021/02/d6328-dandenongs-walks_thumb.png)](/images/wordpress/2021/02/d6328-dandenongs-walks_thumb.png)
+[![](/images/wordpress/2021/02/d6328-dandenongs-walks_thumb.png)](d6328-dandenongs-walks_thumb.png)
 
  
 

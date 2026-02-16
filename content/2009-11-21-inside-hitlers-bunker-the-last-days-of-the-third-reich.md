@@ -13,7 +13,7 @@ description:
 
 Reading the WWII history book
 
-I understand this was one of the two main books used as the source for the excellent "Downfall" film. The [[2009-11-05-until-the-final-hour-hitlers-last-secretary|other one]] I have also recently read.
+I understand this was one of the two main books used as the source for the excellent "Downfall" film. The [other one](2009-11-05-until-the-final-hour-hitlers-last-secretary.md) I have also recently read.
 
 Purchased online from BetterWorld Books
 

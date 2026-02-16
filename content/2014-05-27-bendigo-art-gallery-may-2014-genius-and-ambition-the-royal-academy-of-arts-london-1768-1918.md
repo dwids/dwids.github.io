@@ -11,7 +11,7 @@ cover:
 description: 
 ---
 
-[![](/images/wordpress/2021/02/0d94f-davids_20140527_105927.jpg)](/images/wordpress/2021/02/0d94f-davids_20140527_105927.jpg)
+[![](/images/wordpress/2021/02/0d94f-davids_20140527_105927.jpg)](images/wordpress/2021/02/0d94f-davids_20140527_105927.jpg)
 2020 update: I think I just liked my photo.  Looking back I had selectively de-coloured just part of it. I can see why I liked it 🙂 
 
 ---

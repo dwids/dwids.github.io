@@ -11,7 +11,7 @@ cover:
 description: 
 ---
 
-Like [[2011-07-26-rock-island-line-1957-lonnie-donegan|Lonnie Donegan]] Eddie Cochran was another artist who deeply influenced the young Beatles, back in the the 1950s.
+Like [Lonnie Donegan](2011-07-26-rock-island-line-1957-lonnie-donegan.md) Eddie Cochran was another artist who deeply influenced the young Beatles, back in the the 1950s.
 
 Cochran was an American rock pioneer, who had other hits including Summertime Blues, C&#8217;mon Everybody and Something Else.  Now, I knew all of these last 3, not least of which due to Sid Vicious doing quite straight covers of them. But the Beatles book &#8220;Shout&#8221; (see the Donegan post of mine, above) mentions his first song &#8211; Twenty Flight Rock &#8211; as one the young lads really got into.
 

@@ -15,7 +15,7 @@ description:
 
 I stick to [UTM ](https://en.wikipedia.org/wiki/Universal_Transverse_Mercator_coordinate_system)for my maps. It&#8217;s one of the many *projections* which are used to &#8216;make&#8217; the very 3D (sorta) sphere of the Earth fit onto a flat bit of computer screen&#8230;or paper 🙂  It&#8217;s fine for &#8216;human level&#8217; maps, like hiking. But I don&#8217;t think you see sailors, pilots et al using it for their day jobs.  It&#8217;s not in degrees, but is a grid in **meters**. So not only can you use to to get your position (X,Y) but also to see &#8211; and estimate &#8211; distances. To that end, my maps usually have a printed grid of 1000 m, aka 1 km.  Here&#8217;s a recent example:
 
-[![](/images/wordpress/2023/02/Murrindindi-River-Walk-A4_portrait_UTMgrid-212x300.png)](/images/wordpress/2023/02/Murrindindi-River-Walk-A4_portrait_UTMgrid.png)Murrindindi River Walk A4_portrait_UTMgrid. Click on this to show full size
+[![](/images/wordpress/2023/02/Murrindindi-River-Walk-A4_portrait_UTMgrid-212x300.png)](Murrindindi-River-Walk-A4_portrait_UTMgrid.png)Murrindindi River Walk A4_portrait_UTMgrid. Click on this to show full size
 
 All of this &#8211; the software and the underlying map/data &#8211; are from legally free sources.  Not only that, but you can easily create a geo-referenced PDF; one that has the coordinates stored within in it. You can then use that with software like [Avenza](https://www.avenza.com/avenza-maps/) and navigate without an internet connection.
 

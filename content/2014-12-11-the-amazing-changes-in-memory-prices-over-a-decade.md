@@ -31,7 +31,7 @@ Hard Disk Drives are/were cheaper per MB than these little cards. If I look back
 
 1. [http://www.buzzfeed.com/daves4/welcome-to-the-fuetch?bffb](http://www.buzzfeed.com/daves4/welcome-to-the-fuetch?bffb)
 
-2. [1994 PC Invoice - Gold!](2013-04-06-gold-my-pc-invoice-from-1994)
+2. [1994 PC Invoice - Gold!](2013-04-06-gold-my-pc-invoice-from-1994.md)
 
 ---
 

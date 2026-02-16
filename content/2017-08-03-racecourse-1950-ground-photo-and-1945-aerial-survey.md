@@ -16,7 +16,7 @@ description:
 >This 2017 post was lightly edited today (13 Feb 2026),mainly to ensure the images were full sized.
 
 
-Firstly here is Rob Medlen&#8217;s 1950 image - of the Migrant Hostel in the grounds of the Williamstown Racecourse  (as covered earlier today [[2017-08-03-williamstown-racecourse-1950s-images-migrant-hostel | here]] ) but with numbered markers added by me:
+Firstly here is Rob Medlen&#8217;s 1950 image - of the Migrant Hostel in the grounds of the Williamstown Racecourse  (as covered earlier today [ here](2017-08-03-williamstown-racecourse-1950s-images-migrant-hostel.md) ) but with numbered markers added by me:
 
 <figure>
   <img src="images/wordpress/2017/08/Capture-2_with1945_speculation.png" alt="Robs Capture-2 with my numbered markers">

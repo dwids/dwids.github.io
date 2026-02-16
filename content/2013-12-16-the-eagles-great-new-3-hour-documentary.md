@@ -19,7 +19,7 @@ It was only years later that I discovered both bands had had long and interestin
 
 You know what, I&#8217;ve changed my mind and just deleted about 3 paragraphs I’d written :  I&#8217;m not going to spoil the story.  Suffice to say I have a new found respect for them and recommend you check out the [History of The Eagles](http://www.amazon.com/History-Eagles-Blu-ray/dp/B00BSBUZT6) (2013)
 
-[![](/images/wordpress/2021/02/51B1NNUZYrL._SY300.jpg)](/images/wordpress/2021/02/51B1NNUZYrL._SY300.jpg)
+[![](/images/wordpress/2021/02/51B1NNUZYrL._SY300.jpg)](51B1NNUZYrL._SY300.jpg)
 
 ---
 

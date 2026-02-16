@@ -21,11 +21,11 @@ I was telling the walkers about Glasgow Tk just up the road. Today in looking at
 **Track****Approx Length (m)**Bills (the bit we did)220Rankin410Glasgow870
 Here’s a map (thanks to [OSM](http://www.openstreetmap.org/)), should be able to click on to engorge:
 
-[![Dandenongs---3-tracks---OSM](/images/wordpress/2021/02/ffca9-dandenongs-3-tracks-osm_thumb1.jpg)](/images/wordpress/2020/03/2a8b5-dandenongs-3-tracks-osm1.jpg)
+[![Dandenongs---3-tracks---OSM](/images/wordpress/2021/02/ffca9-dandenongs-3-tracks-osm_thumb1.jpg)](images/wordpress/2020/03/2a8b5-dandenongs-3-tracks-osm1.jpg)
 
 And here’s the fun one. Google Earth showing them. With the height of the mountains exaggerated. From right to left: Bills, Rankin and Glasgow. Click for biggus pickus.
 
-[![Dandenongs_3_straightup_tracks](/images/wordpress/2021/02/6f818-dandenongs_3_straightup_tracks_thumb1.jpg)](/images/wordpress/2020/03/11c6c-dandenongs_3_straightup_tracks1.jpg)
+[![Dandenongs_3_straightup_tracks](/images/wordpress/2021/02/6f818-dandenongs_3_straightup_tracks_thumb1.jpg)](images/wordpress/2020/03/11c6c-dandenongs_3_straightup_tracks1.jpg)
 
 I actually want to do Glasgow end to end soon. Car at Glasgow road, straight up, then maybe a rest ![Smile](/images/wordpress/2021/02/30b8c-wlemoticon-smile.png) and down the more gentle Zig Zag and Ch 10 tracks and back to car.
 
