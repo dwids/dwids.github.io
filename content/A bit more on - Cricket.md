@@ -41,6 +41,23 @@ When one goes out **Number 3** - on the list - comes in. This is also called the
 The batting score could be (in Australian format)  `1/30`  ; 1 wicket down for 30 runs scored.  If you think about it `9/421` means "we are down to the last two batters". 
 
 The 11th player is the 'last man standing'—since you need a partner to run, once the 10th wicket falls, the innings is over.
+ 
+## Who 'controls' Cricket?
+My opinion only. This is who actually really controls International Cricket over the last few 😇decades
+
+* 1870s - 1980s: England  (AFAIK they invented it)
+* 1980s  - c2010: Australia and England (after the cricket 'revolution' called [World Series Cricket](https://en.wikipedia.org/wiki/World_Series_Cricket))
+* c2010  - today: India  (the giant awakes.  Includes the rise of the [Indian Premier League](https://en.wikipedia.org/wiki/Indian_Premier_League) 
+  
+## The Modern Test Rivals -  Australia vs. 'x' 
+
+**England**. This Greatest Rivalry in Cricket (Sport?). This goes back nearly 150 years. I find there's more, umm, *feeling*  and *edge* in these matches. It's war out there, including in the media and in the stands.   Huge build up and crowds here.
+
+Don't forget Australia was a British Colony from 1788. And our Head of State is still King Charles III. The English supporters sing, en masse, at the MCG etc "God save *YOUR* Gracious King" -  true!
+
+**India**. The New Huge Rivalry. Just massive Test crowds here, due to our large cricket-mad Indian diaspora in Australia. However, the games *do not* feel like war with 6 stumps. 
+
+Why? My take: We were both English Colonies. And so the (sporting) Enemy of My Enemy is my Friend. Plus, I understand Australia encouraged and supported India way back when (c 1930s and 40s) India was starting out in Test Cricket.  
 
 ## Farming The Strike
 Consider this case. It's a Test (5 days maximum) and against the Olde Enemy, England at the MCG.
@@ -64,23 +81,6 @@ This leads to some unforgettable moments
 - The batting team want to hang on for a **draw**. They can't win; they need 100 runs in 20 minutes. But The Ashes are best of 5 Test matches.  Draws don't count. 
 
 In Test cricket, if the batting team is 9 down and playing for a draw, they aren't trying to score; they are trying to **survive** the remaining overs. They are 'blocking' to save the match. So our mate Goode will try and keep facing.
-. 
-## Who 'controls' Cricket?
-My opinion only. This is who actually really controls International Cricket over the last few 😇decades
-
-* 1870s - 1980s: England  (AFAIK they invented it)
-* 1980s  - c2010: Australia and England (after the cricket 'revolution' called [World Series Cricket](https://en.wikipedia.org/wiki/World_Series_Cricket))
-* c2010  - today: India  (the giant awakes.  Includes the rise of the [Indian Premier League](https://en.wikipedia.org/wiki/Indian_Premier_League) 
-  
-## Modern Australia v 'x' Test Rivals
-
-**England**. This Greatest Rivalry in Cricket (Sport?). This goes back nearly 150 years. I find there's more, umm, *feeling*  and *edge* in these matches. It's war out there, including in the media and in the stands.   Huge build up and crowds here.
-
-Don't forget Australia was a British Colony from 1788. And our Head of State is still King Charles III. The English supporters sing, en masse, at the MCG etc "God save *YOUR* Gracious King" -  true!
-
-**India**. The New Huge Rivalry. Just massive Test crowds here, due to our large cricket-mad Indian diaspora in Australia. However, the games *do not* feel like war with 6 stumps. 
-
-Why? My take: We were both English Colonies. And so the (sporting) Enemy of My Enemy is my Friend. Plus, I understand Australia encouraged and supported India way back when (c 1930s and 40s) India was starting out in Test Cricket.  
 
 
 [^1]: This used to happen a lot more when I was young. Players were not full-time or 'professional'. So some bowlers would have an average Test score of 3 or 4. That's all changed now. 
