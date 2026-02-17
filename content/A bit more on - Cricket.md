@@ -10,7 +10,9 @@ draft: false
 
 There are some fantastic "All about Cricket" videos out there. Much better than I could do. But with a complicated, very old game, and multiple formats...they can't pack everything into 10 minutes.  Here's a potpourri of some "don't forget" things
 
-I live in Melbourne. I can almost see the mighty MCG (image above) from my place.  Whilst my first match was around 1970 (I was 9 or 10) there was no play ⛈️🌦️🌂. My second one - The brilliant Centenary Test (1977) - was the moment the love affair began. 
+### A Quick "Me and Cricket"
+
+I live in Melbourne and am a just-retired IT Technical Writer. I can almost see the mighty MCG (image above) from my place.  Whilst my first match was around 1970 (I was 9 or 10) there was no play ⛈️🌦️🌂. My second one - The brilliant Centenary Test (1977) - was the moment the love affair began. 
 
 Whilst I enjoyed the One Day Internationals (who didn't?) in the 1980s, it's still **Test Matches** that I follow now. So whilst the Tests are my focus here, to the best of my knowledge most/all of this below applies to all forms. 
 
