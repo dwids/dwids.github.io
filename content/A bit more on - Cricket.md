@@ -29,7 +29,7 @@ The bowling team can and do change where the fielders are placed, depending on :
 
 ## Distances
 
-When a fast (pace bowler) is on, the Keeper and near-in fielders (Slips etc) are much further back than the TV usually implies. The cameras are way up high and far away with zoom lenses. We get what's called *foreshortening*; things look closer together than they are
+When a fast (pace bowler) is on, the Keeper and near-in fielders (Slips etc) are much further back than the TV usually implies. The cameras are way up high and far away with zoom lenses. We get what's called *foreshortening*; things look closer together than they are.
 
 ==to add==: video of photo showing this
 
@@ -42,14 +42,14 @@ When one goes out **Number 3** - on the list - comes in. This is also called the
 
 The batting score could be (in Australian format)  `1/30`  ; 1 wicket down for 30 runs scored.  If you think about it `9/421` means "we are down to the last two batters". 
 
-The 11th player is the 'last man standing'—since you need a partner to run, once the 10th wicket falls, the innings is over.
+The 11th player is the 'last man standing'. Since you need a partner to run, once the 10th wicket falls, the innings is over.
  
 ## Who 'controls' Cricket?
 My opinion only. This is who actually really controls International Cricket over the last few 😇decades
 
 * 1870s - 1980s: England  (AFAIK they invented it)
 * 1980s  - c2010: Australia and England (after the cricket 'revolution' called [World Series Cricket](https://en.wikipedia.org/wiki/World_Series_Cricket))
-* c2010  - today: India  (the giant awakes.  Includes the rise of the [Indian Premier League](https://en.wikipedia.org/wiki/Indian_Premier_League) 
+* c2010  - today: India  (the giant awakes.  Includes the rise of the [Indian Premier League](https://en.wikipedia.org/wiki/Indian_Premier_League)) 
   
 ## The Modern Test Rivals -  Australia vs. 'x' 
 
