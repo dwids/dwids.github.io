@@ -8,7 +8,7 @@ draft: false
 
 ![The MCG](https://resources.cricket-australia.pulselive.com/photo-resources/2023/05/04/6275321e-b3ee-4896-aea4-8820f0cda36f/1DW7WgUB.ashx?width=950&height=535)
 
-There are some fantastic "All about Cricket" videos out there. Much better than I could do. But with a complicated, very old game, and multiple formats...they can't pack everything in to 10 minutes.  Here's a potpourri of some "don't forget" things
+There are some fantastic "All about Cricket" videos out there. Much better than I could do. But with a complicated, very old game, and multiple formats...they can't pack everything into 10 minutes.  Here's a potpourri of some "don't forget" things
 
 I live in Melbourne. I can almost see the mighty MCG (image above) from my place.  Whilst my first match was around 1970 (I was 9 or 10) there was no play ⛈️🌦️🌂. My second one - The brilliant Centenary Test (1977) - was the moment the love affair began. 
 
