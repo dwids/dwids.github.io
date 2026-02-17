@@ -72,7 +72,7 @@ My opinion only. This is who actually really controls International Cricket over
 * 1980s  - c2010: Australia and England (after the cricket 'revolution' called [World Series Cricket](https://en.wikipedia.org/wiki/World_Series_Cricket))
 * c2010  - today: India  (the giant awakes.  Includes the rise of the [Indian Premier League](https://en.wikipedia.org/wiki/Indian_Premier_League) 
   
-  ## Modern Australia v 'x' Test Rivals
+## Modern Australia v 'x' Test Rivals
 
 **England**. This Greatest Rivalry in Cricket (Sport?). This goes back nearly 150 years. I find there's more, umm, *feeling*  and *edge* in these matches. It's war out there, including in the media and in the stands.   Huge build up and crowds here.
 
