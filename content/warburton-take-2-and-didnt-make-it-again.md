@@ -24,6 +24,7 @@ Not quite out of trouble yet. Discovered room I was staying in had no fridge, a/
 Found out later that the walk was officially closed due to logging, but someone hadn’t updated the Parks Vic web site.
 
 ### This Time
+
 August 18th 2009. It was the roller-coaster hills being dangerously slippery. After gingerly finishing them, I decided it was too risky to push on  with the exact route  (as it returned via these hills again).  This time, however, I used the map and worked out I could do most of the route and then ‘veer off’ down a road (c/f a track) and head back out the same way as during the Summer. Worked a treat.
 
 Again the accommodation – but a different place – caused me grief. But partially my own fault. The room was BYO bedding.   What a time to discover my 15 year old, K-Mart special sleeping bag doesn’t work when it’s really chilly.   Woke up so cold it hurt.   Now, some places provide a spare blanket just in case, but not this one.  I had looked at a blanket just before leaving home and thought “nah, if I need one, they’ll have one…”
