@@ -15,12 +15,10 @@ Another quick and fun example of everyday deceptively LARGE numbers action. I re
 
 Some in the head, **approximate** numerical pondering followed:
 
-(a) 16 numerical digit card number.  1o16 combinations (a 1 followed by 16 zeros)
+(a) 16 numerical digit card number. $10^{16}$. 1o16 combinations (a 1 followed by 16 zeros)
 
-(b) 7 billion people on Earth. 7x(109).  That 7 is near 10, so I’ll round the whole thing  up to 1010
+(b) 7 billion people on Earth. $7*10^{9}$.  We are estimating here, so to make the maths easy I can round that up to $10^{10}$.
 
-Thusly dividing (a)/(b) we can have 10 (16-10)  each (remember your exponential maths?). Which is 106       That is **1 million cards** each.
-
----
+Thusly dividing (a)/(b) we can have $10^{(16-10)}$ each (remember your exponential maths?).  This is $10^{6}$.       So, about **1 million cards** each.
 
 > [!info] Original Published Date : *2013-01-07*

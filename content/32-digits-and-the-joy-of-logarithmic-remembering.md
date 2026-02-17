@@ -13,19 +13,21 @@ description:
 
 I only recently learned about GUID’s, that is Globally Unique Identifiers, usually [meaning the Microsoft one](http://en.wikipedia.org/wiki/Globally_Unique_Identifier). It’s a ‘number’, but made up of the digits (0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F).&#160; The computer dudes refer to this as Hex or Base16. We humans normally use Decimal or Base 10.
 
-Anyway GUID’s are 32 Hex numbers long.&#160; It wouldn’t take that long to write one out.&#160; In fact, like this:&#160; 21EC2020-3AEA-1069-A2DD-08002B30309D.&#160; Their main purpose is to provide a unique number for things like serial numbers. For example each Ipod has one. I’m not sure if it’s a GUID but it’s similar. You can also see them inside your Windows Registry.
+Anyway GUID’s are 32 Hex numbers long. It wouldn’t take that long to write one out. In fact, like this: **`21EC2020-3AEA-1069-A2DD-08002B30309D`**. Their main purpose is to provide a unique number for things like serial numbers. For example each Ipod has one. I’m not sure if it’s a GUID but it’s similar. You can also see them inside your Windows Registry.
 
 So how many unique ones are there?
 
-The answer is 16 raised to the 32nd power. That is 1632. Or roughly 1038. That is a 1 followed by 38 zeros.
+The answer is 16 raised to the 32nd power. That is $16^{32}$  . Or roughly $10^{38}$.  That is a 1 followed by 38 zeros.
 
-Now, on this pale blue dot of ours – planet Earth &#8211; there are about 6 billion people.&#160; Something like 109
+Now, on this pale blue dot of ours – planet Earth - there are about 6 billion people. Something like  $10^{9}$.
 
-So how many GUID’s per person?&#160; If you remember your maths it’s quite easy: 1038 divided by 109.&#160; That is: 10(38 &#8211; 9) or 1029. So we can each have a 1 followed by 29 zeros worth of GUIDs . Well beyond a billion billon billon each. Probably enough.
+So how many GUID’s per person? 
 
-But that’s not enough maths for today. Oh no. We still have our own **galaxy** to think about.&#160; The milky way has about [100 billion stars](http://en.wikipedia.org/wiki/Milky_Way).&#160; That is 1011 stars. If each of those stars supported a population like ours, there would be 10(11 + 9) or 1020 beings. 
+If you remember your maths it’s quite easy: $10^{38}$ divided by $10^{9}$. That is:  $10^{(38-9)}$  or **$10^{29}$**. So we can each have a 1 followed by 29 zeros worth of GUIDs . Well beyond a billion billon billon each. Probably enough.
 
-So with our humble 32 hex GUIDs, we could give each being 10(38 &#8211; 20) or 1018 GUIDs each. Hey, isn&#8217;t that a billion billion each? Nice.
+But that’s not enough maths for today. Oh no. We still have our own **galaxy** to think about. The milky way has about [100 billion stars](http://en.wikipedia.org/wiki/Milky_Way). That is $10^{11}$  stars. If each of those stars supported a population like ours, there would be $10^{(11 + 9)}$  or **$10^{20}$**. 
+
+So with our humble 32 hex GUIDs, we could give each being $10^{(38 -20)}$  or  $10^{18}$  GUIDs each. Hey, isn't that a *billion billion* each? Nice.
 
 ---
 

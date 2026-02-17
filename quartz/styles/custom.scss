@@ -10,3 +10,18 @@
   color: #166534 !important;
   font-weight: 600;
 } 
+
+// added Feb 18th (Claude suggestion. Quartz was no showing "---" nor <hr>)
+hr {
+  border: none;
+  border-top: 1px solid var(--gray);
+  margin: 1.5em 0;
+}
+
+code {
+  background-color: #e5e5e5;
+  color: #18181b;
+  padding: 0.1em 0.3em;
+  border-radius: 3px;
+  font-size: 0.9em;
+}

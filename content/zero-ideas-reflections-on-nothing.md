@@ -25,15 +25,15 @@ So, this number zero has some interesting properties. Particularly in the way it
 
 #### It can do **nothing**
 
-Add zero to a number and there&#8217;s no change. Subtract zero and there&#8217;s no change. Do either &#8211; or both &#8211; 36 or 38 more times: no change.  x ± 0 = x
+Add zero to a number and there's no change. Subtract zero and there&#8217;s no change. Do either &#8211; or both &#8211; 36 or 38 more times: no change. $$x \pm 0 = x$$  
 
 #### Yet it can destroy
 
-Take any number, multiple it by zero and bye-bye number. You&#8217;ve basically destroyed it. 36 * 0 = 0.
+Take any number, multiple it by zero and bye-bye number. You&#8217;ve basically destroyed it. $$36 * 0 = 0$$.
 
 #### Worse is to come
 
-Dividing by zero is basically NOT ALLOWED in maths.  More [formally](https://en.wikipedia.org/wiki/Division_by_zero): &#8220;division by zero is undefined&#8221;.  From the same source, have a look at what happens when we calculate 1/5, 1/4, 1/3 etc and graph it for a whole lot of values.  As we *approach* 1/0 the value goes shooting off to *approach* infinity.  Note: we can never **get** to 1/0.
+Dividing by zero ($$\frac{x}{0}$$) is basically NOT ALLOWED in maths.  More [formally](https://en.wikipedia.org/wiki/Division_by_zero): &#8220;division by zero is undefined&#8221;.  From the same source, have a look at what happens when we calculate 1/5, 1/4, 1/3 etc and graph it for a whole lot of values.  As we *approach* 1/0 the value goes shooting off to *approach* infinity.  Note: we can never **get** to 1/0.
 
 Coming the other way  -1/5, -1/4, -1/3  (as the legend below says) it approaches *negative* infinity.
 ![ss.20200518.174424](ss.20200518.174424.jpg)
@@ -43,11 +43,22 @@ Coming the other way  -1/5, -1/4, -1/3  (as the legend below says) it approach
 ## Coping Mechanisms
 
 All modern calculating tools should pick up this &#8216;dividing by zero&#8217; attempt:
-![Screenshot_20200518-175023](screenshot_20200518-175023.png)My phone&#8217;s calculator app
-![ss.20200518.175105](ss.20200518.175105.jpg)Excel
-![ss.20200518.175241](ss.20200518.175241.jpg)The Python programming language
+![Screenshot_20200518-175023](screenshot_20200518-175023.png)
 
- 
+<small>My phone's calculator app</small>
+
+---
+
+![ss.20200518.175105](ss.20200518.175105.jpg)
+
+<small>Excel</small>
+
+---
+![ss.20200518.175241](ss.20200518.175241.jpg)
+
+<small>The Python programming language</small>
+
+--- 
 
 ## The History of Zero
 

@@ -20,19 +20,23 @@ In researching the exact location of the **Williamstown** Observatory (see [this
 Using the excellent Trove website, it was fairly easy to find **historical** values for the position of the Melbourne one. For example, *The Argus* newspaper,  Monday 28 Aug 1871 on  Page 4 has an article headed  MELBOURNE OBSERVATORY [2].
 
 It gives the 1871 values as:
+
 ![](image.png)
-Lat. 37deg. 49min. 53sec. S. ; long. 9h. 39min. 54.8sec.
+
+`Lat. 37deg. 49min. 53sec. S. ; long. 9h. 39min. 54.8sec.`
 
 Directly converting these to decimal values gives:
 
--37.89805556, 144.9783333 E   (- means South)
+`-37.89805556, 144.9783333 E   (- means South)`
 
 The above is a simple conversion, not a transformation (viz not taking into account differing projections, datums etc). Google Earth says the ‘modern’ values of the actual Observatory’s location are:
 
--37.829660°  144.975582°  E
+`-37.829660°  144.975582°  E`
 
 Putting both historical and modern values into Google Earth shows:
+
 ![](image-3.png)
+
 As the drawn line shows the **Longitude** is quite close (the ‘sea/historical’ one being almost directly south of the ‘land/modern’ one)  but the **Latitude** is out by 7.6 km. 
 
 So the next mission to try and work out what’s going on. My first suggestion would be I’d need to apply a transformation of some sort, to take into account the different datums, projections etc.
@@ -42,7 +46,9 @@ It follows that I’ve looped back to the same mission as what started all of th
 ### An 1872 letter on &#8216;The Longitude of Melbourne&#8217;
 
 I also stumbled on a fascinating ‘defence’ of the accuracy of the 1870s longitude of the Melbourne Observatory. It took the form of a letter to the editor of The Age newspaper entitled  “THE LONGITUDE OF MELB0URNE” on 29 August 1872 [3]. From the pen of the famous Robert Ellery, a key early player in both Observatories.
+
 ![](image-2.png)
+
 #### **References**
 
 [1] Gillespie, R. (2008) Williamstown Observatory, 1853-1863 in Museums Victoria Collections https://collections.museumsvictoria.com.au/articles/1629

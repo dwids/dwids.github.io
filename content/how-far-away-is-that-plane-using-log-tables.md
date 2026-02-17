@@ -11,15 +11,26 @@ cover:
 description: 
 ---
 
-Today I took this phone snapshot of a great plane trail. It was *about* 3pm, looking *about* West.  You can click on any image to enlarge it.
-[![](515dd-img_20171209_150219.jpg)](https://dwids.wordpress.com2020/03/515dd-img_20171209_150219.jpg)
-A quick check [1] showed it was **about** 12km up. I&#8217;d guess it was **about** 30 degrees above the horizon. I wondered how far away it was ; meaning what point on the Earth was it directly over when I took this?  So, time for some olde world maths. First &#8211; of course &#8211; draw it:
+Today I took this phone snapshot of a great plane trail. It was *about* 3pm, looking *about* West.  
+
+![[515dd-img_20171209_150219.jpg]]
+
+A quick check [1] showed it was **about** 12km up. I&#8217;d guess it was **about** 30 degrees above the horizon. I wondered how far away it was ; meaning what point on the Earth was it directly over when I took this?  So, time for some olde world maths. First - of course - draw it:
+
 ![](9d9d6-ss.20171209.162302.jpg)
-I need to find x, the distance in km. Time to go really old school and use logarithms [2]  aka *logs.*
 
-x =  12/tan(30 degrees). I&#8217;m **dividing** so I need to ***subtract***the logs:   log(x) = log(12) &#8211; log(tan 30 degrees)
+I need to find **x**, the distance in km. Time to go really old school and use logarithms [2]  aka *logs.*
 
-Off to the PDF of the Formulas and Tables book I found online &#8211; from 1968 🙂
+
+$$
+x = \frac{12}{\tan(30°)}
+$$
+I'm *dividing** so I need to ***subtract***the logs:   
+$$
+\log(x) = \log(12) - \log(\tan(30°))
+$$
+
+Off to the PDF of the Formulas and Tables book I found online from 1968 🙂
 
     log(x) = log(12) - log(tan 30 degrees)
     log(x) = 1.0792 - (9.7614 - 10.0000)     
@@ -28,7 +39,8 @@ Off to the PDF of the Formulas and Tables book I found online &#8211; from 1968 
     log(x) = 1.0792 +   0.2386)
     log(x) = 1.3178
     Antilog(.3178) = 2075 + 4 = 2079
-    Now, the first 1 in my 1.3178 means I have (1+1) = **2 digits** before the decimal in my final answer.
+    
+Now, the first 1 in my 1.3178 means I have (1+1) = **2 digits** before the decimal in my final answer.
 
 So it is therefore: **20.79 km**
 
@@ -37,8 +49,11 @@ Crosscheck with the very modern Flightaware website [3] which said that at 15:02
 Sat 15:02:23    -37.8623    144.6534
 
 So off to Google Earth, draw that point and a point for me in Williamstown. Finally, get Google Earth to measure the ground distance:
+
 ![](6a981-ss.20171209.160411.jpg)
+
 With the result being **21.39** km.  Not bad. Not bad at all.
+
 
 #### References:
 
@@ -48,6 +63,5 @@ With the result being **21.39** km.  Not bad. Not bad at all.
 
 [3] http://flightaware.com/live/flight/QFA64/history/20171208/1650Z/FAOR/YSSY/tracklog
 
----
 
 > [!info] Original Published Date : *2017-12-09*
