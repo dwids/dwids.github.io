@@ -29,16 +29,16 @@ The bowling team can and do change where the fielders are placed, depending on :
 
 ## Distances
 
-When a fast (pace bowler) is on, the Keeper and near-in fielders (Slips etc) are much further back than the TV usually implies. The cameras are way up high and far away with zoom lenses. We get what's called *foreshortening*; things look closer together than they are.
+When a fast (pace) bowler is on, the Keeper and near-in fielders (Slips etc) are much further back than the TV usually implies. The cameras are way up high and far away with zoom lenses. We get what's called *foreshortening*; things look closer together than they are.
 
 ==to add==: video of photo showing this
 
 
 ## First Drop, Coming in at Number 3
 
-There are 11 players per side.  At the start of an Innings, **two** walk out first (these are the *Openers*). So, on the Team List 1) and 2) are on the field and batting.
+There are 11 players per side.  At the start of an Innings, **two** walk out first (these are the *Openers*). So, on the Team List (1) and (2) are on the field and batting.
 
-When one goes out **Number 3** - on the list - comes in. This is also called the **First Drop**.
+When one goes out, **Number (3)** - on the list - comes in. This is also called the **First Drop**.
 
 The batting score could be (in Australian format)  `1/30`  ; 1 wicket down for 30 runs scored.  If you think about it `9/421` means "we are down to the last two batters". 
 
@@ -53,7 +53,7 @@ My opinion only. This is who actually really controls International Cricket over
   
 ## The Modern Test Rivals -  Australia vs. 'x' 
 
-**England**. This Greatest Rivalry in Cricket (Sport?). This goes back nearly 150 years. I find there's more, umm, *feeling*  and *edge* in these matches. It's war out there, including in the media and in the stands.   Huge build up and crowds here.
+**England**. This Greatest/Longest Rivalry in Cricket (Sport?). This goes back nearly 150 years. I find there's more, umm, *feeling*  and *edge* in these matches. It's war out there, including in the media and in the stands.   Huge build up and crowds here.
 
 Don't forget Australia was a British Colony from 1788. And our Head of State is still King Charles III. The English supporters sing, en masse, at the MCG etc "God save *YOUR* Gracious King" -  true!
 
