@@ -4,7 +4,8 @@ lastmod: 2023-06-30T17:41:30.000Z
 title: My eBooks and PDFs
 draft: false
 slug: my-ebooks-and-pdfs
-tags: ["general"]
+tags:
+   - books/ebooks
 cover:
     image: /images/wordpress/2023/06/527759431.jpg
     alt: My eBooks and PDFs

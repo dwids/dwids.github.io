@@ -16,8 +16,8 @@ About 30 minutes south of Ballan, in the middle of the dry Brisbane Ranges, you�
 It was constructed in 1873 and is happily sitting there today. The surprisingly large wall just appears out of nowhere as you walk up a steep-walled creek valley from your car.  I’m not sure if it still supplies water (mmm, see Reference [2] at the end).
 
 Here’s the walk map and location of the Reservoir area (inset):
-[![](c8da8-lower-stony-creek-reservoir-walk-map-ds-3.jpg)](https://dwids.wordpress.com2020/03/c8da8-lower-stony-creek-reservoir-walk-map-ds-3.jpg)
-**Click on any picture to embiggen it ![Smile](8b458-wlemoticon-smile.png)**
+
+![[images/wordpress/c8da8-lower-stony-creek-reservoir-walk-map-ds-3.jpg]]
 
 Points on map are:
 
@@ -55,15 +55,19 @@ When you are at the Base, have a look inside the ‘cathedral’ like structure 
 - When finally done, return back to the car **(1). T**hen head back to Ballan or home etc.
 
 This picture is taken from the top but you can see the ‘cathedral’ like water-exit structure at the Base of the wall:
-[![DavidS_20200118_123031](1fc84-davids_20200118_123031_thumb.jpg)](https://dwids.wordpress.com2020/03/7c921-davids_20200118_123031.jpg)
+
+![[7c921-davids_20200118_123031.jpg]]
+
 **Bonus**: I took some phone video on the day of my most recent visit (Jan 18th, 2020) and quickly edited two clips together. If you are alert enough, you can tell I shot them in reverse order; I do the ‘intro’ in the 2nd half.  Plus, also,  I got the dates wrong …
 
 I first wandered into this area in 2015, doing the excellent *Ted Errey Nature Circuit* walk. From memory it was about 13km. As I said, the Brisbane Ranges are very dry and parts of this Circuit walk look very red, almost like the Pilbara (!) :
-[![](cab07-davids_20151216_132715.jpg)](https://dwids.wordpress.com2020/03/cab07-davids_20151216_132715.jpg)
+
+![[images/wordpress/cab07-davids_20151216_132715.jpg]]
 
 #### References
 
 [1][Vic Heritage Database Report](https://vhd.heritagecouncil.vic.gov.au/places/162321/download-report) on the dam wall
+
 [2][The International Database and Gallery of Structures](https://structurae.net/en/structures/lower-stony-creek-dam) report on the dam wall. Note: this says &#8220;Status: in use&#8221; (!) That could mean the wall is still intact and holding back water&#8230;and/or there is water being drawn from it
 
 ---

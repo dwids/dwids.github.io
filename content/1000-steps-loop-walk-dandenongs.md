@@ -26,9 +26,8 @@ And here’s just a few of the Steps themselves:
 
 [![](DS_20101028_1220.jpg)](http://picasaweb.google.com/sidwell.david/1000StepsLoop)
 
-[A few more photos are available](http://picasaweb.google.com.au/sidwell.david/1000StepsLoop#), best to view as a slideshow.&#160; 
-
-This is a really good walk particularly on a sunny day. Full details are Walk 22 (Ferntree Gully Forest) in the [Day Walks Victoria](__GHOST_URL__/2008/01/12/daywalks-around-melbourne-book/) book. Some tracks have been renamed or merged since this edition was published; but nothing too complicated. 
+This is a really good walk particularly on a sunny day. Full details are Walk 22 (Ferntree Gully Forest) in the  [[daywalks-around-melbourne-book|Day Walks around Melbourne ]]
+ book. Some tracks have been renamed or merged since this edition was published; but nothing too complicated. 
 
 All tracks are in the Melways, starting on Map 74 H4.
 

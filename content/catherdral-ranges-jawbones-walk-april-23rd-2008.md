@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+Done on April 23rd 2008
+
 Now this was a spectacular and challenging walk. I&#8217;d rate it as medium/difficult &#8211; for the steepness and terrain &#8211; but well worth it. The only hiccup for me was the smoke. A controlled burn-off and still conditions conspired to have the smoke linger for days, so the views were smoke-limited.
 
 Parks Victoria has a [web page](http://www.parkweb.vic.gov.au/1park_display.cfm) ,but my main reference was the excellent book [Daywalks Around Melbourne](__GHOST_URL__/?p=146),  Walk 70, The Farmyard.  Please use that for details. The essence is: start at the ground and walk up the ziz-zagging and steep track that runs along one side of the ranges, to the very top. You are pretty much under cover and it&#8217;s one of those cool &#8216;work-reward&#8217; walks; you do all the work (climbing) and it&#8217;s only when that&#8217;s all done you get the spectacular views. In this case it&#8217;s the views from the rock formations known as the Jawbones; actually two sets &#8211; North and South. 

@@ -15,7 +15,7 @@ This is a great walk. It&#8217;s part of a much longer one, but I think this is 
 
 It&#8217;s all on the standard Melways, map 66.&#160; Go and get it now. Seriously!
 
-**Start. **Park the car near the Kyeema Memorial. This little road at 66-E1 isn&#8217;t named, but some versions show it with the text "substation". 
+**Start** Park the car near the Kyeema Memorial. This little road at 66-E1 isn&#8217;t named, but some versions show it with the text "substation". 
 
 Head Left on Kyeema Track (south-west).
 

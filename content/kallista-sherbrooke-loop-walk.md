@@ -15,9 +15,7 @@ Quicknotes and Map of our holiday Monday walk (June 9th 2014). It’s the sponta
 
 Here’s a map, using OziExplorer with the Open Street Maps (aka “Internet Maps”).   Red outbound, left then clockwise. Blue back to the car, with the dotted line an alternate route back. Click for full size
 
-[![Screenshot - 11_06_2014 , 6_29_59 PM](d99a0-screenshot-11_06_2014-6_29_59-pm_thumb.png)](https://dwids.wordpress.com2020/03/90806-screenshot-11_06_2014-6_29_59-pm.png)
-
- 
+![[d99a0-screenshot-11_06_2014-6_29_59-pm_thumb-768x590.png]]
 
 1) Start/Finish. The tiny village of **Kallista**  (coffee!, cake!).  Walk down the hill on the track, past the school to…
 
@@ -49,17 +47,15 @@ Alternate return (blue dash). If you want to re-do the ‘up-down’ (muddy?!) t
 
 ## Photos
 
-**Click to enlarge.**
 
 [![DavidS_20140609_112733](66434-davids_20140609_112733_thumb1.jpg)](https://dwids.wordpress.com2020/03/71180-davids_20140609_1127331.jpg)
 
 Only a few minutes from the start/car.  Clematis Track
 
- 
-
- 
+-----
 
 [![DavidS_20140609_131916](6af6b-davids_20140609_131916_thumb1.jpg)](https://dwids.wordpress.com2020/03/1941e-davids_20140609_1319161.jpg)
+
 
 The ornamental lake, down the hill,  at Alfred Nicholas Memorial Gardens
 

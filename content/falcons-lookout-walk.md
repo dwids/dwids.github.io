@@ -15,15 +15,14 @@ Great walk, starting only about an hour from my place! Spectacular views over th
 
 ![](20100603_123041.jpg)
 
-**More Pictures:** At my [PicasaWeb album of this walk](http://picasaweb.google.com.au/sidwell.david/FalconsLookoutJune2010).
 
-**Listed in**: The Parks Victoria free PDF [Werribee Gorge State Park &#8211; Visitor Guide ](http://www.parkweb.vic.gov.au/resources05/05_0483.pdf)plus a number of bushwalking books, including Walk 24 in* Daywalks Around Melbourne* as [covered here](__GHOST_URL__/2008/01/12/daywalks-around-melbourne-book/).
+**Listed in**: The Parks Victoria [free PDF](https://www.parks.vic.gov.au/-/media/project/pv/main/parks/documents/visitor-guides-and-publications/werribee-gorge-state-park/werribee-gorge-state-park-visitor-guide.pdf?rev=50b289c6ab894af3bbff25f0e0227114)  plus a number of bushwalking books, including Walk 24 in* Daywalks Around Melbourne* as covered  [[daywalks-around-melbourne-book|here]]
 
 **Location**: About 15 minutes from Bacchus Marsh (see map below).
 
 **Advice**:&#160; Books say to wear hiking boots (not runners) and take a walking pole. I agree as the walk, whilst under an hour each way, has parts that are a bit steep and with loose stones. I think it would be slippery after rain too.
 
-**Map**:&#160; created from my GPS logs and converted to Google Maps format. Note the link to view it in a larger map at the end. From that larger map, you can then view the route in glorious 3D in Google Earth; highly recommended. [googlemaps https://maps.google.com.au/maps/ms?hl=en&ie=UTF8&msa=0&msid=113937947825616366172.00048853b5111843da89e&ll=-37.661605,144.338593&spn=0.016307,0.027466&z=15&output=embed&w=640&h=480]
+**Map**:&#160; created from my GPS logs and converted to Google Maps format. Note the link to view it in a larger map at the end. From that larger map, you can then view the route in glorious 3D in Google Earth; highly recommended. [Click here](https://maps.google.com.au/maps/ms?hl=en&ie=UTF8&msa=0&msid=113937947825616366172.00048853b5111843da89e&ll=-37.661605,144.338593&spn=0.016307,0.027466&z=15&output=embed&w=640&h=480)
 
 ---
 

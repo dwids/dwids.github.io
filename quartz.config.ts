@@ -11,7 +11,7 @@ const config: QuartzConfig = {
     pageTitle: "SiC Blog 4",
     pageTitleSuffix: "",
     enableSPA: true,
-    enablePopovers: true,
+    enablePopovers: false,
     analytics: {
       provider: "plausible",
     },

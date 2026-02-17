@@ -41,6 +41,7 @@ How lucky is this: Angela said there was a major hospital at Horsham, only about
 No pain, slept okay. Didn’t touch pain-killers.  However doctor had said no more walks for at least a week, so decided to abandon the trip and come home today; barely 24 hours after leaving.
 
 Stitches out in a week.   And I still haven’t got to Briggs Bluff.
+
 **Update**:  a very warm Saturday 7th November.  I finally got to have a shower today.  And see my first ever stitches (sutures, they called them)  Please send congratulatory cards and telegrams  to me c/- &#8230;.
 
 ---

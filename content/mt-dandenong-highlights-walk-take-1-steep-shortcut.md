@@ -11,7 +11,7 @@ cover:
 description: 
 ---
 
-Used some maps and planned a new, shorter version of the earlier [Mt Dandenong walk](__GHOST_URL__/2009/07/24/mt-dandenong-doongala/).  Basically the best bits and hence the name.  Today was the day to walk it to see how it goes.
+Used some maps and planned a new, shorter version of the [[mt-dandenong-doongala|earlier walk]]   Basically the best bits and hence the name.  Today was the day to walk it to see how it goes.
 
 Had a great time.  However, it became pretty clear that my ‘shortcut’ back to the car (Glasgow Track &#8211; see below) was so steep that it really wouldn’t have been enjoyable had others been with me.   Here’s a Google Earth image, showing the walk. Note the height exaggerated by 2 for impact:
 ![](3978735097_3aec1a4167_o_d.jpg)
@@ -33,9 +33,6 @@ To give you some idea, these are direct from the GPS and **not** exaggerated by 
 If you look you can see that Glasgow Tk continues down the mountain; seems to merge with Glasgow Road. And yes, I missed it whilst on the aqua line bit. It has no signs and is only about 1 metre wide or less.  I had a map and was able to loop back and pick it up at point C.
 
 Mmm. Need to think more about how to get back from Doongalla to the car. Maybe just double back.
-
-Anyway here’s the [Google Earth file](http://dl.getdropbox.com/u/1569889/Mt%20Dandenong%20Highlights%20logged.kmz) to explore in 3D.
-
 <Oct 4th 2009>
 
 ---

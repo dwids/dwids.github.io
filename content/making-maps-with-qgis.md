@@ -4,7 +4,9 @@ lastmod: 2023-02-01T15:57:18.000Z
 title: Making maps with QGIS
 draft: false
 slug: making-maps-with-qgis
-tags: ["general"]
+tags:
+  - general
+  - navigation/maps
 cover:
     image: https://media.istockphoto.com/id/474951754/photo/melbourne.webp?a=1&b=1&s=612x612&w=0&k=20&c=DC6xnkY6FCyaHEtHV41E1r4Sxsb3QQF5cmvs9Gdg10k=
     alt: Making maps with QGIS
