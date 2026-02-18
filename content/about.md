@@ -8,6 +8,9 @@ slug: about
 
 description: 
 ---
+## The Old Welcome :-)
+
+> 18 Feb 2026  : I will re-write this soon
 
 Sic Take 3 is an independent publication launched in May 2025 by David Sidwell. If you subscribe today, you'll get full access to the website as well as email newsletters about new content when it's available. Your subscription makes this site possible, and allows Sic Take 3 to continue to exist. Thank you!
 
