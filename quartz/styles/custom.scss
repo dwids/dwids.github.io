@@ -2,26 +2,50 @@
 
 // put your custom CSS here!
 
-.tags li {
-  background-color: #f0fdf4; /* Very light green background */
-// border: 1px solid #166534; /* Dark green border */
-// border-radius: 9999px;     /* Makes them pills */
-//  padding: 0.1rem 0.5rem;
-  color: #166534 !important;
+// 2026-02-18 - Claude suggestion: Minimal monospace tag styling (light-only blog)
+// Target the link inside the tag to override color, tighter padding, smaller font
+.tags li a {
+  color: #71717a !important;
+  font-size: 0.7em;
   font-weight: 600;
-} 
+  font-family: var(--codeFont);
+}
 
-// added Feb 18th (Claude suggestion. Quartz was no showing "---" nor <hr>)
+.tags li {
+  border: 1px solid #d4d4d8;
+  border-radius: 12px;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+// 2026-02-18 - Claude suggestion: Quartz was not showing "---" nor <hr>
 hr {
   border: none;
   border-top: 1px solid var(--gray);
   margin: 1.5em 0;
 }
 
+// 2026-02-18 - Claude suggestion: Fixed inline code visibility in both light and dark themes
+// Issue: Light gray background wasn't visible on white, dark background made text unreadable in dark mode
+// Solution: 
 code {
   background-color: #e5e5e5;
   color: #18181b;
   padding: 0.1em 0.3em;
   border-radius: 3px;
   font-size: 0.9em;
+}
+
+
+.page-title {
+  font-size: 3em !important;
+  font-weight: 700 !important;
+  letter-spacing: -0.02em;
+  background-color: #e0e0e0 !important;
+}
+
+
+// 2026-02-18 - Claude suggestion: Style article titles to stand out from H1 headings
+.article-title {
+  background-color: #e0e0e0 !important;
+  font-style: italic;
 }

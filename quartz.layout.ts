@@ -35,7 +35,7 @@ export const defaultContentPageLayout: PageLayout = {
           Component: Component.Search(),
           grow: true,
         },
-        { Component: Component.Darkmode() },
+ // Component.Darkmode(), // 2026-02-18 - Disabled dark mode toggle (light-only blog)
         { Component: Component.ReaderMode() },
       ],
     }),
@@ -62,7 +62,7 @@ export const defaultListPageLayout: PageLayout = {
           Component: Component.Search(),
           grow: true,
         },
-        { Component: Component.Darkmode() },
+//        { Component: Component.Darkmode() },  // 2026-02-18 - Disabled dark mode toggle (light-only blog)
       ],
     }),
 //    Component.Explorer(),

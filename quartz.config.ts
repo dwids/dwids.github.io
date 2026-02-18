@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "SiC Blog 4",
+    pageTitle: "David's SiC Blog 🖥️↔️👤",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: false,
@@ -34,7 +34,7 @@ const config: QuartzConfig = {
   gray: "#71717a",        // Metadata/dates
   darkgray: "#27272a",    // Main body text
   dark: "#18181b",        // Headers
-  secondary: "#166534",   // Dark green (for the "Projects/Privacy" titles)
+  secondary: "#374151",   // Dark grey (for the "Projects/Privacy" titles)
   tertiary: "#22c55e",    // Bright green (for the tags/hover)
   highlight: "rgba(22, 101, 52, 0.05)",
   textHighlight: "#fff23688",
