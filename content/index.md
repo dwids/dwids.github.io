@@ -8,6 +8,10 @@ title: Welcome to SiC Blog
 
 Welcome to SiC Blog! I write about technology, music, bushwalking, navigation, and the intersection of digital life and the real world.Plus a lot more, including some creative writing and old (paid) freelance work for the Age.  This site is a collection of posts spanning two decades, from my early internet days (dial up) to current musings.
 
+> [!warning] Could be some hiccups - 18 Feb 2026 
+> Due to moving this blog's contents all over the place - over decades - some links and images (say, from 2008 😇) may have vanished. Also some 'links to pages *within* the blog' may not work.  With  about 424 posts to check, I'm slowly getting there.
+
+
 ## Some Fave Pieces
 
 ### Creative Writing
@@ -35,9 +39,9 @@ And here's the full list of Topics (Tags).  Including lots of `general` ones whi
 
 - [Full tags and topic list](/tags/)
 
-To see the (many) untagged posts here you go
+To see the (many) untagged posts here you go. I'm slowly Tagging these posts - by hand and one_at_a_time - resisting getting AI to do it for me. 
 
-- [General (un-tagged)](/tags/general)
+- [General ("un-tagged")](/tags/general)
 
 
 
