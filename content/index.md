@@ -15,6 +15,7 @@ Welcome to SiC Blog! I write about technology, music, bushwalking, navigation, a
 > - This blog is fast because it is a **static** website. Every page is pre-generated, just like when the Web first started.  
 > - These pages are actually created/edited as **plain text** [[https://quarto.org/docs/authoring/markdown-basics.html|markdown]] then tested in [[https://en.wikipedia.org/wiki/Obsidian_(software)|Obsidian]] on my PC. Tags (aka Metadata) are added to it via simple [[https://en.wikipedia.org/wiki/YAML|YAML]]. 
 > - A single button pushes the changes to Github, where an automatic Action invokes [[https://quartz.jzhao.xyz|Quartz]] to convert the markdown to static **html** files...and pushes them to Github Pages. You're welcome...
+>   Changing a single `.` to a `,` will cause the whole site to be regenerated. But it takes under 20 seconds.
 
 
 ## Some Fave Pieces
