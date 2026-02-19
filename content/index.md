@@ -6,10 +6,15 @@ title: Welcome to SiC Blog
 
 ### Where Computers Meet People
 
-Welcome to SiC Blog! I write about technology, music, bushwalking, navigation, and the intersection of digital life and the real world.Plus a lot more, including some creative writing and old (paid) freelance work for the Age.  This site is a collection of posts spanning two decades, from my early internet days (dial up) to current musings.
+Welcome to SiC Blog! I write about technology, music, bushwalking, navigation, and the intersection of digital life and the real world.Plus a lot more, including some creative writing and old (paid!) freelance work for the Age.  This site is a collection of posts spanning two decades, from my early internet days (dial up) to current musings.
 
 > [!warning] Could be some hiccups - 18 Feb 2026 
 > Due to moving this blog's contents all over the place - over decades - some links and images (say, from 2008 😇) may have vanished. Also some 'links to pages *within* the blog' may not work.  With  about 424 posts to check, I'm slowly getting there.
+
+>[!tip]Quick Tech Talk about this Blog (feel free to skip)
+> - This blog is fast because it is a **static** website. Every page is pre-generated, just like when the Web first started.  
+> - These pages are actually are created/edited as **plain text** [[https://quarto.org/docs/authoring/markdown-basics.html|markdown]] then tested in [[https://en.wikipedia.org/wiki/Obsidian_(software)|Obsidian]] on my PC. Tags (aka Metadata) are added to it via simple [[https://en.wikipedia.org/wiki/YAML|YAML]]. 
+> - A single button pushes the changes to Github, where an automatic Action invokes [[https://quartz.jzhao.xyz|Quartz]] to convert the markdown to static **html** files...and pushes them to Github Pages. You're welcome...
 
 
 ## Some Fave Pieces
