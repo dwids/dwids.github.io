@@ -27,7 +27,7 @@ If you remember your maths it’s quite easy: $10^{38}$ divided by $10^{9}$. Tha
 
 But that’s not enough maths for today. Oh no. We still have our own **galaxy** to think about. The milky way has about [100 billion stars](http://en.wikipedia.org/wiki/Milky_Way). That is $10^{11}$  stars. If each of those stars supported a population like ours, there would be $10^{(11 + 9)}$  or **$10^{20}$**. 
 
-So with our humble 32 hex GUIDs, we could give each being $10^{(38 -20)}$  or  $10^{18}$  GUIDs each. Hey, isn't that a *billion billion* each? Nice.
+So with our humble 32 hex GUIDs, we could give each being $10^{(38 -20)}$  or  $10^{18}$  GUIDs each. Hey, isn't that a *billion billion* each? Nice...
 
 ---
 

@@ -25,17 +25,26 @@ So, this number zero has some interesting properties. Particularly in the way it
 
 #### It can do **nothing**
 
-Add zero to a number and there's no change. Subtract zero and there&#8217;s no change. Do either &#8211; or both &#8211; 36 or 38 more times: no change. $$x \pm 0 = x$$  
+*Add* zero to a number and there's no change. *Subtract* zero and there's no change. Do either (or both) 32 more times: no change. $x \pm 0 = x$  
 
 #### Yet it can destroy
 
-Take any number, multiple it by zero and bye-bye number. You&#8217;ve basically destroyed it. $$36 * 0 = 0$$.
+Take any number, *multiple* it by zero and bye-bye number. You've basically destroyed it. $36 \times 0 = 0$. 
+
+Or the $$0$$ has *absorbed* the original number!
 
 #### Worse is to come
 
-Dividing by zero ($$\frac{x}{0}$$) is basically NOT ALLOWED in maths.  More [formally](https://en.wikipedia.org/wiki/Division_by_zero): &#8220;division by zero is undefined&#8221;.  From the same source, have a look at what happens when we calculate 1/5, 1/4, 1/3 etc and graph it for a whole lot of values.  As we *approach* 1/0 the value goes shooting off to *approach* infinity.  Note: we can never **get** to 1/0.
+*Dividing* by zero ($$\frac{x}{0}$$) is basically NOT ALLOWED in maths.  More [formally](https://en.wikipedia.org/wiki/Division_by_zero): 
 
-Coming the other way  -1/5, -1/4, -1/3  (as the legend below says) it approaches *negative* infinity.
+>"division by zero is **undefined**".  
+
+From the same source, have a look at what happens when we calculate and graph ($y=\frac{1}{x}$). Reminder:  ${x}$ is the horizontal axis.
+
+As we count $x$ backwards, we *approach* $x=0$ (viz. $$\frac{x}{0}$$),   the  ${y}$ value goes shooting off to *approach* infinity aka $\infty$.  Note: we can **never** **get** to $$\frac{x}{0}$$
+
+Coming the other way  `-1/5, -1/4, -1/3`  (as the image legend below says) it approaches *negative* infinity. That is ($-\infty$). Now there's a concept.
+
 ![ss.20200518.174424](ss.20200518.174424.jpg)
 
  
@@ -66,7 +75,7 @@ One [source](https://www.scientificamerican.com/article/what-is-the-origin-of-ze
 
 It&#8217;s quite an abstract piece of thinking, this zero thing:  a number that sort of represents the absence of a number. Plus all the associated maths that goes along with it.
 
-I wonder what came first, negative numbers (&#8220;I owe you 2 goats&#8221;) or zero (&#8220;I have no goats to give you&#8221;)?   I wonder if space-time going *infinite* inside a black hole (the singularity) has anything to do with division by zer[o](https://youtu.be/ctcdTvOPdFU)? Time for more reading and learning.
+I wonder what came first, negative numbers (&#8220;I owe you 2 goats&#8221;) or zero (&#8220;I have no goats to give you&#8221;)?   I wonder if space-time going *infinite* inside a black hole (the *singularity*) has anything to do with division by zer[o](https://youtu.be/ctcdTvOPdFU)? Actually I think it does.
 
  
 

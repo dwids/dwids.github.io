@@ -15,7 +15,7 @@ Another quick and fun example of everyday deceptively LARGE numbers action. I re
 
 Some in the head, **approximate** numerical pondering followed:
 
-(a) 16 numerical digit card number. $10^{16}$. 1o16 combinations (a 1 followed by 16 zeros)
+(a) 16 numerical digit card number. $10^{16}$ combinations (a 1 followed by 16 zeros)
 
 (b) 7 billion people on Earth. $7*10^{9}$.  We are estimating here, so to make the maths easy I can round that up to $10^{10}$.
 
