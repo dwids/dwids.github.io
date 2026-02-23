@@ -50,11 +50,11 @@ Old Mate *Claude AI* tells me:
 
 There are 11 players per side.  At the start of an Innings, **two** walk out first (these are the *Openers*). So, on the Team List (1) and (2) are on the field and batting.
 
-When one goes out, **Number (3)** - on the list - comes in. This is also called the **First Drop**.
+When either of them goes out, **Number (3)** - on the list (say, Jones) - comes in. This is also called the **First Drop**.  So, Jones is "batting at number 3".
 
-The batting score could be (in Australian format)  `1/30`  ; 1 wicket down for 30 runs scored.  If you think about it `9/421` means "we are down to the last two batters". 
+The batting score could be (in Australian format)  `1/30`  ; 1 wicket down for 30 runs scored.  If you think about it, `9/421` means "we are down to the last two batters". 
 
-The 11th player is the 'last man standing'. Since you need a partner to run with, once the 10th wicket falls, the innings is over.
+The 11th player is the 'last man standing'. Since you need a partner to run with, once the *10th* wicket falls, the innings is over.  Thus one player is left 'stranded'.
  
 ## Who 'controls' Cricket?
 My opinion only. This is who actually really controls International Cricket over the last few 😇decades
@@ -65,9 +65,9 @@ My opinion only. This is who actually really controls International Cricket over
   
 ## The Modern Test Rivals -  Australia vs. 'x' 
 
-**England**. This Greatest/Longest Rivalry in Cricket (Sport?). This goes back nearly 150 years. I find there's more, umm, *feeling*  and *edge* in these matches. Okay, it's war out there, including in the media and in the stands.   Huge build up and crowds here.
+**England**. This Greatest/Longest Rivalry in Cricket (International major sport?). This goes back nearly 150 years. I find there's more, umm, *feeling*  and *edge* in these matches. Okay, it's war out there, including in the media and in the stands.   Huge build up and crowds here.
 
-Don't forget Australia was a British Colony from 1788. And our Head of State is still King Charles III. The English supporters sing, en masse, at the MCG etc "God save *YOUR* Gracious King" -  true!
+Don't forget Australia was a British Colony from 1788. And our Head of State is still King Charles III. The English supporters sing, en masse, at the MCG: "God save *YOUR* Gracious King" -  true!
 
 **India**. The New Huge Rivalry. Just massive Test crowds here, due to our large cricket-mad Indian diaspora in Australia. However, the games *do not* feel like war with 6 stumps. 
 
