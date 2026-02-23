@@ -65,7 +65,7 @@ My opinion only. This is who actually really controls International Cricket over
   
 ## The Modern Test Rivals -  Australia vs. 'x' 
 
-**England**. This Greatest/Longest Rivalry in Cricket (International major sport?). This goes back nearly 150 years. I find there's more, umm, *feeling*  and *edge* in these matches. Okay, it's war out there, including in the media and in the stands.   Huge build up and crowds here.
+**England**. This Greatest/Longest Rivalry in Cricket (and International major sport?). This goes back nearly 150 years. I find there's more, umm, *feeling*  and *edge* in these matches. Okay, it's war out there, including in the media and in the stands.   Huge build up and crowds here.
 
 Don't forget Australia was a British Colony from 1788. And our Head of State is still King Charles III. The English supporters sing, en masse, at the MCG: "God save *YOUR* Gracious King" -  true!
 
