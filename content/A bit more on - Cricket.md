@@ -11,7 +11,7 @@ draft: false
   <figcaption>The MCG. Link source: https://resources.cricket-australia.pulselive.com </figcaption>
 </figure>
 
-There are some fantastic "All about Cricket" videos out there. Much better than I could do. But with a complicated, very old game, and multiple formats...they can't pack everything into 10 minutes.  Here's a potpourri of some "don't forget" things
+> There are some fantastic "All about Cricket" videos out there. Much better than I could do. But with a complicated, very old game, and multiple formats...they can't pack everything into 10 minutes.  Here's a potpourri of some "don't forget" things
 
 ### A Quick "Me and Cricket"
 
@@ -22,20 +22,29 @@ Whilst I enjoyed the One Day Internationals (who didn't?) in the 1980s, it's sti
 
 ## Swapping Ends at the end of the Over. 
 
-The batters stay where they are. The fielding team swaps. So if the just-finished Over was coming from one end (say, The Southern) the next Over - which has to be bowled by another bowler - is from the other end (The Northern).
+The batters stay where they are. The *fielding team* swaps. So if the just-finished Over was coming from one end (say, The Southern) the next Over - which has to be bowled by another bowler - is from the other end (The Northern).
 
 ## Fielding Positions
-The bowling team can and do change where the fielders are placed, depending on :
+The bowling team can and do change where the Fielders are placed, depending on :
 
 - Who is batting (the actual player)
 - The state of the game
 
+Yes, they can move Fielders between balls being bowled. But once the Bowler runs in, I think the Fielder's movements have to be limited, maybe just walking 'in' a bit, not sideways.
+
 ## Distances
 
-When a fast (pace) bowler is on, the Keeper and near-in fielders (Slips etc) are much further back than the TV usually implies. The cameras are way up high and far away with zoom lenses. We get what's called *foreshortening*; things look closer together than they are.
+When a fast (pace) bowler is on, the Keeper and near-in Fielders (Slips etc) are much further back than the TV usually implies. The cameras are way up high and far away with zoom lenses. We get what's called *foreshortening*; things look closer together than they are.
 
-==to add==: video of photo showing this
+The keeper can be the 'length of the pitch' back from the stumps, ie ~ 22 meters. 
 
+![image](https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1280,q_70/lsci/db/PICTURES/CMS/221100/221115.jpg)
+
+ [[https://www.espncricinfo.com/story/samir-chopra-why-we-need-the-behind-the-stumps-view-914615|Image link source article]] 
+
+Old Mate *Claude AI* tells me:
+
+>>A top pace bowler delivers around 145-150 km/h. At that speed the ball covers 22m in roughly 0.53 seconds after leaving the bat (edged catch) or pitching.
 
 ## First Drop, Coming in at Number 3
 
@@ -45,7 +54,7 @@ When one goes out, **Number (3)** - on the list - comes in. This is also called 
 
 The batting score could be (in Australian format)  `1/30`  ; 1 wicket down for 30 runs scored.  If you think about it `9/421` means "we are down to the last two batters". 
 
-The 11th player is the 'last man standing'. Since you need a partner to run, once the 10th wicket falls, the innings is over.
+The 11th player is the 'last man standing'. Since you need a partner to run with, once the 10th wicket falls, the innings is over.
  
 ## Who 'controls' Cricket?
 My opinion only. This is who actually really controls International Cricket over the last few 😇decades
@@ -56,15 +65,18 @@ My opinion only. This is who actually really controls International Cricket over
   
 ## The Modern Test Rivals -  Australia vs. 'x' 
 
-**England**. This Greatest/Longest Rivalry in Cricket (Sport?). This goes back nearly 150 years. I find there's more, umm, *feeling*  and *edge* in these matches. It's war out there, including in the media and in the stands.   Huge build up and crowds here.
+**England**. This Greatest/Longest Rivalry in Cricket (Sport?). This goes back nearly 150 years. I find there's more, umm, *feeling*  and *edge* in these matches. Okay, it's war out there, including in the media and in the stands.   Huge build up and crowds here.
 
 Don't forget Australia was a British Colony from 1788. And our Head of State is still King Charles III. The English supporters sing, en masse, at the MCG etc "God save *YOUR* Gracious King" -  true!
 
 **India**. The New Huge Rivalry. Just massive Test crowds here, due to our large cricket-mad Indian diaspora in Australia. However, the games *do not* feel like war with 6 stumps. 
 
-Why? My take: We were both English Colonies. And so the (sporting) Enemy of My Enemy is my Friend. Plus, I understand Australia encouraged and supported India way back when (c 1930s and 40s) India was starting out in Test Cricket.  
+Why? My take: We were both English Colonies. And so the (sporting) Enemy of My Enemy is my Friend. Plus, I understand Australia encouraged and supported India way back (c 1930s and 40s) when India was starting out in Test Cricket. 
 
-## Farming The Strike
+## Farming The Strike  
+
+> Slightly longer piece....
+
 Consider this case. It's a Test (5 days maximum) and against the Olde Enemy, England at the MCG.
 
 We are late on Day 5, Australia need 10 runs to win. But are `9/312`
