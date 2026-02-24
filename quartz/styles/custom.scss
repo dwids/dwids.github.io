@@ -61,3 +61,14 @@ a:hover {
   color: #1d4ed8 !important;
   background-color: #bfdbfe; // Slightly darker on hover
 }
+
+
+// Blockquote: subtle left border, indent + italic + smaller font
+blockquote {
+  border-left: 2px solid #ccc;
+  font-size: 0.95em;
+  font-style: italic;
+  padding-left: 1.5em;
+  margin-bottom: 2em;
+  margin-top: 1.5em;
+}
