@@ -34,7 +34,5 @@ That oak (or maple) tree just seems to fit in. It doesn’t make a big thing abo
 
 The pretty tree at Happy Creek is not from around these parts. It is different. But if you think about it, that really doesn’t seem to matter. 
 
----
-
 > [!info] Original Published Date : *2001*    
 > 2026 note: I made a minor edit as the original final bit was too close to another piece of mine.
