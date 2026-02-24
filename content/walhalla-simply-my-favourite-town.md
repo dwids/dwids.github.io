@@ -37,7 +37,7 @@ Follow the Princes Freeway south-east out of Melbourne. Pass Warragul and take t
 ### Wise to read up first
 Read up a bit first if you can before heading there. Will make it more rewarding. The [Walhalla Heritage and Development League](http://www.walhalla.org.au) would be a great place to start. 
 
-Also my very own [contribution ](http://en.wikipedia.org/wiki/Victorian_gold_rush) to the excellent Wiki Internet Encyclopedia  may be of value. My own photos is used there as the main one: 
+Also my very own [contribution ](http://en.wikipedia.org/wiki/Victorian_gold_rush) to the excellent Wiki Internet Encyclopedia on the Goldrush here may be of value. My own photo (below) is used there at their [Walhalla page](https://en.wikipedia.org/wiki/Walhalla,_Victoria):
 
 ![My own photo at the Wikipedia "Walhalla" page](https://upload.wikimedia.org/wikipedia/commons/a/a1/WalhallaVicCorner.jpg)
 
