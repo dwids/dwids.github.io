@@ -11,16 +11,19 @@ cover:
 description: 
 ---
 
-I&#8217;m going to embark on some Astronomy Basics posts. I&#8217;ll be using the excellent free software [Stellariuim](https://stellarium.org/), which runs on lots of different systems.  I use Windows, but also have the Android app (don&#8217;t use that much; easier with a mouse)
+I’m going to embark on some Astronomy Basics posts. I’ll be using the excellent free software [Stellariuim](https://stellarium.org/), which runs on lots of different systems.  I use Windows, but also have the Android app (don’t use that much; easier with a mouse)
 ![](ss.20200405.173845.png)
-Here&#8217;s a simple task to get us started.  **Where will the Moon be in the sky tomorrow night at 8pm?  **
 
-Quick tips (there&#8217;s a good User Guide PDF on their web site, if stuck):
+Here’s a simple task to get us started.  
+
+## Where will the Moon be in the sky tomorrow night at 8pm? 
+
+Quick tips (there’s a good User Guide PDF on their web site, if stuck):
 
 1. Install *Stellarium*
 2. Set the **location **to be your nearest capital or major city (*Melbourne *will do fine for ~ 100-200k from it)
 3. Set the **date and time** (8pm is 20:00 hours)
-4. Find the **Moon** and click on it to show it&#8217;s details; yes there&#8217;s a lot&#8230;but&#8230;
+4. Find the **Moon** and click on it to show it’s details; yes there’s a lot…but…
 
 **Az**imuth is your angle **around the horizon** in the sky, where the object currently is.  A circle has 360 degrees, so, moving clockwise from North:
 
@@ -35,18 +38,18 @@ Quick tips (there&#8217;s a good User Guide PDF on their web site, if stuck):
 - 45 deg (halfway up; from the horizon to directly overhead)
 - 90 deg (directly overhead)
 
-So&#8230;if Jupiter is 
+So…if Jupiter is 
 
 - Azimuth 178 deg
 - Altitude 30 deg
 
-It&#8217;s pretty much due *South *and about *1/3 of the way &#8216;up&#8217;* from the Horizon to your Direct Overhead point.
+It’s pretty much due *South *and about *1/3 of the way ‘up’* from the Horizon to your Direct Overhead point.
 
 **Fascinating fact:** you can [easily use your hand](https://www.timeanddate.com/astronomy/measuring-the-sky-by-hand.html) to get a good measure of angles in the sky!
 
-The observant will notice I&#8217;m saying *your* angle.  It actually does depend on where you are on Earth. Plus, of course, the time and date.
+The observant will notice I’m saying *your* angle.  It actually does depend on where you are on Earth. Plus, of course, the time and date.
 
-So,  at 8pm on the 6th of April the Az and Alt of the Moon will be subtlety different between Melbourne and Sydney;  but you&#8217;d be hard pressed to see said difference in the real sky. And even more different at Cairns.  You can easily change your location in Stellarium to see this.  
+So,  at 8pm on the 6th of April the Az and Alt of the Moon will be subtlety different between Melbourne and Sydney;  but you’d be hard pressed to see said difference in the real sky. And even more different at Cairns.  You can easily change your location in Stellarium to see this.  
 
 Hence these are your **local coordinates** for that object at that time.  An important concept, which we will definitely return to.
 

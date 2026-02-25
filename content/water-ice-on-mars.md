@@ -11,7 +11,9 @@ cover:
 description: 
 ---
 
-![](picHome05.jpg)One of the key things the Mars probe Phoenix was looking for was ice, specifically water ice. As my niece correctly told me, this is a vital for life (as we know it)  
+![](picHome05.jpg)
+
+One of the key things the Mars probe Phoenix was looking for was ice, specifically water ice. As my niece correctly told me, this is a vital for life (as we know it)  
 
 Some Phoenix images showed what may have been it&#8230;or could have been salt. Looks like the verdict is in. And it&#8217;s water ice.  More at [Universe Today](http://www.universetoday.com/2008/06/20/phoenix-press-conference-update-proof-of-water-ice/). 
 
