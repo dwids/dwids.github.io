@@ -16,9 +16,9 @@ description:
 
 “When a suburban couple go camping for the weekend at a remote beach, they discover that nature isn’t in an accommodating mood.”  [source is Justwatch](https://www.justwatch.com/au/movie/long-weekend)
 
-Their marriage is in trouble, so he basically forces her to go camping to perhaps patch things up. They go to an isolated beach, apparently somewhere here in Victoria. They are a tad careless with the way they interact with the environment and it’s creatures.  It would seem that Mother Nature isn’t happy with this at all..
+Their marriage is in trouble, so he basically forces her to go camping to perhaps patch things up. They go to an isolated beach, where they are a tad careless with the way they interact with the environment and it’s creatures.  It would seem that Mother Nature isn’t happy with this at all...
 
-Hard to define “gothic” in a word or two, but for me it is sorta dark, supernatural and moody  feel.   Sums up this forgotten gem just so well. There are 3 main actors in the story here; 2 humans and … nature. Mark Kermode's review is top notch:
+It's hard to define “gothic” in a word or two, but for me it is a sort of *dark, supernatural and moody  feel*.   That sums up this forgotten gem just so well. There are 3 main actors in the story here; two Humans and Nature. Mark Kermode's review is top notch:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lnHpUh7-nHw?si=-KafcqVkp6gS8v0i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -28,7 +28,7 @@ Hard to define “gothic” in a word or two, but for me it is sorta dark, super
 
 A beautiful and extraordinary film.  Almost no dialogue and yet you hardly notice as the imagery and story carry you along. David Gulpilil’s first movie, working alongside a teenage Jenny Agutter and a young Luc Roeg (the son of the film’s Director, Nic).  
 
-Like [[#Wake in Fright (1971)]] (below) it was made by 'outsiders', in this case English. The "Australian" film industry - made by locals - didn't take off till the mid 1970s
+Like [[#Wake in Fright (1971)]] (below) it was made by 'outsiders', in this case English. The "Australian" film industry - made by locals - didn't take off till the mid 1970s.
 
 Another great review:
 
