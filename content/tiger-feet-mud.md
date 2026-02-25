@@ -11,15 +11,15 @@ cover:
 description: 
 ---
 
-Ah, 1974 and glam rock is up and running. And boy was I into it. But I don&#8217;t think UK band [Mud ](http://en.wikipedia.org/wiki/Mud_%28band%29)were that big here in Australia. If anyone cares to correct me, please do. They certainly had that classic Chinn/Chapman sound (and lyrics); being the famous writers and producers. Think Sweet and Suzi Quatro for other examples.
+Ah, 1974 and glam rock is up and running. And boy was I into it. But I don’t think UK band [Mud ](http://en.wikipedia.org/wiki/Mud_%28band%29)were that big here in Australia. If anyone cares to correct me, please do. They certainly had that classic Chinn/Chapman sound (and lyrics); being the famous writers and producers. Think Sweet and Suzi Quatro for other examples.
 
-It&#8217;s great to discover at least some of the younger generation really like this oldie. I can speak from seeing it with my own eyes at a party.  They even requested it. True.
+It’s great to discover at least some of the younger generation really like this oldie. I can speak from seeing it with my own eyes at a party.  They even requested it. True.
 
-Here&#8217;s what all the fuss is about. Few seconds of unrelated clip at start. 
+Here’s what all the fuss is about. Few seconds of unrelated clip at start. 
 
 ![](https://youtu.be/EQfidTOTsLo)
 
-Great dancing!  I&#8217;m sure that bloke-with-bloke dance &#8211; about 1:27 in &#8211; was done by skinheads or sharpies here!  Yep, that&#8217;s a male lead guitarist. And nope, I have no idea what he is wearing. But it&#8217;s 1974 and so rude to even ask 🙂
+Great dancing!  I’m sure that bloke-with-bloke dance – about 1:27 in – was done by skinheads or sharpies here!  Yep, that’s a male lead guitarist. And nope, I have no idea what he is wearing. But it’s 1974 and so rude to even ask 🙂
 
 ---
 

@@ -11,13 +11,15 @@ cover:
 description: 
 ---
 
-Beatles!  Some 30 years on I&#8217;m re-reading the excellent &#8220;Shout! &#8211; The True Story of The Beatles&#8221; by Phillip Norman.  Still have my original hardcover too.
+Beatles!  Some 30 years on I’m re-reading the excellent “*Shout! – The True Story of The Beatles*” by Phillip Norman.  Still have my original hardcover too.
 
-As I may have mentioned, I&#8217;m quite into meta-influences; that is who influenced artists I like. And the book makes it clear that John and Paul et al looked up, with wonder, at Lonnie Donegan. In fact it says that &#8220;&#8230;(in 1956)&#8230;it was after seeing Lonnie Donegan that Paul began clamouring for a guitar&#8221; [p28]
+As I may have mentioned, I’m quite into meta-influences; that is who influenced artists I like. And the book makes it clear that John and Paul et al looked up, with wonder, at Lonnie Donegan. In fact it says that “…(in 1956)…it was after seeing Lonnie Donegan that Paul began clamouring for a guitar” [p28]
 
-The book particularly names his cover of Rock Island Line. Which I&#8217;d never heard in any form.  Thanks to the Interwebbynet thingy that was quickly rectified. And I&#8217;m impressed.
+The book particularly names his cover of Rock Island Line. Which I’d never heard in any form.  Thanks to the Interwebbynet thingy that was quickly rectified. And I’m impressed.
 
-It certainly starts slowly, but then rapidly builds up as the train, travelling on the Line, accelerates away.  It&#8217;s well worth a listen. 
+It certainly starts slowly, but then rapidly builds up as the train, travelling on the Line, accelerates away.  It’s well worth a listen. 
+
+![](https://youtu.be/6jNiGOb-b8A)
 
 ---
 
