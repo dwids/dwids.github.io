@@ -63,12 +63,15 @@ a:hover {
 }
 
 
-// Blockquote: subtle left border, indent + italic + smaller font
-blockquote {
-  border-left: 2px solid #ccc;
-  font-size: 0.95em;
+// 2026-02-26 - Claude suggestion: Blockquote with specific selector override
+blockquote, blockquote p {
+  border-left: none !important;
+  color: #71717a !important;
+//  font-size: 0.95em;
   font-style: italic;
-  padding-left: 1.5em;
+  padding-left: 0.5em;
+  padding-right: 5em;
   margin-bottom: 2em;
   margin-top: 1.5em;
+  line-height: 1.1;
 }

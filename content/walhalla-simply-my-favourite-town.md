@@ -17,7 +17,7 @@ Wahalla has hung on, literally,  since 1862. It has survived the mining bust –
 
 I usually stay at the nearby village of Rawson at the [Rawson Village](http://www.rawsonvillage.com/) Scenic Holiday Resort.  The price usually  includes breakfast. They also serve a dinner in the dining room (hall!) – at extra cost. But all very reasonable, particularly considering when I last looked, there was nowhere else to eat in town.
 
-My advice would be to drive up either Friday after work or early Saturday morning. Should take about 2 hours.
+My advice would be to drive up either Friday after work or early Saturday morning. Should take about 2 hours. 
 
 Things to do:
 
@@ -29,7 +29,7 @@ Things to do:
 
 -  The Copper Mine tour etc (run by [Mountain Top adventures](http://www.mountaintopexperience.com/) – good people, great tours). They do the driving in their 4WDs.
 
-- Visit the Thomson Dam – Melbourne’s main water supply
+- Visit the Thomson Dam – Melbourne’s main water supply 
 
 ### Directions
 Follow the Princes Freeway south-east out of Melbourne. Pass Warragul and take the Moe exit. Follow the signs north to Walhalla.  Roads are all asphalt – for all of the above – but they become gravel past (north) of Walhalla. 4WD strongly suggested for this section.
