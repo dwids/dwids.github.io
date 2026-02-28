@@ -1,7 +1,7 @@
 ---
 date: 2020-05-30T20:11:17.000Z
-lastmod: 2020-05-30T20:11:17.000Z
-title: It's all relative, mummy (c.2004)
+lastmod: 2004-05-30T20:11:17.000Z
+title: It's all relative, mummy 
 draft: false
 slug: its-all-relative-mummy-c-2004
 tags: ["creative","egypt"]
@@ -29,9 +29,13 @@ I ended with the fall of Egypt, arguably when Nero took over, not long after Cle
 
 ![](image-11.png)
 
-How about that. A civilisation that lasted over 3000 years. In the equivalent world, Cleopatra would not be around for another 1000 years from now. Y3K anyone?
-![](ds-egypt-sphinx-scanned_20200530_200602.jpg)c. 1988 
+How about that. A civilisation that lasted over **3000** years. In the equivalent world, Cleopatra would not be around for another **1000** years from now. Y3K anyone?
 
----
+<figure>
+  <img src="ds-egypt-sphinx-scanned_20200530_200602.jpg" alt="c. 1988">
+  <figcaption>From my visit c. 1988. I have always said only tossers wear T-shirts of institutions they never attended...</figcaption>
+</figure>
+
+
 
 > [!info] Original Published Date : *c. 2004*
