@@ -8,7 +8,7 @@ title: Welcome to SiC Blog
 
 Welcome to SiC Blog! I write about technology, music, bushwalking, navigation, and the intersection of digital life and the real world.Plus a lot more, including some creative writing and old (paid!) freelance work for the Age.  
 
-This site is a collection of posts spanning two decades, from my early internet days (dial up) to current musings.  It should be nice and fast too, for the interested tech-heads see [[#Site Technology - why is it so fast?]] (below)
+This site is a collection of posts spanning two decades, [[my-first-digital-internet-fingerprints|from my early internet days]] (c. May 13 1994 and using dial up) to current musings.  It should be nice and fast too, for the interested tech-heads see [[#Site Technology - why is it so fast?]] (below)
 
 > [!warning] Could be some hiccups - 18 Feb 2026 
 > Due to moving this old blog's contents all over the place - over decades - some links and images (say, from 2008 😇) may have vanished. Also some 'links to pages *within* the blog' may not work.  With  about 424 posts to check, I'm slowly getting there. 

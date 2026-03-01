@@ -63,15 +63,26 @@ a:hover {
 }
 
 
-// 2026-02-26 - Claude suggestion: Blockquote with specific selector override
+// 2026-02-26 - Claude suggestion: Blockquote with justified text alignment
 blockquote, blockquote p {
   border-left: none !important;
   color: #71717a !important;
-//  font-size: 0.95em;
   font-style: italic;
   padding-left: 0.2em;
-  padding-right: 5em;
+  padding-right: 3em;
   margin-bottom: 2em;
   margin-top: 1.5em;
   line-height: 1.1;
+  text-align: justify;
+}
+
+// 2026-02-26 - Claude suggestion: Style figure captions like traditional publishing
+// Darker gray, tight spacing to image, larger gap below caption
+figcaption {
+  font-size: 0.85em;
+  font-style: italic;
+  color: #52525b;
+  text-align: center;
+  margin-top: 0.25em;
+  margin-bottom: 1.5em;
 }
