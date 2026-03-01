@@ -65,4 +65,4 @@ Due to me migrating from multiple, very different blog-systems and sites over *d
 > - This blog is fast because it is a **static** website. Every page is pre-generated, just like when the Web first started.  
 > - These pages are actually created/edited as **plain text** [[https://quarto.org/docs/authoring/markdown-basics.html|markdown]] using [[https://en.wikipedia.org/wiki/Obsidian_(software)|Obsidian]] on my PC. *Tags* (aka Metadata) are added to it via simple [[https://en.wikipedia.org/wiki/YAML|YAML]] at the top of each file. 
 > - A single button pushes the changes to *Github*, where an automatic Action invokes [[https://quartz.jzhao.xyz|Quartz]] to convert the markdown to static **html** files...and pushes them to Github Pages. 
-> - Changing a single `.` to a `,` will cause the whole site to be regenerated. But it takes under 20 seconds.
+> - Changing a single `.` to a `,` will cause the whole site to be regenerated. But it only takes about one (1) minute or so. 
