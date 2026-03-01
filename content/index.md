@@ -17,6 +17,8 @@ This site is a collection of posts spanning two decades, [[my-first-digital-inte
 
 ## Some Fave Pieces
 
+FYI: The **Search** box is always available and is quite fast. 
+
 ### Creative Writing
 * [ANZAC Day - on my maternal Grandfather (Pa) and his brother](anzac-day-golden-wisps-of-pale-men.md)
 * [Ancient Egypt lasted a long time. How long relative to 0 AD?📅](its-all-relative-mummy-c-2004.md)
