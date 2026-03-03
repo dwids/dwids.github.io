@@ -27,7 +27,7 @@ Evidence suggests that Lake Mungo back 62,000 years ago would have been a very n
 
 <figure>
   <img src="/images/wordpress/2021/02/davids_20051027_173416.jpg" alt="Lake Mungo. October 27th 2005. (Not in original article)">
-  <figcaption>Lake Mungo. October 27th 2005. (Not in original article)</figcaption>
+  <figcaption>My photo of Lake Mungo. October 27th 2005</figcaption>
 </figure>
 
 
@@ -43,7 +43,7 @@ The remains of LM3 have only recently been dated. Three different techniques wer
 
 <figure>
   <img src="/images/wordpress/2021/02/davids_20051027_173228.jpg" alt="From the same trip">
-  <figcaption>From the same trip (above)</figcaption>
+  <figcaption>My shot from the same trip (above)</figcaption>
 </figure>
 
 
