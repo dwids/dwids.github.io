@@ -13,6 +13,9 @@ description:
 
 > *Another one from the archive. I can't find the exact year, but I think it was around 2004. As I wrote "Interested in Egypt? Think King Tut and the Pyramids and Cleopatra were a few years apart? Have I got news for you"*.   The film was the terrible *The Scorpion King*
 
+
+> [!tip] Me in 2026 here. I've added a coda on [[#Akhenaten - the Rebel Pharoah]], don't miss it. 
+
 Some combinations are pretty much irresistible. Like with me, it would be movies and Egypt. So there I was watching a fairly recent release at the cinema. And something just didn’t quite feel right.
 
 I know these are supposed to be fun, shallow movies, but one thing did stick out. I thought I saw the Scorpion King ([[https://en.wikipedia.org/wiki/Narmer|Narmer?]])  go running past a pyramid. Mmm. That’s interesting. Said Mr Scorpion was doing his stuff about ==600 years before== those large 4-sided 3-dimensional triangles were even built.
