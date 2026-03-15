@@ -6,7 +6,7 @@ tags:
 draft: false
 ---
 
-> There are some fantastic "All about Cricket" videos out there. Much better than I could do. But with a complicated, very old game, and multiple formats...they can't pack everything into 10 minutes.  Here's a potpourri of some "don't forget" things
+> There are some fantastic "All about Cricket" videos out there. Much better than I could do. But with a complicated, very old game, and multiple formats...they can't pack everything into 10 minutes.  Here's a potpourri of some "don't forget" things.🏏
 
 <figure>
   <img src="https://resources.cricket-australia.pulselive.com/photo-resources/2023/05/04/6275321e-b3ee-4896-aea4-8820f0cda36f/1DW7WgUB.ashx?width=950&height=535" alt="The MCG">
