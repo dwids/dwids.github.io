@@ -90,7 +90,11 @@ const config: QuartzConfig = {
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
       // Comment out CustomOgImages to speed up build time
-      Plugin.CustomOgImages(),
+      Component.RSS({
+      fullHtml: true,      // Tells Quartz to send the rich HTML layout (bold, lists, etc.)
+      includeContent: true, // Tells Quartz to include the actual body text of the note
+})
+})
     ],
   },
 }
