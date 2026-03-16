@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "https://dwids.github.io", // Used for absolute links in RSS
+    baseUrl: "dwids.github.io",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
@@ -29,16 +29,16 @@ const config: QuartzConfig = {
       },
       colors: {      
         lightMode: {
-          light: "#ffffff",
-          lightgray: "#f4f4f5",
-          gray: "#71717a",
-          darkgray: "#27272a",
-          dark: "#18181b",
-          secondary: "#374151",
-          tertiary: "#22c55e",
-          highlight: "rgba(22, 101, 52, 0.05)",
-          textHighlight: "#fff23688",
-        },
+  light: "#ffffff",       // White background
+  lightgray: "#f4f4f5",   // Sidebar background
+  gray: "#71717a",        // Metadata/dates
+  darkgray: "#27272a",    // Main body text
+  dark: "#18181b",        // Headers
+  secondary: "#374151",   // Dark grey (for the "Projects/Privacy" titles)
+  tertiary: "#22c55e",    // Bright green (for the tags/hover)
+  highlight: "rgba(22, 101, 52, 0.05)",
+  textHighlight: "#fff23688",
+},
         darkMode: {
           light: "#161618",
           lightgray: "#393639",
@@ -51,6 +51,7 @@ const config: QuartzConfig = {
           textHighlight: "#b3aa0288",
         },
       },
+//	  
     },
   },
   plugins: {
@@ -81,15 +82,15 @@ const config: QuartzConfig = {
       Plugin.FolderPage(),
       Plugin.TagPage(),
       Plugin.ContentIndex({
-        enableSiteMap: true, // Generates sitemap.xml
-        enableRSS: true,     // Generates index.xml for Substack
-        rssFullHtml: false,   // DO NOT Send full HTML simplifies the feed so readers like Feedly and Substack can render the text and links properly.
-        rssLimit: 20,        // Limits feed to the 20 most recent posts
+        enableSiteMap: true,
+        enableRSS: true,
       }),
       Plugin.Assets(),
       Plugin.Static(),
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
+      // Comment out CustomOgImages to speed up build time
+      Plugin.CustomOgImages(),
     ],
   },
 }
