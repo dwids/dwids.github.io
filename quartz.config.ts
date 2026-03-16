@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "dwids.github.io", // Used for absolute links in RSS
+    baseUrl: "https://dwids.github.io", // Used for absolute links in RSS
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
