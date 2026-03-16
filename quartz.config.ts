@@ -83,7 +83,7 @@ const config: QuartzConfig = {
       Plugin.ContentIndex({
         enableSiteMap: true, // Generates sitemap.xml
         enableRSS: true,     // Generates index.xml for Substack
-        rssFullHtml: true,   // Sends full HTML so Substack drafts look right
+        rssFullHtml: false,   // DO NOT Send full HTML simplifies the feed so readers like Feedly and Substack can render the text and links properly.
         rssLimit: 20,        // Limits feed to the 20 most recent posts
       }),
       Plugin.Assets(),
