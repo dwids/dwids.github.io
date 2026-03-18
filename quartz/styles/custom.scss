@@ -2,19 +2,22 @@
 
 // put your custom CSS here!
 
-// 2026-02-18 - Claude suggestion: Minimal monospace tag styling (light-only blog)
-// Target the link inside the tag to override color, tighter padding, smaller font
+// 2026-03-18 - Simplified tag style: plain inline text, no button/box
 .tags li a {
   color: #71717a !important;
-  font-size: 0.7em;
-  font-weight: 600;
+  font-size: 0.75em;
+  font-weight: 500;
   font-family: var(--codeFont);
+ background-color: #dbeafe !important;  /* same or similar blue to link per se - highlight */
+  padding: 0.1em 0.3em;
+  border-radius: 3px;
 }
 
 .tags li {
-  border: 1px solid #d4d4d8;
-  border-radius: 12px;
-  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+  border: none;
+  border-radius: 0;
+  box-shadow: none;
+  padding: 0;
 }
 
 // 2026-02-18 - Claude suggestion: Quartz was not showing "---" nor <hr>
@@ -69,8 +72,8 @@ blockquote, blockquote p {
   color: #71717a !important;
   font-style: italic;
   padding-left: 0.2em;
-  padding-right: 3em;
-  margin-bottom: 2em;
+  padding-right: 1em;
+  margin-bottom: 1em;
   margin-top: 1.5em;
   line-height: 1.1;
   text-align: justify;
@@ -94,4 +97,12 @@ figcaption {
   border-right: 2px solid var(--color) !important;
   border-top: 2px solid var(--color) !important;
   border-bottom: 2px solid var(--color) !important;
+}
+
+
+.page-description {
+  margin: 0.2em 0 0.4em 0;
+  font-size: 0.85em;
+  color: var(--gray);
+  font-style: italic;
 }

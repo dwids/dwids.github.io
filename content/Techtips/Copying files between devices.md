@@ -5,6 +5,7 @@ tags:
   - techtip
   - opensource
 draft: false
+description: Free apps to copy files/text  to-and-from your PC, iPad, Android phone etc on your local network.
 ---
 
 

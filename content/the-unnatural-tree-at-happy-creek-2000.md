@@ -8,7 +8,7 @@ tags: ["goldrush","creative"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1681488007344-c75b0cf8b0cd?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y3JlYXRpdmV8ZW58MHx8MHx8fDA%3D
     alt: The Unnatural Tree at Happy Creek (2000)
-description: 
+description: Reflections on the race politics of C. 2001 and a beautiful tree in the bush near Walhalla.
 ---
 
 > In c. 2001 I found myself just outside of Walhalla on the old railway line. The issues of immigration and refugees were starting to bubble up in the media and just about to used as a political football. 

@@ -8,7 +8,7 @@ tags: ["creative"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1682125784386-d6571f1ac86a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8aGlzdG9yeXxlbnwwfHwwfHx8MA%3D%3D
     alt: LM3 and Port Phillip non-Bay
-description: 
+description: Over 40,000 years ago, the now dry Lake Mungo (outback NSW) had people living there.
 ---
 
 > From the archives[^1] . Written back in **2004**. For the Aspect Computing staff newsletter, I think.  Was originally 'LM3 and Port Phillip non-Bay'. 

@@ -8,7 +8,7 @@ tags: ["creative"]
 cover:
     image: https://media.istockphoto.com/id/1391392232/photo/papers-with-family-tree-templates-pencil-photos-and-glasses-on-wooden-table-closeup.webp?a=1&b=1&s=612x612&w=0&k=20&c=JayNEuzZ15HUjKyCI5E3StJaVRfwqg6jkfyRbhZNJ1o=
     alt: "ANZAC Day: Golden Wisps of Pale Men [2004]"
-description: 
+description: Reflections on my Grandfather (Pa Hudson), his Brother and their service to our country in WWII.  Lest We Forget. 
 ---
 
 I went in search of gold and there, in the filtered light, I found the leg.

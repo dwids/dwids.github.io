@@ -8,7 +8,7 @@ tags: ["goldrush","victoria","creative","history"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: On the Trail of Captain Blowhard (2001)
-description: 
+description: In 1862 the journey to the remote Victorian goldfiends took days and was very challenging.
 ---
 
 > Today you can get from Melbourne to London in a day and a bit. 130 years ago it took five times that to get from Melbourne to the Victorian goldfields. They were not that far from where Lake Eildon is now located.

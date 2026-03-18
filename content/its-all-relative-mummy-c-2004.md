@@ -8,7 +8,7 @@ tags: ["creative","egypt"]
 cover:
     image: /images/2024/10/12835.webp
     alt: It's all relative, mummy (c.2004)
-description: 
+description: You think 2000 years is a long time. Let's talk about Ancient Egypt's duration in that context.
 ---
 
 > *Another one from the archive. I can't find the exact year, but I think it was around 2004. As I wrote "Interested in Egypt? Think King Tut and the Pyramids and Cleopatra were a few years apart? Have I got news for you"*.   The film was the terrible *The Scorpion King*
