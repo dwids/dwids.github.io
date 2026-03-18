@@ -26,7 +26,7 @@ FYI: The **Search** box is always available and is quite fast.
 
 
 ## Browse by Topic (aka Tags)
-
+- [Technical Tips 💡](/tags/techtip) - New for 2026, short sharp practical tips for home IT usage
 - [Music 🎼](/tags/music) - Albums, concerts, and musical discoveries
 - [Creative ✍️](/tags/creative) - Pieces on ANZAC day, Lake Mungo history, Egypt etc
 - [Technology 💻 ](/tags/technology) - Tech, Linux, and digital tools

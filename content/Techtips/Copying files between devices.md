@@ -1,13 +1,14 @@
 ---
-title: Copying files between local devices
+title: Copy files between local devices - LocalSend 
 date: 2026-03-18
 tags:
   - techtip
+  - opensource
 draft: false
 ---
 
 
-## LocalSend
+## LocalSend 
 
 ### What's it for?
 At home I have a PC, Android Phone and iPad.  I want to quickly copy files and text between them.  They are all on the same home network.  
@@ -23,7 +24,7 @@ LocalSend is an "[Open source](https://opensource.com/resources/what-open-source
 
 Just install it from the above [page](https://localsend.org/).
 
-Each device is given a fun name "Fast Orange".  You 'see' that as the target system (later).
+Each device is given a fun name "Fast Orange".  You 'see' that as the target system (see below).
 
 > [!info] Same network only
 > To restate: this only works between devices on the **same** network, eg. at home. It won't work 'over the Internet'  
