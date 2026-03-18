@@ -86,3 +86,12 @@ figcaption {
   margin-top: 0.25em;
   margin-bottom: 1.5em;
 }
+
+
+.callout {
+  overflow: visible !important;
+  border-left: 2px solid var(--color) !important;
+  border-right: 2px solid var(--color) !important;
+  border-top: 2px solid var(--color) !important;
+  border-bottom: 2px solid var(--color) !important;
+}

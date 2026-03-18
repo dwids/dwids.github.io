@@ -15,8 +15,7 @@ export default ((opts?: Options) => {
       <footer class={`${displayClass ?? ""}`}>
         <p>
           {i18n(cfg.locale).components.footer.createdWith}{" "}
-          <a href="https://quartz.jzhao.xyz/">Quartz v{version} © {year} - Copyright © David Sidwell {year} </a>
-        </p>
+          <a href="https://quartz.jzhao.xyz/">Quartz v{version} © {year} </a> - **Content**: Copyright © David Sidwell {year}</p>
         <ul>
           {Object.entries(links).map(([text, link]) => (
             <li>
