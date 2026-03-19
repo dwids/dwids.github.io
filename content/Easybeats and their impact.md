@@ -16,8 +16,7 @@ Here they are with their 1966 hit *Friday on my Mind*:
 
 <iframe 
   src="https://www.youtube.com/embed/LDdMSY4bnKQ" 
-  style="width: 750px; aspect-ratio: 16/9;" 
-  frameborder="0" 
+  style="width:100%;max-width:100%;aspect-ratio:16/9;border:none;" 
   allowfullscreen>
 </iframe>
 
@@ -34,7 +33,7 @@ So....after the band broke up in late 1969 a number of them did not stand still.
 In 1974 **Vanda and Young**, wrote and produced what became a classic of Australian Music for Stevie Wright; *Evie*. This was an 11 minute, 3-part 'story in song' epic. It still stands up today, over 50 years later.
 
 <iframe   src="https://www.youtube.com/embed/j34YkVoJMdo" 
-  style="width: 750px; aspect-ratio: 16/9;" 
+  style="width:100%;max-width:100%;aspect-ratio:16/9;border:none;" 
   frameborder="0" 
   allowfullscreen>
 </iframe>
@@ -47,7 +46,7 @@ George Young had two younger siblings:  **Malcolm** and **Angus**.  In November 
 
 <iframe 
   src="https://www.youtube.com/embed/g-qkY2yj4_A"
-  style="width: 750px; aspect-ratio: 16/9;" 
+  style="width:100%;max-width:100%;aspect-ratio:16/9;border:none;" 
   frameborder="0" 
   allowfullscreen>
 </iframe>
