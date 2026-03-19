@@ -55,10 +55,10 @@ That's them, driving on a truck through Melbourne - my home town - in late 1975.
 
 ## Flash in the Pan
 
-This was George and Harry, thinly disguised :-) who then had their own set of hits, including this fun one from 1976:
+This was George and Harry, thinly disguised :-) who then had their own set of hits, including this somewhat titanic, fun one from 1978:
 
 <iframe 
-  src="https://www.youtube.com/embed/YqiCj32qKdI"
+  src="https://www.youtube.com/embed/KZFot2BUqsk"
   style="width:100%;max-width:100%;aspect-ratio:16/9;border:none;" 
   frameborder="0" 
   allowfullscreen>
