@@ -51,7 +51,7 @@ George Young had two younger siblings:  **Malcolm** and **Angus**.  In November 
   allowfullscreen>
 </iframe>
 
-That's them, driving on a truck through Melbourne in late 1975. 
+That's them, driving on a truck through Melbourne - my home town - in late 1975. 
 
 ## Flash in the Pan
 
