@@ -24,6 +24,9 @@ FYI: The **Search** box is always available and is quite fast.
 * [Ancient Egypt lasted a long time. How long relative to 0 AD?📅](its-all-relative-mummy-c-2004.md)
 * [Lake Mungo and early human remains](lm3-and-port-phillip-non-bay.md)
 
+## Freelance
+I had my first freelance piece published in the Age back in **1996**. It was a one-off, but I returned in mid-2005 as a **paid freelancer** for about 6 months. [Here's the archive](/tags/freelance)
+
 
 ## Browse by Topic (aka Tags)
 - [Technical Tips 💡](/tags/techtip) - New for 2026, short sharp practical tips for home IT usage

@@ -3,10 +3,10 @@ title: Folders-A Number for Everything - Johnny Decimal
 tags:
   - techtip
 draft: false
-description: Your folders and files are a mess. Here's a possible fix librarians already know
+description: If your folders and files are a mess (me!), here's a possible fix librarians already know
 ---
 
-> Your folders and files are a mess. Here's a possible fix librarians already know.
+> If your folders and files - like mine - are a mess, here's a possible fix, librarians already know.
 
 Think about a library. Libraries don't just pile books randomly on shelves — they group them into sections (Fiction, History, Science), then into smaller categories within each section.
 
