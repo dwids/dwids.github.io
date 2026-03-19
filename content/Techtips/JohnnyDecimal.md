@@ -10,7 +10,7 @@ description: Your folders and files are a mess. Here's a possible fix librarians
 
 Think about a library. Libraries don't just pile books randomly on shelves — they group them into sections (Fiction, History, Science), then into smaller categories within each section.
 
-Johnny Decimal does the same thing with your files. Everything gets a home, and every home has an address.  It's built around **numbering** the **folders**.  Whilst the focus here is for we *home* users, it could be used at *work*, including the dreaded Shared Network Folder.
+Johnny Decimal does the same thing with your files. Everything gets a home, and every home has an address.  It's built around **numbering** the **folders**.  Whilst the focus here is for we *home* users, it could be used at *work*, including the dreaded Shared Network Folder. Yes, I do use it.
 
 The **numbers** are the key idea. Instead of remembering that your passport scan is somewhere in a folder called *Documents > Important Stuff > Scans > Personal*, you just know it's at **11.01**. At work: tell someone to find a file, give them the number, they're straight to it.
 
