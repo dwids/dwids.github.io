@@ -59,17 +59,17 @@ This was George and Harry, thinly disguised :-) who then had their own set of hi
 
 <iframe 
   src="https://www.youtube.com/embed/YqiCj32qKdI"
-  style="width: 750px; aspect-ratio: 16/9;" 
+  style="width:100%;max-width:100%;aspect-ratio:16/9;border:none;" 
   frameborder="0" 
   allowfullscreen>
 </iframe>
 
 ## Songwriters and Producers
-Harry and George had more hits, via other artists (like they did with Evie). And none bigger than this one with John Paul Young. Originally from 1978, it was extended and re-done (below) for the magical Australian film "Strictly Ballroom" (1992), with JPY up front again. *Love is in the Air*:
+Harry and George had more hits, via other artists (like they did with *Evie*). And none bigger than this one with John Paul Young. H & G wrote and produced this in 1978. It was extended and re-done for the magical Australian film "Strictly Ballroom" (1992), with JPY up front again. Here is the newer version of *Love is in the Air*:
 
 <iframe 
   src="https://www.youtube.com/embed/dOxMylotEZM"
-  style="width: 750px; aspect-ratio: 16/9;" 
+    style="width:100%;max-width:100%;aspect-ratio:16/9;border:none;" 
   frameborder="0" 
   allowfullscreen>
 </iframe>
@@ -82,7 +82,7 @@ May I recommend this great documentary on the key music label during this time, 
 
 <iframe 
   src="https://www.youtube.com/embed/bD-_qYEPhXU"
-  style="width: 750px; aspect-ratio: 16/9;" 
+    style="width:100%;max-width:100%;aspect-ratio:16/9;border:none;" 
   frameborder="0" 
   allowfullscreen>
 </iframe>
