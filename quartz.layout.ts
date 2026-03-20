@@ -30,10 +30,10 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Flex({
       components: [
-        {
-          Component: Component.Search(),
-          grow: true,
-        },
+ //       {
+ //         Component: Component.Search(),
+ //         grow: true,
+ //       },
  // Component.Darkmode(), // 2026-02-18 - Disabled dark mode toggle (light-only blog)
         { Component: Component.ReaderMode() },
       ],
@@ -57,10 +57,10 @@ export const defaultListPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Flex({
       components: [
-        {
-          Component: Component.Search(),
-          grow: true,
-        },
+ //       {
+ //         Component: Component.Search(),
+ //         grow: true,
+ //       },
 //        { Component: Component.Darkmode() },  // 2026-02-18 - Disabled dark mode toggle (light-only blog)
       ],
     }),
