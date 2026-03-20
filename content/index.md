@@ -14,7 +14,7 @@ This site is a collection of posts spanning two decades, [[my-first-digital-inte
 > Due to moving this old blog's contents all over the place - over decades - some links and images (say, from 2008 😇) may have vanished. Also some 'links to pages *within* the blog' may not work.  With  about 424 posts to check, I'm slowly getting there. 
 > Most posts do NOT have Tags (yet)
 
-`21 Mar 2026 9:38 AM`
+`21 Mar 2026 9:41 AM`
 
 ## Some Fave Pieces
 

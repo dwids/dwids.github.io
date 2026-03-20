@@ -16,7 +16,6 @@ export const sharedPageComponents: SharedLayout = {
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
-    Component.MobileOnly(Component.Search()),
     Component.ConditionalRender({
       component: Component.Breadcrumbs(),
       condition: (page) => page.fileData.slug !== "index",
@@ -30,10 +29,10 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Flex({
       components: [
- //       {
- //         Component: Component.Search(),
- //         grow: true,
- //       },
+        {
+          Component: Component.Search(),
+          grow: true,
+        },
  // Component.Darkmode(), // 2026-02-18 - Disabled dark mode toggle (light-only blog)
         { Component: Component.ReaderMode() },
       ],
@@ -51,16 +50,16 @@ export const defaultContentPageLayout: PageLayout = {
 
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [Component.MobileOnly(Component.Search()),Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
+  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
   left: [
  //   Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Flex({
       components: [
- //       {
- //         Component: Component.Search(),
- //         grow: true,
- //       },
+        {
+          Component: Component.Search(),
+          grow: true,
+        },
 //        { Component: Component.Darkmode() },  // 2026-02-18 - Disabled dark mode toggle (light-only blog)
       ],
     }),
