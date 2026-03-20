@@ -8,15 +8,15 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "David's SiC Blog 🖥️↔️👤",
+    pageTitle: "Quartz 4",
     pageTitleSuffix: "",
     enableSPA: true,
-    enablePopovers: false,
+    enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "dwids.github.io",
+    baseUrl: "quartz.jzhao.xyz",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
@@ -27,18 +27,18 @@ const config: QuartzConfig = {
         body: "Source Sans Pro",
         code: "IBM Plex Mono",
       },
-      colors: {      
+      colors: {
         lightMode: {
-  light: "#ffffff",       // White background
-  lightgray: "#f4f4f5",   // Sidebar background
-  gray: "#71717a",        // Metadata/dates
-  darkgray: "#27272a",    // Main body text
-  dark: "#18181b",        // Headers
-  secondary: "#374151",   // Dark grey (for the "Projects/Privacy" titles)
-  tertiary: "#22c55e",    // Bright green (for the tags/hover)
-  highlight: "rgba(22, 101, 52, 0.05)",
-  textHighlight: "#fff23688",
-},
+          light: "#faf8f8",
+          lightgray: "#e5e5e5",
+          gray: "#b8b8b8",
+          darkgray: "#4e4e4e",
+          dark: "#2b2b2b",
+          secondary: "#284b63",
+          tertiary: "#84a59d",
+          highlight: "rgba(143, 159, 169, 0.15)",
+          textHighlight: "#fff23688",
+        },
         darkMode: {
           light: "#161618",
           lightgray: "#393639",
@@ -51,7 +51,6 @@ const config: QuartzConfig = {
           textHighlight: "#b3aa0288",
         },
       },
-//	  
     },
   },
   plugins: {
