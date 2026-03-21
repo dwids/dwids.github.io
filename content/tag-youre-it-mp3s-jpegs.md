@@ -1,15 +1,17 @@
 ---
 date: 2020-04-02T16:45:16.000Z
 lastmod: 2005-10-02T16:45:16.000Z
-title: Tag, you're it (mp3s, jpegs)
+title: Published! Tag, you're it (mp3s, jpegs)
 draft: false
 slug: tag-youre-it-mp3s-jpegs
 tags: ["freelance"]
 cover:
     image: https://images.unsplash.com/photo-1585621243952-f68eae991dd6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDd8fG5ld3NwYXBlcnxlbnwwfHx8fDE3MzIyMDc3MzN8MA&ixlib=rb-4.0.3&q=80&w=720
     alt: Tag, you're it (mp3s, jpegs)
-description: 
+description: An introduction to Tags aka Metadata
 ---
+
+>  Here is the [original Age article](http://www.theage.com.au/news/livewire/tag-youre-it/2005/10/04/1128191720716.html) from 2005.
 
 What do your digital photographs and your MP3 music files have in common? More than you might think, for at the heart of our modern digital lifestyle are two things: data compression and tags.
 

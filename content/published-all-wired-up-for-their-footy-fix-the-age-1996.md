@@ -1,7 +1,7 @@
 ---
 date: 2023-02-15T12:12:14.000Z
 lastmod: 1996-09-30T12:12:14.000Z
-title: Published! All wired up for their footy fix [The Age, 1996]
+title: 1️⃣ Published! All wired up for their footy fix - The Age, 1996
 draft: false
 slug: published-all-wired-up-for-their-footy-fix-the-age-1996
 tags:
