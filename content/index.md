@@ -10,8 +10,8 @@ Welcome to SiC Blog! I write about technology, music, bushwalking, navigation, a
 
 This site is a collection of posts spanning two decades, [[my-first-digital-internet-fingerprints|from my early internet days]] (c. May 13 1994 and using dial up) to current musings.  It should be nice and fast too, for the interested tech-heads see [[#Site Technology - why is it so fast?]] (below)
 
-> [!warning] Search issue on phone 📳
->  21 Mar 2026 . Seems to be a bug where the Search icon doesn't work on mobile (i.e. phones)
+> [!warning] Search issue on phone 📳?
+>  21 Mar 2026 . Seems to be a bug where the Search icon doesn't work on phones.
 
 
 
