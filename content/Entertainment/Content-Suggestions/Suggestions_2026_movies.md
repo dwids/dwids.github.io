@@ -8,7 +8,7 @@ tags:
 description: A curated list of 2026 movie ideas
 ---
 
-### 🎬 Colossus: The Forbin Project (1970) 
+## 🎬 Colossus: The Forbin Project (1970) 
 
 
 
@@ -24,7 +24,7 @@ The U.S. has handed over control of its nuclear defense system to the Colossus s
 
 DS
 
-### 🎬 Godzilla Minus One (2023)
+## 🎬 Godzilla Minus One (2023)
 
 In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.
 
