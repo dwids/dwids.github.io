@@ -34,7 +34,7 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+//    Component.Explorer(),
 //	Component.RecentNotes({ title: "Latest", limit: 5 }),
    Component.DesktopOnly(Component.RecentNotes({ title: "Latest", limit: 5 })),
   ],
@@ -60,7 +60,7 @@ export const defaultListPageLayout: PageLayout = {
 //        { Component: Component.Darkmode() },  // 2026-02-18 - Disabled dark mode toggle (light-only blog)
       ],
     }),
-    Component.Explorer(),
+//    Component.Explorer(),
 //	Component.RecentNotes({ title: "Latest", limit: 5 }),
     Component.DesktopOnly(Component.RecentNotes({ title: "Latest", limit: 5 })),
   ],
