@@ -10,13 +10,11 @@ description: A curated list of 2026 movie ideas
 
 ### 🎬 Colossus: The Forbin Project (1970) 
 
-> This is the dawning of the Age of Colossus (where peace is compulsory... freedom is forbidden... and Man's greatest invention could be Man's greatest mistake).
+
 
 The U.S. has handed over control of its nuclear defense system to the Colossus supercomputer designed by scientist Dr. Charles Forbin. It soon becomes clear, that the now-sentient Colossus is far more intelligent than its creator realized—with the fate of the world hanging in the balance.
 
 **Genres:** Science Fiction, Thriller
-
-**Studio:** Universal Pictures
 
 **Released:** 1970-04-08 | **Runtime:** 100 mins | **Status:** Released
 
@@ -28,13 +26,9 @@ DS
 
 ### 🎬 Godzilla Minus One (2023)
 
-> Live and Fight. Survive and Resist.
-
 In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.
 
 **Genres:** Science Fiction, Horror, Action
-
-**Studio:** TOHO, TOHO Studios, Robot Communications
 
 **Released:** 2023-11-03 | **Runtime:** 124 mins | **Status:** Released
 
