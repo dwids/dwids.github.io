@@ -53,19 +53,19 @@ code {
   font-style: italic;
 }
 
-// 2026-02-18 - Claude suggestion: Make links more visible with highlight effect
+/* 2026-02-18 - Claude suggestion: Make links more visible with highlight effect */
 a {
   color: #2563eb !important;
-//  background-color: #dbeafe; // Faint blue highlight
-  padding: 0 2px;
-//  text-decoration: underline !important;
-//  text-underline-offset: 3px !important;
-//  text-decoration-thickness: 1px !important;
+  background-color: transparent !important;  /* force no background */
+  padding: 0 !important;                     /* remove padding causing ghost box */
+  text-decoration: underline !important;
+  text-underline-offset: 3px !important;
+  text-decoration-thickness: 1px !important;
 }
 
 a:hover {
   color: #1d4ed8 !important;
-  background-color: #bfdbfe; // Slightly darker on hover
+  background-color: #bfdbfe !important;      /* hover bg still shows */
 }
 
 
