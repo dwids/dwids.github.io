@@ -10,14 +10,16 @@ Welcome to SiC Blog! I write about technology, music, bushwalking, navigation, a
 
 This site is a collection of posts spanning two decades, [[my-first-digital-internet-fingerprints|from my early internet days]] (c. May 13 1994 and using dial up) to current musings.  It should be nice and fast too, for the interested tech-heads see [[#Site Technology - why is it so fast?]] (below)
 
-> [!warning] Search issue on phone 📳?
->  21 Mar 2026 . Seems to be a bug where the Search icon doesn't work on phones.
 
-22 Mar 2026 5:31pm
+
+22 Mar 2026 5:33pm
 
 ## Some Fave Pieces
 
-FYI: The **Search** box is always available and is quite fast. 
+FYI: The **Search** box is always available and is quite fast. Except...
+
+> [!warning] Search issue on phone 📳?
+>  21 Mar 2026 . Seems to be a bug where the Search icon doesn't work on phones.
 
 ### Creative Writing
 * [ANZAC Day - on my maternal Grandfather (Pa) and his brother](anzac-day-golden-wisps-of-pale-men.md)
