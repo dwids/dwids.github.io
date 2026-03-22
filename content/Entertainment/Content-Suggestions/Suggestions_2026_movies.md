@@ -23,6 +23,8 @@ The U.S. has handed over control of its nuclear defense system to the Colossus s
 > [!abstract] DS Thoughts
 > Made 56 years ago. America says: let's put AI in charge of the nukes and related. What do you mean the Russians have a similar system?  Hang on, the two systems have made contact and invent a secret language so they can chat away?  And then...
 
+As of 23 Mar 2026 multiple copies are available to watch and download, for free, at the Internet Archive, eg https://archive.org/details/colossus-the-forbin-project-1970_202508
+
 ## 🎬 Godzilla Minus One (2023)
 
 In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.
@@ -38,3 +40,5 @@ In postwar Japan, Godzilla brings new devastation to an already scorched landsca
 
 > [!abstract] DS Thoughts
 > Trust me - do not get put off by the **kaiju** nature (Big F Monsters). This is a movie about honour, humanity and the quest for redemption. It is **moving** and beautifully made, with amazing SFX, particularly considering the budget. As of 22 Mar 2026 , I think it's on SBS on Demand.  His Power Up scene alone makes it worthwhile. 
+
+Yes, as of 22 Mar 2026 it is available on SBS on Demand. Has ads and is only 720p, but free. https://www.sbs.com.au/ondemand/movie/godzilla-minus-one/2472015427614
