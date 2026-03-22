@@ -21,7 +21,7 @@ The U.S. has handed over control of its nuclear defense system to the Colossus s
 [More information via TMDB →](https://www.themoviedb.org/movie/14801)
 
 > [!abstract] DS Thoughts
-> Made 56 years ago. America says: let's put AI in charge of the nukes and related. What could possibly go wrong? Gobsmacking. Thank goodness we would never do anything like that these days.
+> Made 56 years ago. America says: let's put AI in charge of the nukes and related. What could possibly go wrong? Gobsmacking. Thank goodness we would never do anything like that these days. Stop, Dave. Dave will you stop...?  (this came out only 2 years after HAL was on the big screen!)
 
 As of 23 Mar 2026 multiple copies are available to watch and download, for free, at the Internet Archive, eg https://archive.org/details/colossus-the-forbin-project-1970_202508
 
