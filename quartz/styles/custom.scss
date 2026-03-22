@@ -106,12 +106,3 @@ figcaption {
   color: var(--gray);
   font-style: italic;
 }
-
-
-.search-button {
-  z-index: 1000;
-  cursor: pointer;
-  user-select: none;      /* prevents text selection on long-press */
-  -webkit-user-select: none;
-  pointer-events: auto !important;
-}
