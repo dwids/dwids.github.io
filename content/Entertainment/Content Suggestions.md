@@ -81,7 +81,7 @@ In postwar Japan, Godzilla brings new devastation to an already scorched landsca
 
 ### 📖A Game of Birds and Wolves...(2019) 
 
-Full title *# A Game of Birds and Wolves: The Ingenious Young Women Whose Secret Board Games Helped Win World War Two*
+Full title *A Game of Birds and Wolves: The Ingenious Young Women Whose Secret Board Games Helped Win World War Two*
 
 **Subjects**: Naval Intelligence, History - WW2, Book reviews, Naval Engagements, Operations and Capabilities
 
