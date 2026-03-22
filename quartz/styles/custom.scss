@@ -106,3 +106,7 @@ figcaption {
   color: var(--gray);
   font-style: italic;
 }
+
+
+.search-button { z-index: 100; }
+#search-container { z-index: 9999 !important; }

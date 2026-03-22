@@ -13,7 +13,7 @@ This site is a collection of posts spanning two decades, [[my-first-digital-inte
 > [!warning] Search issue on phone 📳?
 >  21 Mar 2026 . Seems to be a bug where the Search icon doesn't work on phones.
 
-
+22 Mar 2026 14:51
 
 ## Some Fave Pieces
 
