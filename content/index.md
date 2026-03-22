@@ -4,15 +4,11 @@ title: Welcome to SiC Blog
 
 ![SiC Banner](/images/SicHeader.jpg)
 
-### Where Computers Meet People
+> Where Computers Meet People
 
-Welcome to SiC Blog! I write about technology, music, bushwalking, navigation, and the intersection of digital life and the real world.Plus a lot more, including some creative writing and old (paid!) freelance work for the Age.  
+Welcome to ***SiC*** Blog! I write about technology, music, bushwalking, navigation, and the intersection of digital life and the real world.Plus a lot more, including some creative writing and old (paid!) freelance work for the Age.  
 
 This site is a collection of posts spanning two decades, [[my-first-digital-internet-fingerprints|from my early internet days]] (c. May 13 1994 and using dial up) to current musings.  It should be nice and fast too, for the interested tech-heads see [[#Site Technology - why is it so fast?]] (below)
-
-
-
-22 Mar 2026 5:33pm
 
 ## Some Fave Pieces
 

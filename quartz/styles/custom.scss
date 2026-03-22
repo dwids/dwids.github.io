@@ -56,8 +56,11 @@ code {
 // 2026-02-18 - Claude suggestion: Make links more visible with highlight effect
 a {
   color: #2563eb !important;
-  background-color: #dbeafe; // Faint blue highlight
+//  background-color: #dbeafe; // Faint blue highlight
   padding: 0 2px;
+//  text-decoration: underline !important;
+//  text-underline-offset: 3px !important;
+//  text-decoration-thickness: 1px !important;
 }
 
 a:hover {
@@ -105,4 +108,29 @@ figcaption {
   font-size: 0.85em;
   color: var(--gray);
   font-style: italic;
+}
+
+
+/* === Heading colours — palette inspired by waterfall photo === */
+
+/* Site title (H1) — cool mist blue, matches existing brand */
+h1 {
+  color: #354F3B !important;
+}
+
+/* Major section headings (H2) — deep teal, echoes wet fern shadow */
+h2 {
+  color: #0d9488 !important;
+  border-left: 3px solid #0d9488 !important;
+  padding-left: 0.5rem !important;
+}
+
+/* Sub-headings (H3) — dark slate, wet rock tone */
+h3 {
+  color: #475569 !important;
+}
+
+/* Minor headings (H4) — amber, warm accent like sunlit fern fronds */
+h4 {
+  color: #d97706 !important;
 }
