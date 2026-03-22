@@ -32,8 +32,6 @@ Explore what it would be like if the Allied Powers had lost WWII, and Japan and 
 
 **TMDB Rating:** 7.5
 
-**Keywords:** based on novel or book, resistance, nazi, dystopia, alternate history, post world war ii, alternative reality, antagonistic
-
 [More information via TMDB →](https://www.themoviedb.org/tv/62017)
 
 ## Movies
