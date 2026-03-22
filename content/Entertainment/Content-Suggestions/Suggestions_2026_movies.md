@@ -20,7 +20,8 @@ The U.S. has handed over control of its nuclear defense system to the Colossus s
 
 [More information via TMDB →](https://www.themoviedb.org/movie/14801)
 
-DS
+> [!abstract] DS Thoughts
+> Made 56 years ago. America says: let's put AI in charge of the nukes and related. What do you mean the Russians have a similar system?  Hang on, the two systems have made contact and invent a secret language so they can chat away?  And then...
 
 ## 🎬 Godzilla Minus One (2023)
 
@@ -35,5 +36,5 @@ In postwar Japan, Godzilla brings new devastation to an already scorched landsca
 [More information via TMDB →](https://www.themoviedb.org/movie/940721)
 
 
-> [!tip] DS Thoughts
+> [!abstract] DS Thoughts
 > Trust me - do not get put off by the **kaiju** nature (Big F Monsters). This is a movie about honour, humanity and the quest for redemption. It is **moving** and beautifully made, with amazing SFX, particularly considering the budget. As of 22 Mar 2026 , I think it's on SBS on Demand.  His Power Up scene alone makes it worthwhile. 
