@@ -21,7 +21,7 @@ The U.S. has handed over control of its nuclear defense system to the Colossus s
 [More information via TMDB →](https://www.themoviedb.org/movie/14801)
 
 > [!abstract] DS Thoughts
-> Made 56 years ago. America says: let's put AI in charge of the nukes and related. What do you mean the Russians have a similar system?  Hang on, the two systems have made contact and invent a secret language so they can chat away?  And then...
+> Made 56 years ago. America says: let's put AI in charge of the nukes and related. What could possibly go wrong? Gobsmacking. 
 
 As of 23 Mar 2026 multiple copies are available to watch and download, for free, at the Internet Archive, eg https://archive.org/details/colossus-the-forbin-project-1970_202508
 
