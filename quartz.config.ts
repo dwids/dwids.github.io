@@ -9,7 +9,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "David's SiC Blog",
-    pageTitleSuffix: "ds suffix" ,
+    pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: false,
     analytics: {
