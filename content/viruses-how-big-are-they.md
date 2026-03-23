@@ -38,7 +38,7 @@ So, my reading is that I can probably use these *type II pneumocytes* as my exam
 
 ### SARS-CoV-2 and Type II Pneumocyte Cell Relative Sizes
 
-The cells “have a cubic shape and a diameter of 9 µm”[^5]      That’s puzzling; a cube with a diameter?   A µm is a micrometer, so it’s on the smaller end of the above cellular diameter range.
+The cells “have a cubic shape and a diameter of 9 µm”[^5] .That’s puzzling; a cube with a diameter?   A **µm** is a micrometer, so it’s on the smaller end of the above cellular diameter range.
 
 We can make the maths easy by calling this **10 micrometer**.
 
@@ -52,7 +52,7 @@ This is absolutely to NOT suggest there are 1 million viruses in our cells!  It�
 
 ### That name again
 
-SARS-CoV-2 is part of *Coronaviridae* family, which is “named after their corona- or crown-like surface projections seen on electron microscopy” [5].   
+SARS-CoV-2 is part of *Coronaviridae* family, which is “named after their corona- or crown-like surface projections seen on electron microscopy”[^5].   
 
 So there seems to be no way to see the tiny viruses in a ‘normal’ (optical) microscope and so we must use electron microscopes. 
 
