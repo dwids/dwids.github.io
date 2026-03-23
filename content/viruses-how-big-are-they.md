@@ -20,7 +20,7 @@ I have to say these are only my *estimates* after browsing scientific papers and
 The name of the virus is *Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2)*  [^1]
 
 
-It “has round or elliptic and often pleomorphic form, and a diameter of approximately 60–140 nm.”[^2]    *Pleomorphic* means that it can assume different forms.
+It “has round or elliptic and often pleomorphic form, and a diameter of approximately 60–140 nm.”[^2].  *Pleomorphic* means that it can assume different forms.
 
 A *nm* is a nanometre, meaning one **billionth** of a metre.  There about 10 million nm in one cm.  
 
@@ -45,7 +45,9 @@ We can make the maths easy by calling this **10 micrometer**.
 10 micrometre is 10,000 nm. The SARS-CoV-2 virus is about 100 nm across.  **So you could fit about 100 viruses across the cell.**
 
 Assume all these things are spheres, I’d estimate that **1,000,000** SARS-CoV-2 viruses could fit inside a single Type II Pneumocyte Cell.
+
 ![](ss.20200509.184318.png)
+
 This is absolutely to NOT suggest there are 1 million viruses in our cells!  It’s just for me to understand the **very rough scales** of the things involved. 
 
 ### That name again
