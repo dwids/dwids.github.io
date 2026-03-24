@@ -1,5 +1,5 @@
 ---
-title: Folders-A Number for Everything - Johnny Decimal
+title: Folders-A Number for Everything -  Johnny Decimal
 tags:
   - techtip
 draft: false
@@ -7,6 +7,8 @@ description: If your folders and files are a mess (me!), here's a possible fix l
 ---
 
 > If your folders and files - like mine - are a mess, here's a possible fix, librarians already know.
+
+> [!tip] Not actually a Technical Tip, but I use this with my plain-text "2nd Brain" note system [Obsidian](https://en.wikipedia.org/wiki/Obsidian_(software))
 
 Think about a library. Libraries don't just pile books randomly on shelves — they group them into sections (Fiction, History, Science), then into smaller categories within each section.
 
@@ -25,7 +27,7 @@ The rule that makes it work: **you're only allowed ten areas, ten categories per
 The payoff is that five years from now, when you need your car insurance renewal, you already know it's in the 40s somewhere — probably 42-something. You're not hunting, you're navigating.
 
 > [!tip] Use your own values
-The one here is a generic example for a **home** user. You are, of course, free to use your own names and numbers
+The one here is a generic example for a **home** user. You are, of course, free to use your own numbers and folder names.
 
 
 ```
