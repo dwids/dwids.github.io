@@ -1,5 +1,5 @@
 ---
-title: Folders-A Number for Everything -  Johnny Decimal
+title: Folders-A Number for Everything - Johnny Decimal
 tags:
   - techtip
 draft: false
