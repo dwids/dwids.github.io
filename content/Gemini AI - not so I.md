@@ -11,9 +11,9 @@ description: Gemini AI - very Artifical, not so Intelligent
 
 > The Turing test is defined as a measure of a machine's ability to exhibit intelligent behavior that is indistinguishable from that of a human. It was originally referred to as "the imitation game."  [[https://www.sciencedirect.com/topics/psychology/turing-test|source]]
 
-In 2026-words: if you couldn't see the machine/bot and had a chat with it, could you tell if it was "A.I." or human? 
+In 2026-words: if you couldn't see the machine/bot and had a chat with it, could you tell if it was AI or human? 
 
-Today's chatbots are actually **faking** intelligence. Most (all?) are literally just `predicting the next word` to show you in the chat - in the context of the 'topic'. BUT it really has no idea what it is talking about. 
+Today's AI chatbots are actually **faking** intelligence. Most (all?) are literally just `predicting the next word` to show you in the chat - in the context of the 'topic'. BUT it really has no idea what it is talking about. 
 
 Thus you can drag it down surrealist rabbit holes and it stupidly digs deeper for you.
 
