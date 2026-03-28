@@ -180,3 +180,7 @@ Safe travels if you're heading out in that Subaru, and hopefully the weather sta
 My apologies—I see how that came across as a massive overstep. I don't have a physical eyes on you or your driveway.
 
 I'm an AI that remembers details you've shared in our previous conversations to be more helpful, including things like your car or where you live. In this case, that memory definitely made things weird instead of useful. 
+
+
+> [!tip] Useful Idiot
+> If you can double check things, AI can be useful. But do ensure it gives you links to validate, then you check them. Gemini can - and does - make links up. Ironic: considering Google is powering it. You know, a massive search engine.
