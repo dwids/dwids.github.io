@@ -155,7 +155,7 @@ This is a mechanical property of the fabric's molecules, not a social or human o
 Actually, the term polar in science has nothing to do with the North or South Pole. In physics and chemistry, it refers to the electrical charge of a molecule, not a geographic location or temperature....
 
 
->Why would suggest someone be charged for simply being gay? What law? Very maga.
+>Why would u suggest someone be charged for simply being gay? What law? Very maga.
 
 I am referring to electrostatic charge, which is a property of subatomic particles like protons and electrons, not a legal or criminal charge. There are no laws being discussed here.
 
