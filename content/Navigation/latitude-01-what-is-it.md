@@ -1,7 +1,7 @@
 ---
 date: 2020-05-27T18:52:46.000Z
 lastmod: 2020-05-27T18:52:46.000Z
-title: "Latitude (1 of 3) - What is Latitude?"
+title: "Latitude (1 of 3) - What is it?"
 draft: false
 slug: latitude-01-what-is-it
 tags: ["navigation"]
@@ -13,17 +13,17 @@ description:
 
 >[!info] Jump to [[latitude-01-what-is-it|Part 1]], [[latitude-02-the-sun-and-the-book|Part 2]], [[latitude-3-cooks-calculation|Part 3]]
 
-In this first post, we’ll cover what latitude is. In the second one, we’ll deduce our latitude, exactly as Lt. James Cook would have done in the 1770s.
+In this first post, we’ll cover what latitude is.
 
-Most of us think of *latitude *and *longitude *as grid coordinates on a flat piece of paper. The lines on the map. In fact, that’s how we use them and it’s perfectly fine to think of them that way.
+Most of us think of *latitude* and *longitude* as **grid** coordinates on a flat piece of paper. The lines on the map. In fact, that’s how we use them and it’s perfectly fine to think of them that way.
 
 But they are both actually **angles**.
 
-[Latitude](https://www.lexico.com/en/definition/latitude) is* “The angular distance of a place north or south of earth&#8217;s equator… usually expressed in degrees and minutes.” *
+[Latitude](https://www.lexico.com/en/definition/latitude) is *“The angular distance of a place north or south of earth&#8217;s equator… usually expressed in degrees and minutes.”*
 
 To picture this, consider me &#8211; paper-drawn and stumpy legs  &#8211; standing here at home near Melbourne. I know I’m about 1/3 of the way ‘down’ the Earth; from the Equator to the South Pole.  As is the custom we’ll draw the Earth upright, in profile, with north at the top:
 ![](latitude-as-angle-01.jpg)
-So, that angle – between the equator and the red line – and marked **Lat, ** is my latitude. It’s about 40 degrees south. If you think about it, it can only go from 90 degrees at the Poles to 0 degrees at the Equator.  London is north of the equator so it’s latitude would be blah degrees north.
+So, that angle – between the equator and the red line – and marked **Lat** is my latitude. It’s about 40 degrees south. If you think about it, it can only go from 90 degrees at the Poles to 0 degrees at the Equator.  London is north of the equator so it’s latitude would be blah degrees north.
 
 In fact, a given latitude is a line parallel to the equator. It ‘slices’ through the Earth as shown by the dashed red line:
 ![](lat02.jpg)
@@ -38,9 +38,9 @@ Sometimes a latitude is just called a *parallel*:
 
 There’s no getting around it: angles are usually measured in degrees:
 
-- A circle is **360 degrees**
-- A degree is **60****minutes**
-- A minute is **60****seconds**
+- A circle is **360** *degrees*
+- A degree is **60** *minutes*
+- A minute is **60** *seconds*
 
 To avoid confusion with time, it is useful to say ‘minutes of arc’ or ‘seconds of arc’ with latitude etc.
 
@@ -58,6 +58,7 @@ The last main thing is the *aide-mémoire*.  Latitude lines are horizontal relat
 
 I can’t draw. Normally I’d use Visio, but currently don’t have it as it’s licensed monthly and I don’t need it.  Also, to be honest, it’s sometimes quicker to just get out a bit of scrap paper, my magical new [mechanical pencil](https://www.amazon.com.au/dp/B004OHNTVC/ref=pe_2361882_282382012_TE_item) … and my brilliant secret weapon:
 ![](zoombig-mathomat_a44dcbf3-e79f-4737-96f6-3bb5ce2be1d4_grande.jpg)
+
 I don’t bother with the scanner, just photograph it/them and upload to Dropbox. Quick crop and brighten on the PC &#8211; in the free ‘viewer’ IrfanView &#8211; and we’re done.
 
 ---
