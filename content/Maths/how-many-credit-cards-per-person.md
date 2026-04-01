@@ -19,6 +19,8 @@ Some in the head, **approximate** numerical pondering followed:
 
 (b) 7 billion people on Earth. $7*10^{9}$.  We are estimating here, so to make the maths easy I can round that up to $10^{10}$.
 
-Thusly dividing (a)/(b) we can have $10^{(16-10)}$ each (remember your exponential maths?).  This is $10^{6}$.       So, about **1 million cards** each.
+Thusly dividing (a)/(b) we can have $10^{(16-10)}$ each (remember your exponential maths?).  This is $10^{6}$.       
+
+So, about **1 million cards** each.
 
 > [!info] Original Published Date : *2013-01-07*
