@@ -4,7 +4,7 @@ lastmod: 2008-05-16T10:36:00.000Z
 title: First GPS logging with new phone - NMEA sentence
 draft: false
 slug: first-gps-logging-with-new-phone-nmea-sentence
-tags: ["navigation"]
+tags: ["navigation","gps"]
 cover:
     image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
     alt: First GPS logging with new phone - NMEA sentence

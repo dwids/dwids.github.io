@@ -15,17 +15,17 @@ Today I took this phone snapshot of a great plane trail. It was *about* 3pm, loo
 
 ![[515dd-img_20171209_150219.jpg]]
 
-A quick check [1] showed it was **about** 12km up. I&#8217;d guess it was **about** 30 degrees above the horizon. I wondered how far away it was ; meaning what point on the Earth was it directly over when I took this?  So, time for some olde world maths. First - of course - draw it:
+A quick check[^1] showed it was **about** 12km up. I&#8217;d guess it was **about** 30 degrees above the horizon. I wondered how far away it was ; meaning what point on the Earth was it directly over when I took this?  So, time for some olde world maths. First - of course - draw it:
 
 ![](9d9d6-ss.20171209.162302.jpg)
 
-I need to find **x**, the distance in km. Time to go really old school and use logarithms [2]  aka *logs.*
+I need to find **x**, the distance in km. Time to go really old school and use logarithms[^2]  aka *logs.*
 
 
 $$
 x = \frac{12}{\tan(30°)}
 $$
-I'm *dividing** so I need to ***subtract***the logs:   
+I'm *dividing** so I need to ***subtract*** the logs:   
 $$
 \log(x) = \log(12) - \log(\tan(30°))
 $$
@@ -44,7 +44,7 @@ Now, the first 1 in my 1.3178 means I have (1+1) = **2 digits** before the decim
 
 So it is therefore: **20.79 km**
 
-Crosscheck with the very modern Flightaware website [3] which said that at 15:02 (when I took the photo), the flight was at Latitude and Longitude:
+Crosscheck with the very modern Flightaware website[^3] which said that at 15:02 (when I took the photo), the flight was at Latitude and Longitude:
 
 Sat 15:02:23    -37.8623    144.6534
 
@@ -57,11 +57,11 @@ With the result being **21.39** km.  Not bad. Not bad at all.
 
 #### References:
 
-[1] FlightRadar24 app on Android used. BTW this was QF64 from Johannesburg to Sydney.
+[^1]: FlightRadar24 app on Android used. BTW this was QF64 from Johannesburg to Sydney.
 
- [2] Have re-discovered how to do Logarithms as part of another exercise involving studying a calculation which was part of an 1860s gold claim dispute at Walhalla. I had learnt them back in the early 70s, then forgot as calculators took over.
+[^2]: I have re-discovered how to do Logarithms as part of another exercise involving studying a calculation which was part of an 1860s gold claim dispute at Walhalla. Old Mate, back then, was clearly using them. I myself had been taught them back in the mid 1970s, then forgot as calculators took over.
 
-[3] http://flightaware.com/live/flight/QFA64/history/20171208/1650Z/FAOR/YSSY/tracklog
+[^3]: http://flightaware.com/live/flight/QFA64/history/20171208/1650Z/FAOR/YSSY/tracklog
 
 
 > [!info] Original Published Date : *2017-12-09*
