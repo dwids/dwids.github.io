@@ -4,14 +4,14 @@ lastmod: 2016-06-26T20:26:28.000Z
 title: Navigation (2 of 3) – Getting the basics right
 draft: false
 slug: navigation-getting-the-basics-right-part-2
-tags: ["navigation","navigation"]
+tags: ["navigation"]
 cover:
     image: https://images.unsplash.com/photo-1516503424803-708327384b90?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDN8fGNvbXBhc3N8ZW58MHx8fHwxNzMyMjI2NDM4fDA&ixlib=rb-4.0.3&q=80&w=2000
     alt: Navigation – Getting the basics right (Part 2)
 description: 
 ---
 
-This is not directly related to [Part 1](__GHOST_URL__/navigation-getting-the-basics-right-part-1/), but similar concepts : you need to get the underlying basic setup – or measurement system – right.
+This is not directly related to [[navigation-getting-the-basics-right-part-1|Part 1]], but similar concepts : you need to get the underlying basic setup – or measurement system – right.
 
 Just a week ago we were out for a walk by the sea along Pt Gellibrand here in Williamstown. On the other side of the bay, we spotted an obvious point, but were unsure what it was. It was misty, so hard to see details. I took some phone photos and went back the following day to take some with a camera. Again it was misty (double click to zoom in on all photos):
 
@@ -27,12 +27,14 @@ Aha, it’s **133** degrees from me. Sort of South-East. Not sure how I had logg
 
 Anyway, off to Google Earth. Which clearly showed the bearing from Pt Gellibrand to Black Rock was … about **144** degrees. What? Way outside the assumed 1 or 2 degree error margin.
 
-Something was nagging me. Different “Norths”? The upshot is: *yes*. I found that the (free) version of the App was locked in to use **Magnetic** North. Google Earth is locked into using **True** North (as in; the lines on the printed map). They two can be different depending upon your position on the Earth (i.e. the local variation in the Earth’s magnetic field). A quick look-up shows in Melbourne this variance is **11.6** degrees. 133 + 11 = 144. Nice!
+Something was nagging me. Different “Norths”? The upshot is: *yes*. I found that the (free) version of the App was locked in to use **Magnetic** North. Google Earth is locked into using **True** North (as in; the lines on the printed map). They two can be different depending upon your position on the Earth (i.e. the local variation in the Earth’s magnetic field).  This is a key concept that is covered in part 3 : [[navigation-north-is-not-north-part3]].
+
+A quick look-up shows in Melbourne this variance is **11.6** degrees. 133 + 11 = 144. Nice! 
 
 Earlier I’d taken another photo, with the big camera, when the sun was out, then labelled it with my (our!) speculation:
 [![Red Bluff photo from Pt G small](06cde-red-bluff-photo-from-pt-g-small_thumb.png)](https://dwids.wordpress.com2020/03/1c95e-red-bluff-photo-from-pt-g-small.png)
 
-Seems pretty right to me. Just need to work out what the two towers are. And don’t say “a book” ![Smile](21c06-wlemoticon-smile.png)
+Seems pretty right to me. Just need to work out what the two towers are. And don’t say “a book” !😄
 
 ---
 

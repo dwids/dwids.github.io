@@ -1,7 +1,7 @@
 ---
 date: 2020-05-15T20:21:55.000Z
 lastmod: 2020-05-15T20:21:55.000Z
-title: North is not North
+title: Navigation (3 of 3) - North is not North
 draft: false
 slug: north-is-not-north
 tags: ["navigation"]
@@ -25,11 +25,11 @@ About 1 km off to your left.
 
 1 km is a bit of a serious &#8216;error&#8217;.  The longer you trust the compass to take you Due North, the more that error grows. 
 
-It&#8217;s because your compass, unless adjusted, probably **isn&#8217;t pointing to True North** (think of that as being the North as printed on your map). In fact in most places on Earth, such a compass will **not **point to True North.
+It&#8217;s because your compass, unless adjusted, probably **isn&#8217;t pointing to True North** (think of that as being the North as printed on your map). In fact in most places on Earth, such a compass will **not** point to True North.
 
-The reason is the Earth&#8217;s magnetic field varies from place to place&#8230;and also changes (slowly) over time.  The needle on your compass is pointing to your **Magnetic **North. It&#8217;s lining up with the direction of the Earth&#8217;s magnetic field at that point where you are. 
+The reason is the Earth&#8217;s magnetic field varies from place to place&#8230;and also changes (slowly) over time.  The needle on your compass is pointing to your **Magnetic** North. It&#8217;s lining up with the direction of the Earth&#8217;s magnetic field at that point where you are. 
 
-**True** North is effectively a fixed, defined point.  It&#8217;s where the North-South grid lines on the map are pointing. The difference between True (*geographic*) and Magnetic (*compass*) North is called your **Magnetic Declination **
+**True** North is effectively a fixed, defined point.  It&#8217;s where the North-South grid lines on the map are pointing. The difference between True (*geographic*) and Magnetic (*compass*) North is called your **Magnetic Declination**
 
 Here in Melbourne the Magnetic Declination is currently about 11 degrees (East/positive). This [excellent website](https://www.magnetic-declination.com/what-is-magnetic-declination.php) not only gives the values, but these definitions:
 
