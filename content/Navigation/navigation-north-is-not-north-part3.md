@@ -37,7 +37,10 @@ Here in Melbourne the Magnetic Declination is currently about 11 degrees (East/p
 
 - &#8220;If the compass at your place is pointing counter-clockwise with respect to the True North, declination is negative or WEST&#8221; 
 
-![](positive-declination.gif)This is the EAST case, like Melbourne. Source: [https://www.magnetic-declination.com/what-is-magnetic-declination.php](https://www.magnetic-declination.com/what-is-magnetic-declination.php)
+![](positive-declination.gif)
+
+⬆️ This is the EAST case, like Melbourne. [Source](https://www.magnetic-declination.com/what-is-magnetic-declination.php)
+
 ## The Key to solving this
 
 If your compass is NOT a basic (aka cheap) one, it should come with a little key or screwdriver. You simply look up the value and use the key to rotate the NESW scale (or the needle&#8217;s base plate) by the value of your location&#8217;s Magnetic Declination&#8230;and the Compass will now point to True North. If you re-do the Water Tank exercise, you&#8217;ll now be fine.
