@@ -59,7 +59,7 @@ With the result being **21.39** km.  Not bad. Not bad at all.
 
 [^1]: FlightRadar24 app on Android used. BTW this was QF64 from Johannesburg to Sydney.
 
-[^2]: I have re-discovered how to do Logarithms as part of another exercise involving studying a calculation which was part of an 1860s gold claim dispute at Walhalla. Old Mate, back then, was clearly using them. I myself had been taught them back in the mid 1970s, then forgot as calculators took over.
+[^2]: I have re-discovered how to do Logarithms as part of earlier exercise. This was involving studying (trying to recreate)  calculations which were part of an 1860s gold claim dispute at Walhalla. Old Mate, back then, was clearly using them. I myself had been taught them in the mid 1970s, then forgot all about them as calculators took over.
 
 [^3]: http://flightaware.com/live/flight/QFA64/history/20171208/1650Z/FAOR/YSSY/tracklog
 
