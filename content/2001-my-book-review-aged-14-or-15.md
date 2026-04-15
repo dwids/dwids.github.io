@@ -25,9 +25,9 @@ Using my [high tech scanning rig](__GHOST_URL__/2020/04/11/my-high-tech-scanning
 
 Here is the link to the [PDF version of the scanned pages](https://www.dropbox.com/s/p19tyclzg9s1ioi/2001%20book%20review%20-%20Form%204%20%281976%29.pdf?dl=0) on Dropbox.  
 ![](1_image-8.png)
-Decades on, it was a real buzz to read this. Particularly the teacher&#8217;s comments, thanking me (!) 🙂  Yes, I&#8217;ve forgotten their name, sorry teacher.
+Decades on, it was a real buzz to read this. Particularly the teacher’s comments, thanking me (!) 🙂  Yes, I’ve forgotten their name, sorry teacher.
 
-Seriously &#8211; you can hopefully now see why, when a year of two later the &#8220;sci fi&#8221; film *Star Wars* came out&#8230;I went &#8220;yeah, it&#8217;s ok, but nah&#8221;.
+Seriously – you can hopefully now see why, when a year of two later the “sci fi” film *Star Wars* came out…I went “yeah, it’s ok, but nah”.
 
 ---
 
