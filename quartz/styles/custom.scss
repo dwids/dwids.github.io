@@ -1,0 +1,137 @@
+@use "./base.scss";
+
+// put your custom CSS here!
+
+// 2026-03-18 - Simplified tag style: plain inline text, no button/box
+.tags li a {
+  color: #71717a !important;
+  font-size: 0.75em;
+  font-weight: 500;
+  font-family: var(--codeFont);
+ background-color: #dbeafe !important;  /* same or similar blue to link per se - highlight */
+  padding: 0.1em 0.3em;
+  border-radius: 3px;
+}
+
+.tags li {
+  border: none;
+  border-radius: 0;
+  box-shadow: none;
+  padding: 0;
+}
+
+// 2026-02-18 - Claude suggestion: Quartz was not showing "---" nor <hr>
+hr {
+  border: none;
+  border-top: 1px solid var(--gray);
+  margin: 1.5em 0;
+}
+
+// 2026-02-18 - Claude suggestion: Fixed inline code visibility in both light and dark themes
+// Issue: Light gray background wasn't visible on white, dark background made text unreadable in dark mode
+// Solution: 
+code {
+  background-color: #e5e5e5;
+  color: #18181b;
+  padding: 0.1em 0.3em;
+  border-radius: 3px;
+  font-size: 0.9em;
+}
+
+
+.page-title {
+  font-size: 2em !important;
+  font-weight: 700 !important;
+  letter-spacing: -0.02em;
+  background-color: #e0e0e0 !important;
+}
+
+
+// 2026-02-18 - Claude suggestion: Style article titles to stand out from H1 headings
+.article-title {
+  background-color: #e0e0e0 !important;
+  font-style: italic;
+}
+
+/* 2026-02-18 - Claude suggestion: Make links more visible with highlight effect */
+a {
+  color: #2563eb !important;
+  background-color: transparent !important;  /* force no background */
+  padding: 0 !important;                     /* remove padding causing ghost box */
+  text-decoration: underline !important;
+  text-underline-offset: 3px !important;
+  text-decoration-thickness: 1px !important;
+}
+
+a:hover {
+  color: #1d4ed8 !important;
+  background-color: #bfdbfe !important;      /* hover bg still shows */
+}
+
+
+// 2026-02-26 - Claude suggestion: Blockquote with justified text alignment
+blockquote, blockquote p {
+  border-left: none !important;
+  color: #71717a !important;
+  font-style: italic;
+  padding-left: 0.2em;
+  padding-right: 1em;
+  margin-bottom: 1em;
+  margin-top: 1.5em;
+  line-height: 1.1;
+  text-align: justify;
+  font-family: Georgia, "Times New Roman", serif !important;
+}
+
+// 2026-02-26 - Claude suggestion: Style figure captions like traditional publishing
+// Darker gray, tight spacing to image, larger gap below caption
+figcaption {
+  font-size: 0.85em;
+  font-style: italic;
+  color: #52525b;
+  text-align: center;
+  margin-top: 0.25em;
+  margin-bottom: 1.5em;
+}
+
+
+.callout {
+  overflow: visible !important;
+  border-left: 2px solid var(--color) !important;
+  border-right: 2px solid var(--color) !important;
+  border-top: 2px solid var(--color) !important;
+  border-bottom: 2px solid var(--color) !important;
+}
+
+
+.page-description {
+  margin: 0.2em 0 0.4em 0;
+  font-size: 0.85em;
+  color: var(--gray);
+  font-style: italic;
+}
+
+
+/* === Heading colours — palette inspired by waterfall photo === */
+
+/* Site title (H1) — cool mist blue, matches existing brand */
+h1 {
+  color: #354F3B !important;
+}
+
+/* Major section headings (H2) — deep teal, echoes wet fern shadow */
+h2 {
+  color: #0d9488 !important;
+  border-left: 3px solid #0d9488 !important;
+  padding-left: 0.5rem !important;
+}
+
+/* Sub-headings (H3) — dark slate, wet rock tone */
+h3 {
+  color: #475569 !important;
+}
+
+/* Minor headings (H4) — amber, warm accent like sunlit fern fronds */
+h4 {
+  color: #d97706 !important;
+}

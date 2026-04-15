@@ -1,0 +1,1717 @@
+
+ Quartz v4.5.2  
+
+Loaded 21 plugins
+  Transformers: FrontMatter, CreatedModifiedDate, SyntaxHighlighting, ObsidianFlavoredMarkdown, GitHubFlavoredMarkdown, TableOfContents, LinkProcessing, Description, Latex
+  Filters: RemoveDrafts
+  Emitters: AliasRedirects, ComponentResources, ContentPage, FolderPage, TagPage, ContentIndex, Assets, Static, Favicon, 404Page, CustomOgImages
+Cleaned output directory `docs` in 63ms
+Found 436 input files from `content` in 37ms
+Parsing input files using 3 threads
+[markdown] content/2001-my-book-review-aged-14-or-15.md -> 2001-my-book-review-aged-14-or-15 (47ms)
+[markdown] content/Music/blokes-love-songs.md -> Music/blokes-love-songs (62ms)
+[markdown] content/Music/boys-will-be-boys-taste.md -> Music/boys-will-be-boys-taste (13ms)
+[markdown] content/Music/breathe-with-me-till-dawn-futuro.md -> Music/breathe-with-me-till-dawn-futuro (30ms)
+[markdown] content/General/great-ess-v-haw-incidents.md -> General/great-ess-v-haw-incidents (64ms)
+[markdown] content/A bit more on - Cricket.md -> A-bit-more-on---Cricket (65ms)
+[markdown] content/Astronomy/behind-the-scenes-stellarium.md -> Astronomy/behind-the-scenes-stellarium (12ms)
+[markdown] content/Music/buying-a-portable-mp3-player-c-2004.md -> Music/buying-a-portable-mp3-player-c-2004 (27ms)
+[markdown] content/Music/california-jam-klaatu.md -> Music/california-jam-klaatu (6ms)
+[markdown] content/Music/cassandra-sherbet.md -> Music/cassandra-sherbet (6ms)
+[markdown] content/General/happy-50th-nasa-tli-and-the-two-towers-missions.md -> General/happy-50th-nasa-tli-and-the-two-towers-missions (35ms)
+[markdown] content/Music/choctaw-hayride-alison-krauss-union-station.md -> Music/choctaw-hayride-alison-krauss-union-station (3ms)
+[markdown] content/Astronomy/easy-moon-task.md -> Astronomy/easy-moon-task (19ms)
+[markdown] content/Music/clair-gilbert-osullivan.md -> Music/clair-gilbert-osullivan (4ms)
+[markdown] content/Music/classical-gas-tommy-emmanuel.md -> Music/classical-gas-tommy-emmanuel (5ms)
+[markdown] content/General/harry-potter-and-the-half-blood-prince.md -> General/harry-potter-and-the-half-blood-prince (14ms)
+[markdown] content/Astronomy/goodbye-and-thank-you-starstuff-show-and-podcast.md -> Astronomy/goodbye-and-thank-you-starstuff-show-and-podcast (16ms)
+[markdown] content/Music/family-snapshot-peter-gabriel.md -> Music/family-snapshot-peter-gabriel (9ms)
+[markdown] content/Astronomy/light-years-from-hobsons-bay.md -> Astronomy/light-years-from-hobsons-bay (12ms)
+[markdown] content/Music/gheorghe-zamfir.md -> Music/gheorghe-zamfir (14ms)
+[markdown] content/General/hes-on-tv-countdown-he-must-be-rich.md -> General/hes-on-tv-countdown-he-must-be-rich (28ms)
+[markdown] content/Astronomy/mars-probe-cooks-and-looks.md -> Astronomy/mars-probe-cooks-and-looks (16ms)
+[markdown] content/Music/golden-miles-bulk-import-of-30-old-music-blog-posts.md -> Music/golden-miles-bulk-import-of-30-old-music-blog-posts (19ms)
+[markdown] content/Music/golden-miles-by-healing-force.md -> Music/golden-miles-by-healing-force (4ms)
+[markdown] content/General/high-definition-tv-recording-and-playback.md -> General/high-definition-tv-recording-and-playback (15ms)
+[markdown] content/Music/great-cover-songs-rockwiz.md -> Music/great-cover-songs-rockwiz (8ms)
+[markdown] content/General/hitler-1889-1936-hubris.md -> General/hitler-1889-1936-hubris (12ms)
+[markdown] content/Astronomy/midday-is-almost-never-1200.md -> Astronomy/midday-is-almost-never-1200 (23ms)
+[markdown] content/Music/great-covers-take-2-rockwiz.md -> Music/great-covers-take-2-rockwiz (7ms)
+[markdown] content/General/hollowmen-barely-making-top-50-in-ratings.md -> General/hollowmen-barely-making-top-50-in-ratings (8ms)
+[markdown] content/Astronomy/solar-dance-the-sun-at-1200.md -> Astronomy/solar-dance-the-sun-at-1200 (15ms)
+[markdown] content/Music/interesting-song-cover-versions.md -> Music/interesting-song-cover-versions (13ms)
+[markdown] content/Music/interesting-songs-april-2nd-2008.md -> Music/interesting-songs-april-2nd-2008 (5ms)
+[markdown] content/Astronomy/watched-mars-robot-phoenix-landing-in-real-time.md -> Astronomy/watched-mars-robot-phoenix-landing-in-real-time (8ms)
+[markdown] content/Music/john-nemeth-why-not-me.md -> Music/john-nemeth-why-not-me (4ms)
+[markdown] content/Astronomy/water-ice-on-mars.md -> Astronomy/water-ice-on-mars (6ms)
+[markdown] content/General/homo-vacuous-and-the-great-big-nod.md -> General/homo-vacuous-and-the-great-big-nod (23ms)
+[markdown] content/Music/johnny-farnham-comic-conversation.md -> Music/johnny-farnham-comic-conversation (9ms)
+[markdown] content/General/hot-walk-lush-water.md -> General/hot-walk-lush-water (7ms)
+[markdown] content/General/hottest-december-ever-hottest-dec-day-ever-tipped.md -> General/hottest-december-ever-hottest-dec-day-ever-tipped (4ms)
+[markdown] content/General/how-i-find-my-files-including-on-external-disks-and-dvds-blu-ray-movies-etc.md -> General/how-i-find-my-files-including-on-external-disks-and-dvds-blu-ray-movies-etc (11ms)
+[markdown] content/Bushwalks/1000-steps-loop-walk-dandenongs.md -> Bushwalks/1000-steps-loop-walk-dandenongs (25ms)
+[markdown] content/General/how-i-got-the-job-at-ibm-in-1982.md -> General/how-i-got-the-job-at-ibm-in-1982 (9ms)
+[markdown] content/Bushwalks/744.md -> Bushwalks/744 (9ms)
+[markdown] content/Music/lesser-known-songs-by-well-known-artists.md -> Music/lesser-known-songs-by-well-known-artists (30ms)
+[markdown] content/General/hyperwords-a-clever-and-useful-firefox-add-on.md -> General/hyperwords-a-clever-and-useful-firefox-add-on (8ms)
+[markdown] content/Bushwalks/catherdral-ranges-jawbones-walk-april-23rd-2008.md -> Bushwalks/catherdral-ranges-jawbones-walk-april-23rd-2008 (13ms)
+[markdown] content/General/icb-bin-ein-supreme-nerd.md -> General/icb-bin-ein-supreme-nerd (9ms)
+[markdown] content/Music/linda-george-songs.md -> Music/linda-george-songs (17ms)
+[markdown] content/General/idea-public-lectures-in-melbourne-web-site.md -> General/idea-public-lectures-in-melbourne-web-site (9ms)
+[markdown] content/Music/lucifer-sam-pink-floyd.md -> Music/lucifer-sam-pink-floyd (10ms)
+[markdown] content/Bushwalks/dandenongs-track-comparison.md -> Bushwalks/dandenongs-track-comparison (14ms)
+[markdown] content/Bushwalks/falcons-lookout-walk.md -> Bushwalks/falcons-lookout-walk (9ms)
+[markdown] content/Music/mark-gillespie-songs.md -> Music/mark-gillespie-songs (15ms)
+[markdown] content/General/ideas-for-the-hollowmen.md -> General/ideas-for-the-hollowmen (17ms)
+[markdown] content/General/if-i-was-a-democrat-in-america-now.md -> General/if-i-was-a-democrat-in-america-now (4ms)
+[markdown] content/Music/mercy-seat-johnny-cash.md -> Music/mercy-seat-johnny-cash (5ms)
+[markdown] content/Music/never-let-you-go-divinyls.md -> Music/never-let-you-go-divinyls (3ms)
+[markdown] content/Music/november-spawned-a-monster-morrissey.md -> Music/november-spawned-a-monster-morrissey (3ms)
+[markdown] content/Bushwalks/grampians-hollow-mountain-has-me-in-stitches.md -> Bushwalks/grampians-hollow-mountain-has-me-in-stitches (21ms)
+[markdown] content/Music/oklahoma-the-film.md -> Music/oklahoma-the-film (8ms)
+[markdown] content/Music/opening-chord-to-a-hard-days-night.md -> Music/opening-chord-to-a-hard-days-night (4ms)
+[markdown] content/Bushwalks/hepburn-springs-walk-april-20th-2008.md -> Bushwalks/hepburn-springs-walk-april-20th-2008 (15ms)
+[markdown] content/Music/peeling-onions-songs.md -> Music/peeling-onions-songs (10ms)
+[markdown] content/General/indexing-pc-stuff-01-inside-documents.md -> General/indexing-pc-stuff-01-inside-documents (32ms)
+[markdown] content/Music/porpoise-song-the-monkees.md -> Music/porpoise-song-the-monkees (5ms)
+[markdown] content/Bushwalks/hollow-mountain-grampians-walk-march-22nd-2008.md -> Bushwalks/hollow-mountain-grampians-walk-march-22nd-2008 (11ms)
+[markdown] content/General/inside-hitlers-bunker-the-last-days-of-the-third-reich.md -> General/inside-hitlers-bunker-the-last-days-of-the-third-reich (7ms)
+[markdown] content/Music/rachel-russell-morris.md -> Music/rachel-russell-morris (11ms)
+[markdown] content/General/interesting-songs-april-25th-2008-2.md -> General/interesting-songs-april-25th-2008-2 (5ms)
+[markdown] content/General/interesting-songs-april-25th-2008.md -> General/interesting-songs-april-25th-2008 (5ms)
+[markdown] content/Bushwalks/kallista-sherbrooke-loop-walk.md -> Bushwalks/kallista-sherbrooke-loop-walk (16ms)
+[markdown] content/Music/recording-studio-in-your-pocket.md -> Music/recording-studio-in-your-pocket (12ms)
+[markdown] content/General/internet-archive-01-intro.md -> General/internet-archive-01-intro (15ms)
+[markdown] content/Bushwalks/kallista-sherbrooke-walk.md -> Bushwalks/kallista-sherbrooke-walk (15ms)
+[markdown] content/Music/rock-island-line-1957-lonnie-donegan.md -> Music/rock-island-line-1957-lonnie-donegan (12ms)
+[markdown] content/General/internet-tv-1-teds-excellent-leading-edge-lectures-and-performances-2.md -> General/internet-tv-1-teds-excellent-leading-edge-lectures-and-performances-2 (9ms)
+[markdown] content/Music/smiley-ronnie-burns.md -> Music/smiley-ronnie-burns (3ms)
+[markdown] content/Bushwalks/marysville-falls-and-de-la-rue-lookout-walk-april-9th-2008.md -> Bushwalks/marysville-falls-and-de-la-rue-lookout-walk-april-9th-2008 (7ms)
+[markdown] content/General/internet-tv-2-miro-free-open-internet-tv-and-video-player.md -> General/internet-tv-2-miro-free-open-internet-tv-and-video-player (7ms)
+[markdown] content/Music/song-hiccups.md -> Music/song-hiccups (9ms)
+[markdown] content/Bushwalks/mt-dandenong-doongala.md -> Bushwalks/mt-dandenong-doongala (10ms)
+[markdown] content/Bushwalks/mt-dandenong-highlights-walk-take-1-steep-shortcut.md -> Bushwalks/mt-dandenong-highlights-walk-take-1-steep-shortcut (8ms)
+[markdown] content/General/iphone-apps-i-use.md -> General/iphone-apps-i-use (19ms)
+[markdown] content/Music/songs-that-would-make-you-get-up-and-dance.md -> Music/songs-that-would-make-you-get-up-and-dance (17ms)
+[markdown] content/Bushwalks/mt-dandenong-kyeema-to-doongalla.md -> Bushwalks/mt-dandenong-kyeema-to-doongalla (13ms)
+[markdown] content/General/iphone-ipod-touch-picture-board-idea.md -> General/iphone-ipod-touch-picture-board-idea (9ms)
+[markdown] content/Music/songs-too-slow-or-fast-and-we-didnt-know.md -> Music/songs-too-slow-or-fast-and-we-didnt-know (10ms)
+[markdown] content/General/iphone-todo-list-as-loan-system.md -> General/iphone-todo-list-as-loan-system (6ms)
+[markdown] content/Bushwalks/mt-macedon-highlights-run-through-of-hybrid-walk.md -> Bushwalks/mt-macedon-highlights-run-through-of-hybrid-walk (9ms)
+[markdown] content/General/just-two-things-i-wish-i-could-have-shown-pa-hudson.md -> General/just-two-things-i-wish-i-could-have-shown-pa-hudson (8ms)
+[markdown] content/Music/steely-dan-songs.md -> Music/steely-dan-songs (15ms)
+[markdown] content/Bushwalks/mt-macedon-loop.md -> Bushwalks/mt-macedon-loop (12ms)
+[markdown] content/Music/stray-cat-blues-the-rolling-stones.md -> Music/stray-cat-blues-the-rolling-stones (4ms)
+[markdown] content/Music/sub-rosa-subway-klaatu-beatles-stuff.md -> Music/sub-rosa-subway-klaatu-beatles-stuff (4ms)
+[markdown] content/Bushwalks/mt-macedon-walk-may-22nd-2008.md -> Bushwalks/mt-macedon-walk-may-22nd-2008 (7ms)
+[markdown] content/General/kindle-ebook-many-editions-of-the-same-thing-consumer-confusion.md -> General/kindle-ebook-many-editions-of-the-same-thing-consumer-confusion (13ms)
+[markdown] content/General/latham-ks83-or-84.md -> General/latham-ks83-or-84 (3ms)
+[markdown] content/Music/the-eagles-great-new-3-hour-documentary.md -> Music/the-eagles-great-new-3-hour-documentary (5ms)
+[markdown] content/Bushwalks/sherbrooke-forest-and-alfred-nicholas-gardens-walk-march-9th-2008.md -> Bushwalks/sherbrooke-forest-and-alfred-nicholas-gardens-walk-march-9th-2008 (4ms)
+[markdown] content/Music/tiger-feet-mud.md -> Music/tiger-feet-mud (4ms)
+[markdown] content/Bushwalks/the-cathedral-cathedral-ranges.md -> Bushwalks/the-cathedral-cathedral-ranges (5ms)
+[markdown] content/Music/twenty-flight-rock-1956-eddie-cochran.md -> Music/twenty-flight-rock-1956-eddie-cochran (4ms)
+[markdown] content/Music/undecided-the-masters-apprentices.md -> Music/undecided-the-masters-apprentices (3ms)
+[markdown] content/General/locate32-and-dropbox-offline-indexes-of-remote-pcs.md -> General/locate32-and-dropbox-offline-indexes-of-remote-pcs (12ms)
+[markdown] content/Bushwalks/trip-walk-warracknabeal-wyperfeld-np-and-warrnambool.md -> Bushwalks/trip-walk-warracknabeal-wyperfeld-np-and-warrnambool (6ms)
+[markdown] content/Music/zoot-suit-riot-cherry-poppin-daddies.md -> Music/zoot-suit-riot-cherry-poppin-daddies (3ms)
+[markdown] content/General/lost-lights-not-power-and-so-did-my-neighbours.md -> General/lost-lights-not-power-and-so-did-my-neighbours (6ms)
+[markdown] content/Navigation/first-gps-logging-with-new-phone-nmea-sentence.md -> Navigation/first-gps-logging-with-new-phone-nmea-sentence (6ms)
+[markdown] content/General/making-maps-with-qgis.md -> General/making-maps-with-qgis (6ms)
+[markdown] content/Bushwalks/walk-lower-stony-creek-reservoir-staughton-vale.md -> Bushwalks/walk-lower-stony-creek-reservoir-staughton-vale (13ms)
+[markdown] content/Navigation/got-a-gps-at-last.md -> Navigation/got-a-gps-at-last (10ms)
+[markdown] content/General/making-online-articles-easier-to-read.md -> General/making-online-articles-easier-to-read (11ms)
+[markdown] content/Bushwalks/warburton-take-2-and-didnt-make-it-again.md -> Bushwalks/warburton-take-2-and-didnt-make-it-again (10ms)
+[markdown] content/General/melbourne-museum-melbourne-gallery-and-story.md -> General/melbourne-museum-melbourne-gallery-and-story (7ms)
+[markdown] content/Navigation/gps-open-source-maps.md -> Navigation/gps-open-source-maps (12ms)
+[markdown] content/Navigation/gps-really-is-a-miracle-of-technology.md -> Navigation/gps-really-is-a-miracle-of-technology (12ms)
+[markdown] content/General/memorable-off-road-trips.md -> General/memorable-off-road-trips (14ms)
+[markdown] content/Navigation/gps-working-very-well-for-bush-logging-err-bush-walk-logging.md -> Navigation/gps-working-very-well-for-bush-logging-err-bush-walk-logging (6ms)
+[markdown] content/General/men-of-rock-other-great-geology-documentaries.md -> General/men-of-rock-other-great-geology-documentaries (6ms)
+[markdown] content/Navigation/history-mystery-williamstown-observatory-1863.md -> Navigation/history-mystery-williamstown-observatory-1863 (11ms)
+[markdown] content/Creative/SingingCrystals_AFL.md -> Creative/SingingCrystals_AFL (36ms)
+[markdown] content/General/moved-every-bit-of-laptops-disk-to-a-much-bigger-disk.md -> General/moved-every-bit-of-laptops-disk-to-a-much-bigger-disk (15ms)
+[markdown] content/General/mt-stapylton-area-post-jan-2014-grampians-fires.md -> General/mt-stapylton-area-post-jan-2014-grampians-fires (4ms)
+[markdown] content/General/music-theory-for-musicians-and-normal-people.md -> General/music-theory-for-musicians-and-normal-people (3ms)
+[markdown] content/Creative/anzac-day-golden-wisps-of-pale-men.md -> Creative/anzac-day-golden-wisps-of-pale-men (12ms)
+[markdown] content/General/my-high-tech-scanning-rig.md -> General/my-high-tech-scanning-rig (4ms)
+[markdown] content/Navigation/latitude-01-what-is-it.md -> Navigation/latitude-01-what-is-it (19ms)
+[markdown] content/General/my-internet-which-is-fast-quite-cheap-and-not-nbn.md -> General/my-internet-which-is-fast-quite-cheap-and-not-nbn (7ms)
+[markdown] content/Creative/its-all-relative-mummy-c-2004.md -> Creative/its-all-relative-mummy-c-2004 (13ms)
+[markdown] content/General/new-p3600i-first-thoughts.md -> General/new-p3600i-first-thoughts (3ms)
+[markdown] content/General/new-phone-as-modem-for-laptop.md -> General/new-phone-as-modem-for-laptop (7ms)
+[markdown] content/Creative/lm3-and-port-phillip-non-bay.md -> Creative/lm3-and-port-phillip-non-bay (11ms)
+[markdown] content/Navigation/latitude-02-the-sun-and-the-book.md -> Navigation/latitude-02-the-sun-and-the-book (19ms)
+[markdown] content/General/no-car-then-heres-some-day-trips-on-a-train.md -> General/no-car-then-heres-some-day-trips-on-a-train (19ms)
+[markdown] content/General/old-commodore-amiga-music-file-reborn.md -> General/old-commodore-amiga-music-file-reborn (6ms)
+[markdown] content/Creative/on-the-trail-of-captain-blowhard-2001.md -> Creative/on-the-trail-of-captain-blowhard-2001 (22ms)
+[markdown] content/Navigation/latitude-3-cooks-calculation.md -> Navigation/latitude-3-cooks-calculation (20ms)
+[markdown] content/General/one-day-in-a-long-war-jeffrey-ethell.md -> General/one-day-in-a-long-war-jeffrey-ethell (3ms)
+[markdown] content/General/password-safe-now-version-2-and-open-source.md -> General/password-safe-now-version-2-and-open-source (3ms)
+[markdown] content/Creative/the-unnatural-tree-at-happy-creek-2000.md -> Creative/the-unnatural-tree-at-happy-creek-2000 (9ms)
+[markdown] content/Navigation/melbourne-observatory-location-1871-modern-values.md -> Navigation/melbourne-observatory-location-1871-modern-values (12ms)
+[markdown] content/Entertainment/3-lounge-room-devices-into-1.md -> Entertainment/3-lounge-room-devices-into-1 (4ms)
+[markdown] content/General/patricia-piccinini-we-are-family.md -> General/patricia-piccinini-we-are-family (7ms)
+[markdown] content/General/pc-software-and-tips-master-list.md -> General/pc-software-and-tips-master-list (3ms)
+[markdown] content/Navigation/navigation-getting-the-basics-right-part-1.md -> Navigation/navigation-getting-the-basics-right-part-1 (7ms)
+[markdown] content/General/phone-battery-poor-but-then-realised.md -> General/phone-battery-poor-but-then-realised (5ms)
+[markdown] content/Navigation/navigation-getting-the-basics-right-part-2.md -> Navigation/navigation-getting-the-basics-right-part-2 (9ms)
+[markdown] content/General/photo-mystery-1-solved.md -> General/photo-mystery-1-solved (9ms)
+[markdown] content/Entertainment/Content-Suggestions/Suggestions_2026_TV.md -> Entertainment/Content-Suggestions/Suggestions_2026_TV (18ms)
+[markdown] content/General/play-piano-01-oh-susanna.md -> General/play-piano-01-oh-susanna (5ms)
+[markdown] content/Navigation/navigation-north-is-not-north-part3.md -> Navigation/navigation-north-is-not-north-part3 (11ms)
+[markdown] content/General/podcast-list-july-2008.md -> General/podcast-list-july-2008 (7ms)
+[markdown] content/Navigation/not-so-shonky-maps-for-the-gps.md -> Navigation/not-so-shonky-maps-for-the-gps (5ms)
+[markdown] content/Entertainment/Content-Suggestions/Suggestions_2026_books.md -> Entertainment/Content-Suggestions/Suggestions_2026_books (15ms)
+[markdown] content/Navigation/organ-pipes-national-park-walk-and-gps-trial.md -> Navigation/organ-pipes-national-park-walk-and-gps-trial (7ms)
+[markdown] content/General/podcast-list-ndash-august-2009.md -> General/podcast-list-ndash-august-2009 (12ms)
+[markdown] content/Navigation/why-no-melways-of-the-bush.md -> Navigation/why-no-melways-of-the-bush (4ms)
+[markdown] content/General/podcasts-australian-history.md -> General/podcasts-australian-history (10ms)
+[markdown] content/Entertainment/Content-Suggestions/Suggestions_2026_movies.md -> Entertainment/Content-Suggestions/Suggestions_2026_movies (18ms)
+[markdown] content/General/podcasts-early-may-2020.md -> General/podcasts-early-may-2020 (9ms)
+[markdown] content/Entertainment/Content-Suggestions/index.md -> Entertainment/Content-Suggestions/index (13ms)
+[markdown] content/Entertainment/afl-rights-all-8-games.md -> Entertainment/afl-rights-all-8-games (3ms)
+[markdown] content/Obsidian Markdown Test.md -> Obsidian-Markdown-Test (29ms)
+[markdown] content/Entertainment/bb-136-when-live-tv-goes-bad.md -> Entertainment/bb-136-when-live-tv-goes-bad (6ms)
+[markdown] content/Entertainment/cables-suck-well.md -> Entertainment/cables-suck-well (3ms)
+[markdown] content/General/podcasts-practical-tips.md -> General/podcasts-practical-tips (17ms)
+[markdown] content/Entertainment/daylesford-by-sea.md -> Entertainment/daylesford-by-sea (5ms)
+[markdown] content/General/read-the-blog-but-perhaps-dont-subscribe-nor-follow.md -> General/read-the-blog-but-perhaps-dont-subscribe-nor-follow (3ms)
+[markdown] content/General/rod-stewart-songs.md -> General/rod-stewart-songs (8ms)
+[markdown] content/Entertainment/digital-tv-how-australia-got-it-wrong.md -> Entertainment/digital-tv-how-australia-got-it-wrong (10ms)
+[markdown] content/Pondering/Norman Lindsay - Ummmm.md -> Pondering/Norman-Lindsay---Ummmm (20ms)
+[markdown] content/General/scorched-3d-free-and-it-will-hook-you.md -> General/scorched-3d-free-and-it-will-hook-you (3ms)
+[markdown] content/General/searching-facebook-within-a-group.md -> General/searching-facebook-within-a-group (3ms)
+[markdown] content/Racecourse/racecourse-1950-ground-photo-and-1945-aerial-survey.md -> Racecourse/racecourse-1950-ground-photo-and-1945-aerial-survey (4ms)
+[markdown] content/Entertainment/digital-tv-to-xvid-30000-foot-view-2.md -> Entertainment/digital-tv-to-xvid-30000-foot-view-2 (5ms)
+[markdown] content/Entertainment/dolby-digital-51-on-cd.md -> Entertainment/dolby-digital-51-on-cd (3ms)
+[markdown] content/Racecourse/the-williamstown-racetrack-circa-1869.md -> Racecourse/the-williamstown-racetrack-circa-1869 (5ms)
+[markdown] content/General/spencers-warbler-and-quantum-electrodynamics.md -> General/spencers-warbler-and-quantum-electrodynamics (5ms)
+[markdown] content/Entertainment/favourite-countdown-moments.md -> Entertainment/favourite-countdown-moments (3ms)
+[markdown] content/General/spotify-song-and-artist-radio.md -> General/spotify-song-and-artist-radio (5ms)
+[markdown] content/Entertainment/finding-local-data-for-google-earth.md -> Entertainment/finding-local-data-for-google-earth (5ms)
+[markdown] content/Racecourse/williamstown-racecourse-1945-and-todayaerial-comparison.md -> Racecourse/williamstown-racecourse-1945-and-todayaerial-comparison (7ms)
+[markdown] content/General/starstuff-podcast-is-back.md -> General/starstuff-podcast-is-back (3ms)
+[markdown] content/Entertainment/is-pay-tv-doomed.md -> Entertainment/is-pay-tv-doomed (3ms)
+[markdown] content/General/streaming-australian-tv.md -> General/streaming-australian-tv (7ms)
+[markdown] content/Racecourse/williamstown-racecourse-1950s-images-migrant-hostel.md -> Racecourse/williamstown-racecourse-1950s-images-migrant-hostel (9ms)
+[markdown] content/Entertainment/up-selling-broadband.md -> Entertainment/up-selling-broadband (7ms)
+[markdown] content/Freelance/published-a-site-for-sore-eyes.md -> Freelance/published-a-site-for-sore-eyes (3ms)
+[markdown] content/General/the-good-and-bad-of-working-in-the-city.md -> General/the-good-and-bad-of-working-in-the-city (7ms)
+[markdown] content/Racecourse/williamstown-racecourseruins-speculation.md -> Racecourse/williamstown-racecourseruins-speculation (6ms)
+[markdown] content/Freelance/published-all-wired-up-for-their-footy-fix-the-age-1996.md -> Freelance/published-all-wired-up-for-their-footy-fix-the-age-1996 (11ms)
+[markdown] content/Techtips/BitWarden.md -> Techtips/BitWarden (12ms)
+[markdown] content/General/the-great-cataloguing-project.md -> General/the-great-cataloguing-project (14ms)
+[markdown] content/Freelance/published-attention-seekers.md -> Freelance/published-attention-seekers (8ms)
+[markdown] content/General/the-little-stranger.md -> General/the-little-stranger (2ms)
+[markdown] content/Freelance/published-back-in-the-picture.md -> Freelance/published-back-in-the-picture (2ms)
+[markdown] content/Freelance/published-beam-me-down.md -> Freelance/published-beam-me-down (2ms)
+[markdown] content/Techtips/Copying files between devices.md -> Techtips/Copying-files-between-devices (9ms)
+[markdown] content/General/the-road.md -> General/the-road (4ms)
+[markdown] content/Freelance/published-clouds-from-both-sides-now.md -> Freelance/published-clouds-from-both-sides-now (2ms)
+[markdown] content/General/the-tree-of-man-patrick-white.md -> General/the-tree-of-man-patrick-white (3ms)
+[markdown] content/Freelance/published-crash-and-burn.md -> Freelance/published-crash-and-burn (2ms)
+[markdown] content/Freelance/published-green-machine.md -> Freelance/published-green-machine (2ms)
+[markdown] content/General/the-way-i-want-to-touch-you-1973.md -> General/the-way-i-want-to-touch-you-1973 (4ms)
+[markdown] content/Freelance/published-hard-problems-soft-solutions.md -> Freelance/published-hard-problems-soft-solutions (3ms)
+[markdown] content/Freelance/published-homing-in.md -> Freelance/published-homing-in (2ms)
+[markdown] content/Freelance/published-memory-burn.md -> Freelance/published-memory-burn (2ms)
+[markdown] content/Freelance/published-putting-the-squeeze-on.md -> Freelance/published-putting-the-squeeze-on (2ms)
+[markdown] content/Freelance/published-secret-service.md -> Freelance/published-secret-service (2ms)
+[markdown] content/Techtips/JohnnyDecimal.md -> Techtips/JohnnyDecimal (19ms)
+[markdown] content/General/the-worst-week-in-my-academic-life.md -> General/the-worst-week-in-my-academic-life (11ms)
+[markdown] content/General/the-yacoubian-building-alaa-el-aswany.md -> General/the-yacoubian-building-alaa-el-aswany (7ms)
+[markdown] content/Freelance/tag-youre-it-mp3s-jpegs.md -> Freelance/tag-youre-it-mp3s-jpegs (12ms)
+[markdown] content/a-curve-as-a-straight-line.md -> a-curve-as-a-straight-line (15ms)
+[markdown] content/General/throwing-stones-on-the-asteroid-ryugu.md -> General/throwing-stones-on-the-asteroid-ryugu (9ms)
+[markdown] content/abc3-kids-how-about-education-at-night.md -> abc3-kids-how-about-education-at-night (5ms)
+[markdown] content/General/tivo-only-a-few-days-before-we-find-out-what-we-get-dont-get-and-need.md -> General/tivo-only-a-few-days-before-we-find-out-what-we-get-dont-get-and-need (6ms)
+[markdown] content/about-2-2.md -> about-2-2 (5ms)
+[markdown] content/about-2.md -> about-2 (4ms)
+[markdown] content/General/tivo-pvr-finally-arrives-but-the-wise-may-hold-fire-on-buying-one.md -> General/tivo-pvr-finally-arrives-but-the-wise-may-hold-fire-on-buying-one (9ms)
+[markdown] content/about-david.md -> about-david (10ms)
+[markdown] content/General/trip-melbourne-to-mallacoota.md -> General/trip-melbourne-to-mallacoota (11ms)
+[markdown] content/Gemini AI - not so I.md -> Gemini-AI---not-so-I (34ms)
+[markdown] content/about-sic.md -> about-sic (9ms)
+[markdown] content/about.md -> about (5ms)
+[markdown] content/General/1080p-versus-720p-versus-dear-old-analog.md -> General/1080p-versus-720p-versus-dear-old-analog (12ms)
+[markdown] content/after-all-that-the-dvd-drive-is.md -> after-all-that-the-dvd-drive-is (4ms)
+[markdown] content/General/trove-searching-for-old-newspaper-articles.md -> General/trove-searching-for-old-newspaper-articles (17ms)
+[markdown] content/apollo-12-and-the-eclipse.md -> apollo-12-and-the-eclipse (4ms)
+[markdown] content/General/two-new-cameras-that-caught-my-eye.md -> General/two-new-cameras-that-caught-my-eye (3ms)
+[markdown] content/General/abc-iview-is-streaming-not-downloading.md -> General/abc-iview-is-streaming-not-downloading (9ms)
+[markdown] content/ask-the-dust.md -> ask-the-dust (3ms)
+[markdown] content/General/ubuntu-linux-woes-but-debian-worked-first-time.md -> General/ubuntu-linux-woes-but-debian-worked-first-time (5ms)
+[markdown] content/General/about-this-blog-updated.md -> General/about-this-blog-updated (4ms)
+[markdown] content/b-vops-lanc-and-i.md -> b-vops-lanc-and-i (4ms)
+[markdown] content/been-quiet-on-the-blogging-front-blame-my-love-of-egypt-sort-of.md -> been-quiet-on-the-blogging-front-blame-my-love-of-egypt-sort-of (4ms)
+[markdown] content/General/university-ibm-and-the-whole-lot.md -> General/university-ibm-and-the-whole-lot (7ms)
+[markdown] content/blog.md -> blog (1ms)
+[markdown] content/General/until-the-final-hour-hitlers-last-secretary.md -> General/until-the-final-hour-hitlers-last-secretary (2ms)
+[markdown] content/General/about-to-watch-shows-on-a-popcorn.md -> General/about-to-watch-shows-on-a-popcorn (9ms)
+[markdown] content/bushwalks.md -> bushwalks (7ms)
+[markdown] content/General/aflw-star-tayla-harris-talks-online-misogyny.md -> General/aflw-star-tayla-harris-talks-online-misogyny (4ms)
+[markdown] content/bye-bye-old-kit-and-thanks.md -> bye-bye-old-kit-and-thanks (6ms)
+[markdown] content/General/alfred-hotel-former-92-stevedore-street-williamstown.md -> General/alfred-hotel-former-92-stevedore-street-williamstown (8ms)
+[markdown] content/General/unusual-science-units.md -> General/unusual-science-units (14ms)
+[markdown] content/General/ancient-egyptian-cures-for-toothaches.md -> General/ancient-egyptian-cures-for-toothaches (2ms)
+[markdown] content/General/update-ed-kuepper-chords.md -> General/update-ed-kuepper-chords (8ms)
+[markdown] content/General/visuwords-the-modern-way-to-see-how-words-are-related.md -> General/visuwords-the-modern-way-to-see-how-words-are-related (3ms)
+[markdown] content/carlsruhe-daylesford-railway.md -> carlsruhe-daylesford-railway (14ms)
+[markdown] content/General/and-thus-i-made-a-light-blink.md -> General/and-thus-i-made-a-light-blink (11ms)
+[markdown] content/General/voip-havent-made-a-phone-call-for-over-a-year.md -> General/voip-havent-made-a-phone-call-for-over-a-year (6ms)
+[markdown] content/classic-albums-minus-one-revolver.md -> classic-albums-minus-one-revolver (7ms)
+[markdown] content/General/android-apps-i-use-nov-2010-main-ones.md -> General/android-apps-i-use-nov-2010-main-ones (10ms)
+[markdown] content/classic-minus-one-album-meddle-by-pink-floyd.md -> classic-minus-one-album-meddle-by-pink-floyd (5ms)
+[markdown] content/General/web-internet-same-thing-choo-choo.md -> General/web-internet-same-thing-choo-choo (11ms)
+[markdown] content/classical-music-for-those-who-dont-like-classics.md -> classical-music-for-those-who-dont-like-classics (7ms)
+[markdown] content/General/archiving-and-indexing-your-digital-photos.md -> General/archiving-and-indexing-your-digital-photos (10ms)
+[markdown] content/General/weekend-tigers-dont-fade.md -> General/weekend-tigers-dont-fade (6ms)
+[markdown] content/General/artwill-plan-to-aquire-telstra.md -> General/artwill-plan-to-aquire-telstra (3ms)
+[markdown] content/compressing-timings-for-1-hour-dvd-movie-black-and-white.md -> compressing-timings-for-1-hour-dvd-movie-black-and-white (5ms)
+[markdown] content/General/welcome-to-the-new-site.md -> General/welcome-to-the-new-site (2ms)
+[markdown] content/General/welcome.md -> General/welcome (3ms)
+[markdown] content/General/australia-is-old-and-flat-well.md -> General/australia-is-old-and-flat-well (4ms)
+[markdown] content/General/backing-up-my-pcs-main-data.md -> General/backing-up-my-pcs-main-data (4ms)
+[markdown] content/computer-things-going-wrong-01.md -> computer-things-going-wrong-01 (9ms)
+[markdown] content/contact.md -> contact (2ms)
+[markdown] content/General/what-do-we-technical-writers-do.md -> General/what-do-we-technical-writers-do (9ms)
+[markdown] content/General/backing-up-with-areca.md -> General/backing-up-with-areca (6ms)
+[markdown] content/contrail-fun-1430-on-sunday-oct-28th-2012.md -> contrail-fun-1430-on-sunday-oct-28th-2012 (4ms)
+[markdown] content/General/wiki-on-my-mobile-phone.md -> General/wiki-on-my-mobile-phone (4ms)
+[markdown] content/General/bendigo-art-gallery-may-2014-genius-and-ambition-the-royal-academy-of-arts-london-1768-1918.md -> General/bendigo-art-gallery-may-2014-genius-and-ambition-the-royal-academy-of-arts-london-1768-1918 (3ms)
+[markdown] content/General/beware-of-those-29-per-month-broadband-plans.md -> General/beware-of-those-29-per-month-broadband-plans (5ms)
+[markdown] content/converting-tv-recordings-pc-to-playable.md -> converting-tv-recordings-pc-to-playable (9ms)
+[markdown] content/General/williamstown-sea-baths-notes.md -> General/williamstown-sea-baths-notes (12ms)
+[markdown] content/davids-data-server.md -> davids-data-server (6ms)
+[markdown] content/General/windows-file-librarians-index-then-search-your-disks.md -> General/windows-file-librarians-index-then-search-your-disks (5ms)
+[markdown] content/General/books-on-spaceflight.md -> General/books-on-spaceflight (14ms)
+[markdown] content/daylesford-x3.md -> daylesford-x3 (5ms)
+[markdown] content/General/wobbling-video-smart-technique-to-fix-and-merge.md -> General/wobbling-video-smart-technique-to-fix-and-merge (4ms)
+[markdown] content/General/word-to-excel-precise-text-extraction-automatic.md -> General/word-to-excel-precise-text-extraction-automatic (6ms)
+[markdown] content/dds-arrived-and-working.md -> dds-arrived-and-working (8ms)
+[markdown] content/General/bye-bye-first-ever-pc-the-1985-era-ibm-jx-4-and-512.md -> General/bye-bye-first-ever-pc-the-1985-era-ibm-jx-4-and-512 (9ms)
+[markdown] content/General/castlemaine-and-malmsbury-day-trip.md -> General/castlemaine-and-malmsbury-day-trip (2ms)
+[markdown] content/General/citizen-kane.md -> General/citizen-kane (3ms)
+[markdown] content/General/write-once-publish-anywhere.md -> General/write-once-publish-anywhere (7ms)
+[markdown] content/dds-trio-of-woes.md -> dds-trio-of-woes (7ms)
+[markdown] content/General/closing-hells-gates-by-dr-hamish-maxwell-stewart.md -> General/closing-hells-gates-by-dr-hamish-maxwell-stewart (6ms)
+[markdown] content/dights-falls-on-the-yarra-both-sides-now.md -> dights-falls-on-the-yarra-both-sides-now (7ms)
+[markdown] content/General/cloudstreet-tim-winton.md -> General/cloudstreet-tim-winton (6ms)
+[markdown] content/dreams-of-a-media-terminal.md -> dreams-of-a-media-terminal (5ms)
+[markdown] content/firefox-add-ons-i-use.md -> firefox-add-ons-i-use (3ms)
+[markdown] content/good-work-related-free-or-open-source-software.md -> good-work-related-free-or-open-source-software (2ms)
+[markdown] content/General/control-your-vocabulary.md -> General/control-your-vocabulary (10ms)
+[markdown] content/General/your-mobile-phone-the-radios.md -> General/your-mobile-phone-the-radios (23ms)
+[markdown] content/google-reader-giving-it-a-2nd-try-and-impressed.md -> google-reader-giving-it-a-2nd-try-and-impressed (5ms)
+[markdown] content/General/copying-big-files-to-the-mobile-phone.md -> General/copying-big-files-to-the-mobile-phone (5ms)
+[markdown] content/halls-gap-walk-wonderland-pinnacles-loop.md -> halls-gap-walk-wonderland-pinnacles-loop (4ms)
+[markdown] content/General/criket-twenty-20-cup-rules.md -> General/criket-twenty-20-cup-rules (7ms)
+[markdown] content/General/crocodile-on-the-sandbank-elizabeth-peters.md -> General/crocodile-on-the-sandbank-elizabeth-peters (4ms)
+[markdown] content/General/crows-sack-fans.md -> General/crows-sack-fans (4ms)
+[markdown] content/hanging-rock-and-me.md -> hanging-rock-and-me (13ms)
+[markdown] content/hello-people-i-met-at-tower-hill-etc.md -> hello-people-i-met-at-tower-hill-etc (3ms)
+[markdown] content/General/day-train-trip-to-ballarat-art-gallery.md -> General/day-train-trip-to-ballarat-art-gallery (6ms)
+[markdown] content/high-definition-avi-sample.md -> high-definition-avi-sample (3ms)
+[markdown] content/hikes-bushwalks-via-train.md -> hikes-bushwalks-via-train (3ms)
+[markdown] content/General/daywalks-around-melbourne-book.md -> General/daywalks-around-melbourne-book (4ms)
+[markdown] content/how-big-is-one-minute-of-tv.md -> how-big-is-one-minute-of-tv (5ms)
+[markdown] content/General/deconstructing-breathe-with-me-till-dawn.md -> General/deconstructing-breathe-with-me-till-dawn (7ms)
+[markdown] content/how-much-modern-compression-can-fit-on-a-cd.md -> how-much-modern-compression-can-fit-on-a-cd (6ms)
+[markdown] content/General/designed-without-users-in-mind.md -> General/designed-without-users-in-mind (4ms)
+[markdown] content/i-one-thought-that-ice.md -> i-one-thought-that-ice (3ms)
+[markdown] content/General/digital-tv-will-finally-go-full-steam-then-face-a-huge-smack-in-the-head.md -> General/digital-tv-will-finally-go-full-steam-then-face-a-huge-smack-in-the-head (5ms)
+[markdown] content/images-half-working-feb-2023.md -> images-half-working-feb-2023 (3ms)
+[markdown] content/General/dispatches.md -> General/dispatches (4ms)
+[markdown] content/HBL-Items.md -> HBL-Items (51ms)
+[markdown] content/img-test.md -> img-test (7ms)
+[markdown] content/General/doongalla-walk-bills-track.md -> General/doongalla-walk-bills-track (9ms)
+[markdown] content/Maths/32-digits-and-the-joy-of-logarithmic-remembering.md -> Maths/32-digits-and-the-joy-of-logarithmic-remembering (8ms)
+[markdown] content/General/dreams-of-tv-direct-via-nbn-legal-and-paid.md -> General/dreams-of-tv-direct-via-nbn-legal-and-paid (6ms)
+[markdown] content/General/drowned-world.md -> General/drowned-world (3ms)
+[markdown] content/Maths/contrails-fun-2angles-and-distances.md -> Maths/contrails-fun-2angles-and-distances (6ms)
+[markdown] content/General/dsghost-image-test.md -> General/dsghost-image-test (2ms)
+[markdown] content/General/dummy-category-post-culture.md -> General/dummy-category-post-culture (1ms)
+[markdown] content/Maths/godzilla-2014-in-melbourne-fun-with-numbers.md -> Maths/godzilla-2014-in-melbourne-fun-with-numbers (4ms)
+[markdown] content/index.md -> index (21ms)
+[markdown] content/Maths/how-far-away-is-that-plane-using-log-tables.md -> Maths/how-far-away-is-that-plane-using-log-tables (8ms)
+[markdown] content/interesting-movies-to-see-june-2015-edition.md -> interesting-movies-to-see-june-2015-edition (7ms)
+[markdown] content/General/ebook-redux-part-1.md -> General/ebook-redux-part-1 (12ms)
+[markdown] content/Maths/how-many-credit-cards-per-person.md -> Maths/how-many-credit-cards-per-person (4ms)
+[markdown] content/interesting-songs-april-15th-2008.md -> interesting-songs-april-15th-2008 (5ms)
+[markdown] content/Maths/megabytes-microsd-cards-and-typing.md -> Maths/megabytes-microsd-cards-and-typing (6ms)
+[markdown] content/General/ebooks-01-the-main-types.md -> General/ebooks-01-the-main-types (11ms)
+[markdown] content/interesting-youtubers.md -> interesting-youtubers (15ms)
+[markdown] content/Maths/zero-ideas-reflections-on-nothing.md -> Maths/zero-ideas-reflections-on-nothing (12ms)
+[markdown] content/General/emulating-a-developer-part-1-learn-as-you-type.md -> General/emulating-a-developer-part-1-learn-as-you-type (13ms)
+[markdown] content/Movies/20-to-01-funny-films-2.md -> Movies/20-to-01-funny-films-2 (5ms)
+[markdown] content/kernel-panics-i-dont.md -> kernel-panics-i-dont (8ms)
+[markdown] content/Movies/and-you-thought-2001-was-just-about-a-trip-to-jupiter.md -> Movies/and-you-thought-2001-was-just-about-a-trip-to-jupiter (11ms)
+[markdown] content/linux-saves-me-my-data-again.md -> linux-saves-me-my-data-again (10ms)
+[markdown] content/linux-to-the-rescue.md -> linux-to-the-rescue (7ms)
+[markdown] content/Movies/blade-runner-loves-star-wars-loves-2001-loves.md -> Movies/blade-runner-loves-star-wars-loves-2001-loves (9ms)
+[markdown] content/lotsa-backup-cds-to-a-few-dvds-to-one-blu-ray.md -> lotsa-backup-cds-to-a-few-dvds-to-one-blu-ray (4ms)
+[markdown] content/General/emulating-a-developer-part-2-pc-coding-what-no-clipboard.md -> General/emulating-a-developer-part-2-pc-coding-what-no-clipboard (25ms)
+[markdown] content/Movies/chilling-intelligent-movie-3-from-guillermo-the-orphanage.md -> Movies/chilling-intelligent-movie-3-from-guillermo-the-orphanage (7ms)
+[markdown] content/may-19-2004-songs-on-rotation.md -> may-19-2004-songs-on-rotation (5ms)
+[markdown] content/Movies/dead-heart-1996.md -> Movies/dead-heart-1996 (14ms)
+[markdown] content/General/emulating-a-developer-part-3-linux-coding-bashing-away.md -> General/emulating-a-developer-part-3-linux-coding-bashing-away (16ms)
+[markdown] content/General/entanglement.md -> General/entanglement (2ms)
+[markdown] content/me-from-june-1998-fun-with-my-afl-preview-email.md -> me-from-june-1998-fun-with-my-afl-preview-email (16ms)
+[markdown] content/General/enthralling-2005-grand-final.md -> General/enthralling-2005-grand-final (4ms)
+[markdown] content/moved-the-blog-to-ramp-it-up.md -> moved-the-blog-to-ramp-it-up (5ms)
+[markdown] content/Movies/el-mariach-desperado-and-once-upon-a-time-in-mexico.md -> Movies/el-mariach-desperado-and-once-upon-a-time-in-mexico (8ms)
+[markdown] content/General/epub-sources.md -> General/epub-sources (6ms)
+[markdown] content/Movies/ending-star-wars-episode-iii.md -> Movies/ending-star-wars-episode-iii (7ms)
+[markdown] content/General/evernote-ive-forgotten-what-it-does-so-i-need-it-to-help-me-remember.md -> General/evernote-ive-forgotten-what-it-does-so-i-need-it-to-help-me-remember (5ms)
+[markdown] content/Movies/films-ive-walked-out-on.md -> Movies/films-ive-walked-out-on (4ms)
+[markdown] content/mt-beckworth-walk-update-feb-2015-on-the-improve.md -> mt-beckworth-walk-update-feb-2015-on-the-improve (15ms)
+[markdown] content/Movies/great-movie-giggle-moments.md -> Movies/great-movie-giggle-moments (5ms)
+[markdown] content/Movies/great-movie-spoils-no-spoilers.md -> Movies/great-movie-spoils-no-spoilers (5ms)
+[markdown] content/General/family-history-trivia-and-dates-2.md -> General/family-history-trivia-and-dates-2 (14ms)
+[markdown] content/my-ebooks-and-pdfs.md -> my-ebooks-and-pdfs (9ms)
+[markdown] content/Movies/julianne-moore.md -> Movies/julianne-moore (4ms)
+[markdown] content/General/fear-and-donuts.md -> General/fear-and-donuts (4ms)
+[markdown] content/my-first-digital-internet-fingerprints.md -> my-first-digital-internet-fingerprints (9ms)
+[markdown] content/General/finally-got-192-mb-file-on-to-mobile-phone.md -> General/finally-got-192-mb-file-on-to-mobile-phone (8ms)
+[markdown] content/General/fine-at-work-sloppy-at-home-grammarly.md -> General/fine-at-work-sloppy-at-home-grammarly (3ms)
+[markdown] content/Movies/lesser-known-australian-films-01.md -> Movies/lesser-known-australian-films-01 (20ms)
+[markdown] content/General/finest-british-double-entendres.md -> General/finest-british-double-entendres (10ms)
+[markdown] content/General/firefox-3-installed-on-day-1.md -> General/firefox-3-installed-on-day-1 (4ms)
+[markdown] content/General/first-australian-stories-myths-or-not.md -> General/first-australian-stories-myths-or-not (7ms)
+[markdown] content/Movies/me-and-movies.md -> Movies/me-and-movies (3ms)
+[markdown] content/Movies/michael-rennie-was-ill-the-day-the-earth-stood-still.md -> Movies/michael-rennie-was-ill-the-day-the-earth-stood-still (4ms)
+[markdown] content/Movies/my-first-ever-internet-film-review-1996.md -> Movies/my-first-ever-internet-film-review-1996 (14ms)
+[markdown] content/General/first-pc-versus-current-2010-smartphone.md -> General/first-pc-versus-current-2010-smartphone (7ms)
+[markdown] content/General/first-video-creation-with-premiere-elements.md -> General/first-video-creation-with-premiere-elements (3ms)
+[markdown] content/Movies/podcasts-late-march-2020.md -> Movies/podcasts-late-march-2020 (8ms)
+[markdown] content/my-golden-age-of-tv-coe.md -> my-golden-age-of-tv-coe (14ms)
+[markdown] content/Movies/return-of-the-king.md -> Movies/return-of-the-king (5ms)
+[markdown] content/my-kingdom-for-an-optical-bootable.md -> my-kingdom-for-an-optical-bootable (5ms)
+[markdown] content/Movies/xvid-divx-and-mpeg4.md -> Movies/xvid-divx-and-mpeg4 (4ms)
+[markdown] content/General/g-ravity-is-universal.md -> General/g-ravity-is-universal (14ms)
+[markdown] content/my-kit-part-1-the-tv-room.md -> my-kit-part-1-the-tv-room (6ms)
+[markdown] content/General/gold-my-pc-invoice-from-1994.md -> General/gold-my-pc-invoice-from-1994 (4ms)
+[markdown] content/my-kit-part-2-the-internet-apps-on-the-pc.md -> my-kit-part-2-the-internet-apps-on-the-pc (3ms)
+[markdown] content/Movies/you-know-that-4-mp-camera-its-only-25-times-too-small-for-reality-per-se.md -> Movies/you-know-that-4-mp-camera-its-only-25-times-too-small-for-reality-per-se (6ms)
+[markdown] content/my-kit-part-3-the-video-and-audio-stuff-2.md -> my-kit-part-3-the-video-and-audio-stuff-2 (6ms)
+[markdown] content/my-use-of-photoshop-and-lightroom.md -> my-use-of-photoshop-and-lightroom (12ms)
+[markdown] content/Music/Easybeats and their impact.md -> Music/Easybeats-and-their-impact (21ms)
+[markdown] content/nasa-and-knowledge-capture.md -> nasa-and-knowledge-capture (6ms)
+[markdown] content/Music/alison-krauss-sweet-sweet-sweet.md -> Music/alison-krauss-sweet-sweet-sweet (8ms)
+[markdown] content/new-firefox-browser-2-great-add-ins.md -> new-firefox-browser-2-great-add-ins (7ms)
+[markdown] content/new-photos-from-nov-2014-trip-to-sw-and-w-vic.md -> new-photos-from-nov-2014-trip-to-sw-and-w-vic (3ms)
+[markdown] content/newspaper-for-one.md -> newspaper-for-one (4ms)
+[markdown] content/one-problem-solved-on-dds.md -> one-problem-solved-on-dds (3ms)
+[markdown] content/ouch-itunes-updates-cause-browser-failure.md -> ouch-itunes-updates-cause-browser-failure (3ms)
+[markdown] content/paisley-station.md -> paisley-station (4ms)
+[markdown] content/pc-avis-with-dolby-51-surround.md -> pc-avis-with-dolby-51-surround (4ms)
+[markdown] content/photos-williamstown-sunset-mt-macedon-and-hanging-rock.md -> photos-williamstown-sunset-mt-macedon-and-hanging-rock (2ms)
+[markdown] content/pvrs-chapter-1.md -> pvrs-chapter-1 (8ms)
+[markdown] content/r-l-j-then-just-add-fire.md -> r-l-j-then-just-add-fire (5ms)
+[markdown] content/r8169o-and-the-kernel-headers.md -> r8169o-and-the-kernel-headers (8ms)
+[markdown] content/rare-linux-bug-and-i-go-booooom.md -> rare-linux-bug-and-i-go-booooom (5ms)
+[markdown] content/raven-about-forked-apples.md -> raven-about-forked-apples (12ms)
+[markdown] content/recovery-operations-continue.md -> recovery-operations-continue (5ms)
+[markdown] content/safety-back-ups-of-windows-docs-etc.md -> safety-back-ups-of-windows-docs-etc (6ms)
+[markdown] content/sample-page.md -> sample-page (4ms)
+[markdown] content/save-data-drop-the-video-streaming-quality.md -> save-data-drop-the-video-streaming-quality (7ms)
+[markdown] content/single-pass-for-quick-avc-encoding-of-tv-recordings.md -> single-pass-for-quick-avc-encoding-of-tv-recordings (5ms)
+[markdown] content/snippets-of-life-under-the-virus.md -> snippets-of-life-under-the-virus (13ms)
+[markdown] content/so-what-is-this-internet-1996.md -> so-what-is-this-internet-1996 (31ms)
+[markdown] content/software-i-use.md -> software-i-use (4ms)
+[markdown] content/super-moon-aug-11th-2014.md -> super-moon-aug-11th-2014 (4ms)
+[markdown] content/tags/freelance.md -> tags/freelance (14ms)
+[markdown] content/telstra-netflix-google-and-the-afl-broadcast-rights.md -> telstra-netflix-google-and-the-afl-broadcast-rights (3ms)
+[markdown] content/the-age-digitalconfusing-and-frustrating.md -> the-age-digitalconfusing-and-frustrating (8ms)
+[markdown] content/the-age-doubly-ambiguous-weather-summary.md -> the-age-doubly-ambiguous-weather-summary (3ms)
+[markdown] content/the-amazing-changes-in-memory-prices-over-a-decade.md -> the-amazing-changes-in-memory-prices-over-a-decade (6ms)
+[markdown] content/the-firefox-browser-extensions-i-use.md -> the-firefox-browser-extensions-i-use (2ms)
+[markdown] content/the-horse-and-his-boy-by-cs-lewis.md -> the-horse-and-his-boy-by-cs-lewis (4ms)
+[markdown] content/the-librarians-team-visit-williamstown.md -> the-librarians-team-visit-williamstown (5ms)
+[markdown] content/the-most-recent-hike-done.md -> the-most-recent-hike-done (7ms)
+[markdown] content/things-i-once-thought.md -> things-i-once-thought (4ms)
+[markdown] content/tiger-king.md -> tiger-king (4ms)
+[markdown] content/tim-brooke-taylor.md -> tim-brooke-taylor (3ms)
+[markdown] content/tips-for-dvd-to-xvid.md -> tips-for-dvd-to-xvid (12ms)
+[markdown] content/trajectories-a-work-in-4-parts-and-still-in-progress.md -> trajectories-a-work-in-4-parts-and-still-in-progress (15ms)
+[markdown] content/trajectories-oh-g-undone-by-multiple-coincidences.md -> trajectories-oh-g-undone-by-multiple-coincidences (12ms)
+[markdown] content/video-conversion-frame-serving-101.md -> video-conversion-frame-serving-101 (7ms)
+[markdown] content/viruses-how-big-are-they.md -> viruses-how-big-are-they (11ms)
+[markdown] content/walhalla-simply-my-favourite-town.md -> walhalla-simply-my-favourite-town (7ms)
+[markdown] content/walk-route-dandenongs-doongalla-and-rankin-loop.md -> walk-route-dandenongs-doongalla-and-rankin-loop (4ms)
+[markdown] content/where-is-that-photo-south-west-victoria-trip.md -> where-is-that-photo-south-west-victoria-trip (6ms)
+[markdown] content/williamstown-mmbw.md -> williamstown-mmbw (4ms)
+[markdown] content/windows-disobeys-me-then-recovers-on-dds.md -> windows-disobeys-me-then-recovers-on-dds (5ms)
+[markdown] content/xbmc-quick-start-and-keys.md -> xbmc-quick-start-and-keys (8ms)
+[html] General/great-ess-v-haw-incidents (63ms)
+[html] 2001-my-book-review-aged-14-or-15 (81ms)
+[html] Music/blokes-love-songs (67ms)
+[html] Music/boys-will-be-boys-taste (1ms)
+[html] Music/breathe-with-me-till-dawn-futuro (1ms)
+[html] Music/buying-a-portable-mp3-player-c-2004 (3ms)
+[html] Music/california-jam-klaatu (2ms)
+[html] Music/cassandra-sherbet (1ms)
+[html] Music/choctaw-hayride-alison-krauss-union-station (938╬╝s)
+[html] Music/clair-gilbert-osullivan (3ms)
+[html] Music/classical-gas-tommy-emmanuel (4ms)
+[html] Music/family-snapshot-peter-gabriel (1ms)
+[html] Music/gheorghe-zamfir (854╬╝s)
+[html] Music/golden-miles-bulk-import-of-30-old-music-blog-posts (13ms)
+[html] Music/golden-miles-by-healing-force (1ms)
+[html] Music/great-cover-songs-rockwiz (2ms)
+[html] Music/great-covers-take-2-rockwiz (8ms)
+[html] Music/interesting-song-cover-versions (3ms)
+[html] Music/interesting-songs-april-2nd-2008 (3ms)
+[html] Music/john-nemeth-why-not-me (891╬╝s)
+[html] Music/johnny-farnham-comic-conversation (2ms)
+[html] Music/lesser-known-songs-by-well-known-artists (3ms)
+[html] Music/linda-george-songs (1ms)
+[html] Music/lucifer-sam-pink-floyd (531╬╝s)
+[html] Music/mark-gillespie-songs (2ms)
+[html] Music/mercy-seat-johnny-cash (608╬╝s)
+[html] Music/never-let-you-go-divinyls (549╬╝s)
+[html] Music/november-spawned-a-monster-morrissey (626╬╝s)
+[html] Music/oklahoma-the-film (2ms)
+[html] Music/opening-chord-to-a-hard-days-night (916╬╝s)
+[html] Music/peeling-onions-songs (2ms)
+[html] Music/porpoise-song-the-monkees (985╬╝s)
+[html] Music/rachel-russell-morris (718╬╝s)
+[html] Music/recording-studio-in-your-pocket (745╬╝s)
+[html] Music/rock-island-line-1957-lonnie-donegan (814╬╝s)
+[html] Music/smiley-ronnie-burns (1ms)
+[html] Music/song-hiccups (3ms)
+[html] Music/songs-that-would-make-you-get-up-and-dance (1ms)
+[html] Music/songs-too-slow-or-fast-and-we-didnt-know (11ms)
+[html] Music/steely-dan-songs (3ms)
+[html] Music/stray-cat-blues-the-rolling-stones (903╬╝s)
+[html] Music/sub-rosa-subway-klaatu-beatles-stuff (898╬╝s)
+[html] Music/the-eagles-great-new-3-hour-documentary (1ms)
+[html] Music/tiger-feet-mud (5ms)
+[html] Music/twenty-flight-rock-1956-eddie-cochran (958╬╝s)
+[html] Music/undecided-the-masters-apprentices (583╬╝s)
+[html] Music/zoot-suit-riot-cherry-poppin-daddies (590╬╝s)
+[html] Navigation/first-gps-logging-with-new-phone-nmea-sentence (4ms)
+[html] Navigation/got-a-gps-at-last (2ms)
+[html] Navigation/gps-open-source-maps (2ms)
+[html] Navigation/gps-really-is-a-miracle-of-technology (2ms)
+[html] Navigation/gps-working-very-well-for-bush-logging-err-bush-walk-logging (1ms)
+[html] Navigation/history-mystery-williamstown-observatory-1863 (3ms)
+[html] Navigation/latitude-01-what-is-it (5ms)
+[html] Navigation/latitude-02-the-sun-and-the-book (6ms)
+[html] Navigation/latitude-3-cooks-calculation (20ms)
+[html] Navigation/melbourne-observatory-location-1871-modern-values (5ms)
+[html] Navigation/navigation-getting-the-basics-right-part-1 (2ms)
+[html] Navigation/navigation-getting-the-basics-right-part-2 (3ms)
+[html] Navigation/navigation-north-is-not-north-part3 (3ms)
+[html] Navigation/not-so-shonky-maps-for-the-gps (1ms)
+[html] Navigation/organ-pipes-national-park-walk-and-gps-trial (817╬╝s)
+[html] Navigation/why-no-melways-of-the-bush (964╬╝s)
+[html] A-bit-more-on---Cricket (11ms)
+[html] Astronomy/behind-the-scenes-stellarium (4ms)
+[html] Astronomy/easy-moon-task (5ms)
+[html] Astronomy/goodbye-and-thank-you-starstuff-show-and-podcast (9ms)
+[html] Astronomy/light-years-from-hobsons-bay (3ms)
+[html] Astronomy/mars-probe-cooks-and-looks (941╬╝s)
+[html] Astronomy/midday-is-almost-never-1200 (2ms)
+[html] Astronomy/solar-dance-the-sun-at-1200 (4ms)
+[html] Astronomy/watched-mars-robot-phoenix-landing-in-real-time (1ms)
+[html] Astronomy/water-ice-on-mars (1ms)
+[html] Bushwalks/1000-steps-loop-walk-dandenongs (2ms)
+[html] Bushwalks/744 (4ms)
+[html] Bushwalks/catherdral-ranges-jawbones-walk-april-23rd-2008 (1ms)
+[html] Bushwalks/dandenongs-track-comparison (4ms)
+[html] Bushwalks/falcons-lookout-walk (3ms)
+[html] Bushwalks/grampians-hollow-mountain-has-me-in-stitches (2ms)
+[html] Bushwalks/hepburn-springs-walk-april-20th-2008 (981╬╝s)
+[html] Bushwalks/hollow-mountain-grampians-walk-march-22nd-2008 (857╬╝s)
+[html] Bushwalks/kallista-sherbrooke-loop-walk (4ms)
+[html] Bushwalks/kallista-sherbrooke-walk (2ms)
+[html] Bushwalks/marysville-falls-and-de-la-rue-lookout-walk-april-9th-2008 (1ms)
+[html] Bushwalks/mt-dandenong-doongala (1ms)
+[html] Bushwalks/mt-dandenong-highlights-walk-take-1-steep-shortcut (1ms)
+[html] Bushwalks/mt-dandenong-kyeema-to-doongalla (1ms)
+[html] Bushwalks/mt-macedon-highlights-run-through-of-hybrid-walk (2ms)
+[html] Bushwalks/mt-macedon-loop (1ms)
+[html] Bushwalks/mt-macedon-walk-may-22nd-2008 (804╬╝s)
+[html] Bushwalks/sherbrooke-forest-and-alfred-nicholas-gardens-walk-march-9th-2008 (593╬╝s)
+[html] Bushwalks/the-cathedral-cathedral-ranges (2ms)
+[html] Bushwalks/trip-walk-warracknabeal-wyperfeld-np-and-warrnambool (1ms)
+[html] Bushwalks/walk-lower-stony-creek-reservoir-staughton-vale (4ms)
+[html] Bushwalks/warburton-take-2-and-didnt-make-it-again (1ms)
+[html] Creative/SingingCrystals_AFL (4ms)
+[html] Creative/anzac-day-golden-wisps-of-pale-men (2ms)
+[html] Creative/its-all-relative-mummy-c-2004 (4ms)
+[html] Creative/lm3-and-port-phillip-non-bay (4ms)
+[html] Creative/on-the-trail-of-captain-blowhard-2001 (4ms)
+[html] Creative/the-unnatural-tree-at-happy-creek-2000 (2ms)
+[html] Entertainment/3-lounge-room-devices-into-1 (728╬╝s)
+[html] Entertainment/Content-Suggestions/Suggestions_2026_TV (716╬╝s)
+[html] Entertainment/Content-Suggestions/Suggestions_2026_books (925╬╝s)
+[html] Entertainment/Content-Suggestions/Suggestions_2026_movies (5ms)
+[html] Entertainment/Content-Suggestions/index (198╬╝s)
+[html] Entertainment/afl-rights-all-8-games (643╬╝s)
+[html] Entertainment/bb-136-when-live-tv-goes-bad (931╬╝s)
+[html] Entertainment/cables-suck-well (567╬╝s)
+[html] Entertainment/daylesford-by-sea (890╬╝s)
+[html] Entertainment/digital-tv-how-australia-got-it-wrong (1ms)
+[html] Entertainment/digital-tv-to-xvid-30000-foot-view-2 (1ms)
+[html] Entertainment/dolby-digital-51-on-cd (562╬╝s)
+[html] Entertainment/favourite-countdown-moments (612╬╝s)
+[html] Entertainment/finding-local-data-for-google-earth (979╬╝s)
+[html] Entertainment/is-pay-tv-doomed (546╬╝s)
+[html] Entertainment/up-selling-broadband (8ms)
+[html] Freelance/published-a-site-for-sore-eyes (834╬╝s)
+[html] Freelance/published-all-wired-up-for-their-footy-fix-the-age-1996 (2ms)
+[html] Freelance/published-attention-seekers (1ms)
+[html] Freelance/published-back-in-the-picture (557╬╝s)
+[html] Freelance/published-beam-me-down (555╬╝s)
+[html] Freelance/published-clouds-from-both-sides-now (575╬╝s)
+[html] Freelance/published-crash-and-burn (582╬╝s)
+[html] Freelance/published-green-machine (469╬╝s)
+[html] Freelance/published-hard-problems-soft-solutions (628╬╝s)
+[html] Freelance/published-homing-in (451╬╝s)
+[html] Freelance/published-memory-burn (582╬╝s)
+[html] Freelance/published-putting-the-squeeze-on (403╬╝s)
+[html] Freelance/published-secret-service (895╬╝s)
+[html] Freelance/tag-youre-it-mp3s-jpegs (2ms)
+[html] Gemini-AI---not-so-I (5ms)
+[html] General/1080p-versus-720p-versus-dear-old-analog (1ms)
+[html] General/abc-iview-is-streaming-not-downloading (1ms)
+[html] General/about-this-blog-updated (790╬╝s)
+[html] General/about-to-watch-shows-on-a-popcorn (12ms)
+[html] General/aflw-star-tayla-harris-talks-online-misogyny (1ms)
+[html] General/alfred-hotel-former-92-stevedore-street-williamstown (2ms)
+[html] General/ancient-egyptian-cures-for-toothaches (714╬╝s)
+[html] General/and-thus-i-made-a-light-blink (2ms)
+[html] General/android-apps-i-use-nov-2010-main-ones (3ms)
+[html] General/archiving-and-indexing-your-digital-photos (2ms)
+[html] General/artwill-plan-to-aquire-telstra (810╬╝s)
+[html] General/australia-is-old-and-flat-well (2ms)
+[html] General/backing-up-my-pcs-main-data (1ms)
+[html] General/backing-up-with-areca (1ms)
+[html] General/bendigo-art-gallery-may-2014-genius-and-ambition-the-royal-academy-of-arts-london-1768-1918 (6ms)
+[html] General/beware-of-those-29-per-month-broadband-plans (4ms)
+[html] General/books-on-spaceflight (4ms)
+[html] General/bye-bye-first-ever-pc-the-1985-era-ibm-jx-4-and-512 (2ms)
+[html] General/castlemaine-and-malmsbury-day-trip (704╬╝s)
+[html] General/citizen-kane (526╬╝s)
+[html] General/closing-hells-gates-by-dr-hamish-maxwell-stewart (900╬╝s)
+[html] General/cloudstreet-tim-winton (1ms)
+[html] General/control-your-vocabulary (2ms)
+[html] General/copying-big-files-to-the-mobile-phone (1ms)
+[html] General/criket-twenty-20-cup-rules (1ms)
+[html] General/crocodile-on-the-sandbank-elizabeth-peters (801╬╝s)
+[html] General/crows-sack-fans (668╬╝s)
+[html] General/day-train-trip-to-ballarat-art-gallery (1ms)
+[html] General/daywalks-around-melbourne-book (5ms)
+[html] General/deconstructing-breathe-with-me-till-dawn (1ms)
+[html] General/designed-without-users-in-mind (702╬╝s)
+[html] General/digital-tv-will-finally-go-full-steam-then-face-a-huge-smack-in-the-head (757╬╝s)
+[html] General/dispatches (570╬╝s)
+[html] General/doongalla-walk-bills-track (4ms)
+[html] General/dreams-of-tv-direct-via-nbn-legal-and-paid (1ms)
+[html] General/drowned-world (568╬╝s)
+[html] General/dsghost-image-test (404╬╝s)
+[html] General/dummy-category-post-culture (344╬╝s)
+[html] General/ebook-redux-part-1 (3ms)
+[html] General/ebooks-01-the-main-types (3ms)
+[html] General/emulating-a-developer-part-1-learn-as-you-type (2ms)
+[html] General/emulating-a-developer-part-2-pc-coding-what-no-clipboard (4ms)
+[html] General/emulating-a-developer-part-3-linux-coding-bashing-away (8ms)
+[html] General/entanglement (661╬╝s)
+[html] General/enthralling-2005-grand-final (613╬╝s)
+[html] General/epub-sources (2ms)
+[html] General/evernote-ive-forgotten-what-it-does-so-i-need-it-to-help-me-remember (901╬╝s)
+[html] General/family-history-trivia-and-dates-2 (3ms)
+[html] General/fear-and-donuts (719╬╝s)
+[html] General/finally-got-192-mb-file-on-to-mobile-phone (6ms)
+[html] General/fine-at-work-sloppy-at-home-grammarly (923╬╝s)
+[html] General/finest-british-double-entendres (3ms)
+[html] General/firefox-3-installed-on-day-1 (663╬╝s)
+[html] General/first-australian-stories-myths-or-not (2ms)
+[html] General/first-pc-versus-current-2010-smartphone (2ms)
+[html] General/first-video-creation-with-premiere-elements (515╬╝s)
+[html] General/g-ravity-is-universal (3ms)
+[html] General/gold-my-pc-invoice-from-1994 (3ms)
+[html] General/happy-50th-nasa-tli-and-the-two-towers-missions (5ms)
+[html] General/harry-potter-and-the-half-blood-prince (1ms)
+[html] General/hes-on-tv-countdown-he-must-be-rich (6ms)
+[html] General/high-definition-tv-recording-and-playback (3ms)
+[html] General/hitler-1889-1936-hubris (2ms)
+[html] General/hollowmen-barely-making-top-50-in-ratings (1ms)
+[html] General/homo-vacuous-and-the-great-big-nod (2ms)
+[html] General/hot-walk-lush-water (1ms)
+[html] General/hottest-december-ever-hottest-dec-day-ever-tipped (1ms)
+[html] General/how-i-find-my-files-including-on-external-disks-and-dvds-blu-ray-movies-etc (11ms)
+[html] General/how-i-got-the-job-at-ibm-in-1982 (2ms)
+[html] General/hyperwords-a-clever-and-useful-firefox-add-on (1ms)
+[html] General/icb-bin-ein-supreme-nerd (2ms)
+[html] General/idea-public-lectures-in-melbourne-web-site (936╬╝s)
+[html] General/ideas-for-the-hollowmen (8ms)
+[html] General/if-i-was-a-democrat-in-america-now (637╬╝s)
+[html] General/indexing-pc-stuff-01-inside-documents (3ms)
+[html] General/inside-hitlers-bunker-the-last-days-of-the-third-reich (1ms)
+[html] General/interesting-songs-april-25th-2008-2 (793╬╝s)
+[html] General/interesting-songs-april-25th-2008 (1ms)
+[html] General/internet-archive-01-intro (4ms)
+[html] General/internet-tv-1-teds-excellent-leading-edge-lectures-and-performances-2 (1ms)
+[html] General/internet-tv-2-miro-free-open-internet-tv-and-video-player (1ms)
+[html] General/iphone-apps-i-use (3ms)
+[html] General/iphone-ipod-touch-picture-board-idea (2ms)
+[html] General/iphone-todo-list-as-loan-system (1ms)
+[html] General/just-two-things-i-wish-i-could-have-shown-pa-hudson (2ms)
+[html] General/kindle-ebook-many-editions-of-the-same-thing-consumer-confusion (2ms)
+[html] General/latham-ks83-or-84 (496╬╝s)
+[html] General/locate32-and-dropbox-offline-indexes-of-remote-pcs (3ms)
+[html] General/lost-lights-not-power-and-so-did-my-neighbours (882╬╝s)
+[html] General/making-maps-with-qgis (1ms)
+[html] General/making-online-articles-easier-to-read (3ms)
+[html] General/melbourne-museum-melbourne-gallery-and-story (899╬╝s)
+[html] General/memorable-off-road-trips (4ms)
+[html] General/men-of-rock-other-great-geology-documentaries (1ms)
+[html] General/moved-every-bit-of-laptops-disk-to-a-much-bigger-disk (3ms)
+[html] General/mt-stapylton-area-post-jan-2014-grampians-fires (598╬╝s)
+[html] General/music-theory-for-musicians-and-normal-people (813╬╝s)
+[html] General/my-high-tech-scanning-rig (1ms)
+[html] General/my-internet-which-is-fast-quite-cheap-and-not-nbn (8ms)
+[html] General/new-p3600i-first-thoughts (791╬╝s)
+[html] General/new-phone-as-modem-for-laptop (1ms)
+[html] General/no-car-then-heres-some-day-trips-on-a-train (4ms)
+[html] General/old-commodore-amiga-music-file-reborn (1ms)
+[html] General/one-day-in-a-long-war-jeffrey-ethell (669╬╝s)
+[html] General/password-safe-now-version-2-and-open-source (692╬╝s)
+[html] General/patricia-piccinini-we-are-family (943╬╝s)
+[html] General/pc-software-and-tips-master-list (1ms)
+[html] General/phone-battery-poor-but-then-realised (2ms)
+[html] General/photo-mystery-1-solved (9ms)
+[html] General/play-piano-01-oh-susanna (2ms)
+[html] General/podcast-list-july-2008 (3ms)
+[html] General/podcast-list-ndash-august-2009 (3ms)
+[html] General/podcasts-australian-history (6ms)
+[html] General/podcasts-early-may-2020 (2ms)
+[html] General/podcasts-practical-tips (5ms)
+[html] General/read-the-blog-but-perhaps-dont-subscribe-nor-follow (674╬╝s)
+[html] General/rod-stewart-songs (2ms)
+[html] General/scorched-3d-free-and-it-will-hook-you (556╬╝s)
+[html] General/searching-facebook-within-a-group (1ms)
+[html] General/spencers-warbler-and-quantum-electrodynamics (696╬╝s)
+[html] General/spotify-song-and-artist-radio (1ms)
+[html] General/starstuff-podcast-is-back (1ms)
+[html] General/streaming-australian-tv (1ms)
+[html] General/the-good-and-bad-of-working-in-the-city (720╬╝s)
+[html] General/the-great-cataloguing-project (3ms)
+[html] General/the-little-stranger (772╬╝s)
+[html] General/the-road (1ms)
+[html] General/the-tree-of-man-patrick-white (503╬╝s)
+[html] General/the-way-i-want-to-touch-you-1973 (817╬╝s)
+[html] General/the-worst-week-in-my-academic-life (2ms)
+[html] General/the-yacoubian-building-alaa-el-aswany (704╬╝s)
+[html] General/throwing-stones-on-the-asteroid-ryugu (3ms)
+[html] General/tivo-only-a-few-days-before-we-find-out-what-we-get-dont-get-and-need (5ms)
+[html] General/tivo-pvr-finally-arrives-but-the-wise-may-hold-fire-on-buying-one (1ms)
+[html] General/trip-melbourne-to-mallacoota (5ms)
+[html] General/trove-searching-for-old-newspaper-articles (4ms)
+[html] General/two-new-cameras-that-caught-my-eye (1ms)
+[html] General/ubuntu-linux-woes-but-debian-worked-first-time (588╬╝s)
+[html] General/university-ibm-and-the-whole-lot (6ms)
+[html] General/until-the-final-hour-hitlers-last-secretary (652╬╝s)
+[html] General/unusual-science-units (4ms)
+[html] General/update-ed-kuepper-chords (9ms)
+[html] General/visuwords-the-modern-way-to-see-how-words-are-related (687╬╝s)
+[html] General/voip-havent-made-a-phone-call-for-over-a-year (738╬╝s)
+[html] General/web-internet-same-thing-choo-choo (2ms)
+[html] General/weekend-tigers-dont-fade (1ms)
+[html] General/welcome-to-the-new-site (616╬╝s)
+[html] General/welcome (504╬╝s)
+[html] General/what-do-we-technical-writers-do (2ms)
+[html] General/wiki-on-my-mobile-phone (763╬╝s)
+[html] General/williamstown-sea-baths-notes (3ms)
+[html] General/windows-file-librarians-index-then-search-your-disks (1ms)
+[html] General/wobbling-video-smart-technique-to-fix-and-merge (798╬╝s)
+[html] General/word-to-excel-precise-text-extraction-automatic (6ms)
+[html] General/write-once-publish-anywhere (2ms)
+[html] General/your-mobile-phone-the-radios (5ms)
+[html] HBL-Items (11ms)
+[html] Maths/32-digits-and-the-joy-of-logarithmic-remembering (15ms)
+[html] Maths/contrails-fun-2angles-and-distances (7ms)
+[html] Maths/godzilla-2014-in-melbourne-fun-with-numbers (688╬╝s)
+[html] Maths/how-far-away-is-that-plane-using-log-tables (6ms)
+[html] Maths/how-many-credit-cards-per-person (3ms)
+[html] Maths/megabytes-microsd-cards-and-typing (6ms)
+[html] Maths/zero-ideas-reflections-on-nothing (9ms)
+[html] Movies/20-to-01-funny-films-2 (1ms)
+[html] Movies/and-you-thought-2001-was-just-about-a-trip-to-jupiter (1ms)
+[html] Movies/blade-runner-loves-star-wars-loves-2001-loves (624╬╝s)
+[html] Movies/chilling-intelligent-movie-3-from-guillermo-the-orphanage (938╬╝s)
+[html] Movies/dead-heart-1996 (1ms)
+[html] Movies/el-mariach-desperado-and-once-upon-a-time-in-mexico (854╬╝s)
+[html] Movies/ending-star-wars-episode-iii (894╬╝s)
+[html] Movies/films-ive-walked-out-on (852╬╝s)
+[html] Movies/great-movie-giggle-moments (514╬╝s)
+[html] Movies/great-movie-spoils-no-spoilers (628╬╝s)
+[html] Movies/julianne-moore (929╬╝s)
+[html] Movies/lesser-known-australian-films-01 (4ms)
+[html] Movies/me-and-movies (1ms)
+[html] Movies/michael-rennie-was-ill-the-day-the-earth-stood-still (691╬╝s)
+[html] Movies/my-first-ever-internet-film-review-1996 (3ms)
+[html] Movies/podcasts-late-march-2020 (1ms)
+[html] Movies/return-of-the-king (1ms)
+[html] Movies/xvid-divx-and-mpeg4 (540╬╝s)
+[html] Movies/you-know-that-4-mp-camera-its-only-25-times-too-small-for-reality-per-se (1ms)
+[html] Music/Easybeats-and-their-impact (8ms)
+[html] Music/alison-krauss-sweet-sweet-sweet (974╬╝s)
+[html] Obsidian-Markdown-Test (107ms)
+[html] Pondering/Norman-Lindsay---Ummmm (2ms)
+[html] Racecourse/racecourse-1950-ground-photo-and-1945-aerial-survey (2ms)
+[html] Racecourse/the-williamstown-racetrack-circa-1869 (801╬╝s)
+[html] Racecourse/williamstown-racecourse-1945-and-todayaerial-comparison (5ms)
+[html] Racecourse/williamstown-racecourse-1950s-images-migrant-hostel (4ms)
+[html] Racecourse/williamstown-racecourseruins-speculation (2ms)
+[html] Techtips/BitWarden (4ms)
+[html] Techtips/Copying-files-between-devices (2ms)
+[html] Techtips/JohnnyDecimal (2ms)
+[html] a-curve-as-a-straight-line (4ms)
+[html] abc3-kids-how-about-education-at-night (1ms)
+[html] about-2-2 (1ms)
+[html] about-2 (920╬╝s)
+[html] about-david (1ms)
+[html] about-sic (2ms)
+[html] about (1ms)
+[html] after-all-that-the-dvd-drive-is (422╬╝s)
+[html] apollo-12-and-the-eclipse (877╬╝s)
+[html] ask-the-dust (554╬╝s)
+[html] b-vops-lanc-and-i (736╬╝s)
+[html] been-quiet-on-the-blogging-front-blame-my-love-of-egypt-sort-of (579╬╝s)
+[html] blog (475╬╝s)
+[html] bushwalks (6ms)
+[html] bye-bye-old-kit-and-thanks (2ms)
+[html] carlsruhe-daylesford-railway (5ms)
+[html] classic-albums-minus-one-revolver (1ms)
+[html] classic-minus-one-album-meddle-by-pink-floyd (1ms)
+[html] classical-music-for-those-who-dont-like-classics (1ms)
+[html] compressing-timings-for-1-hour-dvd-movie-black-and-white (1ms)
+[html] computer-things-going-wrong-01 (2ms)
+[html] contact (347╬╝s)
+[html] contrail-fun-1430-on-sunday-oct-28th-2012 (1ms)
+[html] converting-tv-recordings-pc-to-playable (1ms)
+[html] davids-data-server (735╬╝s)
+[html] daylesford-x3 (1ms)
+[html] dds-arrived-and-working (2ms)
+[html] dds-trio-of-woes (923╬╝s)
+[html] dights-falls-on-the-yarra-both-sides-now (2ms)
+[html] dreams-of-a-media-terminal (820╬╝s)
+[html] firefox-add-ons-i-use (706╬╝s)
+[html] good-work-related-free-or-open-source-software (707╬╝s)
+[html] google-reader-giving-it-a-2nd-try-and-impressed (625╬╝s)
+[html] halls-gap-walk-wonderland-pinnacles-loop (881╬╝s)
+[html] hanging-rock-and-me (4ms)
+[html] hello-people-i-met-at-tower-hill-etc (444╬╝s)
+[html] high-definition-avi-sample (536╬╝s)
+[html] hikes-bushwalks-via-train (624╬╝s)
+[html] how-big-is-one-minute-of-tv (883╬╝s)
+[html] how-much-modern-compression-can-fit-on-a-cd (953╬╝s)
+[html] i-one-thought-that-ice (890╬╝s)
+[html] images-half-working-feb-2023 (713╬╝s)
+[html] img-test (1ms)
+[html] index (9ms)
+[html] interesting-movies-to-see-june-2015-edition (1ms)
+[html] interesting-songs-april-15th-2008 (735╬╝s)
+[html] interesting-youtubers (3ms)
+[html] kernel-panics-i-dont (1ms)
+[html] linux-saves-me-my-data-again (786╬╝s)
+[html] linux-to-the-rescue (1ms)
+[html] lotsa-backup-cds-to-a-few-dvds-to-one-blu-ray (1ms)
+[html] may-19-2004-songs-on-rotation (2ms)
+[html] me-from-june-1998-fun-with-my-afl-preview-email (3ms)
+[html] moved-the-blog-to-ramp-it-up (850╬╝s)
+[html] mt-beckworth-walk-update-feb-2015-on-the-improve (7ms)
+[html] my-ebooks-and-pdfs (2ms)
+[html] my-first-digital-internet-fingerprints (2ms)
+[html] my-golden-age-of-tv-coe (2ms)
+[html] my-kingdom-for-an-optical-bootable (604╬╝s)
+[html] my-kit-part-1-the-tv-room (1ms)
+[html] my-kit-part-2-the-internet-apps-on-the-pc (866╬╝s)
+[html] my-kit-part-3-the-video-and-audio-stuff-2 (1ms)
+[html] my-use-of-photoshop-and-lightroom (5ms)
+[html] nasa-and-knowledge-capture (866╬╝s)
+[html] new-firefox-browser-2-great-add-ins (810╬╝s)
+[html] new-photos-from-nov-2014-trip-to-sw-and-w-vic (506╬╝s)
+[html] newspaper-for-one (1ms)
+[html] one-problem-solved-on-dds (516╬╝s)
+[html] ouch-itunes-updates-cause-browser-failure (478╬╝s)
+[html] paisley-station (2ms)
+[html] pc-avis-with-dolby-51-surround (722╬╝s)
+[html] photos-williamstown-sunset-mt-macedon-and-hanging-rock (1ms)
+[html] pvrs-chapter-1 (2ms)
+[html] r-l-j-then-just-add-fire (1ms)
+[html] r8169o-and-the-kernel-headers (1ms)
+[html] rare-linux-bug-and-i-go-booooom (4ms)
+[html] raven-about-forked-apples (4ms)
+[html] recovery-operations-continue (1ms)
+[html] safety-back-ups-of-windows-docs-etc (2ms)
+[html] sample-page (813╬╝s)
+[html] save-data-drop-the-video-streaming-quality (2ms)
+[html] single-pass-for-quick-avc-encoding-of-tv-recordings (1ms)
+[html] snippets-of-life-under-the-virus (3ms)
+[html] so-what-is-this-internet-1996 (5ms)
+[html] software-i-use (895╬╝s)
+[html] super-moon-aug-11th-2014 (560╬╝s)
+[html] tags/freelance (118╬╝s)
+[html] telstra-netflix-google-and-the-afl-broadcast-rights (974╬╝s)
+[html] the-age-digitalconfusing-and-frustrating (3ms)
+[html] the-age-doubly-ambiguous-weather-summary (745╬╝s)
+[html] the-amazing-changes-in-memory-prices-over-a-decade (3ms)
+[html] the-firefox-browser-extensions-i-use (423╬╝s)
+[html] the-horse-and-his-boy-by-cs-lewis (640╬╝s)
+[html] the-librarians-team-visit-williamstown (678╬╝s)
+[html] the-most-recent-hike-done (2ms)
+[html] things-i-once-thought (933╬╝s)
+[html] tiger-king (503╬╝s)
+[html] tim-brooke-taylor (651╬╝s)
+[html] tips-for-dvd-to-xvid (2ms)
+[html] trajectories-a-work-in-4-parts-and-still-in-progress (3ms)
+[html] trajectories-oh-g-undone-by-multiple-coincidences (2ms)
+[html] video-conversion-frame-serving-101 (1ms)
+[html] viruses-how-big-are-they (4ms)
+[html] walhalla-simply-my-favourite-town (1ms)
+[html] walk-route-dandenongs-doongalla-and-rankin-loop (889╬╝s)
+[html] where-is-that-photo-south-west-victoria-trip (2ms)
+[html] williamstown-mmbw (972╬╝s)
+[html] windows-disobeys-me-then-recovers-on-dds (639╬╝s)
+[html] xbmc-quick-start-and-keys (2ms)
+Parsed 436 Markdown files in 4s
+[filter:RemoveDrafts] General/dsghost-image-test
+[filter:RemoveDrafts] Music/great-cover-songs-rockwiz
+[filter:RemoveDrafts] images-half-working-feb-2023
+[filter:RemoveDrafts] williamstown-mmbw
+Filtered out 4 files in 457╬╝s
+Emitting files
+[emit:ContentPage] docs/2001-my-book-review-aged-14-or-15.html
+[emit:FolderPage] docs/Astronomy/index.html
+[emit:TagPage] docs/tags/forbloggers.html
+[emit:ContentIndex] docs/sitemap.xml
+[emit:404Page] docs/404.html
+[emit:Favicon] docs/favicon.ico
+[emit:FolderPage] docs/Bushwalks/index.html
+[emit:TagPage] docs/tags/forbloggers/sport.html
+[emit:ContentPage] docs/A-bit-more-on---Cricket.html
+[emit:ContentIndex] docs/index.xml
+[emit:ComponentResources] docs/index.css
+[emit:FolderPage] docs/Creative/index.html
+[emit:TagPage] docs/tags/astronomy.html
+[emit:ContentPage] docs/Astronomy/behind-the-scenes-stellarium.html
+[emit:ContentIndex] docs/static/contentIndex.json
+[emit:ComponentResources] docs/prescript.js
+[emit:FolderPage] docs/Entertainment/index.html
+[emit:TagPage] docs/tags/bushwalks.html
+[emit:ContentPage] docs/Astronomy/easy-moon-task.html
+[emit:FolderPage] docs/Entertainment/Content-Suggestions/index.html
+[emit:ComponentResources] docs/postscript.js
+[emit:TagPage] docs/tags/speculation.html
+[emit:ContentPage] docs/Astronomy/goodbye-and-thank-you-starstuff-show-and-podcast.html
+[emit:FolderPage] docs/Freelance/index.html
+[emit:TagPage] docs/tags/sport.html
+[emit:ContentPage] docs/Astronomy/light-years-from-hobsons-bay.html
+[emit:FolderPage] docs/General/index.html
+[emit:TagPage] docs/tags/creative.html
+[emit:ContentPage] docs/Astronomy/mars-probe-cooks-and-looks.html
+[emit:FolderPage] docs/Maths/index.html
+[emit:FolderPage] docs/Movies/index.html
+[emit:TagPage] docs/tags/egypt.html
+[emit:ContentPage] docs/Astronomy/midday-is-almost-never-1200.html
+[emit:CustomOgImages] docs/A-bit-more-on---Cricket-og-image.webp
+[emit:Assets] docs/912d0-20130630_161430.jpg
+[emit:Assets] docs/Entertainment/zz__Content-Suggestions.7z
+[emit:FolderPage] docs/Music/index.html
+[emit:TagPage] docs/tags/goldrush.html
+[emit:ContentPage] docs/Astronomy/solar-dance-the-sun-at-1200.html
+[emit:Assets] docs/images/2eb8e-screenshot_2013-06-30-16-14-54.jpg
+[emit:FolderPage] docs/Navigation/index.html
+[emit:Assets] docs/images/2eb8e-screenshot_2013-06-30-16-14-54.png
+[emit:TagPage] docs/tags/victoria.html
+[emit:ContentPage] docs/Astronomy/watched-mars-robot-phoenix-landing-in-real-time.html
+[emit:FolderPage] docs/Pondering/index.html
+[emit:Assets] docs/images/6d458-20130630_160322.jpg
+[emit:TagPage] docs/tags/history.html
+[emit:ContentPage] docs/Astronomy/water-ice-on-mars.html
+[emit:FolderPage] docs/Racecourse/index.html
+[emit:Assets] docs/images/912d0-20130630_161430.jpg
+[emit:TagPage] docs/tags/entertainment.html
+[emit:ContentPage] docs/Bushwalks/1000-steps-loop-walk-dandenongs.html
+[emit:Assets] docs/images/ae0b0-gps-datum-error-simulated.jpg
+[emit:FolderPage] docs/Techtips/index.html
+[emit:TagPage] docs/tags/technology.html
+[emit:ContentPage] docs/Bushwalks/744.html
+[emit:Assets] docs/images/Akhenaton_and_Nefertiti.jpg
+[emit:ContentPage] docs/Bushwalks/catherdral-ranges-jawbones-walk-april-23rd-2008.html
+[emit:TagPage] docs/tags/suggestions.html
+[emit:Assets] docs/images/SicHeader.jpg
+[emit:TagPage] docs/tags/tv.html
+[emit:ContentPage] docs/Bushwalks/dandenongs-track-comparison.html
+[emit:Assets] docs/images/wordpress/7c921-davids_20200118_123031.jpg
+[emit:TagPage] docs/tags/books.html
+[emit:ContentPage] docs/Bushwalks/falcons-lookout-walk.html
+[emit:Assets] docs/images/wordpress/c8da8-lower-stony-creek-reservoir-walk-map-ds-3.jpg
+[emit:ContentPage] docs/Bushwalks/grampians-hollow-mountain-has-me-in-stitches.html
+[emit:TagPage] docs/tags/movies.html
+[emit:Assets] docs/images/wordpress/cab07-davids_20151216_132715.jpg
+[emit:ContentPage] docs/Bushwalks/hepburn-springs-walk-april-20th-2008.html
+[emit:TagPage] docs/tags/lists.html
+[emit:Assets] docs/images/wordpress/d99a0-screenshot-11_06_2014-6_29_59-pm_thumb-768x590.png
+[emit:ContentPage] docs/Bushwalks/hollow-mountain-grampians-walk-march-22nd-2008.html
+[emit:TagPage] docs/tags/freelance.html
+[emit:Assets] docs/images/2024/10/muskrate.webp
+[emit:ContentPage] docs/Bushwalks/kallista-sherbrooke-loop-walk.html
+[emit:TagPage] docs/tags/AI.html
+[emit:Assets] docs/images/2024/11/ss.20241119_163554_Music_Theory_for_Musicians_and_Normal_People_-_Goo.png
+[emit:ContentPage] docs/Bushwalks/kallista-sherbrooke-walk.html
+[emit:TagPage] docs/tags/general.html
+[emit:Assets] docs/images/wordpress/2013/10/Dandenongs-Walks-Gradients_.png
+[emit:ContentPage] docs/Bushwalks/marysville-falls-and-de-la-rue-lookout-walk-april-9th-2008.html
+[emit:TagPage] docs/tags/navigation.html
+[emit:Assets] docs/images/wordpress/2017/08/Scanned_20170803_121832-Racecourse-300x212.png
+[emit:CustomOgImages] docs/Creative/SingingCrystals_AFL-og-image.webp
+[emit:Assets] docs/images/wordpress/2017/08/Scanned_20170803_121832-Racecourse.png
+[emit:TagPage] docs/tags/navigation/maps.html
+[emit:ContentPage] docs/Bushwalks/mt-dandenong-doongala.html
+[emit:TagPage] docs/tags.html
+[emit:ContentPage] docs/Bushwalks/mt-dandenong-highlights-walk-take-1-steep-shortcut.html
+[emit:Assets] docs/images/wordpress/2020/03/11c6c-dandenongs_3_straightup_tracks1.jpg
+[emit:TagPage] docs/tags/maths.html
+[emit:ContentPage] docs/Bushwalks/mt-dandenong-kyeema-to-doongalla.html
+[emit:Assets] docs/images/wordpress/2020/03/2a8b5-dandenongs-3-tracks-osm1.jpg
+[emit:ContentPage] docs/Bushwalks/mt-macedon-highlights-run-through-of-hybrid-walk.html
+[emit:TagPage] docs/tags/ausMovies.html
+[emit:Assets] docs/images/wordpress/2020/03/ac4ec-rob-m-racecouse-main-annottated-scanned_20170803_115143_smaller.jpg
+[emit:ContentPage] docs/Bushwalks/mt-macedon-loop.html
+[emit:TagPage] docs/tags/music.html
+[emit:Assets] docs/images/wordpress/2020/05/CountdownLogo-300x190.png
+[emit:TagPage] docs/tags/music/australian.html
+[emit:Assets] docs/images/wordpress/2020/05/logo-optus-300x193.jpg
+[emit:ContentPage] docs/Bushwalks/mt-macedon-walk-may-22nd-2008.html
+[emit:TagPage] docs/tags/music/covers.html
+[emit:ContentPage] docs/Bushwalks/sherbrooke-forest-and-alfred-nicholas-gardens-walk-march-9th-2008.html
+[emit:Assets] docs/images/wordpress/2020/05/pixel4aimages.jpg
+[emit:TagPage] docs/tags/gps.html
+[emit:ContentPage] docs/Bushwalks/the-cathedral-cathedral-ranges.html
+[emit:Assets] docs/images/wordpress/2020/05/ss.20220123_102709-300x188.jpg
+[emit:TagPage] docs/tags/pondering.html
+[emit:ContentPage] docs/Bushwalks/trip-walk-warracknabeal-wyperfeld-np-and-warrnambool.html
+[emit:Assets] docs/images/wordpress/2020/05/ss.20230215_154233-300x156.png
+[emit:TagPage] docs/tags/normanlindsay.html
+[emit:ContentPage] docs/Bushwalks/walk-lower-stony-creek-reservoir-staughton-vale.html
+[emit:Assets] docs/images/wordpress/2020/05/ss.20230215_154717-300x177.png
+[emit:ContentPage] docs/Bushwalks/warburton-take-2-and-didnt-make-it-again.html
+[emit:TagPage] docs/tags/racecourse.html
+[emit:Assets] docs/images/wordpress/2020/05/ss.20230215_155739-300x164.png
+[emit:ContentPage] docs/Creative/SingingCrystals_AFL.html
+[emit:TagPage] docs/tags/techtip.html
+[emit:Assets] docs/images/wordpress/2020/05/Steely-Dan-Peg-300x300.webp
+[emit:ContentPage] docs/Creative/anzac-day-golden-wisps-of-pale-men.html
+[emit:TagPage] docs/tags/opensource.html
+[emit:Assets] docs/images/wordpress/2021/02/0074b-image_thumb3.png
+[emit:TagPage] docs/tags/once-thought.html
+[emit:Assets] docs/images/wordpress/2021/02/02d1d-ge-fullscreen-capture-28102012-72631-pm_thumb.jpg
+[emit:ContentPage] docs/Creative/its-all-relative-mummy-c-2004.html
+[emit:TagPage] docs/tags/books/ebooks.html
+[emit:ContentPage] docs/Creative/lm3-and-port-phillip-non-bay.html
+[emit:Assets] docs/images/wordpress/2021/02/0612f-463528_10150720414766578_609803454_o_thumb.jpg
+[emit:CustomOgImages] docs/Entertainment/Content-Suggestions/Suggestions_2026_TV-og-image.webp
+[emit:ContentPage] docs/Creative/on-the-trail-of-captain-blowhard-2001.html
+[emit:TagPage] docs/tags/covid-19.html
+[emit:Assets] docs/images/wordpress/2021/02/065a6-screenshot_20150412_165033_thumb.png
+[emit:ContentPage] docs/Creative/the-unnatural-tree-at-happy-creek-2000.html
+[emit:TagPage] docs/tags/Peninsula.html
+[emit:Assets] docs/images/wordpress/2021/02/06cde-red-bluff-photo-from-pt-g-small_thumb.png
+[emit:ContentPage] docs/Entertainment/3-lounge-room-devices-into-1.html
+[emit:TagPage] docs/tags/travel.html
+[emit:Assets] docs/images/wordpress/2021/02/0cb0b-davids_20140418_104453_thumb.jpg
+[emit:ContentPage] docs/Entertainment/Content-Suggestions/Suggestions_2026_TV.html
+[emit:TagPage] docs/tags/index.html
+[emit:Assets] docs/images/wordpress/2021/02/0d94f-davids_20140527_105927.jpg
+[emit:ContentPage] docs/Entertainment/Content-Suggestions/Suggestions_2026_books.html
+[emit:Assets] docs/images/wordpress/2021/02/0e2a5-screenshot_20150412_163821_thumb.png
+[emit:ContentPage] docs/Entertainment/Content-Suggestions/Suggestions_2026_movies.html
+[emit:Assets] docs/images/wordpress/2021/02/0f5a7-ds_20130112_1147_small_thumb.jpg
+[emit:ContentPage] docs/Entertainment/afl-rights-all-8-games.html
+[emit:Assets] docs/images/wordpress/2021/02/1000steps_2.jpg
+[emit:Assets] docs/images/wordpress/2021/02/12134.jpg
+[emit:ContentPage] docs/Entertainment/bb-136-when-live-tv-goes-bad.html
+[emit:ContentPage] docs/Entertainment/cables-suck-well.html
+[emit:Assets] docs/images/wordpress/2021/02/16267495134_4b871ec914_z.jpg
+[emit:ContentPage] docs/Entertainment/daylesford-by-sea.html
+[emit:Assets] docs/images/wordpress/2021/02/16267516084_325c24f1bd_z.jpg
+[emit:ContentPage] docs/Entertainment/digital-tv-how-australia-got-it-wrong.html
+[emit:Assets] docs/images/wordpress/2021/02/16269840913_4949c61911_z.jpg
+[emit:ContentPage] docs/Entertainment/digital-tv-to-xvid-30000-foot-view-2.html
+[emit:Assets] docs/images/wordpress/2021/02/16534663863_79fbe5e9a7_z.jpg
+[emit:ContentPage] docs/Entertainment/dolby-digital-51-on-cd.html
+[emit:Assets] docs/images/wordpress/2021/02/1656a-screenshot-11_06_2014-8_09_30-pm_thumb.png
+[emit:ContentPage] docs/Entertainment/favourite-countdown-moments.html
+[emit:Assets] docs/images/wordpress/2021/02/16702220948_e8658cee85_z.jpg
+[emit:ContentPage] docs/Entertainment/finding-local-data-for-google-earth.html
+[emit:Assets] docs/images/wordpress/2021/02/16702231828_bcb249c3e8_z.jpg
+[emit:ContentPage] docs/Entertainment/is-pay-tv-doomed.html
+[emit:Assets] docs/images/wordpress/2021/02/16702497840_cd0bdd4fd5_z.jpg
+[emit:ContentPage] docs/Entertainment/up-selling-broadband.html
+[emit:Assets] docs/images/wordpress/2021/02/16863983436_b1fd71074e_z.jpg
+[emit:ContentPage] docs/Freelance/published-a-site-for-sore-eyes.html
+[emit:Assets] docs/images/wordpress/2021/02/16888624552_4211c582a4_z.jpg
+[emit:CustomOgImages] docs/Entertainment/Content-Suggestions/Suggestions_2026_books-og-image.webp
+[emit:ContentPage] docs/Freelance/published-all-wired-up-for-their-footy-fix-the-age-1996.html
+[emit:Assets] docs/images/wordpress/2021/02/16888634922_4e9320fe2f_z.jpg
+[emit:Assets] docs/images/wordpress/2021/02/16888909091_f4141c06fc_z.jpg
+[emit:ContentPage] docs/Freelance/published-attention-seekers.html
+[emit:Assets] docs/images/wordpress/2021/02/16967045728_4777942624_z.jpg
+[emit:ContentPage] docs/Freelance/published-back-in-the-picture.html
+[emit:Assets] docs/images/wordpress/2021/02/16967051748_708fe0d34b_z.jpg
+[emit:ContentPage] docs/Freelance/published-beam-me-down.html
+[emit:Assets] docs/images/wordpress/2021/02/16967280400_4eab780961_z.jpg
+[emit:ContentPage] docs/Freelance/published-clouds-from-both-sides-now.html
+[emit:Assets] docs/images/wordpress/2021/02/16968639719_3319c89549_z.jpg
+[emit:ContentPage] docs/Freelance/published-crash-and-burn.html
+[emit:Assets] docs/images/wordpress/2021/02/17128890536_ced3fa6cc6_z.jpg
+[emit:ContentPage] docs/Freelance/published-green-machine.html
+[emit:Assets] docs/images/wordpress/2021/02/17153209922_2ab75e2254_z.jpg
+[emit:ContentPage] docs/Freelance/published-hard-problems-soft-solutions.html
+[emit:Assets] docs/images/wordpress/2021/02/17f4b-hard_rubbish_20130623_09251_thumb.png
+[emit:ContentPage] docs/Freelance/published-homing-in.html
+[emit:Assets] docs/images/wordpress/2021/02/191a9-davids_20130204_131913_thumb.jpg
+[emit:ContentPage] docs/Freelance/published-memory-burn.html
+[emit:Assets] docs/images/wordpress/2021/02/1f4e3-davids_20150221_132630_thumb.jpg
+[emit:ContentPage] docs/Freelance/published-putting-the-squeeze-on.html
+[emit:Assets] docs/images/wordpress/2021/02/1fc84-davids_20200118_123031_thumb.jpg
+[emit:ContentPage] docs/Freelance/published-secret-service.html
+[emit:Assets] docs/images/wordpress/2021/02/1_image-1.png
+[emit:ContentPage] docs/Freelance/tag-youre-it-mp3s-jpegs.html
+[emit:Assets] docs/images/wordpress/2021/02/1_image-11.png
+[emit:ContentPage] docs/Gemini-AI---not-so-I.html
+[emit:Assets] docs/images/wordpress/2021/02/1_image-13.png
+[emit:ContentPage] docs/General/1080p-versus-720p-versus-dear-old-analog.html
+[emit:Assets] docs/images/wordpress/2021/02/1_image-2.png
+[emit:ContentPage] docs/General/abc-iview-is-streaming-not-downloading.html
+[emit:Assets] docs/images/wordpress/2021/02/1_image-3.png
+[emit:ContentPage] docs/General/about-this-blog-updated.html
+[emit:Assets] docs/images/wordpress/2021/02/1_image-4.png
+[emit:Assets] docs/images/wordpress/2021/02/1_image-5.png
+[emit:ContentPage] docs/General/about-to-watch-shows-on-a-popcorn.html
+[emit:Assets] docs/images/wordpress/2021/02/1_image-7.png
+[emit:ContentPage] docs/General/aflw-star-tayla-harris-talks-online-misogyny.html
+[emit:Assets] docs/images/wordpress/2021/02/1_image-8.png
+[emit:ContentPage] docs/General/alfred-hotel-former-92-stevedore-street-williamstown.html
+[emit:Assets] docs/images/wordpress/2021/02/1_image-9.png
+[emit:ContentPage] docs/General/ancient-egyptian-cures-for-toothaches.html
+[emit:Assets] docs/images/wordpress/2021/02/1_image.png
+[emit:ContentPage] docs/General/and-thus-i-made-a-light-blink.html
+[emit:Assets] docs/images/wordpress/2021/02/20019-screenshot_2016-06-26-14-13-24_thumb.png
+[emit:ContentPage] docs/General/android-apps-i-use-nov-2010-main-ones.html
+[emit:Assets] docs/images/wordpress/2021/02/20100603_123041.jpg
+[emit:ContentPage] docs/General/archiving-and-indexing-your-digital-photos.html
+[emit:Assets] docs/images/wordpress/2021/02/21c06-wlemoticon-smile.png
+[emit:ContentPage] docs/General/artwill-plan-to-aquire-telstra.html
+[emit:Assets] docs/images/wordpress/2021/02/2582224018_71686bfd8a.jpg
+[emit:ContentPage] docs/General/australia-is-old-and-flat-well.html
+[emit:Assets] docs/images/wordpress/2021/02/27694-image_thumb.png
+[emit:ContentPage] docs/General/backing-up-my-pcs-main-data.html
+[emit:Assets] docs/images/wordpress/2021/02/2c620-davids_20130202_135252_thumb.jpg
+[emit:ContentPage] docs/General/backing-up-with-areca.html
+[emit:Assets] docs/images/wordpress/2021/02/2f77e-wlemoticon-smile.png
+[emit:CustomOgImages] docs/Entertainment/Content-Suggestions/Suggestions_2026_movies-og-image.webp
+[emit:ContentPage] docs/General/bendigo-art-gallery-may-2014-genius-and-ambition-the-royal-academy-of-arts-london-1768-1918.html
+[emit:Assets] docs/images/wordpress/2021/02/2_image-1.png
+[emit:Assets] docs/images/wordpress/2021/02/2_image-2.png
+[emit:ContentPage] docs/General/beware-of-those-29-per-month-broadband-plans.html
+[emit:Assets] docs/images/wordpress/2021/02/2_image.png
+[emit:ContentPage] docs/General/books-on-spaceflight.html
+[emit:Assets] docs/images/wordpress/2021/02/30b8c-wlemoticon-smile.png
+[emit:ContentPage] docs/General/bye-bye-first-ever-pc-the-1985-era-ibm-jx-4-and-512.html
+[emit:Assets] docs/images/wordpress/2021/02/3218f-screenshot-11_06_2014-8_09_06-pm_thumb.png
+[emit:ContentPage] docs/General/castlemaine-and-malmsbury-day-trip.html
+[emit:Assets] docs/images/wordpress/2021/02/34185-davids_20150621_122312_thumb.jpg
+[emit:ContentPage] docs/General/citizen-kane.html
+[emit:Assets] docs/images/wordpress/2021/02/34330-image_thumb.png
+[emit:ContentPage] docs/General/closing-hells-gates-by-dr-hamish-maxwell-stewart.html
+[emit:Assets] docs/images/wordpress/2021/02/38d77-image_thumb.png
+[emit:ContentPage] docs/General/cloudstreet-tim-winton.html
+[emit:Assets] docs/images/wordpress/2021/02/3978735097_3aec1a4167_o_d.jpg
+[emit:ContentPage] docs/General/control-your-vocabulary.html
+[emit:Assets] docs/images/wordpress/2021/02/3_image-2.png
+[emit:ContentPage] docs/General/copying-big-files-to-the-mobile-phone.html
+[emit:Assets] docs/images/wordpress/2021/02/3_image.png
+[emit:ContentPage] docs/General/criket-twenty-20-cup-rules.html
+[emit:Assets] docs/images/wordpress/2021/02/40406-davids_20140609_132327_thumb1.jpg
+[emit:ContentPage] docs/General/crocodile-on-the-sandbank-elizabeth-peters.html
+[emit:Assets] docs/images/wordpress/2021/02/41ef2-wlemoticon-smile.png
+[emit:ContentPage] docs/General/crows-sack-fans.html
+[emit:Assets] docs/images/wordpress/2021/02/41Y1XQ2JBBL._AA60.jpg
+[emit:ContentPage] docs/General/day-train-trip-to-ballarat-art-gallery.html
+[emit:Assets] docs/images/wordpress/2021/02/44118-wlemoticon-smile.png
+[emit:ContentPage] docs/General/daywalks-around-melbourne-book.html
+[emit:Assets] docs/images/wordpress/2021/02/451376.jpg
+[emit:Assets] docs/images/wordpress/2021/02/4_image.png
+[emit:ContentPage] docs/General/deconstructing-breathe-with-me-till-dawn.html
+[emit:Assets] docs/images/wordpress/2021/02/50f0f-dsc360_2012-10-28-14-31-44_thumb.png
+[emit:ContentPage] docs/General/designed-without-users-in-mind.html
+[emit:Assets] docs/images/wordpress/2021/02/515dd-img_20171209_150219.jpg
+[emit:ContentPage] docs/General/digital-tv-will-finally-go-full-steam-then-face-a-huge-smack-in-the-head.html
+[emit:Assets] docs/images/wordpress/2021/02/51B1NNUZYrL._SY300.jpg
+[emit:ContentPage] docs/General/dispatches.html
+[emit:Assets] docs/images/wordpress/2021/02/5567a-dsimg_2368_thumb.jpg
+[emit:ContentPage] docs/General/doongalla-walk-bills-track.html
+[emit:Assets] docs/images/wordpress/2021/02/593f8-wlemoticon-smile.png
+[emit:ContentPage] docs/General/dreams-of-tv-direct-via-nbn-legal-and-paid.html
+[emit:Assets] docs/images/wordpress/2021/02/59a94-davids_20150621_124305_thumb.jpg
+[emit:ContentPage] docs/General/drowned-world.html
+[emit:Assets] docs/images/wordpress/2021/02/5a6b3-davids_20140418_104134_thumb.jpg
+[emit:Assets] docs/images/wordpress/2021/02/5d07bb6e6fc9202e196da1f6.jpg
+[emit:ContentPage] docs/General/dummy-category-post-culture.html
+[emit:ContentPage] docs/General/ebook-redux-part-1.html
+[emit:Assets] docs/images/wordpress/2021/02/5d842-screenshot-14_09_2014-9_20_05-am_thumb.png
+[emit:ContentPage] docs/General/ebooks-01-the-main-types.html
+[emit:Assets] docs/images/wordpress/2021/02/5df0d-wlemoticon-smile.png
+[emit:ContentPage] docs/General/emulating-a-developer-part-1-learn-as-you-type.html
+[emit:Assets] docs/images/wordpress/2021/02/5e776-screenshot_2013-06-30-16-14-54_thumb.png
+[emit:ContentPage] docs/General/emulating-a-developer-part-2-pc-coding-what-no-clipboard.html
+[emit:Assets] docs/images/wordpress/2021/02/5e96e-fullscreen-capture-13012013-43050-pm_thumb1.png
+[emit:ContentPage] docs/General/emulating-a-developer-part-3-linux-coding-bashing-away.html
+[emit:Assets] docs/images/wordpress/2021/02/61d009e75903d4c1c4e677529a1fdf39_2048x1152.jpg
+[emit:CustomOgImages] docs/Entertainment/Content-Suggestions/index-og-image.webp
+[emit:Assets] docs/images/wordpress/2021/02/6489e-image_thumb2.png
+[emit:ContentPage] docs/General/entanglement.html
+[emit:Assets] docs/images/wordpress/2021/02/66434-davids_20140609_112733_thumb1.jpg
+[emit:ContentPage] docs/General/enthralling-2005-grand-final.html
+[emit:Assets] docs/images/wordpress/2021/02/67f4b-p1010086_thumb.jpg
+[emit:ContentPage] docs/General/epub-sources.html
+[emit:Assets] docs/images/wordpress/2021/02/680a6-20130630_161430_thumb.jpg
+[emit:ContentPage] docs/General/evernote-ive-forgotten-what-it-does-so-i-need-it-to-help-me-remember.html
+[emit:Assets] docs/images/wordpress/2021/02/69a8f-capture-3.png
+[emit:ContentPage] docs/General/family-history-trivia-and-dates-2.html
+[emit:Assets] docs/images/wordpress/2021/02/6a981-ss.20171209.160411.jpg
+[emit:ContentPage] docs/General/fear-and-donuts.html
+[emit:Assets] docs/images/wordpress/2021/02/6af6b-davids_20140609_131916_thumb1.jpg
+[emit:ContentPage] docs/General/finally-got-192-mb-file-on-to-mobile-phone.html
+[emit:Assets] docs/images/wordpress/2021/02/6f818-dandenongs_3_straightup_tracks_thumb1.jpg
+[emit:ContentPage] docs/General/fine-at-work-sloppy-at-home-grammarly.html
+[emit:Assets] docs/images/wordpress/2021/02/73970-davids_20160619_121751_thumb.jpg
+[emit:ContentPage] docs/General/finest-british-double-entendres.html
+[emit:Assets] docs/images/wordpress/2021/02/767ef-screenshot-26_07_2014-8_52_32-am_thumb.png
+[emit:ContentPage] docs/General/firefox-3-installed-on-day-1.html
+[emit:Assets] docs/images/wordpress/2021/02/79662-screenshot-26_07_2014-8_50_38-am_thumb.png
+[emit:ContentPage] docs/General/first-australian-stories-myths-or-not.html
+[emit:Assets] docs/images/wordpress/2021/02/7f944-ds_20130112_1240_02_small_thumb.jpg
+[emit:ContentPage] docs/General/first-pc-versus-current-2010-smartphone.html
+[emit:Assets] docs/images/wordpress/2021/02/8031f-image_thumb.png
+[emit:ContentPage] docs/General/first-video-creation-with-premiere-elements.html
+[emit:Assets] docs/images/wordpress/2021/02/82b24-wlemoticon-smile.png
+[emit:ContentPage] docs/General/g-ravity-is-universal.html
+[emit:Assets] docs/images/wordpress/2021/02/83866-screenshot-26_07_2014-8_50_38-am_ver001_thumb1.png
+[emit:ContentPage] docs/General/gold-my-pc-invoice-from-1994.html
+[emit:Assets] docs/images/wordpress/2021/02/848ed-image_thumb.png
+[emit:ContentPage] docs/General/great-ess-v-haw-incidents.html
+[emit:Assets] docs/images/wordpress/2021/02/84b22-wlemoticon-smile.png
+[emit:ContentPage] docs/General/happy-50th-nasa-tli-and-the-two-towers-missions.html
+[emit:Assets] docs/images/wordpress/2021/02/8661a-image_thumb.png
+[emit:ContentPage] docs/General/harry-potter-and-the-half-blood-prince.html
+[emit:Assets] docs/images/wordpress/2021/02/87aab-wlemoticon-smile.png
+[emit:Assets] docs/images/wordpress/2021/02/897ea-wlemoticon-smile.png
+[emit:ContentPage] docs/General/hes-on-tv-countdown-he-must-be-rich.html
+[emit:ContentPage] docs/General/high-definition-tv-recording-and-playback.html
+[emit:Assets] docs/images/wordpress/2021/02/8ab8b-image_thumb1.png
+[emit:ContentPage] docs/General/hitler-1889-1936-hubris.html
+[emit:Assets] docs/images/wordpress/2021/02/8b458-wlemoticon-smile.png
+[emit:ContentPage] docs/General/hollowmen-barely-making-top-50-in-ratings.html
+[emit:Assets] docs/images/wordpress/2021/02/8b780-screenshot-11_12_2014-8_13_05-am_thumb1.png
+[emit:ContentPage] docs/General/homo-vacuous-and-the-great-big-nod.html
+[emit:Assets] docs/images/wordpress/2021/02/8da17-screenshot-28_04_2014-5_05_50-pm_ver001_thumb.png
+[emit:ContentPage] docs/General/hot-walk-lush-water.html
+[emit:Assets] docs/images/wordpress/2021/02/92b5d-davids_20130915_125839_thumb.jpg
+[emit:ContentPage] docs/General/hottest-december-ever-hottest-dec-day-ever-tipped.html
+[emit:Assets] docs/images/wordpress/2021/02/92c23-img006_thumb.png
+[emit:ContentPage] docs/General/how-i-find-my-files-including-on-external-disks-and-dvds-blu-ray-movies-etc.html
+[emit:Assets] docs/images/wordpress/2021/02/946a5-image_thumb1.png
+[emit:ContentPage] docs/General/how-i-got-the-job-at-ibm-in-1982.html
+[emit:Assets] docs/images/wordpress/2021/02/98a39-capture-2.png
+[emit:ContentPage] docs/General/hyperwords-a-clever-and-useful-firefox-add-on.html
+[emit:Assets] docs/images/wordpress/2021/02/9c135-creative_2014_thumb.jpg
+[emit:CustomOgImages] docs/Freelance/published-memory-burn-og-image.webp
+[emit:Assets] docs/images/wordpress/2021/02/9cf50-0_212299.jpg
+[emit:ContentPage] docs/General/icb-bin-ein-supreme-nerd.html
+[emit:Assets] docs/images/wordpress/2021/02/9d9d6-ss.20171209.162302.jpg
+[emit:ContentPage] docs/General/idea-public-lectures-in-melbourne-web-site.html
+[emit:Assets] docs/images/wordpress/2021/02/9e180-2013-08-22-18_29_35-updated-mallacoota-beaches-2013.mpg-vlc-media-player_thumb.png
+[emit:ContentPage] docs/General/ideas-for-the-hollowmen.html
+[emit:Assets] docs/images/wordpress/2021/02/a58f8-screenshot_20150415_171731_thumb.png
+[emit:ContentPage] docs/General/if-i-was-a-democrat-in-america-now.html
+[emit:Assets] docs/images/wordpress/2021/02/a88c4-screenshot-4_08_2014-6_22_10-pm_thumb.png
+[emit:ContentPage] docs/General/indexing-pc-stuff-01-inside-documents.html
+[emit:Assets] docs/images/wordpress/2021/02/a9283-screenshot_20150412_163518_thumb.png
+[emit:ContentPage] docs/General/inside-hitlers-bunker-the-last-days-of-the-third-reich.html
+[emit:Assets] docs/images/wordpress/2021/02/ac4ec-rob-m-racecouse-main-annottated-scanned_20170803_115143_smaller.jpg
+[emit:ContentPage] docs/General/interesting-songs-april-25th-2008-2.html
+[emit:Assets] docs/images/wordpress/2021/02/b5595-davids_20150221_133635_thumb.jpg
+[emit:ContentPage] docs/General/interesting-songs-april-25th-2008.html
+[emit:Assets] docs/images/wordpress/2021/02/b5b3e-david-sidwell-williamstown-racetrack-ge-suggestions_thumb.jpg
+[emit:ContentPage] docs/General/internet-archive-01-intro.html
+[emit:Assets] docs/images/wordpress/2021/02/b5d7b-image_thumb.png
+[emit:ContentPage] docs/General/internet-tv-1-teds-excellent-leading-edge-lectures-and-performances-2.html
+[emit:Assets] docs/images/wordpress/2021/02/bf543-davids_20130202_164251_thumb.jpg
+[emit:ContentPage] docs/General/internet-tv-2-miro-free-open-internet-tv-and-video-player.html
+[emit:Assets] docs/images/wordpress/2021/02/c2e4f-image_thumb4.png
+[emit:Assets] docs/images/wordpress/2021/02/c8da8-lower-stony-creek-reservoir-walk-map-ds-3.jpg
+[emit:ContentPage] docs/General/iphone-apps-i-use.html
+[emit:Assets] docs/images/wordpress/2021/02/c965b-wlemoticon-smile.png
+[emit:ContentPage] docs/General/iphone-ipod-touch-picture-board-idea.html
+[emit:Assets] docs/images/wordpress/2021/02/cab07-davids_20151216_132715.jpg
+[emit:ContentPage] docs/General/iphone-todo-list-as-loan-system.html
+[emit:Assets] docs/images/wordpress/2021/02/CathedralRanges.jpg
+[emit:ContentPage] docs/General/just-two-things-i-wish-i-could-have-shown-pa-hudson.html
+[emit:Assets] docs/images/wordpress/2021/02/cb32a-screenshot-11_06_2014-8_10_01-pm_thumb.png
+[emit:ContentPage] docs/General/kindle-ebook-many-editions-of-the-same-thing-consumer-confusion.html
+[emit:Assets] docs/images/wordpress/2021/02/cc807-wt-racecourse_markers_from-_thumb.jpg
+[emit:ContentPage] docs/General/latham-ks83-or-84.html
+[emit:Assets] docs/images/wordpress/2021/02/ccf04-image_thumb2.png
+[emit:ContentPage] docs/General/locate32-and-dropbox-offline-indexes-of-remote-pcs.html
+[emit:Assets] docs/images/wordpress/2021/02/crocodile-on-the-sandbank-198x300.jpg
+[emit:ContentPage] docs/General/lost-lights-not-power-and-so-did-my-neighbours.html
+[emit:Assets] docs/images/wordpress/2021/02/d1403-image_thumb4.png
+[emit:ContentPage] docs/General/making-maps-with-qgis.html
+[emit:Assets] docs/images/wordpress/2021/02/d6328-dandenongs-walks_thumb.png
+[emit:ContentPage] docs/General/making-online-articles-easier-to-read.html
+[emit:Assets] docs/images/wordpress/2021/02/d99a0-screenshot-11_06_2014-6_29_59-pm_thumb.png
+[emit:ContentPage] docs/General/melbourne-museum-melbourne-gallery-and-story.html
+[emit:Assets] docs/images/wordpress/2021/02/davids_20051027_173228.jpg
+[emit:ContentPage] docs/General/memorable-off-road-trips.html
+[emit:Assets] docs/images/wordpress/2021/02/davids_20051027_173416.jpg
+[emit:ContentPage] docs/General/men-of-rock-other-great-geology-documentaries.html
+[emit:Assets] docs/images/wordpress/2021/02/davids_20170528_130535.jpg
+[emit:ContentPage] docs/General/moved-every-bit-of-laptops-disk-to-a-much-bigger-disk.html
+[emit:Assets] docs/images/wordpress/2021/02/davids_20170528_134131.jpg
+[emit:ContentPage] docs/General/mt-stapylton-area-post-jan-2014-grampians-fires.html
+[emit:Assets] docs/images/wordpress/2021/02/davids_20170706_185841.jpg
+[emit:ContentPage] docs/General/music-theory-for-musicians-and-normal-people.html
+[emit:Assets] docs/images/wordpress/2021/02/davids_20200310_162529.jpg
+[emit:ContentPage] docs/General/my-high-tech-scanning-rig.html
+[emit:Assets] docs/images/wordpress/2021/02/davids_20200310_175941.jpg
+[emit:CustomOgImages] docs/Gemini-AI---not-so-I-og-image.webp
+[emit:ContentPage] docs/General/my-internet-which-is-fast-quite-cheap-and-not-nbn.html
+[emit:Assets] docs/images/wordpress/2021/02/davids_20200310_180048.jpg
+[emit:ContentPage] docs/General/new-p3600i-first-thoughts.html
+[emit:Assets] docs/images/wordpress/2021/02/davids_20200422_225310.jpg
+[emit:ContentPage] docs/General/new-phone-as-modem-for-laptop.html
+[emit:Assets] docs/images/wordpress/2021/02/davids_20200526_110950-2.jpg
+[emit:ContentPage] docs/General/no-car-then-heres-some-day-trips-on-a-train.html
+[emit:Assets] docs/images/wordpress/2021/02/davids_20200526_110950.jpg
+[emit:ContentPage] docs/General/old-commodore-amiga-music-file-reborn.html
+[emit:Assets] docs/images/wordpress/2021/02/davids_20200624_113239.jpg
+[emit:ContentPage] docs/General/one-day-in-a-long-war-jeffrey-ethell.html
+[emit:Assets] docs/images/wordpress/2021/02/davids_20200624_120915.jpg
+[emit:ContentPage] docs/General/password-safe-now-version-2-and-open-source.html
+[emit:Assets] docs/images/wordpress/2021/02/davids_20200628_165915.jpg
+[emit:ContentPage] docs/General/patricia-piccinini-we-are-family.html
+[emit:Assets] docs/images/wordpress/2021/02/download-7.jpg
+[emit:ContentPage] docs/General/pc-software-and-tips-master-list.html
+[emit:Assets] docs/images/wordpress/2021/02/download-8.jpg
+[emit:ContentPage] docs/General/phone-battery-poor-but-then-realised.html
+[emit:Assets] docs/images/wordpress/2021/02/ds-egypt-sphinx-scanned_20200530_200602.jpg
+[emit:ContentPage] docs/General/photo-mystery-1-solved.html
+[emit:Assets] docs/images/wordpress/2021/02/DS_20101020_1358_02.jpg
+[emit:ContentPage] docs/General/play-piano-01-oh-susanna.html
+[emit:Assets] docs/images/wordpress/2021/02/DS_20101020_1404.jpg
+[emit:ContentPage] docs/General/podcast-list-july-2008.html
+[emit:Assets] docs/images/wordpress/2021/02/DS_20101028_1220.jpg
+[emit:ContentPage] docs/General/podcast-list-ndash-august-2009.html
+[emit:Assets] docs/images/wordpress/2021/02/ds_img_20200508_204024.jpg
+[emit:ContentPage] docs/General/podcasts-australian-history.html
+[emit:Assets] docs/images/wordpress/2021/02/e288d-davids_20130208_144339_thumb.jpg
+[emit:ContentPage] docs/General/podcasts-early-may-2020.html
+[emit:Assets] docs/images/wordpress/2021/02/e3d99-image_thumb3.png
+[emit:Assets] docs/images/wordpress/2021/02/e7763-20130630_160322_thumb.jpg
+[emit:ContentPage] docs/General/podcasts-practical-tips.html
+[emit:Assets] docs/images/wordpress/2021/02/earthtomoon11-1017x1024.jpg
+[emit:ContentPage] docs/General/read-the-blog-but-perhaps-dont-subscribe-nor-follow.html
+[emit:Assets] docs/images/wordpress/2021/02/f1db9-screenshot-26_07_2014-8_53_15-am_thumb1.png
+[emit:ContentPage] docs/General/rod-stewart-songs.html
+[emit:ContentPage] docs/General/scorched-3d-free-and-it-will-hook-you.html
+[emit:Assets] docs/images/wordpress/2021/02/f2132-screenshot_20150613_163022_thumb1.png
+[emit:ContentPage] docs/General/searching-facebook-within-a-group.html
+[emit:Assets] docs/images/wordpress/2021/02/fa1ef-screenshot_20150412_165008_thumb.png
+[emit:Assets] docs/images/wordpress/2021/02/fb7cf-capture.png
+[emit:ContentPage] docs/General/spencers-warbler-and-quantum-electrodynamics.html
+[emit:Assets] docs/images/wordpress/2021/02/fbafc-davids_20080523_164604_thumb.jpg
+[emit:ContentPage] docs/General/spotify-song-and-artist-radio.html
+[emit:Assets] docs/images/wordpress/2021/02/fc2ee-ds-cz-20140916173152880_thumb1.jpg
+[emit:ContentPage] docs/General/starstuff-podcast-is-back.html
+[emit:Assets] docs/images/wordpress/2021/02/fd5e7-screenshot_20160319_182029_thumb.png
+[emit:ContentPage] docs/General/streaming-australian-tv.html
+[emit:Assets] docs/images/wordpress/2021/02/ffca9-dandenongs-3-tracks-osm_thumb1.jpg
+[emit:ContentPage] docs/General/the-good-and-bad-of-working-in-the-city.html
+[emit:Assets] docs/images/wordpress/2021/02/file-3-5-20-3-58-35-pm.png
+[emit:ContentPage] docs/General/the-great-cataloguing-project.html
+[emit:Assets] docs/images/wordpress/2021/02/image-1.png
+[emit:ContentPage] docs/General/the-little-stranger.html
+[emit:Assets] docs/images/wordpress/2021/02/image-10.png
+[emit:ContentPage] docs/General/the-road.html
+[emit:Assets] docs/images/wordpress/2021/02/image-11.png
+[emit:ContentPage] docs/General/the-tree-of-man-patrick-white.html
+[emit:Assets] docs/images/wordpress/2021/02/image-12.png
+[emit:ContentPage] docs/General/the-way-i-want-to-touch-you-1973.html
+[emit:Assets] docs/images/wordpress/2021/02/image-13.png
+[emit:ContentPage] docs/General/the-worst-week-in-my-academic-life.html
+[emit:Assets] docs/images/wordpress/2021/02/image-14.png
+[emit:ContentPage] docs/General/the-yacoubian-building-alaa-el-aswany.html
+[emit:Assets] docs/images/wordpress/2021/02/image-16.png
+[emit:ContentPage] docs/General/throwing-stones-on-the-asteroid-ryugu.html
+[emit:Assets] docs/images/wordpress/2021/02/image-17.png
+[emit:CustomOgImages] docs/HBL-Items-og-image.webp
+[emit:Assets] docs/images/wordpress/2021/02/image-18.png
+[emit:ContentPage] docs/General/tivo-only-a-few-days-before-we-find-out-what-we-get-dont-get-and-need.html
+[emit:Assets] docs/images/wordpress/2021/02/image-19.png
+[emit:ContentPage] docs/General/tivo-pvr-finally-arrives-but-the-wise-may-hold-fire-on-buying-one.html
+[emit:Assets] docs/images/wordpress/2021/02/image-2.png
+[emit:ContentPage] docs/General/trip-melbourne-to-mallacoota.html
+[emit:Assets] docs/images/wordpress/2021/02/image-21.png
+[emit:ContentPage] docs/General/trove-searching-for-old-newspaper-articles.html
+[emit:Assets] docs/images/wordpress/2021/02/image-24.png
+[emit:Assets] docs/images/wordpress/2021/02/image-25.png
+[emit:ContentPage] docs/General/two-new-cameras-that-caught-my-eye.html
+[emit:Assets] docs/images/wordpress/2021/02/image-26.png
+[emit:ContentPage] docs/General/ubuntu-linux-woes-but-debian-worked-first-time.html
+[emit:Assets] docs/images/wordpress/2021/02/image-28.png
+[emit:ContentPage] docs/General/university-ibm-and-the-whole-lot.html
+[emit:Assets] docs/images/wordpress/2021/02/image-29.png
+[emit:ContentPage] docs/General/until-the-final-hour-hitlers-last-secretary.html
+[emit:Assets] docs/images/wordpress/2021/02/image-3.png
+[emit:ContentPage] docs/General/unusual-science-units.html
+[emit:Assets] docs/images/wordpress/2021/02/image-30.png
+[emit:ContentPage] docs/General/update-ed-kuepper-chords.html
+[emit:Assets] docs/images/wordpress/2021/02/image-31.png
+[emit:ContentPage] docs/General/visuwords-the-modern-way-to-see-how-words-are-related.html
+[emit:Assets] docs/images/wordpress/2021/02/image-32.png
+[emit:ContentPage] docs/General/voip-havent-made-a-phone-call-for-over-a-year.html
+[emit:Assets] docs/images/wordpress/2021/02/image-33.png
+[emit:ContentPage] docs/General/web-internet-same-thing-choo-choo.html
+[emit:Assets] docs/images/wordpress/2021/02/image-34.png
+[emit:ContentPage] docs/General/weekend-tigers-dont-fade.html
+[emit:ContentPage] docs/General/welcome-to-the-new-site.html
+[emit:Assets] docs/images/wordpress/2021/02/image-35.png
+[emit:ContentPage] docs/General/welcome.html
+[emit:Assets] docs/images/wordpress/2021/02/image-36.png
+[emit:ContentPage] docs/General/what-do-we-technical-writers-do.html
+[emit:Assets] docs/images/wordpress/2021/02/image-37.png
+[emit:ContentPage] docs/General/wiki-on-my-mobile-phone.html
+[emit:Assets] docs/images/wordpress/2021/02/image-38.png
+[emit:ContentPage] docs/General/williamstown-sea-baths-notes.html
+[emit:Assets] docs/images/wordpress/2021/02/image-39.png
+[emit:ContentPage] docs/General/windows-file-librarians-index-then-search-your-disks.html
+[emit:Assets] docs/images/wordpress/2021/02/image-4.png
+[emit:ContentPage] docs/General/wobbling-video-smart-technique-to-fix-and-merge.html
+[emit:Assets] docs/images/wordpress/2021/02/image-40.png
+[emit:ContentPage] docs/General/word-to-excel-precise-text-extraction-automatic.html
+[emit:Assets] docs/images/wordpress/2021/02/image-5.png
+[emit:ContentPage] docs/General/write-once-publish-anywhere.html
+[emit:Assets] docs/images/wordpress/2021/02/image-6.png
+[emit:ContentPage] docs/General/your-mobile-phone-the-radios.html
+[emit:Assets] docs/images/wordpress/2021/02/image-7.png
+[emit:Assets] docs/images/wordpress/2021/02/image-8.png
+[emit:ContentPage] docs/HBL-Items.html
+[emit:Assets] docs/images/wordpress/2021/02/image-9.png
+[emit:ContentPage] docs/Maths/32-digits-and-the-joy-of-logarithmic-remembering.html
+[emit:Assets] docs/images/wordpress/2021/02/image.png
+[emit:ContentPage] docs/Maths/contrails-fun-2angles-and-distances.html
+[emit:Assets] docs/images/wordpress/2021/02/img-0293.jpg
+[emit:CustomOgImages] docs/Maths/zero-ideas-reflections-on-nothing-og-image.webp
+[emit:ContentPage] docs/Maths/godzilla-2014-in-melbourne-fun-with-numbers.html
+[emit:Assets] docs/images/wordpress/2021/02/img-0294.jpg
+[emit:ContentPage] docs/Maths/how-far-away-is-that-plane-using-log-tables.html
+[emit:Assets] docs/images/wordpress/2021/02/img_0306.png
+[emit:ContentPage] docs/Maths/how-many-credit-cards-per-person.html
+[emit:Assets] docs/images/wordpress/2021/02/img_0307.png
+[emit:ContentPage] docs/Maths/megabytes-microsd-cards-and-typing.html
+[emit:Assets] docs/images/wordpress/2021/02/img_20200423_151650.jpg
+[emit:ContentPage] docs/Maths/zero-ideas-reflections-on-nothing.html
+[emit:Assets] docs/images/wordpress/2021/02/img_20200504_170228.jpg
+[emit:ContentPage] docs/Movies/20-to-01-funny-films-2.html
+[emit:Assets] docs/images/wordpress/2021/02/img_20200504_172243.jpg
+[emit:ContentPage] docs/Movies/and-you-thought-2001-was-just-about-a-trip-to-jupiter.html
+[emit:Assets] docs/images/wordpress/2021/02/img_20200508_204024.jpg
+[emit:ContentPage] docs/Movies/blade-runner-loves-star-wars-loves-2001-loves.html
+[emit:Assets] docs/images/wordpress/2021/02/img_20200510_091807.jpg
+[emit:ContentPage] docs/Movies/chilling-intelligent-movie-3-from-guillermo-the-orphanage.html
+[emit:Assets] docs/images/wordpress/2021/02/img_6021ab262eb15.gif
+[emit:ContentPage] docs/Movies/dead-heart-1996.html
+[emit:Assets] docs/images/wordpress/2021/02/img_6021ab7133f28.gif
+[emit:ContentPage] docs/Movies/el-mariach-desperado-and-once-upon-a-time-in-mexico.html
+[emit:Assets] docs/images/wordpress/2021/02/img_6021abcb8d17e.png
+[emit:ContentPage] docs/Movies/ending-star-wars-episode-iii.html
+[emit:Assets] docs/images/wordpress/2021/02/img_6021abe831a57.jpg
+[emit:ContentPage] docs/Movies/films-ive-walked-out-on.html
+[emit:Assets] docs/images/wordpress/2021/02/img_6021ae0024205.png
+[emit:ContentPage] docs/Movies/great-movie-giggle-moments.html
+[emit:Assets] docs/images/wordpress/2021/02/lat02.jpg
+[emit:ContentPage] docs/Movies/great-movie-spoils-no-spoilers.html
+[emit:Assets] docs/images/wordpress/2021/02/latitude-as-angle-01.jpg
+[emit:ContentPage] docs/Movies/julianne-moore.html
+[emit:Assets] docs/images/wordpress/2021/02/log-annoated-for-blog-ss.20200419.202953.jpg
+[emit:ContentPage] docs/Movies/lesser-known-australian-films-01.html
+[emit:Assets] docs/images/wordpress/2021/02/mos-10.jpg
+[emit:ContentPage] docs/Movies/me-and-movies.html
+[emit:Assets] docs/images/wordpress/2021/02/n292415.jpg
+[emit:ContentPage] docs/Movies/michael-rennie-was-ill-the-day-the-earth-stood-still.html
+[emit:Assets] docs/images/wordpress/2021/02/page1-1024px-World_Magnetic_Declination_2015.pdf.jpg
+[emit:Assets] docs/images/wordpress/2021/02/piano.jpg
+[emit:ContentPage] docs/Movies/my-first-ever-internet-film-review-1996.html
+[emit:Assets] docs/images/wordpress/2021/02/picHome05.jpg
+[emit:ContentPage] docs/Movies/podcasts-late-march-2020.html
+[emit:Assets] docs/images/wordpress/2021/02/positive-declination.gif
+[emit:ContentPage] docs/Movies/return-of-the-king.html
+[emit:Assets] docs/images/wordpress/2021/02/r-3489522-1401039208-7069.jpeg.jpg
+[emit:ContentPage] docs/Movies/xvid-divx-and-mpeg4.html
+[emit:Assets] docs/images/wordpress/2021/02/range.gif
+[emit:ContentPage] docs/Movies/you-know-that-4-mp-camera-its-only-25-times-too-small-for-reality-per-se.html
+[emit:ContentPage] docs/Music/Easybeats-and-their-impact.html
+[emit:Assets] docs/images/wordpress/2021/02/scanned_20200526_180404.png
+[emit:ContentPage] docs/Music/alison-krauss-sweet-sweet-sweet.html
+[emit:ContentPage] docs/Music/blokes-love-songs.html
+[emit:Assets] docs/images/wordpress/2021/02/scanned_20200526_180430.png
+[emit:ContentPage] docs/Music/boys-will-be-boys-taste.html
+[emit:Assets] docs/images/wordpress/2021/02/screenshot_20200407-182251.png
+[emit:ContentPage] docs/Music/breathe-with-me-till-dawn-futuro.html
+[emit:Assets] docs/images/wordpress/2021/02/screenshot_20200407-182703.png
+[emit:CustomOgImages] docs/Music/Easybeats-and-their-impact-og-image.webp
+[emit:Assets] docs/images/wordpress/2021/02/screenshot_20200518-175023.png
+[emit:ContentPage] docs/Music/buying-a-portable-mp3-player-c-2004.html
+[emit:Assets] docs/images/wordpress/2021/02/ss.20200320.120228.png
+[emit:ContentPage] docs/Music/california-jam-klaatu.html
+[emit:Assets] docs/images/wordpress/2021/02/ss.20200325.090240.png
+[emit:ContentPage] docs/Music/cassandra-sherbet.html
+[emit:ContentPage] docs/Music/choctaw-hayride-alison-krauss-union-station.html
+[emit:Assets] docs/images/wordpress/2021/02/ss.20200325.090414.png
+[emit:Assets] docs/images/wordpress/2021/02/ss.20200325.090434.png
+[emit:ContentPage] docs/Music/clair-gilbert-osullivan.html
+[emit:ContentPage] docs/Music/classical-gas-tommy-emmanuel.html
+[emit:Assets] docs/images/wordpress/2021/02/ss.20200325.090501.png
+[emit:ContentPage] docs/Music/family-snapshot-peter-gabriel.html
+[emit:Assets] docs/images/wordpress/2021/02/ss.20200330.211254.png
+[emit:ContentPage] docs/Music/gheorghe-zamfir.html
+[emit:Assets] docs/images/wordpress/2021/02/ss.20200402.163946.png
+[emit:ContentPage] docs/Music/golden-miles-bulk-import-of-30-old-music-blog-posts.html
+[emit:Assets] docs/images/wordpress/2021/02/ss.20200405.173845.png
+[emit:Assets] docs/images/wordpress/2021/02/ss.20200415.092342.png
+[emit:ContentPage] docs/Music/golden-miles-by-healing-force.html
+[emit:Assets] docs/images/wordpress/2021/02/ss.20200421.171308.png
+[emit:ContentPage] docs/Music/great-covers-take-2-rockwiz.html
+[emit:Assets] docs/images/wordpress/2021/02/ss.20200503.154433.png
+[emit:ContentPage] docs/Music/interesting-song-cover-versions.html
+[emit:Assets] docs/images/wordpress/2021/02/ss.20200508.121452.png
+[emit:ContentPage] docs/Music/interesting-songs-april-2nd-2008.html
+[emit:Assets] docs/images/wordpress/2021/02/ss.20200509.184318.png
+[emit:ContentPage] docs/Music/john-nemeth-why-not-me.html
+[emit:Assets] docs/images/wordpress/2021/02/ss.20200510.085914.jpg
+[emit:ContentPage] docs/Music/johnny-farnham-comic-conversation.html
+[emit:Assets] docs/images/wordpress/2021/02/ss.20200514.202037.jpg
+[emit:ContentPage] docs/Music/lesser-known-songs-by-well-known-artists.html
+[emit:Assets] docs/images/wordpress/2021/02/ss.20200516.154004.jpg
+[emit:ContentPage] docs/Music/linda-george-songs.html
+[emit:Assets] docs/images/wordpress/2021/02/ss.20200516.185401.jpg
+[emit:ContentPage] docs/Music/lucifer-sam-pink-floyd.html
+[emit:ContentPage] docs/Music/mark-gillespie-songs.html
+[emit:Assets] docs/images/wordpress/2021/02/ss.20200517.121955.jpg
+[emit:ContentPage] docs/Music/mercy-seat-johnny-cash.html
+[emit:Assets] docs/images/wordpress/2021/02/ss.20200518.174424.jpg
+[emit:ContentPage] docs/Music/never-let-you-go-divinyls.html
+[emit:Assets] docs/images/wordpress/2021/02/ss.20200518.175105.jpg
+[emit:ContentPage] docs/Music/november-spawned-a-monster-morrissey.html
+[emit:Assets] docs/images/wordpress/2021/02/ss.20200518.175241.jpg
+[emit:ContentPage] docs/Music/oklahoma-the-film.html
+[emit:Assets] docs/images/wordpress/2021/02/ss.20200519.092319.jpg
+[emit:ContentPage] docs/Music/opening-chord-to-a-hard-days-night.html
+[emit:Assets] docs/images/wordpress/2021/02/ss.20200519.093243.jpg
+[emit:ContentPage] docs/Music/peeling-onions-songs.html
+[emit:Assets] docs/images/wordpress/2021/02/ss.20200519.095322.jpg
+[emit:ContentPage] docs/Music/porpoise-song-the-monkees.html
+[emit:Assets] docs/images/wordpress/2021/02/ss.20200523.172544.jpg
+[emit:Assets] docs/images/wordpress/2021/02/ss.20200523.172626-1.jpg
+[emit:ContentPage] docs/Music/rachel-russell-morris.html
+[emit:ContentPage] docs/Music/recording-studio-in-your-pocket.html
+[emit:Assets] docs/images/wordpress/2021/02/ss.20200524.172122.jpg
+[emit:ContentPage] docs/Music/rock-island-line-1957-lonnie-donegan.html
+[emit:Assets] docs/images/wordpress/2021/02/ss.20200526.180824.jpg
+[emit:ContentPage] docs/Music/smiley-ronnie-burns.html
+[emit:Assets] docs/images/wordpress/2021/02/ss.20200528.201926.jpg
+[emit:ContentPage] docs/Music/song-hiccups.html
+[emit:Assets] docs/images/wordpress/2021/02/ss.20200528.202148.jpg
+[emit:ContentPage] docs/Music/songs-that-would-make-you-get-up-and-dance.html
+[emit:Assets] docs/images/wordpress/2021/02/ss.20200529.121903.jpg
+[emit:ContentPage] docs/Music/songs-too-slow-or-fast-and-we-didnt-know.html
+[emit:Assets] docs/images/wordpress/2021/02/ss.20200602.150633.jpg
+[emit:CustomOgImages] docs/Navigation/latitude-3-cooks-calculation-og-image.webp
+[emit:ContentPage] docs/Music/steely-dan-songs.html
+[emit:Assets] docs/images/wordpress/2021/02/ss.20200602.150646.jpg
+[emit:Assets] docs/images/wordpress/2021/02/ss.20200602.153400.jpg
+[emit:ContentPage] docs/Music/stray-cat-blues-the-rolling-stones.html
+[emit:Assets] docs/images/wordpress/2021/02/ss.20200602.154016.jpg
+[emit:ContentPage] docs/Music/sub-rosa-subway-klaatu-beatles-stuff.html
+[emit:Assets] docs/images/wordpress/2021/02/ss.20200602.180103.jpg
+[emit:ContentPage] docs/Music/the-eagles-great-new-3-hour-documentary.html
+[emit:Assets] docs/images/wordpress/2021/02/ss.20200605.172301.jpg
+[emit:ContentPage] docs/Music/tiger-feet-mud.html
+[emit:Assets] docs/images/wordpress/2021/02/ted_logo.gif
+[emit:ContentPage] docs/Music/twenty-flight-rock-1956-eddie-cochran.html
+[emit:Assets] docs/images/wordpress/2021/02/Victoria_Murray.jpg
+[emit:ContentPage] docs/Music/undecided-the-masters-apprentices.html
+[emit:Assets] docs/images/wordpress/2021/02/walhalla-goldfields-railway-5d64c6ba14ffc0361eccfdfb-800x533.jpg
+[emit:ContentPage] docs/Music/zoot-suit-riot-cherry-poppin-daddies.html
+[emit:Assets] docs/images/wordpress/2021/02/wheel-change-menindee-2002-scanned_20200428_205101.jpg
+[emit:ContentPage] docs/Navigation/first-gps-logging-with-new-phone-nmea-sentence.html
+[emit:Assets] docs/images/wordpress/2021/02/zenith-distance-and-altitude.png
+[emit:ContentPage] docs/Navigation/got-a-gps-at-last.html
+[emit:Assets] docs/images/wordpress/2021/02/zenith-distance-declination-and-latitude-diagram.jpg
+[emit:ContentPage] docs/Navigation/gps-open-source-maps.html
+[emit:Assets] docs/images/wordpress/2021/02/zenith-distance-diagram.jpg
+[emit:ContentPage] docs/Navigation/gps-really-is-a-miracle-of-technology.html
+[emit:Assets] docs/images/wordpress/2021/02/zoombig-mathomat_a44dcbf3-e79f-4737-96f6-3bb5ce2be1d4_grande.jpg
+[emit:ContentPage] docs/Navigation/gps-working-very-well-for-bush-logging-err-bush-walk-logging.html
+[emit:Assets] docs/images/wordpress/2023/02/Murrindindi-River-Walk-A4_portrait_UTMgrid-212x300.png
+[emit:ContentPage] docs/Navigation/history-mystery-williamstown-observatory-1863.html
+[emit:ContentPage] docs/Navigation/latitude-01-what-is-it.html
+[emit:Assets] docs/images/wordpress/2023/02/Murrindindi-River-Walk-A4_portrait_UTMgrid.png
+[emit:ContentPage] docs/Navigation/latitude-02-the-sun-and-the-book.html
+[emit:Assets] docs/images/wordpress/2023/02/ss.20230212_160320-300x175.png
+[emit:ContentPage] docs/Navigation/latitude-3-cooks-calculation.html
+[emit:Assets] docs/images/wordpress/2023/02/ss.20230215_121939-263x300.png
+[emit:ContentPage] docs/Navigation/melbourne-observatory-location-1871-modern-values.html
+[emit:ContentPage] docs/Navigation/navigation-getting-the-basics-right-part-1.html
+[emit:ContentPage] docs/Navigation/navigation-getting-the-basics-right-part-2.html
+[emit:ContentPage] docs/Navigation/navigation-north-is-not-north-part3.html
+[emit:ContentPage] docs/Navigation/not-so-shonky-maps-for-the-gps.html
+[emit:ContentPage] docs/Navigation/organ-pipes-national-park-walk-and-gps-trial.html
+[emit:ContentPage] docs/Navigation/why-no-melways-of-the-bush.html
+[emit:ContentPage] docs/Obsidian-Markdown-Test.html
+[emit:ContentPage] docs/Pondering/Norman-Lindsay---Ummmm.html
+[emit:ContentPage] docs/Racecourse/racecourse-1950-ground-photo-and-1945-aerial-survey.html
+[emit:ContentPage] docs/Racecourse/the-williamstown-racetrack-circa-1869.html
+[emit:ContentPage] docs/Racecourse/williamstown-racecourse-1945-and-todayaerial-comparison.html
+[emit:CustomOgImages] docs/Navigation/navigation-getting-the-basics-right-part-1-og-image.webp
+[emit:ContentPage] docs/Racecourse/williamstown-racecourse-1950s-images-migrant-hostel.html
+[emit:ContentPage] docs/Racecourse/williamstown-racecourseruins-speculation.html
+[emit:ContentPage] docs/Techtips/BitWarden.html
+[emit:ContentPage] docs/Techtips/Copying-files-between-devices.html
+[emit:ContentPage] docs/Techtips/JohnnyDecimal.html
+[emit:ContentPage] docs/a-curve-as-a-straight-line.html
+[emit:ContentPage] docs/abc3-kids-how-about-education-at-night.html
+[emit:ContentPage] docs/about-2-2.html
+[emit:ContentPage] docs/about-2.html
+[emit:ContentPage] docs/about-david.html
+[emit:ContentPage] docs/about-sic.html
+[emit:ContentPage] docs/about.html
+[emit:ContentPage] docs/after-all-that-the-dvd-drive-is.html
+[emit:ContentPage] docs/apollo-12-and-the-eclipse.html
+[emit:ContentPage] docs/ask-the-dust.html
+[emit:ContentPage] docs/b-vops-lanc-and-i.html
+[emit:CustomOgImages] docs/Obsidian-Markdown-Test-og-image.webp
+[emit:ContentPage] docs/been-quiet-on-the-blogging-front-blame-my-love-of-egypt-sort-of.html
+[emit:ContentPage] docs/blog.html
+[emit:ContentPage] docs/bushwalks.html
+[emit:ContentPage] docs/bye-bye-old-kit-and-thanks.html
+[emit:ContentPage] docs/carlsruhe-daylesford-railway.html
+[emit:ContentPage] docs/classic-albums-minus-one-revolver.html
+[emit:ContentPage] docs/classic-minus-one-album-meddle-by-pink-floyd.html
+[emit:ContentPage] docs/classical-music-for-those-who-dont-like-classics.html
+[emit:ContentPage] docs/compressing-timings-for-1-hour-dvd-movie-black-and-white.html
+[emit:ContentPage] docs/computer-things-going-wrong-01.html
+[emit:ContentPage] docs/contact.html
+[emit:ContentPage] docs/contrail-fun-1430-on-sunday-oct-28th-2012.html
+[emit:CustomOgImages] docs/Pondering/Norman-Lindsay---Ummmm-og-image.webp
+[emit:ContentPage] docs/converting-tv-recordings-pc-to-playable.html
+[emit:ContentPage] docs/davids-data-server.html
+[emit:ContentPage] docs/daylesford-x3.html
+[emit:ContentPage] docs/dds-arrived-and-working.html
+[emit:ContentPage] docs/dds-trio-of-woes.html
+[emit:ContentPage] docs/dights-falls-on-the-yarra-both-sides-now.html
+[emit:ContentPage] docs/dreams-of-a-media-terminal.html
+[emit:ContentPage] docs/firefox-add-ons-i-use.html
+[emit:ContentPage] docs/good-work-related-free-or-open-source-software.html
+[emit:ContentPage] docs/google-reader-giving-it-a-2nd-try-and-impressed.html
+[emit:ContentPage] docs/halls-gap-walk-wonderland-pinnacles-loop.html
+[emit:ContentPage] docs/hanging-rock-and-me.html
+[emit:CustomOgImages] docs/Techtips/BitWarden-og-image.webp
+[emit:ContentPage] docs/hello-people-i-met-at-tower-hill-etc.html
+[emit:ContentPage] docs/high-definition-avi-sample.html
+[emit:ContentPage] docs/hikes-bushwalks-via-train.html
+[emit:ContentPage] docs/how-big-is-one-minute-of-tv.html
+[emit:ContentPage] docs/how-much-modern-compression-can-fit-on-a-cd.html
+[emit:ContentPage] docs/i-one-thought-that-ice.html
+[emit:ContentPage] docs/img-test.html
+[emit:ContentPage] docs/index.html
+[emit:ContentPage] docs/interesting-movies-to-see-june-2015-edition.html
+[emit:ContentPage] docs/interesting-songs-april-15th-2008.html
+[emit:CustomOgImages] docs/Techtips/Copying-files-between-devices-og-image.webp
+[emit:ContentPage] docs/interesting-youtubers.html
+[emit:ContentPage] docs/kernel-panics-i-dont.html
+[emit:ContentPage] docs/linux-saves-me-my-data-again.html
+[emit:ContentPage] docs/linux-to-the-rescue.html
+[emit:ContentPage] docs/lotsa-backup-cds-to-a-few-dvds-to-one-blu-ray.html
+[emit:ContentPage] docs/may-19-2004-songs-on-rotation.html
+[emit:ContentPage] docs/me-from-june-1998-fun-with-my-afl-preview-email.html
+[emit:ContentPage] docs/moved-the-blog-to-ramp-it-up.html
+[emit:ContentPage] docs/mt-beckworth-walk-update-feb-2015-on-the-improve.html
+[emit:ContentPage] docs/my-ebooks-and-pdfs.html
+[emit:ContentPage] docs/my-first-digital-internet-fingerprints.html
+[emit:ContentPage] docs/my-golden-age-of-tv-coe.html
+[emit:ContentPage] docs/my-kingdom-for-an-optical-bootable.html
+[emit:ContentPage] docs/my-kit-part-1-the-tv-room.html
+[emit:ContentPage] docs/my-kit-part-2-the-internet-apps-on-the-pc.html
+[emit:ContentPage] docs/my-kit-part-3-the-video-and-audio-stuff-2.html
+[emit:CustomOgImages] docs/Techtips/JohnnyDecimal-og-image.webp
+[emit:ContentPage] docs/my-use-of-photoshop-and-lightroom.html
+[emit:ContentPage] docs/nasa-and-knowledge-capture.html
+[emit:ContentPage] docs/new-firefox-browser-2-great-add-ins.html
+[emit:ContentPage] docs/new-photos-from-nov-2014-trip-to-sw-and-w-vic.html
+[emit:ContentPage] docs/newspaper-for-one.html
+[emit:ContentPage] docs/one-problem-solved-on-dds.html
+[emit:ContentPage] docs/ouch-itunes-updates-cause-browser-failure.html
+[emit:ContentPage] docs/paisley-station.html
+[emit:ContentPage] docs/pc-avis-with-dolby-51-surround.html
+[emit:ContentPage] docs/photos-williamstown-sunset-mt-macedon-and-hanging-rock.html
+[emit:ContentPage] docs/pvrs-chapter-1.html
+[emit:CustomOgImages] docs/about-og-image.webp
+[emit:ContentPage] docs/r-l-j-then-just-add-fire.html
+[emit:ContentPage] docs/r8169o-and-the-kernel-headers.html
+[emit:ContentPage] docs/rare-linux-bug-and-i-go-booooom.html
+[emit:ContentPage] docs/raven-about-forked-apples.html
+[emit:ContentPage] docs/recovery-operations-continue.html
+[emit:ContentPage] docs/safety-back-ups-of-windows-docs-etc.html
+[emit:ContentPage] docs/sample-page.html
+[emit:ContentPage] docs/save-data-drop-the-video-streaming-quality.html
+[emit:ContentPage] docs/single-pass-for-quick-avc-encoding-of-tv-recordings.html
+[emit:ContentPage] docs/snippets-of-life-under-the-virus.html
+[emit:ContentPage] docs/so-what-is-this-internet-1996.html
+[emit:ContentPage] docs/software-i-use.html
+[emit:ContentPage] docs/super-moon-aug-11th-2014.html
+[emit:ContentPage] docs/telstra-netflix-google-and-the-afl-broadcast-rights.html
+[emit:ContentPage] docs/the-age-digitalconfusing-and-frustrating.html
+[emit:ContentPage] docs/the-age-doubly-ambiguous-weather-summary.html
+[emit:ContentPage] docs/the-amazing-changes-in-memory-prices-over-a-decade.html
+[emit:ContentPage] docs/the-firefox-browser-extensions-i-use.html
+[emit:ContentPage] docs/the-horse-and-his-boy-by-cs-lewis.html
+[emit:ContentPage] docs/the-librarians-team-visit-williamstown.html
+[emit:ContentPage] docs/the-most-recent-hike-done.html
+[emit:ContentPage] docs/things-i-once-thought.html
+[emit:CustomOgImages] docs/index-og-image.webp
+[emit:ContentPage] docs/tiger-king.html
+[emit:ContentPage] docs/tim-brooke-taylor.html
+[emit:ContentPage] docs/tips-for-dvd-to-xvid.html
+[emit:ContentPage] docs/trajectories-a-work-in-4-parts-and-still-in-progress.html
+[emit:ContentPage] docs/trajectories-oh-g-undone-by-multiple-coincidences.html
+[emit:ContentPage] docs/video-conversion-frame-serving-101.html
+[emit:CustomOgImages] docs/my-first-digital-internet-fingerprints-og-image.webp
+[emit:ContentPage] docs/viruses-how-big-are-they.html
+[emit:ContentPage] docs/walhalla-simply-my-favourite-town.html
+[emit:ContentPage] docs/walk-route-dandenongs-doongalla-and-rankin-loop.html
+[emit:ContentPage] docs/where-is-that-photo-south-west-victoria-trip.html
+[emit:ContentPage] docs/windows-disobeys-me-then-recovers-on-dds.html
+[emit:ContentPage] docs/xbmc-quick-start-and-keys.html
+[emit:CustomOgImages] docs/tags/freelance-og-image.webp
+Emitted 826 files to `docs` in 3s
+Done processing 436 files in 7s
