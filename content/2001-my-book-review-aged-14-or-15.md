@@ -11,15 +11,15 @@ cover:
 description: 
 ---
 
-The film *2001: A Space Odyssey* came out in 1968. I was 7 and despite my temper tantrum, I wasn&#8217;t taken to see it.  Nah, that didn&#8217;t happen.
+The film *2001: A Space Odyssey* came out in 1968. I was 7 and despite my temper tantrum, I wasn’t taken to see it.  Nah, that didn’t happen.
 
-I think it was in 1975 (Form 3/Year 9) that the school sent our parents a letter about an upcoming excursion &#8211; to the Trak Cinema to see *2001*.  I&#8217;d never heard of it, but someone said it was about a spaceship going to Jupiter.  Mmm, that could be interesting.
+I think it was in 1975 (Form 3/Year 9) that the school sent our parents a letter about an upcoming excursion – to the Trak Cinema to see *2001*.  I’d never heard of it, but someone said it was about a spaceship going to Jupiter.  Mmm, that could be interesting.
 
-It was the 70mm version on a big screen and with 6-track surround sound.  It was like nothing I&#8217;d seen before, or since. To say it impressed and influenced me is to not understand the word *understatement*.  I was 13 or 14.   
+It was the 70mm version on a big screen and with 6-track surround sound.  It was like nothing I’d seen before, or since. To say it impressed and influenced me is to not understand the word *understatement*.  I was 13 or 14.   
 
 But this is not about the film. This is about two pieces of foolscap paper I found a few days ago.  It was from Form 4/Year 10 (1976) and was my hand-written **book** review of *2001*.
 
-I&#8217;m pretty sure we saw the film in &#8217;75, but it may have been &#8217;76.  There&#8217;s no date on the book review and I turned 15 in late May &#8217;76, so I could have even been 14 when I wrote this.
+I’m pretty sure we saw the film in ’75, but it may have been ’76.  There’s no date on the book review and I turned 15 in late May ’76, so I could have even been 14 when I wrote this.
 
 Using my [high tech scanning rig](__GHOST_URL__/2020/04/11/my-high-tech-scanning-rig/), I photographed the 4 sides, edited and shrunk them in Photoshop and then merged into a PDF.  
 
