@@ -26,7 +26,7 @@ Now, having seen the date of the original, you can guess what I am thinking.  I'
 
 ### As an Adult
 
-Only once, as an adult, did a prank take me in. An FM radio station had a news story about how ***we had decoded dolphin's squeaks and clicks***! In other words; their language.  It was all very rational, from memory, and it was two-way.  They even had a simple 'grammar'  D'Oh!
+Only once, as an adult, did a prank take me in. An FM radio station had a news story about how ***we had decoded dolphin's squeaks and clicks***! In other words; their language.  It was all very rational, from memory, and it was two-way.  They even had a simple 'grammar'  *D'Oh!*
 
 ### When I was Younger
 
