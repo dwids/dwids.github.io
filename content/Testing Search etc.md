@@ -1,5 +1,5 @@
 ---
-title: "Test searcj"
+title: "Test search"
 draft: false
 tags:
   - pondering
@@ -12,4 +12,8 @@ description: "trying to get Search working again"
 
 Newport. Elephant. Quantum. 
 
-Purple
+Purple, green,
+
+Added on PC 15 Apr 2026  at 15:52
+
+pepper
