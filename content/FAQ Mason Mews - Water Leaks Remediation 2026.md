@@ -10,7 +10,7 @@ draft: false
 
 ## General
 
-#### What is Lot Liability?
+### What is Lot Liability?
 
 It "represents the share of owners corporation expenses that each lot owner is required to pay....These ... liabilities are determined by the developer at the time of subdivision."  Source [Consumer Vic website](https://www.consumer.vic.gov.au/housing/owners-corporations/definitions#l)
 
@@ -23,7 +23,7 @@ So if my Lot Liability is 42, that's
 42/10 = 4.2%
 ```
 
-#### Another question
+### Another question
 
  I have just returned from a visit to my landlord—the solitary neighbour that I shall be troubled with. This is certainly a beautiful country! In all England, I do not believe that I could have fixed on a situation so completely removed from the stir of society. A perfect misanthropist’s Heaven—and Mr. Heathcliff and I are such a suitable pair to divide the desolation between us. A capital fellow! 
  
@@ -32,6 +32,6 @@ So if my Lot Liability is 42, that's
 
 ## Phase Works (another group )
 
-#### Does Phase 1 include..
+### Does Phase 1 include..
 
 Mr. Jones, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes. With the ring of light from his lantern dancing from side to side, he lurched across the yard, kicked off his boots at the back door, drew himself a last glass of beer from the barrel in the scullery, and made his way up to bed, where Mrs. Jones was already snoring.
