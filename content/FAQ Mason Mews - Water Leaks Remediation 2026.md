@@ -27,15 +27,21 @@ So if my Lot Liability is 42, that's
 or 0.042 
 ```
 
+
+### How does the loan finance offer work?
+
+Answer here.
+
 ### Another question
 
  I have just returned from a visit to my landlord—the solitary neighbour that I shall be troubled with. This is certainly a beautiful country! In all England, I do not believe that I could have fixed on a situation so completely removed from the stir of society. A perfect misanthropist’s Heaven—and Mr. Heathcliff and I are such a suitable pair to divide the desolation between us. A capital fellow! 
- 
- He little imagined how my heart warmed towards him when I beheld his black eyes withdraw so suspiciously under their brows, as I rode up, and when his fingers sheltered themselves, with a jealous resolution, still further in his waistcoat, as I announced my name.
+  
 
 
 ## Phase Works (another group )
 
+> Or just keep it as one group. Easy to change.
+> 
 ### Does Phase 1 include..
 
 Mr. Jones, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes. With the ring of light from his lantern dancing from side to side, he lurched across the yard, kicked off his boots at the back door, drew himself a last glass of beer from the barrel in the scullery, and made his way up to bed, where Mrs. Jones was already snoring.
