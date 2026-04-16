@@ -12,7 +12,9 @@ draft: false
 
 ### What is Lot Liability?
 
-It "represents the share of owners corporation expenses that each lot owner is required to pay....These ... liabilities are determined by the developer at the time of subdivision."  Source [Consumer Vic website](https://www.consumer.vic.gov.au/housing/owners-corporations/definitions#l)
+Lot Liability 
+
+> "represents the share of owners corporation expenses that each lot owner is required to pay....These ... liabilities are determined by the developer at the time of subdivision."  Source [Consumer Vic website](https://www.consumer.vic.gov.au/housing/owners-corporations/definitions#l)
 
 
 It's basically a form of percentage. You can see it adds up to 1000 'units' (AH; right term?).  I (David) just *divide them by 10* to get a percentage
@@ -21,6 +23,8 @@ So if my Lot Liability is 42, that's
 
 ```
 42/10 = 4.2%
+
+or 0.042 
 ```
 
 ### Another question
