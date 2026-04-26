@@ -1,2 +1,9 @@
 site_name: SiC Blog Mkdocs
+
+## Added material on 2026-04-26
 theme: material
+
+## Added search and tags on 2026-04-26
+plugins:
+  - search
+  - tags
