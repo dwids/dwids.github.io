@@ -6,4 +6,9 @@ theme: material
 ## Added search and tags on 2026-04-26
 plugins:
   - search
-  - tags
+  - tags:
+     tags_file: tags.md
+     
+markdown_extensions:
+  - admonition
+  - pymdownx.details
