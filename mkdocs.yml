@@ -12,3 +12,8 @@ plugins:
 markdown_extensions:
   - admonition
   - pymdownx.details
+  - pymdownx.highlight    # code block syntax highlighting
+  - pymdownx.superfences  # nested code blocks
+  - pymdownx.tabbed       # tabbed content
+  - toc:
+      permalink: true     # anchor links on headings  
