@@ -1,5 +1,7 @@
 site_name: David's SiC Blog 
 
+site_url: https://dwids.github.io/
+
 ## Added material on 2026-04-26
 theme:
   name: material
