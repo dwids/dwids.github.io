@@ -65,6 +65,7 @@ Due to me migrating from multiple, very different blog-systems and sites over *d
 > - A single button pushes the changes to *Github*, where an automatic Action invokes [[https://quartz.jzhao.xyz|Quartz]] to convert the markdown to static **html** files...and pushes them to Github Pages. 
 > - Changing a single `.` to a `,` will cause the whole site to be regenerated. But it only takes about one (1) minute or so. 
 
+Mambo,Joomla, Wordpress, Ghost, Quartz and now MkDocs
 
 > [!warning] Could be some hiccups - 18 Feb 2026 
 > Due to moving this old blog's contents all over the place - over decades - some links and images (say, from 2008 😇) may have vanished. Also some 'links to pages *within* the blog' may not work.  With  about 424 posts to check, I'm slowly getting there. 
