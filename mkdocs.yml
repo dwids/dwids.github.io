@@ -10,6 +10,7 @@ plugins:
   - tags:
       tags_file: tags.md
   - callouts
+  - obsidian-bridge
 
 markdown_extensions:
   - admonition
