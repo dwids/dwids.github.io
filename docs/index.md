@@ -6,7 +6,7 @@ title: Welcome to SiC Blog
 
 > Where Computers Meet People
 
-17:42
+18:02
 
 Welcome to ***SiC*** Blog! I write about technology, music, bushwalking, navigation, and the intersection of digital life and the real world.Plus a lot more, including some creative writing and old (paid!) freelance work for the Age. 📜
 
