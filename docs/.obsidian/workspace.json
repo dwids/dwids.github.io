@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bushwalks/mt-macedon-loop.md",
+                "file": "consistency-report.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mt-macedon-loop"
+              "title": "consistency-report"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "latitude-a",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 462.5
   },
   "right": {
     "id": "03c2054d5bc7a6d8",
@@ -180,8 +180,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "43c6fb7b0e971590",
+  "active": "9594294a12934a62",
   "lastOpenFiles": [
+    "Navigation/latitude-01-what-is-it.md",
+    "consistency-report.md",
+    "Navigation/latitude-3-cooks-calculation.md",
+    "Navigation/latitude-02-the-sun-and-the-book.md",
+    "assets/images",
+    "assets/New folder",
+    "assets",
+    "New folder",
+    "Navigation/first-gps-logging-with-new-phone-nmea-sentence.md",
+    "Maths/how-far-away-is-that-plane-using-log-tables.md",
+    "Maths/godzilla-2014-in-melbourne-fun-with-numbers.md",
+    "Maths/contrails-fun-2angles-and-distances.md",
+    "Maths/32-digits-and-the-joy-of-logarithmic-remembering.md",
+    "Bushwalks/mt-macedon-loop.md",
     "tags.md",
     "_tags.md",
     "Untagged/912d0-20130630_161430.jpg",
