@@ -1,19 +1,21 @@
 site_name: SiC Blog Mkdocs
 
 ## Added material on 2026-04-26
-theme: material
+theme:
+  name: material
 
 ## Added search and tags on 2026-04-26
 plugins:
   - search
   - tags:
-     tags_file: tags.md
-     
+      tags_file: tags.md
+  - callouts
+
 markdown_extensions:
   - admonition
   - pymdownx.details
-  - pymdownx.highlight    # code block syntax highlighting
-  - pymdownx.superfences  # nested code blocks
-  - pymdownx.tabbed       # tabbed content
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.tabbed
   - toc:
-      permalink: true     # anchor links on headings  
+      permalink: true
