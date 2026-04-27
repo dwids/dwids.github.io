@@ -2,9 +2,23 @@ site_name: David's SiC Blog
 
 site_url: https://dwids.github.io/
 
-## Added material on 2026-04-26
 theme:
   name: material
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.top          # back to top button
+    - navigation.indexes      # folder index pages
+    - search.highlight        # highlights search terms in results
+    - search.suggest          # search autocomplete
+    - content.tooltips        # hover tooltips on links
 
 ## Added search and tags on 2026-04-26
 plugins:
