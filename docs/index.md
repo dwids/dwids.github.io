@@ -23,23 +23,23 @@ FYI: The **Search** box is always available and is quite fast. Except...
 * [Lake Mungo and early human remains](lm3-and-port-phillip-non-bay.md)
 
 ## Freelance
-I had my first freelance piece published in the Age back in **1996**. It was a one-off, but I returned in mid-2005 as a **paid freelancer** for about 6 months. [Here's the archive](/tags/freelance)
+I had my first freelance piece published in the Age back in **1996**. It was a one-off, but I returned in mid-2005 as a **paid freelancer** for about 6 months. [Here's the archive](/tags/#tag:freelance)
 
 
 ## Browse by Topic (aka Tags)
-- [Technical Tips 💡](/tags/techtip) - New for 2026, short sharp practical tips for home IT usage
-- [Music 🎼](/tags/music) - Albums, concerts, and musical discoveries
-- [Creative ✍️](/tags/creative) - Pieces on ANZAC day, Lake Mungo history, Egypt etc
-- [Technology 💻 ](/tags/technology) - Tech, Linux, and digital tools
-- [Bush Walks 🥾](/tags/bushwalks) - Hiking and exploring the outdoors
-- [Movies 🎞️](/tags/movies) - Film and cinema
-- [Navigation and Maps 🧭](/tags/navigation) - GPS, mapping, and wayfinding
-- [Freelance 💰✍️](/tags/freelance) - Ye Olde pieces published in the Age
-- [Entertainment 🥰](/tags/entertainment) - General entertainment
-- [Astronomy 🌠](/tags/astronomy) - Looking up at the stars
-- [Maths ✖️🟰](/tags/maths) - Numbers and patterns
-- [Once Thought ⁉️](/tags/once-thought) - Sorta silly things I once genuinely thought
-- [COVID-19 🦠](/tags/covid-19) - Keeping myself same during pandemic times
+- [Technical Tips 💡](/tags/#tag:techtip) - New for 2026, short sharp practical tips for home IT usage
+- [Music 🎼](/tags/#tag:music) - Albums, concerts, and musical discoveries
+- [Creative ✍️](/tags/#tag:creative) - Pieces on ANZAC day, Lake Mungo history, Egypt etc
+- [Technology 💻 ](/tags/#tag:technology) - Tech, Linux, and digital tools
+- [Bush Walks 🥾](/tags/#tag:bushwalks) - Hiking and exploring the outdoors
+- [Movies 🎞️](/tags/#tag:movies) - Film and cinema
+- [Navigation and Maps 🧭](/tags/#tag:navigation) - GPS, mapping, and wayfinding
+- [Freelance 💰✍️](/tags/#tag:freelance) - Ye Olde pieces published in the Age
+- [Entertainment 🥰](/tags/#tag:entertainment) - General entertainment
+- [Astronomy 🌠](/tags/#tag:astronomy) - Looking up at the stars
+- [Maths ✖️🟰](/tags/#tag:maths) - Numbers and patterns
+- [Once Thought ⁉️](/tags/#tag:once-thought) - Sorta silly things I once genuinely thought
+- [COVID-19 🦠](/tags/#tag:covid-19) - Keeping myself same during pandemic times
 
 And here's the full list of Topics (Tags).  Including lots of `general` ones which haven't been sorted yet on this new site
 
@@ -47,7 +47,7 @@ And here's the full list of Topics (Tags).  Including lots of `general` ones whi
 
 To see the (many) untagged posts here you go. I'm slowly Tagging these posts - by hand and one_at_a_time - resisting getting AI to do it for me. 
 
-- [General ("un-tagged")](/tags/general)
+- [General ("un-tagged")](/tags/#tag:general)
 
 
 
