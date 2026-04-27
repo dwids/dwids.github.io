@@ -20,6 +20,13 @@ markdown_extensions:
   - pymdownx.highlight
   - pymdownx.superfences
   - pymdownx.tabbed
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.smartsymbols
+  - pymdownx.tasklist
+  - footnotes
   - toc:
       permalink: true
   - pymdownx.arithmatex:
