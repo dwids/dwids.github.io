@@ -11,10 +11,14 @@
             "id": "9594294a12934a62",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Bushwalks/mt-macedon-loop.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "mt-macedon-loop"
             }
           }
         ]
@@ -177,5 +181,8 @@
     }
   },
   "active": "9594294a12934a62",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Untagged/912d0-20130630_161430.jpg",
+    "Untagged"
+  ]
 }

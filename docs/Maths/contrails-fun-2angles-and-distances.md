@@ -18,7 +18,7 @@ with contrails, another one popped up today.  During a late afternoon walk, on a
 
 The FlightRadar24 app on the phone said NZ to South Africa and at about 34,000 ft (~ 10,000 m). So I continued the walk and a bit later I looked left (~West) and the day was so clear, I could still see it ‘miles’ away: I mean it making fresh trails. I firstly snapped a – zoomed in – picture:
 
-![[912d0-20130630_161430.jpg]]
+![[Untagged/912d0-20130630_161430.jpg]]
 
 
 Then I checked FlightRadar24 again. It was way over near Skipton:
