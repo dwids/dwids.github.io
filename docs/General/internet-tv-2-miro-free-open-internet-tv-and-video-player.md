@@ -21,7 +21,7 @@ If you really are keen there&#8217;s even High Definition shows too.
 
 I&#8217;m not exaggerating when I say there are thousands of channels available.
 
-In fact I use it to handle the subscriptions and downloads, then use my [Media Centre](__GHOST_URL__/2006/10/10/my-kit-part-1-the-tv-room/) to play it back on the PC or &#8211; more likely &#8211; on the TV.
+In fact I use it to handle the subscriptions and downloads, then use my [Media Centre](../Untagged/my-kit-part-1-the-tv-room.md) to play it back on the PC or &#8211; more likely &#8211; on the TV.
 
 ---
 

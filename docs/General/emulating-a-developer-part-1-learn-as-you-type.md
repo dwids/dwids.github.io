@@ -56,7 +56,7 @@ Note: I decided on the 700, 1400, 2100 based on history. I try and keep the part
 
 And so I dived in and started coding. Learning the details of the language I was using could come later…
 
-<continues in [Part 2](__GHOST_URL__/2011/06/09/emulating-a-developer-part-2-pc-coding-what-no-clipboard/)> 
+<continues in [Part 2](emulating-a-developer-part-2-pc-coding-what-no-clipboard.md)> 
 
 ---
 

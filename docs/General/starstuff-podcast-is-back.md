@@ -11,9 +11,9 @@ cover:
 description: 
 ---
 
-Well thanks to a number of people who took the time to tell me that the Astronomy news *StarStuff* podcast had returned. It was only a few weeks ago that I was [bemoaning its loss](__GHOST_URL__/2008/06/27/goodbye-and-thank-you-starstuff-show-and-podcast/).  You can find out more about it at the  [ABC science site.](http://www.abc.net.au/science/feeds/)
+Well thanks to a number of people who took the time to tell me that the Astronomy news *StarStuff* podcast had returned. It was only a few weeks ago that I was [bemoaning its loss](../Astronomy/goodbye-and-thank-you-starstuff-show-and-podcast.md).  You can find out more about it at the  [ABC science site.](http://www.abc.net.au/science/feeds/)
 
-I&#8217;ll go back and add it back in to my [list of Podcasts](__GHOST_URL__/2008/07/16/podcast-list-july-2008/).
+I&#8217;ll go back and add it back in to my [list of Podcasts](podcast-list-july-2008.md).
 
 It was originally a radio show, which (sadly) does not appear to be returning. You can find out more about this [side of things](http://www.gopetition.com.au/petitions/save-abc-news-radio-starstuff-program.html) too.
 

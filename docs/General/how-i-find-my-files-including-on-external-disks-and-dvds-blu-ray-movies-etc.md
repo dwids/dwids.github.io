@@ -19,7 +19,7 @@ The solution is to use a Windows file catalogue program and then do a search.&#1
 
 Key point: I’m really only interested in file and folder *names*, not their contents nor their tags (like mp3 or jpg files have). It takes much longer to catalogue *inside* a file and there are programs that will do this. 
 
-I have covered my tips for [Archiving and indexing your digital photos ](__GHOST_URL__/2010/06/10/archiving-and-indexing-your-digital-photos/)elsewhere on SiC.
+I have covered my tips for [Archiving and indexing your digital photos ](archiving-and-indexing-your-digital-photos.md)elsewhere on SiC.
 
 ### Files stored on hard drives, including external USB/firewire and networked hard drives
 

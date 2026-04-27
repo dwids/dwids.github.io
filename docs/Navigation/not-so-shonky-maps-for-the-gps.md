@@ -23,7 +23,7 @@ On example being ShonkyMaps (the name is the users account name, not a reflectio
 
 That quote &#8211; and the maps themselves &#8211; are from the [Shonkymaps](http://shonkylogic.net/shonkymaps/) web site. I won&#8217;t go into detail on how to get the to work (it was VERY easy), but work they do.
 
-Something went astray with my usage on the [recent Mt Macedon walk](__GHOST_URL__/2008/09/14/gps-working-very-well-for-bush-logging-err-bush-walk-logging/), the map layer(?) seemed to vanish, but I&#8217;ll look into that. I could have pushed the wrong button or clicked on the wrong menu. The waypoints and log/track were still visible. Strange.
+Something went astray with my usage on the [recent Mt Macedon walk](gps-working-very-well-for-bush-logging-err-bush-walk-logging.md), the map layer(?) seemed to vanish, but I&#8217;ll look into that. I could have pushed the wrong button or clicked on the wrong menu. The waypoints and log/track were still visible. Strange.
 
 Anyway hats off to Shonky for a great job. The amount of detail is fantastic.
 

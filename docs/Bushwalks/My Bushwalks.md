@@ -14,11 +14,11 @@ I&#8217;ve done a fair few bushwalks, mainly around Victoria and specifically wi
 
 Overall my favourite areas are:
 
-- Dandenongs 1 ([Grant&#8217;s Picnic Ground, Sherbrooke Forest)](__GHOST_URL__/2008/03/09/sherbrooke-forest-and-alfred-nicholas-gardens-walk-march-9th-2008/)
-- Dandenongs 2 ([Kyeema to Doongalla](__GHOST_URL__/2010/03/30/mt-dandenong-kyeema-to-doongalla/) Loop)
+- Dandenongs 1 ([Grant&#8217;s Picnic Ground, Sherbrooke Forest)](sherbrooke-forest-and-alfred-nicholas-gardens-walk-march-9th-2008.md)
+- Dandenongs 2 ([Kyeema to Doongalla](mt-dandenong-kyeema-to-doongalla.md) Loop)
 - Dandenongs 3 (&#8220;Thousand&#8221; Steps as [this person kindly documented](http://www.travelpod.com/travel-blog-entries/adventurousgal/10/1226201160/tpod.html))
-- Mt Macedon 1 (The fun, challenging [Loop Walk](__GHOST_URL__/2009/04/21/mt-macedon-loop/))
-- Mt Macedon 2 (If you have 2 cars, you can do an [easier version of the Loop Walk](__GHOST_URL__/2009/10/28/mt-macedon-highlights-run-through-of-hybrid-walk/))
+- Mt Macedon 1 (The fun, challenging [Loop Walk](mt-macedon-loop.md))
+- Mt Macedon 2 (If you have 2 cars, you can do an [easier version of the Loop Walk](mt-macedon-highlights-run-through-of-hybrid-walk.md))
 - The Grampians (mainly the Northern Grampians, like Hollow Mountain)
 - Wilsons Promontory (Tidal River to Oberon Bay, via Little Oberon Bay)
 - Marysville

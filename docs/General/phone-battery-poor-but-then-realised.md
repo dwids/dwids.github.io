@@ -17,7 +17,7 @@ I was getting frustrated at my new mobile phone&#8217;s battery life. I&#8217;d 
 
 What gives? Was the battery-eating GPS or Bluetooth activating? Was there a virus or bot on it that was starting up and using heaps of power? Was it the option to Check Email every 10 minutes doing it?
 
-Finally it just hit me. I&#8217;d turned **off** the power saving feature. The default is for the phone to go into (soft) power-off mode after 2 minutes of inactivity.  As part of the attempt to [copy a big file](__GHOST_URL__/2008/07/01/copying-big-files-to-the-mobile-phone/) over to the phone, I&#8217;d turned this off.  I&#8217;d even said so in the Blog post: *It even has a resume function, which was needed when the phone went into sleep mode after 2 minutes. Oops. Fixed that by temporarily **telling it to not sleep**.*
+Finally it just hit me. I&#8217;d turned **off** the power saving feature. The default is for the phone to go into (soft) power-off mode after 2 minutes of inactivity.  As part of the attempt to [copy a big file](copying-big-files-to-the-mobile-phone.md) over to the phone, I&#8217;d turned this off.  I&#8217;d even said so in the Blog post: *It even has a resume function, which was needed when the phone went into sleep mode after 2 minutes. Oops. Fixed that by temporarily **telling it to not sleep**.*
 
 Oh dear. Temporarily became permanently. Back to the sleep-after-2-minutes now and seems to be fine again.
 

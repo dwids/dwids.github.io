@@ -11,7 +11,7 @@ cover:
 description: 
 ---
 
-Well, despite my original optimism, yesterdays [FTP over Wireless](__GHOST_URL__/2008/07/01/copying-big-files-to-the-mobile-phone/) failed. I went out and when I returned the transfer rate had slowed down to a crawl; literally the 4 k/sec of dial up. No idea why.
+Well, despite my original optimism, yesterdays [FTP over Wireless](copying-big-files-to-the-mobile-phone.md) failed. I went out and when I returned the transfer rate had slowed down to a crawl; literally the 4 k/sec of dial up. No idea why.
 
 Tried a few other things, including breaking up the 192 MB file into chunks, via RAR. I moved the 10 chunks over with standard Windows Explorer, via the ActiveSynch, but then RAR on the phone got internal errors. 
 

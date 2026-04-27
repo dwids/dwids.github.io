@@ -17,7 +17,7 @@ Someone asked me what I’d been up to since leaving Monash Uni. Well, here’s 
 
 **Monash University** (1979-82):  BSc (Hons) Physics Major.  Lived in, on campus, at *Roberts Hall* the whole time
 
-**IBM Australia** (early 1983 to early 1996): After the regulation 5 interviews, joined as a graduate into a Technical/Marketing role.  City (briefly), South Melbourne then Southgate.  The ‘how I joined IBM’ story deserves its own blog post. Just like [this one](__GHOST_URL__/2014/05/06/how-i-got-the-job-at-ibm-in-1982/).
+**IBM Australia** (early 1983 to early 1996): After the regulation 5 interviews, joined as a graduate into a Technical/Marketing role.  City (briefly), South Melbourne then Southgate.  The ‘how I joined IBM’ story deserves its own blog post. Just like [this one](how-i-got-the-job-at-ibm-in-1982.md).
 
 **Own Company** – Take 1 (1996 – early 1998).  Took time off after IBM, then a not-so-successful attempt to go out on my own. One day, a company called *Aspect Computing* came and presented to where I was sub-contracting to. I had helped them earlier, as they were an IBM Business Partner. After they left, I made a phone call…
 

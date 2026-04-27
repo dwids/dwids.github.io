@@ -11,7 +11,7 @@ cover:
 description: 
 ---
 
-As I’ve said before, [the Internet is not the Web](__GHOST_URL__/web-internet-same-thing-choo-choo/). The Internet came first.  The first browser (*Mosaic*) came out in about 1993. From memory, even by 1994 the Web and the browser hadn’t landed on my r[a](https://youtu.be/I8X3BAwfwag)dar. The Internet had, via News Groups; aka [Usenet](https://en.wikipedia.org/wiki/Usenet).
+As I’ve said before, [the Internet is not the Web](../General/web-internet-same-thing-choo-choo.md). The Internet came first.  The first browser (*Mosaic*) came out in about 1993. From memory, even by 1994 the Web and the browser hadn’t landed on my r[a](https://youtu.be/I8X3BAwfwag)dar. The Internet had, via News Groups; aka [Usenet](https://en.wikipedia.org/wiki/Usenet).
 
 It was a bit like a Forum and I used a dedicated Windows program to read and write messages to News Groups. They had names like *rec.sport.football.australian*  and *rec.arts.movies*  The *rec* meant recreation. There were also comp. (computers), sci. (science) , alt. (alternative) etc ‘trees’ of News Groups.
 ![](img_6021ab262eb15.gif)Agent, the exact program I use to use. Image from [here](https://images.betanews.com/screenshots/1012115881-1.gif)

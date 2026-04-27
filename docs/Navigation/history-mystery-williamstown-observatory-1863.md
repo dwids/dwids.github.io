@@ -27,7 +27,7 @@ I plugged these into Google Earth and &#8211; as I&#8217;d assumed &#8211; it di
 ![](image-34.png)
 **Note**: I should point out it&#8217;s not difficult to find the actual historical locations of the Observatories (there were at least two in Williamstown). ** I&#8217;m interested in how to convert the 1863 Lat and Long to the &#8216;correct&#8217; modern values.**
 
-I said I&#8217;d *assumed *it wouldn&#8217;t work as I knew enough about maps &#8211; [from my hiking](__GHOST_URL__/2016/06/26/navigation-getting-the-basics-right-part-1/) (mis)adventures &#8211; to know the 1863 document probably used a different **Datum **and **Projection**. 
+I said I&#8217;d *assumed *it wouldn&#8217;t work as I knew enough about maps &#8211; [from my hiking](navigation-getting-the-basics-right-part-1.md) (mis)adventures &#8211; to know the 1863 document probably used a different **Datum **and **Projection**. 
 
 ## What I&#8217;d Like To Find Out
 

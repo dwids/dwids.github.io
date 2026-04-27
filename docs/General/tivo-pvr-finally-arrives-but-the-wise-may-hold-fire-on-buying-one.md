@@ -19,7 +19,7 @@ Well well. Nearly 10 years after the TiVo hit America we finally get it here. Th
 - Smart recording: record a show &#8211; by name &#8211; regardless of when it&#8217;s on and if it runs over time. Trust me this over-run is very common. Up to 15 minutes!  So you can ask it to record &#8220;Battlestar Galactica&#8221; and if it&#8217;s 10:30pm Tuesday one week, and 1am Friday the next, you still get it recorded.
 - The ability to copy the recording off to your PC or Mac, so you can keep it or create a DVD etc
 
-Anyway the TiVo rumours suggest most of the above, with Ad-skipping being the one that is uncertain. Also the TiVo is [High Defintion](__GHOST_URL__/2008/06/11/digital-tv-will-finally-go-full-steam-then-face-a-huge-smack-in-the-head/). But can also record normal (Standard) definition TV as well, so you won&#8217;t have to get a new High Def TV to use it.  
+Anyway the TiVo rumours suggest most of the above, with Ad-skipping being the one that is uncertain. Also the TiVo is [High Defintion](digital-tv-will-finally-go-full-steam-then-face-a-huge-smack-in-the-head.md). But can also record normal (Standard) definition TV as well, so you won&#8217;t have to get a new High Def TV to use it.  
 
 It&#8217;s the price that&#8217;s the killer. $700 is the report. And that&#8217;s quite cheap, compared to its current competitors.
 

@@ -11,7 +11,7 @@ cover:
 description: 
 ---
 
-After yesterday covering [some practical tips on Podcasts](__GHOST_URL__/2020/04/07/podcasts-practical-tips/), including accessing &#8216;archived&#8217; ones (mp3 files), it&#8217;s time to have a look at some of the Australian History ones I&#8217;ve discovered over the years.
+After yesterday covering [some practical tips on Podcasts](podcasts-practical-tips.md), including accessing &#8216;archived&#8217; ones (mp3 files), it&#8217;s time to have a look at some of the Australian History ones I&#8217;ve discovered over the years.
 
 ### The History Listen 
 

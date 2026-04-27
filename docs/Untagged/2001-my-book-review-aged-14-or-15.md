@@ -21,7 +21,7 @@ But this is not about the film. This is about two pieces of foolscap paper I fou
 
 I’m pretty sure we saw the film in ’75, but it may have been ’76.  There’s no date on the book review and I turned 15 in late May ’76, so I could have even been 14 when I wrote this.
 
-Using my [high tech scanning rig](__GHOST_URL__/2020/04/11/my-high-tech-scanning-rig/), I photographed the 4 sides, edited and shrunk them in Photoshop and then merged into a PDF.  
+Using my [high tech scanning rig](../General/my-high-tech-scanning-rig.md), I photographed the 4 sides, edited and shrunk them in Photoshop and then merged into a PDF.  
 
 Here is the link to the [PDF version of the scanned pages](https://www.dropbox.com/s/p19tyclzg9s1ioi/2001%20book%20review%20-%20Form%204%20%281976%29.pdf?dl=0) on Dropbox.  
 ![](1_image-8.png)

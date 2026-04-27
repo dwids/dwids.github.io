@@ -15,7 +15,7 @@ I am fairly regular in my Internet viewing habits. That is, every morning I chec
 
 Nearly every one of these sites also offers their information as an RSS feed, that is a formatted summary of their items. It&#8217;s like the headline and the first few paragraphs.
 
-As [mentioned earlier](__GHOST_URL__/2008/06/12/google-reader-giving-it-a-2nd-try-and-impressed/), I now use Google Reader to manage and read these summaries. Unlike earlier RSS Readers, this one has a Home page. It shows you a summary of the summaries, which isn&#8217;t as silly as it sounds. It shows about 3 items from all of your feeds. All in the one place.
+As [mentioned earlier](google-reader-giving-it-a-2nd-try-and-impressed.md), I now use Google Reader to manage and read these summaries. Unlike earlier RSS Readers, this one has a Home page. It shows you a summary of the summaries, which isn&#8217;t as silly as it sounds. It shows about 3 items from all of your feeds. All in the one place.
 
 As I wrote in an email yesterday these are  &#8220;my topics and sub-topics, my sources, my organising tags/folders: My newspaper.&#8221;  
 

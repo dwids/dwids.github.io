@@ -11,7 +11,7 @@ cover:
 description: 
 ---
 
-Just a few days ago, in the [Trajectories post](__GHOST_URL__/2020/05/08/trajectories-a-work-in-4-parts-and-still-in-progress/), I could not get a simple example to work. To recap: the expected result was 0.2 metres and I was getting exactly 0.0000
+Just a few days ago, in the [Trajectories post](trajectories-a-work-in-4-parts-and-still-in-progress.md), I could not get a simple example to work. To recap: the expected result was 0.2 metres and I was getting exactly 0.0000
 
 The following day I quickly worked out what it was. I was merging two &#8216;worked examples&#8217; and had missed one little change. Normally that wouldn&#8217;t matter, but **coincidences **in their values chosen &#8211; no doubt to make the maths easier &#8211; meant I kept getting 0. By hand or in Excel.
 
@@ -45,7 +45,7 @@ By changing G(g) to the correct value of 9.8 (and getting the &#8216;sign&#8217;
 
 One of the ironies of doing advanced maths and physics at uni was you learnt more skills on how to do **quick estimates**. This was useful as you could first estimate the &#8216;sort of&#8217; value you hoped to get when you did the &#8216;real&#8217; maths. I still use it today as means of cross-check aka sanity check.
 
-It was, of course, part of the reason the above came unstuck. G is 9.8 not 10.  But, as in the [Virus post](__GHOST_URL__/2020/05/09/viruses-how-big-are-they/), having things in units of 10 makes the maths easier. In this example, the three things being 10 made it easier in one example, but blew up another.
+It was, of course, part of the reason the above came unstuck. G is 9.8 not 10.  But, as in the [Virus post](viruses-how-big-are-they.md), having things in units of 10 makes the maths easier. In this example, the three things being 10 made it easier in one example, but blew up another.
 
  ** A further thing that nuked me was the 45 degrees.  In the ideal case (no air resistance, level surface etc) throwing it a 45 degrees will hurl the projectile the *maximum* distance. Probably why they picked it.
 

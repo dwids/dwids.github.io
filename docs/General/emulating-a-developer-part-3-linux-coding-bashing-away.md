@@ -13,7 +13,7 @@ description:
 
 #### Being the ongoing adventures in application development … by someone who really doesn’t develop code.
 
-<Continues [from Part 2](__GHOST_URL__/2011/06/09/emulating-a-developer-part-2-pc-coding-what-no-clipboard/)>
+<Continues [from Part 2](emulating-a-developer-part-2-pc-coding-what-no-clipboard.md)>
 
 Thus far I had ‘designed’ my simple program. Well, in my head at least. Then built a working PC (vbscript) version by my tried-and-true *learn then code* method. But it was slow and had annoying security warning popups.&#160; 
 

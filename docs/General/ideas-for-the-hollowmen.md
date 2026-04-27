@@ -11,7 +11,7 @@ cover:
 description: 
 ---
 
-I&#8217;ve already expressed surprise &#8211; and a tinge of sadness &#8211; that The Hollowmen is [just not cutting through](__GHOST_URL__/2008/08/01/hollowmen-barely-making-top-50-in-ratings/) in the ratings. In thinking about it some more, a few things come to mind as to possible reasons.
+I&#8217;ve already expressed surprise &#8211; and a tinge of sadness &#8211; that The Hollowmen is [just not cutting through](hollowmen-barely-making-top-50-in-ratings.md) in the ratings. In thinking about it some more, a few things come to mind as to possible reasons.
 
 ##### Similar Story Arc (plot) in each show?
 

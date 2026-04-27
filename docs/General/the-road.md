@@ -19,7 +19,7 @@ I do like a good post-disaster tale and so when Cormac McCarthy’s book The Roa
 
 He, as you may know, wrote the book *No Country For Old Men*, itself turned into a searing and award-winning movie in 2007.&#160; The film of *The Road* is currently in post-production and due out around October 2009. What bodes well is that it’s directed by John Hillcoat, of the stunning and masterful *[The Proposition](http://www.imdb.com/title/tt0421238/)* fame.
 
-Yes I am reading [two books](__GHOST_URL__/2009/06/14/hitler-1889-1936-hubris/) at once. Or that’s the plan at least.
+Yes I am reading [two books](hitler-1889-1936-hubris.md) at once. Or that’s the plan at least.
 
 <img src="https://covers.openlibrary.org/b/isbn/0307265439-L.jpg" width="200" align="left">
 

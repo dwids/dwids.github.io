@@ -35,7 +35,7 @@ Okay will try and be quick. Here’s the main ones. I suppose my Must Have list.
 
 **ColorNote** Ideal for local (non-synched) notes. Like: *Car parked in yellow J21* (true)
 
-**Got To Do**&#160; For not just to do list items but a bit of an info database as per [here](__GHOST_URL__/2009/09/28/iphone-todo-list-as-loan-system/) (replace iPhone with Android etc). It too synchs with Toodledo
+**Got To Do**&#160; For not just to do list items but a bit of an info database as per [here](iphone-todo-list-as-loan-system.md) (replace iPhone with Android etc). It too synchs with Toodledo
 
 **BeyondPod.** Podcast manager and player. 
 

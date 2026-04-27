@@ -13,7 +13,7 @@ description:
 
 This topic came up yesterday and I was intrigued by what some quick research showed.
 
-My [first PC](__GHOST_URL__/2008/06/30/bye-bye-first-ever-pc-the-1985-era-ibm-jx-4-and-512/) was an IBM JX, circa 1985.&#160; My new smartphone is a HTC Desire.&#160; And now to the numbers: 
+My [first PC](bye-bye-first-ever-pc-the-1985-era-ibm-jx-4-and-512.md) was an IBM JX, circa 1985.&#160; My new smartphone is a HTC Desire.&#160; And now to the numbers: 
 **Item****PC JX****HTC Desire smartphone**CPU speed4.7 MHz1000 MHzROM96 KB500,000 KBRAM0.5 MB576 MB“Disk” storage1 MB16,000 MBScreen resolution640 x 200800 x 480Screen colours1616. Well… 16 million.Price (approx AUD)$2500$650
 Then there’s Ethernet, WiFi, GPS, Bluetooth, 3D graphics acceleration, ‘mouse’, touch screen, multi-tasking…okay I can stop there.
 

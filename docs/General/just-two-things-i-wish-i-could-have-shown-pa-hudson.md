@@ -24,7 +24,7 @@ So, if I could somehow show him just two (2) modern tech items &#8211; that I&#8
 With this single device I could cover so much that has changed since 1977.
 
 - *Computers* (processing chips, memory, internal storage, USB as storage and communications, screen technology, the speed of things! )
-- *Networking *(Internet, WiFi, 4G, Bluetooth, NFC). He could [read my blog](__GHOST_URL__/2020/04/03/your-mobile-phone-the-radios/) for that 🙂
+- *Networking *(Internet, WiFi, 4G, Bluetooth, NFC). He could [read my blog](your-mobile-phone-the-radios.md) for that 🙂
 - *Apps and Services* (using the above Networking, audio/text/video messages, The Cloud, data syncing..)
 - *GPS* (How it works, how to use it.)
 - *Device Interaction *(asking the phone questions, having it reply, having it calculate navigation routes &#8211; on the fly &#8211; then read them out, turn by turn, based on where I am. AR and VR. Google Translate including in-situ via camera)

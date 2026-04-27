@@ -39,7 +39,7 @@ The ruins per se.
 
 [1] [http://vhd.heritage.vic.gov.au/?nosession=1#detail_places;22243](http://vhd.heritage.vic.gov.au/?nosession=1#detail_places;22243)
 
-[2] [https://www.davidphoto.org/2013/08/30/williamstown-racecourseruins-speculation/](__GHOST_URL__/2013/08/30/williamstown-racecourseruins-speculation/)
+[2] [https://www.davidphoto.org/2013/08/30/williamstown-racecourseruins-speculation/](williamstown-racecourseruins-speculation.md)
 
 ---
 

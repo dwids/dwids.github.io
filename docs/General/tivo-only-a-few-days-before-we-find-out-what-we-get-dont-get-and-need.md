@@ -11,13 +11,13 @@ cover:
 description: 
 ---
 
-With the apparent July 1st announcement only a few days away, speculation is out and about as to a number of [TiVo ](__GHOST_URL__/2008/06/25/tivo-pvr-finally-arrives-but-the-wise-may-hold-fire-on-buying-one/)things.
+With the apparent July 1st announcement only a few days away, speculation is out and about as to a number of [TiVo ](tivo-pvr-finally-arrives-but-the-wise-may-hold-fire-on-buying-one.md)things.
 
 There&#8217;s talk of needing an Internet connection, possibly broadband, to be connected to the TiVo. This would be for three main purposes, it is assumed:
 
 1. Downloading of the Electronic Program Guide (show info: channel, start time, duration, description, genre, actors/presenters). Enabling the recording by simply selecting the shows name from a list etc.  Apparently it does not support the EPG that is delivered over the &#8216;air&#8217; ; as part of the digital TV signal
 2. Downloading of updates/fixes for the TiVo itself; specifically the firmware
-3. Streaming (like YouTube) of video shows directly off the Internet. May not be YouTube as such, perhaps things like [TEDs](__GHOST_URL__/2008/06/21/internet-tv-1-teds-excellent-leading-edge-lectures-and-performances-2/).
+3. Streaming (like YouTube) of video shows directly off the Internet. May not be YouTube as such, perhaps things like [TEDs](internet-tv-1-teds-excellent-leading-edge-lectures-and-performances-2.md).
 
 Initial reports are that the TiVo will come with the ability to plug directly in to a wired network (your typical Ethernet blue cable) but you may have to purchase a wireless adapter, should your home network be wireless.
 

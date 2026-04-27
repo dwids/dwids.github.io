@@ -36,7 +36,7 @@ The main points for me &#8211; and this blog &#8211;  are these:
 
 Let&#8217;s start with *Push*. That is when you &#8216;force&#8217; the item on the reader. Just as in real life that&#8217;s not a great way to win friends and influence people.  Even if you think they may be interested. It gets worse on the Internet when it&#8217;s so easy to forward an email because you found it interesting. Or other content.  You are literally pushing the stuff onto them. Ouch.
 
-So the *Pull *model is basically about choice. You set up your Blog &#8211; or web page &#8211; and tell others basically **once **where it is and what it&#8217;s about. If they are interested they can go to it, even subscribe to via software like [Google Reader](__GHOST_URL__/2008/06/12/google-reader-giving-it-a-2nd-try-and-impressed/). They pull the content down, *if they want it*.  And no, you don&#8217;t write an article to your Blog, then email everyone to say &#8220;Hey I just updated my Blog&#8221;. That&#8217;s push by other means and just &#8211; for me at least &#8211; as bad.
+So the *Pull *model is basically about choice. You set up your Blog &#8211; or web page &#8211; and tell others basically **once **where it is and what it&#8217;s about. If they are interested they can go to it, even subscribe to via software like [Google Reader](google-reader-giving-it-a-2nd-try-and-impressed.md). They pull the content down, *if they want it*.  And no, you don&#8217;t write an article to your Blog, then email everyone to say &#8220;Hey I just updated my Blog&#8221;. That&#8217;s push by other means and just &#8211; for me at least &#8211; as bad.
 
 So having said that, I&#8217;m going back to think of more interesting things to write about&#8230;. Enjoy SiC!
 

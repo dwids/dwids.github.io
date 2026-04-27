@@ -13,7 +13,7 @@ description:
 
 #### Being the ongoing adventures in application development … by someone who really doesn’t develop code.
 
-<The first part is, ironically, [located in Part 1](__GHOST_URL__/2011/06/09/emulating-a-developer-part-1-learn-as-you-type/)>
+<The first part is, ironically, [located in Part 1](emulating-a-developer-part-1-learn-as-you-type.md)>
 
 So my first cut, simple, crtRar utility has to do this:
 
@@ -85,7 +85,7 @@ It worked. I was happy.&#160; But it wasn’t fast, due to IE starting (silently
 
 So then I thought, I’m sure I could write this on the Server.&#160; Totally remove Windows from the picture and not have the stupid IE overhead and security popup.&#160; Only problem was the Linux FTP server didn’t run vbscript.&#160; Don’t worry, said I. I’ll re-do it.&#160; From the ground up…
 
-<Continues in [Part 3](__GHOST_URL__/2011/06/10/emulating-a-developer-part-3-linux-coding-bashing-away/)>
+<Continues in [Part 3](emulating-a-developer-part-3-linux-coding-bashing-away.md)>
 
 ---
 
