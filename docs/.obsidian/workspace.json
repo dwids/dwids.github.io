@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "consistency-report.md",
+                "file": "Navigation/latitude-01-what-is-it.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "consistency-report"
+              "title": "latitude-01-what-is-it"
             }
           }
         ]
@@ -182,14 +182,17 @@
   },
   "active": "9594294a12934a62",
   "lastOpenFiles": [
-    "Navigation/latitude-01-what-is-it.md",
+    "javascripts/mathjax.js",
+    "javascripts/New Text Document.txt",
+    "javascripts",
+    "New folder",
     "consistency-report.md",
+    "Navigation/latitude-01-what-is-it.md",
     "Navigation/latitude-3-cooks-calculation.md",
     "Navigation/latitude-02-the-sun-and-the-book.md",
     "assets/images",
     "assets/New folder",
     "assets",
-    "New folder",
     "Navigation/first-gps-logging-with-new-phone-nmea-sentence.md",
     "Maths/how-far-away-is-that-plane-using-log-tables.md",
     "Maths/godzilla-2014-in-melbourne-fun-with-numbers.md",
