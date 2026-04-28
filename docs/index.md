@@ -49,9 +49,6 @@ To see the (many) untagged posts here you go. I'm slowly Tagging these posts - b
 ## Site Issues
 As I have moved and migrated this site many times, some things have gone wrong. Some internal links (between pages) and`click on this image to show it full size` things don't work. Yet.  ==Update== 17 Feb 2026 -> hopefully fixed
 
-### YouTube links
-I've just noticed today (13 Feb 2026) that the most recent on has removed YouTube links.  ==Update== 16 Feb 2026 -> hopefully fixed
-
 ### About some Dates
 Due to me migrating from multiple, very different blog-systems and sites over *decades*, some 'published' dates got a bit mixed up. We (Claude AI and I) found a way to get  some/most of real 'first created' date and have added them to the posts, usually at  **bottom** of the page. Looks like this: 
 
@@ -60,12 +57,16 @@ Due to me migrating from multiple, very different blog-systems and sites over *d
 ## Site Technology - why is it so fast?
 
 >[!tip]Quick Tech Talk about this Blog (feel free to skip)
-> - This blog is fast because it is a **static** website. Every page is pre-generated, just like when the Web first started.  
-> - These pages are actually created/edited as **plain text** [[https://quarto.org/docs/authoring/markdown-basics.html|markdown]] using [[https://en.wikipedia.org/wiki/Obsidian_(software)|Obsidian]] on my PC. *Tags* (aka Metadata) are added to it via simple [[https://en.wikipedia.org/wiki/YAML|YAML]] at the top of each file. 
-> - A single button pushes the changes to *Github*, where an automatic Action invokes [[https://quartz.jzhao.xyz|Quartz]] to convert the markdown to static **html** files...and pushes them to Github Pages. 
-> - Changing a single `.` to a `,` will cause the whole site to be regenerated. But it only takes about one (1) minute or so. 
 
-Mambo,Joomla, Wordpress, Ghost, Quartz and now MkDocs
+This blog is fast because it is a **static** website. Every page is pre-generated, just like when the Web first started.  
+
+These pages are actually created/edited as **plain text** [[https://quarto.org/docs/authoring/markdown-basics.html|markdown]] using [[https://en.wikipedia.org/wiki/Obsidian_(software)|Obsidian]] on my PC. *Tags* (aka Metadata) are added to it via simple [[https://en.wikipedia.org/wiki/YAML|YAML]] at the top of each file. 
+
+A single button pushes the changes to *Github*, where an automatic Action invokes **MkDocs** to convert the markdown to static **html** files...and pushes them to Github Pages. 
+
+Changing a single `.` to a `,` will cause the whole site to be regenerated. But it only takes about one (1) minute or so. 
+
+For my blogs, I have used Mambo > Joomla >  Wordpress > Ghost > Quartz and now MkDocs 😵‍💫  And, next week, it will be...😇
 
 > [!warning] Could be some hiccups - 18 Feb 2026 
 > Due to moving this old blog's contents all over the place - over decades - some links and images (say, from 2008 😇) may have vanished. Also some 'links to pages *within* the blog' may not work.  With  about 424 posts to check, I'm slowly getting there. 
