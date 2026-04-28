@@ -25,21 +25,25 @@ I need to find **x**, the distance in km. Time to go really old school and use l
 $$
 x = \frac{12}{\tan(30°)}
 $$
-I'm *dividing** so I need to ***subtract*** the logs:   
+
+I'm **dividing** so I need to **subtract** the logs:   
+
 $$
 \log(x) = \log(12) - \log(\tan(30°))
 $$
 
 Off to the PDF of the Formulas and Tables book I found online from 1968 🙂
 
+```
     log(x) = log(12) - log(tan 30 degrees)
     log(x) = 1.0792 - (9.7614 - 10.0000)     
-    # that's the way the book said to do it for log(tan x) ;  [value in table - 10.0000]
+    # that's the way the book said to do it for log(tan x) 
+	#  [value in table - 10.0000]
     log(x) = 1.0792 - (-0.2386)
     log(x) = 1.0792 +   0.2386)
     log(x) = 1.3178
     Antilog(.3178) = 2075 + 4 = 2079
-    
+```    
 Now, the first 1 in my 1.3178 means I have (1+1) = **2 digits** before the decimal in my final answer.
 
 So it is therefore: **20.79 km**
