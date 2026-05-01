@@ -1,5 +1,5 @@
 ---
-title: How Rare are drawn games in the AFL?
+title: How rare are drawn games in the AFL?
 date: 2026-05-01
 tags:
   - guests
