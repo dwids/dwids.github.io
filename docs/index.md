@@ -10,6 +10,7 @@ Welcome to ***SiC*** Blog! I write about technology, music, bushwalking, navigat
 
 This site is a collection of posts spanning two decades, [[my-first-digital-internet-fingerprints|from my early internet days]] (c. May 13 1994 and using dial up) to current musings.  It should be nice and fast too, for the interested tech-heads see [[#Site Technology - why is it so fast?]] (below)
 
+May 05 2026  14:52 git via Obs plugin
 ## Some Fave Pieces
 
 ### Creative Writing

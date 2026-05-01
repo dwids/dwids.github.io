@@ -50,8 +50,9 @@ So it is therefore: **20.79 km**
 
 Crosscheck with the very modern Flightaware website[^3] which said that at 15:02 (when I took the photo), the flight was at Latitude and Longitude:
 
+```
 Sat 15:02:23    -37.8623    144.6534
-
+``` 
 So off to Google Earth, draw that point and a point for me in Williamstown. Finally, get Google Earth to measure the ground distance:
 
 ![](6a981-ss.20171209.160411.jpg)
