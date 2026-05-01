@@ -22,6 +22,6 @@ The summary is simple. There have now been 171 draws in the VFL/AFL since 1897. 
 - **10** with a 2 goal difference (like last night, hence 170 to now 171 totals)
 - **2** with a 3 goal difference:
 
-	- In 1935, `Footscray 12.7 v Carlton 9.25` at Western Oval.
-	- The 1948 Grand Final `Essendon 7.27 v Melbourne 10.9` then Melbourne won the replay by 39 points.
+	* In 1935, `Footscray 12.7 v Carlton 9.25` at Western Oval.
+	* The 1948 Grand Final `Essendon 7.27 v Melbourne 10.9` then Melbourne won the replay by 39 points.
 
