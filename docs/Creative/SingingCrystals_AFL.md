@@ -17,10 +17,10 @@ description: Way back in 1994 (before anyone could even spell www.afl.com.au), I
 It is Sunday September 2nd, 2007 and I am on my way to my nieces 16th
 birthday party. Courtney is excited because she knows my interest in
 both football and computers. She has just got her password to **AFL-Online**
-and can\'t wait to show me the very latest in interactive football.
+and can't wait to show me the very latest in interactive football.
 
 As she prepares the system she hands me a brochure titled "*The AFL
-Goes Online - You Don\'t Just See The Game, You Can Control The
+Goes Online - You Don't Just See The Game, You Can Control The
 Outcome"*
 
 As I start to read the brochure we discuss the last weeks round. On
@@ -45,7 +45,7 @@ The bit that caught my eye was section on *"The History Of AFL-Online".*
 To me it was like stepping back in time as the last 10 or so years of
 the merging of AFL and Computers was summarized.
 
-I\'ll leave out the marketing hyperbole (*"The people have shown they
+I'll leave out the marketing hyperbole (*"The people have shown they
 want AFL-Online, they have voted with their terminals"* and *"Yes, we
 didn't consult the players on using them in the System, but it is for
 the greater good of football"*) . Anyway, it goes a bit like this:
