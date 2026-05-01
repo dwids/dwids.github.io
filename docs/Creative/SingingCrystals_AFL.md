@@ -19,9 +19,9 @@ birthday party. Courtney is excited because she knows my interest in
 both football and computers. She has just got her password to **AFL-Online**
 and can\'t wait to show me the very latest in interactive football.
 
-As she prepares the system she hands me a brochure titled \"*The AFL
+As she prepares the system she hands me a brochure titled "*The AFL
 Goes Online - You Don\'t Just See The Game, You Can Control The
-Outcome\"*
+Outcome"*
 
 As I start to read the brochure we discuss the last weeks round. On
 Monday night at the MCG our Bombers had won by 1 point against the
@@ -34,32 +34,32 @@ aimed right between the windflags on top of the orange goal-posts, took
 It was at the precise moment of contact that he slipped. The ball went
 skidding wildly toward the goals. The Parkside fullback had no choice
 but to rush it through and the resulting 3 points gave us victory. Final
-scores Essendon 10.3.3 (72) to Parkside 10.3.2 (71). Even the Dryzone
+scores `Essendon 10.3.3 (72)` to `Parkside 10.3.2 (71)`. Even the Dryzone
 people in the Great Northern Stand went wild.
 
-Actually I was only half listening to Courtney\'s voice as the brochure
+Actually I was only half listening to Courtney's voice as the brochure
 was very interesting. She realised and I half heard her trail off the
 conversation
 
-The bit that caught my eye was section on \"The History Of AFL-Online\".
+The bit that caught my eye was section on *"The History Of AFL-Online".*
 To me it was like stepping back in time as the last 10 or so years of
 the merging of AFL and Computers was summarized.
 
-I\'ll leave out the marketing hyperbole (\"The people have shown they
-want AFL-Online, they have voted with their terminals\" and \"Yes, we
-didn\'t consult the players on using them in the System, but it is for
-the greater good of football\") . Anyway, it goes a bit like this:
+I\'ll leave out the marketing hyperbole (*"The people have shown they
+want AFL-Online, they have voted with their terminals"* and *"Yes, we
+didn't consult the players on using them in the System, but it is for
+the greater good of football"*) . Anyway, it goes a bit like this:
 
 > The first half of the 1990s watching football on TV was pretty much a 2
 dimensional view of what the TV station wanted to show you.
 
 > The first real breakthrough came with the 14th Cable Television Auction
 in early 1995. By 1996 the chosen company has piloted the horribly named
-\"U Chooze TV\". For live broadcasts of games they had some 20 cameras
+**"U Chooze TV"**. For live broadcasts of games they had some 20 cameras
 around the ground (10 manned, 10 autominicams actually on the boundary
 fence).
 
-> The home viewer had their Cable (\"UC TV\") set wired up by a two-way
+> The home viewer had their Cable ("UC TV") set wired up by a two-way
 optical fibre link to the TV Station. The home-viewer had a small hand
 set with 20 buttons. It was tricky at first, but viewers soon got the
 hang of picking which camera angle they wanted to see on their own TV.
@@ -70,14 +70,14 @@ Road end.
 > Two years later this services was expanded and you could request a
 particular replay of a given incident to be shown. A small window would
 appear over the main picture and show your chosen replay. The AFL
-stepped in and introduced \"clipping\" of \"sensitive\" incidents.
+stepped in and introduced "clipping" of "sensitive" incidents.
 Fifty-Fifty ran hot on that one for days.
 
 > In 1999 the first on-line video libraries kicked in. The line between
 the home computer, the video and the hi-fi systems had blurred. A single
 box, running OS/4 could be all three. And more.*
 
-> May 31st 1999 was the first pilot of the \"U Chooze Video\" system in
+> May 31st 1999 was the first pilot of the *"U Chooze Video"* system in
 Melbourne. It has a few bugs, but was roundly regarded as a success. The
 home user simply used their DES (Digitial Entertainment System) and
 called up their local U Chooze store via their home optical fibre link.
@@ -88,9 +88,9 @@ their bank account debited by 10 dollars.
 
 > But while all this was happening, a very different, very secret
 experiment was taking place at the MCG. The results would change the
-very concept of \'viewing\' football as we knew it.
+very concept of 'viewing' football as we knew it.
 
-> The System was code named \"Singing Crystals\" Which was, on the whole,
+> The System was code named **"Singing Crystals"**. Which was, on the whole,
 a very appropriate name.
 
 > It was quite simple really. Each player on the field was given a tiny
@@ -141,7 +141,7 @@ and the sample rate tripled to 3 times a second.
 to see the state of virtual-play
 
 With magic timing Courtney told me she was ready to show me
-\"AFL-Online\".
+*"AFL-Online"*.
 
 I put on the goggles and the headphones and watched as she used her
 DES-3 system to access AFL-Online. In a few seconds she had logged on to
@@ -157,17 +157,17 @@ Suddenly I was there. I was inside a floodlit MCG, standing just outside
 the centre square. Things had a vague cartoon look, but I soon got used
 to it. The three-dimensional effect was amazing. I could turn and look
 at the grandstands and move about the players (who looked quite silly as
-they were \'frozen\' in space as we hadn\'t started the Digital Virtual
+they were 'frozen' in space as we hadn't started the Digital Virtual
 Replay just yet)
 
 Then things came alive. The players moved and the crowd roared. And I
-was there on the turf amongst them. The DVR system was in \'follow the
-play\' mode and I was happy to sit back and enjoy the ride. It was as
+was there on the turf amongst them. The DVR system was in 'follow the
+play' mode and I was happy to sit back and enjoy the ride. It was as
 though I was a passive rover; always within 10 metres of the ball, but
 never touching it. It was exhilarating. I actually felt myself puffing
-from all the \'running\' I was doing.
+from all the 'running' I was doing.
 
-As if this wasn\'t enough Courtney showed me different views of the game
+As if this wasn't enough Courtney showed me different views of the game
 in progress. This was done gently; one view morphed into the next one. I
 realised that a quick jump from the passive-rover view, to what the
 Essendon full back was seeing would give the viewer a headache (like the
