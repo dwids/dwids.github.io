@@ -8,10 +8,10 @@ tags:
 draft: false
 ---
 
+> DS: A few of us were watching AFL game last night 2026-04-30, between Hawthorn and Collingwood. It ended up being a draw, with the key goal kicked (legally) after the siren. Whilst this was apparently the first ever draw between these two clubs, some commentators implied draws were rare. Over to Gaz...
+
 > [!info] Guest Post
 > This was written by Gaz
-
-> DS: A few of us were watching AFL game last night 2026-04-30, between Hawthorn and Collingwood. It ended up being a draw, with the key goal kicked (legally) after the siren. Whilst this was apparently the first ever draw between these two clubs, some commentators implied draws were rare. Over to Gaz...
 
 [AFL Tables](https://afltables.com/afl/stats/biglists/bg8.txt) tells me 170 drawn games before tonight. Not as strange as the commentators might think.
 
