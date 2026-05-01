@@ -6,6 +6,7 @@ tags:
   - speculation
   - sport
   - creative
+  - afl
 description: Way back in 1994 (before anyone could even spell www.afl.com.au), I put together some thoughts on possible 'future' uses of technology for 'watching' the AFL....that is...in 2007 😄
 ---
 

@@ -3,6 +3,9 @@ date: 2015-07-13T09:11:16.000Z
 lastmod: 2024-11-22T06:00:17.000Z
 title: Telstra, Netflix, Google and the AFL Broadcast Rights
 draft: false
+tags:
+  - afl
+  - netflix
 slug: telstra-netflix-google-and-the-afl-broadcast-rights
 
 cover:

@@ -3,12 +3,12 @@ title: How rare are drawn games in the AFL?
 date: 2026-05-01
 tags:
   - guests
-  - gaz
+  - gav
   - afl
 draft: false
 ---
 
-> DS: A few of us were watching the AFL game last night 2026-04-30, between Hawthorn and Collingwood. It ended up being a draw, with the key goal kicked (legally) after the siren. Whilst this was apparently the first ever draw between these two clubs, some commentators implied draws were rare. Over to Gaz...
+> DS: A few of us were watching the AFL game last night 2026-04-30, between Hawthorn and Collingwood. It ended up being a draw, with the key goal kicked (legally) after the siren. Whilst this was apparently the first ever draw between these two clubs, some commentators implied draws were rare. Over to Gav...
 
 > [!info] Guest Post
 > This was written by Gaz

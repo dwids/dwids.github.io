@@ -4,7 +4,9 @@ lastmod: 2020-05-14T19:00:34.000Z
 title: AFLW star Tayla Harris talks online misogyny
 draft: false
 slug: aflw-star-tayla-harris-talks-online-misogyny
-tags: ["general"]
+tags:
+  - afl
+  - general
 cover:
     image: https://plus.unsplash.com/premium_photo-1664195074951-fe91ec456eed?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cG9kY2FzdHxlbnwwfHwwfHx8MA%3D%3D
     alt: AFLW star Tayla Harris talks online misogyny
