@@ -18,8 +18,11 @@ draft: false
 The summary is simple. There have now been 171 draws in the VFL/AFL since 1897. That total breaks down into:
 
 **77** with identical scores 
+
 **82** with a 1 goal difference 
+
 **10** with a 2 goal difference (like last night, hence 170 to now 171 totals)
+
 **2** with a 3 goal difference:
 
 - In 1935, `Footscray 12.7 v Carlton 9.25` at Western Oval.
