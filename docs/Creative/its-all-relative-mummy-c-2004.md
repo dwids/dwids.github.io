@@ -36,7 +36,7 @@ How about that. A civilisation that lasted over **3000** years. In the equivalen
 
 ![[ds-egypt-sphinx-scanned_20200530_200602.jpg]]
 
-*From my visit c. 1988. I have always said only tossers wear T-shirts of institutions they never attended...*
+<small>From my visit c. 1988. I have always said only tossers wear T-shirts of institutions they never attended...</small>
 
 ## Akhenaten - the Rebel Pharoah 
 
