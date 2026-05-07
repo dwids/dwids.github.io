@@ -29,23 +29,23 @@ Evidence suggests that Lake Mungo back 40,000 years ago would have been a very n
 
 <figure>
   <img src="/images/wordpress/2021/02/davids_20051027_173416.jpg" alt="Lake Mungo. October 27th 2005. (Not in original article)">
-  <figcaption>My photo of Lake Mungo. October 27th 2005</figcaption>
+  <figcaption>My photo of Lake Mungo. From a later trip on October 27th 2005</figcaption>
 </figure>
 
 
 It is a quietly moving experience to travel to Mungo today and watch the sunset. Your car drops down into the lake bed. It seems to be only a few metres below the surrounds. Kangaroos and emus go hurtling past you, reflecting a drier version of LM3’s larder. You finally reach the eastern edge. Even now fragments of bone are visible on the ‘shore’. Look but don’t touch.
 
-As the sun sets over the dry bowl it puts things in context. Captain Cook did his stuff about 230 years ago. Some 7 generations have passed since then. LM3 was standing here over 2000 generations ago. Who knows how long before that his distant relatives arrived up North.
+As the sun sets over the dry bowl it puts things in context. Captain Cook did his 1770's stuff about 250 years ago. Some 8 generations have passed since then. LM3 was standing here over 2000 generations ago. Who knows how long before that his distant relatives arrived up North.
 
-In a converse way, Lake Mungo 2001 has its parallels with Melbourne of 18,000 years ago. Back then the seas around Australia were some 150 metres lower than today. Doesn’t seem much, does it? But more than enough for Port Phillip Bay to be dry. Oh and Bass Strait too[^3].
+In a converse way, Lake Mungo 2001 - when I visited there - has its parallels with Melbourne of 18,000 years ago. Back then the seas around Australia were some **150 metres lower than today**. Doesn’t seem much, does it? But more than enough for Port Phillip Bay to be dry. Oh and Bass Strait too[^3].
 
-The Bay of 16,000 BC would have been a shallow depression, probably not even noticeable as the trees within it would have been taller than the dip. A mega-river flowed along the east side of this bowl, out through the two hills and off over the Bass Plains to “Tasmania”. The remnant it left behind is what we call the *Yarra*.[^4]
+The Bay of 16,000 BC would have been a shallow depression, probably not even noticeable as the trees within it would have been taller than the dip. A mega-river flowed along the east side of this bowl, out through the two hills and off over the "Bass Plains" to “Tasmania”. The remnant it left behind is what we call the *Yarra*.[^4]
 
-Think about that 40,000 years number.  Ancient Egypt was still about 35,000 years away from starting up
+Think about that 40,000 years number.  Ancient Egypt was still about 35,000 years away from starting up.
 
 <figure>
   <img src="/images/wordpress/2021/02/davids_20051027_173228.jpg" alt="From the same trip">
-  <figcaption>My shot from the same trip (above)</figcaption>
+  <figcaption>My shot from the same 2005 trip (above)</figcaption>
 </figure>
 
 
