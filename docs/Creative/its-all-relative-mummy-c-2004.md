@@ -34,10 +34,8 @@ I ended with the fall of Egypt, arguably when Nero took over, not long after Cle
 
 How about that. A civilisation that lasted over **3000** years. In the equivalent world, Cleopatra would not be around for another **1000** years from now. Y3K anyone?
 
-<figure>
-  <img src="ds-egypt-sphinx-scanned_20200530_200602.jpg" alt="c. 1988">
-  <figcaption>From my visit c. 1988. I have always said only tossers wear T-shirts of institutions they never attended...</figcaption>
-</figure>
+![[ds-egypt-sphinx-scanned_20200530_200602.jpg]]
+*From my visit c. 1988. I have always said only tossers wear T-shirts of institutions they never attended...*
 
 ## Akhenaten - the Rebel Pharoah 
 
