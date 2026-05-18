@@ -24,7 +24,7 @@ The City of Melbourne has released a free LiDAR dataset covering the entire muni
 So I loaded 2 tiles into QGIS and went...wow.
 
 <iframe 
-  src="https://youtu.be/p2QcowmruIM](https://youtu.be/p2QcowmruIM?si=cw56IJZFTvPFdBfp" 
+  src="https://youtu.be/p2QcowmruIM?si=cw56IJZFTvPFdBfp" 
   style="width:100%;max-width:100%;aspect-ratio:16/9;border:none;" 
   allowfullscreen>
 </iframe>
