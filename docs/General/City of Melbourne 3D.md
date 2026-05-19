@@ -1,11 +1,10 @@
 ---
-title: City of Melbourne 3D from Point Cloud 
+title: City of Melbourne 3D from Laser data
 draft: false
 tags:
   - maps
 description: "Using free data to create a 3D map of part of Melbourne"
 ---
-
 
 This morning I found that the City of Melbourne had used LiDAR (see below) etc to create a 
 
@@ -21,7 +20,7 @@ The City of Melbourne has released a free LiDAR dataset covering the entire muni
 
 ### My Quick and Silent Video
 
-So I loaded 2 tiles into QGIS and went...wow.
+So I loaded 2 tiles into QGIS and went..."nice!".
 
 <iframe 
   src="https://www.youtube.com/embed/p2QcowmruIM" 
@@ -30,9 +29,8 @@ So I loaded 2 tiles into QGIS and went...wow.
 </iframe>
 
 
-#### Data Sources: 
-City of Melbourne (Open Data): [City of Melbourne 3D Point Cloud 2018 ](https://data.melbourne.vic.gov.au/explore/dataset/city-of-melbourne-3d-point-cloud-2018/information/)
-License : [CC BY](https://creativecommons.org/licenses/by/4.0/legalcode)
+#### Data Sources
+City of Melbourne (Open Data): [City of Melbourne 3D Point Cloud 2018 ](https://data.melbourne.vic.gov.au/explore/dataset/city-of-melbourne-3d-point-cloud-2018/information/). License : [CC BY](https://creativecommons.org/licenses/by/4.0/legalcode)
 
 Base map:  © OpenStreetMap contributors
 
