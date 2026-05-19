@@ -18,13 +18,15 @@ LiDAR (Light Detection and Ranging) works like radar but uses laser pulses inste
 
 The City of Melbourne has released a free LiDAR dataset covering the entire municipality, captured in 2018. It comes as 215 tiles, each containing tens of millions of individual laser measurements, and loads directly into free GIS software like QGIS. Unlike Google Earth's smooth 3D reconstructions — which are computed from overlapping photos — this is raw physical measurement, not a computer's interpretation.  Pan across the CBD and the streets, trees and buildings emerge in true colour, exactly as they were on the day the plane flew over — every kerb, every rooftop, every tree measured to centimetre precision from 1,000 metres in the air.
 
-### My Quick and Silent Video
+### My Quick and (almost) Silent Video
 
-So I loaded 2 tiles into QGIS and went..."nice!".
+So I loaded 2 tiles into QGIS and went..."nice!".  
+
+Free bonus: "New mail sound" 🔉, didn't realise OBS Studio was recording the PC's sound.
 
 <iframe 
   src="https://www.youtube.com/embed/p2QcowmruIM" 
-  style="width:100%;max-width:100%;aspect-ratio:16/9;border:none;" 
+   style="width:100%;max-width:100%;aspect-ratio:16/9;border:none;" 
   allowfullscreen>
 </iframe>
 
