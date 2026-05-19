@@ -24,7 +24,7 @@ The City of Melbourne has released a free LiDAR dataset covering the entire muni
 So I loaded 2 tiles into QGIS and went...wow.
 
 <iframe 
-  src="https://youtu.be/p2QcowmruIM?si=cw56IJZFTvPFdBfp" 
+  src="https://www.youtube.com/embed/p2QcowmruIM" 
   style="width:100%;max-width:100%;aspect-ratio:16/9;border:none;" 
   allowfullscreen>
 </iframe>
@@ -35,3 +35,4 @@ City of Melbourne (Open Data): [City of Melbourne 3D Point Cloud 2018 ](https://
 License : [CC BY](https://creativecommons.org/licenses/by/4.0/legalcode)
 
 Base map:  © OpenStreetMap contributors
+
