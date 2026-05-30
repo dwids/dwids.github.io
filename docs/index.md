@@ -45,7 +45,6 @@ To see the (many) untagged posts here you go. I'm slowly Tagging these posts - b
 - [General ("un-tagged")](/tags/#tag:general)
 
 
-
 ## Site Issues
 As I have moved and migrated this site many times, some things have gone wrong. Some internal links (between pages) and`click on this image to show it full size` things don't work. Yet.  ==Update== 17 Feb 2026 -> hopefully fixed
 
