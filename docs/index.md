@@ -13,8 +13,11 @@ This site is a collection of posts spanning two decades, [[my-first-digital-inte
 ## New and Hot ♨️
 
 🔥[[myEbooks]]
+
 🔥[[City of Melbourne 3D]]
+
 🔥[[Norman Lindsay - Ummmm]]
+
 🔥[[Easybeats and their impact]]
 
 ## Some Fave Pieces
