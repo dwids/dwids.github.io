@@ -3,6 +3,7 @@ title: City of Melbourne 3D from Laser data
 draft: false
 tags:
   - maps
+  - latest
 description: "Using free data to create a 3D map of part of Melbourne"
 ---
 

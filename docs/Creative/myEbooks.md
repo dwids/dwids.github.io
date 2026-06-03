@@ -5,6 +5,7 @@ tags:
   - epub
   - pdf
   - creative
+  - latest
 description: "Free PDF and ePub books I have generated from older Australian books"
 ---
 

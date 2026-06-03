@@ -5,6 +5,7 @@ tags:
   - pondering
   - books
   - normanlindsay
+  - latest
 description: "How Norman Lindsay wrote the The Magic Pudding to critique ‘Australian values’ – inspired by Nietzsche (or did he? 😵‍💫)"
 ---
 

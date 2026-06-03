@@ -3,6 +3,7 @@ title: "The Easybeats and their impact"
 draft: false
 tags:
   - music/australian
+  - latest
 description: "1960s Aussie band were outstanding. They also helped lots of other artists on their way"
 ---
 
