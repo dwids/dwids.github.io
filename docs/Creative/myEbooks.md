@@ -34,7 +34,7 @@ As per above the Kindle App can read ePub and PDF files. There are lots of other
 > [!info] Genres
 > Non-fiction · Travel · Adventure · Australian history · Diary
 
-<img src="https://github.com/dwids/morrison--diary-of-a-tramp/blob/main/cover.jpg?raw=true" width="300">
+<img src="https://github.com/dwids/morrison--diary-of-a-tramp/blob/main/cover.jpg?raw=true" width="100">
 
 It's late 1879 and the baking Australian summer has just started. George Ernest Morrison had decided to walk from his home in Geelong to Adelaide. By himself. His planned coastal route would be some 750 miles (1200 km). He was 17. And he kept a diary.
 
@@ -52,7 +52,7 @@ You can find the ePub and PDF files [on this page](https://github.com/dwids/morr
 > [!info] Genres
 > Fiction · Novella · Australian bush · Colonial era · Idyll
 
-<img src="https://github.com/dwids/ellis--kanga-creek/blob/main/cover.jpg?raw=true" width="300">
+<img src="https://github.com/dwids/ellis--kanga-creek/blob/main/cover.jpg?raw=true" width="100">
 
 This is the only fiction Ellis ever wrote, published 1922, based on his year as a bush schoolteacher in rural NSW in 1878. It is an *idyll* — a short, idealised portrait of simple, peaceful life — and captures a young Englishman slowly enchanted by the isolation and beauty of the Australian bush, with shy romantic stirrings along the way.
 
@@ -68,7 +68,7 @@ You can find the ePub and PDF files [on this page](https://github.com/dwids/elli
 > [!info] Genres
 > Fiction · Short stories · Australian gothic · Colonial era · Women's experience
 
-<img src="https://github.com/dwids/baynton--bush-studies/blob/main/cover.jpg?raw=true" width="300">
+<img src="https://github.com/dwids/baynton--bush-studies/blob/main/cover.jpg?raw=true" width="100">
 
 **Bush Studies** (1902) is a short story collection that presents Australian bush life in the early colonial period as dangerous and isolating for women. In one sense it is a push back against the stories of Henry Lawson and "Banjo" Patterson. Critics have long debated whether the collection is simply gritty, realistic Australian bush fiction, or something far more unsettling — I fall into the latter camp, it's what I call *bush-gothic horror*. Your mileage may vary 😇
 
