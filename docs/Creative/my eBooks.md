@@ -17,6 +17,13 @@ It's late 1879 and the baking Australian summer has just started. George Ernest 
 Nope, this is not fiction. It's his diary.
 
 
+### Download Location
+
+You can find the ePub and PDF files [on this page](https://github.com/dwids/morrison--diary-of-a-tramp/releases/latest)
+
+
+
+
 
 
 
