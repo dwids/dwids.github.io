@@ -12,20 +12,20 @@ description: "Free PDF and ePub books I have generated from older Australian boo
 > I prefer ePub, but decided to make PDFs available as well.
 > Below is a description of each, with a link to the download page for them.
 
-## Reading on your devices
-As I said, I'd go for the ePub; they 're-flow' better and you can change the font, margins, etc etc
+### Using on your devices
+As I said, I'd go for the ePub; they 'flow and re-flow' better and you can change the font, margins, etc etc
 
-### ePubs and iPad/iPhone
+#### ePubs and iPad/iPhone
 On your iPad or iPhone download the ePub and follow [this quick video](https://youtu.be/8OXunMhJmcs?si=PCPg99fRmem94hGg) to open it in the excellent Books app. Rinse and repeat with the PDF and your standard PDF reader.   I understand the Kindle App can read both file types.
 
-### Android
+#### Android
 Make sure you have one of the many ePub reader apps on your phone. Then download the ePub file and 'Share it' to the app etc. Same with PDF app and file.     I understand the Kindle App can read both file types.
 
-## Kindle (device)
+#### Kindle (device)
 I read that Kindles have natively supported ePubs since August 2022. 
 [This guide](https://www.howtogeek.com/798894/how-to-transfer-epub-to-kindle/) will help with transferring the ePub to your Kindle. 
 
-## Windows - Kindle App
+#### Windows - Kindle App
 As per above the Kindle App can read ePub and PDF files. There are lots of other 'readers' for both too
 
 ## Diary of a Tramp  (George Ernst Morrison)
