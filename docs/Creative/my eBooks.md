@@ -4,7 +4,7 @@ title: My eBooks (PDF and ePub)
 
 > I have taught myself how to take old transcripts of out-of-copyright Australian books and convert them to 'modern' formats, ePub and PDF.  
 > I prefer ePub, but decided to make PDFs available as well.
-> Below is a description of each, with a link to the download page for them
+> Below is a description of each, with a link to the download page for them.
 
 
 
