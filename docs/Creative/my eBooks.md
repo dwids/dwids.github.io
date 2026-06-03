@@ -14,7 +14,7 @@ It's late 1879 and the baking Australian summer has just started. George Ernest 
 
 Nope, this is not fiction. It's his diary.
 
-![tramp cover](https://github.com/dwids/morrison--diary-of-a-tramp/blob/main/cover.jpg?raw=true){ width="100" }
+![tramp cover](https://github.com/dwids/morrison--diary-of-a-tramp/blob/main/cover.jpg?raw=true){ width="300" }
 
 
 
