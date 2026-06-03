@@ -12,11 +12,11 @@ This site is a collection of posts spanning two decades, [[my-first-digital-inte
 
 ## New and Hot ♨️
 
-🔥[[myEbooks]]
+🔥[[myEbooks|Some free Australian ebooks I have created]]
 
 🔥[[City of Melbourne 3D]]
 
-🔥[[Norman Lindsay - Ummmm]]
+🔥[[Norman Lindsay - Ummmm|Norman Lindsay and April Fooling me]]
 
 🔥[[Easybeats and their impact]]
 
