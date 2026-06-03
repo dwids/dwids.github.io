@@ -10,9 +10,12 @@ Welcome to ***SiC*** Blog! I write about technology, music, bushwalking, navigat
 
 This site is a collection of posts spanning two decades, [[my-first-digital-internet-fingerprints|from my early internet days]] (c. May 13 1994 and using dial up) to current musings.  It should be nice and fast too, for the interested tech-heads see [[#Site Technology - why is it so fast?]] (below)
 
-## ♨️New and Hot
+## New and Hot ♨️
 
-- [Latest items 🔥](/tags/#tag:latest) 
+🔥[[myEbooks]]
+🔥[[City of Melbourne 3D]]
+🔥[[Norman Lindsay - Ummmm]]
+🔥[[Easybeats and their impact]]
 
 ## Some Fave Pieces
 
@@ -21,7 +24,7 @@ This site is a collection of posts spanning two decades, [[my-first-digital-inte
 * [Ancient Egypt lasted a long time. How long relative to 0 AD?📅](its-all-relative-mummy-c-2004.md)
 * [Lake Mungo and early human remains](lm3-and-port-phillip-non-bay.md)
 
-## Freelance
+### Freelance
 I had my first freelance piece published in the Age back in **1996**. It was a one-off, but I returned in mid-2005 as a **paid freelancer** for about 6 months. [Here's the archive](/tags/#tag:freelance)
 
 
