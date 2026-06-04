@@ -73,7 +73,7 @@ These pages are actually created/edited as **plain text** [[https://quarto.org/d
 
 A single button pushes the changes to *Github*, where an automatic Action invokes [MkDocs](https://www.mkdocs.org/) to convert the markdown to static **html** files...and pushes them to Github Pages. 
 
-Changing a single `.` to a `,` will cause the whole site to be regenerated. But it only takes about a few minutes. 
+Changing a single `.` to a `,` will cause the whole site to be regenerated. But it only takes a few minutes. 
 
 Over the years, for my blogs, I have used Mambo > Joomla >  Wordpress > Ghost > Quartz and now MkDocs 😵‍💫  And, next week, it will be...😇
 
