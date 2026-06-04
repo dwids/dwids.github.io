@@ -25,8 +25,7 @@ Nope, this is not fiction. It's his diary.
 
 Text sourced from Mitchell Library, State Library of New South Wales.
 
-> [!info] Genres
-> Non-fiction · Travel · Adventure · Australian history · Diary
+***Genres:*** Non-fiction · Travel · Adventure · Australian history · Diary
 
 #### Download
 
@@ -40,8 +39,7 @@ This is the only fiction Ellis ever wrote, published 1922, based on his year as 
 
 Text sourced from Project Gutenberg Australia.
 
-> [!info] Genres
-> Fiction · Novella · Australian bush · Colonial era · Idyll
+***Genres***:  Fiction · Novella · Australian bush · Colonial era · Idyll
 
 #### Download
 
@@ -56,8 +54,7 @@ You can find the ePub and PDF files [on this page](https://github.com/dwids/elli
 
 Text sourced from Project Gutenberg Australia.
 
-> [!info] Genres
-> Fiction · Short stories · Australian gothic · Colonial era · Women's experience
+***Genres*** :  Fiction · Short stories · Australian gothic · Colonial era · Women's experience
 
 #### Download
 
