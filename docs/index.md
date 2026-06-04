@@ -18,7 +18,7 @@ This site is a collection of posts spanning two decades, [[my-first-digital-inte
 
 🔥[[Norman Lindsay - Ummmm|Norman Lindsay and April Fooling me]]
 
-🔥[[Easybeats and their impact]]
+🔥[[The Easybeats and their impact]]
 
 ## Some Fave Pieces
 
