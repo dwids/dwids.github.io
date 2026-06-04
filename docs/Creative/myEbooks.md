@@ -76,5 +76,3 @@ I read that Kindles have natively supported ePubs since August 2022.
 
 ### Windows etc - Kindle App
 As per above the Kindle **App** can read ePub and PDF files. There are lots of other 'readers' for both too.
-
-
