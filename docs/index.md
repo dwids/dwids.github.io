@@ -71,11 +71,11 @@ This blog is fast because it is a **static** website. Every page is pre-generate
 
 These pages are actually created/edited as **plain text** [[https://quarto.org/docs/authoring/markdown-basics.html|markdown]] using [[https://en.wikipedia.org/wiki/Obsidian_(software)|Obsidian]] on my PC. *Tags* (aka Metadata) are added to it via simple [[https://en.wikipedia.org/wiki/YAML|YAML]] at the top of each file. 
 
-A single button pushes the changes to *Github*, where an automatic Action invokes **MkDocs** to convert the markdown to static **html** files...and pushes them to Github Pages. 
+A single button pushes the changes to *Github*, where an automatic Action invokes [MkDocs](https://www.mkdocs.org/) to convert the markdown to static **html** files...and pushes them to Github Pages. 
 
-Changing a single `.` to a `,` will cause the whole site to be regenerated. But it only takes about one (1) minute or so. 
+Changing a single `.` to a `,` will cause the whole site to be regenerated. But it only takes about a few minutes. 
 
-For my blogs, I have used Mambo > Joomla >  Wordpress > Ghost > Quartz and now MkDocs 😵‍💫  And, next week, it will be...😇
+Over the years, for my blogs, I have used Mambo > Joomla >  Wordpress > Ghost > Quartz and now MkDocs 😵‍💫  And, next week, it will be...😇
 
 > [!warning] Could be some hiccups - 18 Feb 2026 
 > Due to moving this old blog's contents all over the place - over decades - some links and images (say, from 2008 😇) may have vanished. Also some 'links to pages *within* the blog' may not work.  With  about 424 posts to check, I'm slowly getting there. 
