@@ -9,7 +9,7 @@ description:
 
 A few items to do with my interactions with the location and film *Picnic at Hanging Rock*.  No other place – nor movie – has quite the hold on me.  I only live about one hour's drive from The Rock.
 
-![[ds_hanging_rock.jpg]]
+![[ds_hanging_rock01.jpg]]
 
 Note the vertical pillars of rock, they look like columns.
 
