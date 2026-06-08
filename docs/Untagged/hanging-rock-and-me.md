@@ -77,7 +77,7 @@ Anyway, whole books have been written on ‘is is true?’.  This is one [ summa
 
 However my teachers did spot something interesting which stuck in my mind. 
 
-Philip Adams, who knew Joan, has been interested in the mystery for years. In 2010, I emailed him asking about what the teachers had found:
+[Philip Adams](https://halloffame.melbournepressclub.com/article/phillip-adams), who knew Joan, has been interested in the mystery for years. In 2010, I emailed him asking about what the teachers had found:
 
 “I wonder if it’s anything to do with the observation that the 3 missing girls all had the same first 4 initials in their first names: MARI ? [Marion, Irma, Miranda] Back in the 70’s a teacher pointed that out to us. Plus a 4th combination  [is] RIMA. Meaning hole or fissure. Possible literary joke?”
 
