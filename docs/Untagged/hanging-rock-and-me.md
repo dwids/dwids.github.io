@@ -11,7 +11,7 @@ cover:
 description: 
 ---
 
-A few items to do with my interactions with the location and film *Picnic at Hanging Rock*.  No other place – nor movie – has quite the hold on me.  I only live about one hour's drive from the place.
+A few items to do with my interactions with the location and film *Picnic at Hanging Rock*.  No other place – nor movie – has quite the hold on me.  I only live about one hour's drive from The Rock.
 
 [![](61d009e75903d4c1c4e677529a1fdf39_2048x1152.jpg)](https://www.visitmelbourne.com/regions/Daylesford-and-the-Macedon-Ranges/Things-to-do/Tours/Food-and-wine-tours/The-Regional-Wanderer/Discover-Hanging-Rock)Hanging Rock. Great photo from [this site](https://www.visitmelbourne.com/regions/Daylesford-and-the-Macedon-Ranges/Things-to-do/Tours/Food-and-wine-tours/The-Regional-Wanderer/Discover-Hanging-Rock)
 
