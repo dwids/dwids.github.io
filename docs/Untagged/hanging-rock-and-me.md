@@ -4,16 +4,12 @@ lastmod: 2024-11-22T05:58:57.000Z
 title: Hanging Rock and Me
 draft: false
 slug: hanging-rock-and-me
-
-cover:
-    image: https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D
-    alt: Hanging Rock and Me
 description: 
 ---
 
 A few items to do with my interactions with the location and film *Picnic at Hanging Rock*.  No other place – nor movie – has quite the hold on me.  I only live about one hour's drive from The Rock.
 
-[![](61d009e75903d4c1c4e677529a1fdf39_2048x1152.jpg)](https://www.visitmelbourne.com/regions/Daylesford-and-the-Macedon-Ranges/Things-to-do/Tours/Food-and-wine-tours/The-Regional-Wanderer/Discover-Hanging-Rock)Hanging Rock. Great photo from [this site](https://www.visitmelbourne.com/regions/Daylesford-and-the-Macedon-Ranges/Things-to-do/Tours/Food-and-wine-tours/The-Regional-Wanderer/Discover-Hanging-Rock)
+![[ds_hanging_rock.jpg]]
 
 Note the vertical pillars of rock, they look like columns.
 
