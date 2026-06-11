@@ -15,7 +15,7 @@ description:
 
 There’s just something about this walk – and location – that trips me up every time. Not literally, but I have tried twice now and failed to finish it both times. It’s in the Little Peninsula and Big Peninsula tunnels area.
 
-### First Time 
+### First Time  - The Map and The Truck 🗺️🚛
 
 It was late Jan 2008 and it was hot. Climbed up and down the roller-coaster hills near the Little Peninsular tunnel. Only to find the track closed from there on.  Worked out the way back to the car, without doing the roller-coaster again. But a bit later on, found I’d lost the map. Reached for the spare…and discovered it was back at home.
 
@@ -25,7 +25,7 @@ Not quite out of trouble yet. Discovered room I was staying in had no fridge, a/
 
 Found out later that the walk was officially closed due to logging, but someone hadn’t updated the Parks Vic web site.
 
-### This Time
+### This Time - The ❄️ Sleeping Bag 
 
 August 18th 2009. It was the roller-coaster hills being dangerously slippery. After gingerly finishing them, I decided it was too risky to push on  with the exact route  (as it returned via these hills again).  This time, however, I used the map and worked out I could do most of the route and then ‘veer off’ down a road (c/f a track) and head back out the same way as during the Summer. Worked a treat.
 
