@@ -13,6 +13,8 @@ description:
 isbn: "0876854455"
 ---
 
+> [!info] Original Published Date : *2009-10-30*
+
 Currently reading the somewhat forgotten 1939 (!) masterpiece
 
 Borrowed from the local library. Thanks to Marieke et al on the First Tuesday Book Club for [pointing out this wonderful book](http://www.abc.net.au/tv/firsttuesday/s2653504.htm)
@@ -23,4 +25,3 @@ Borrowed from the local library. Thanks to Marieke et al on the First Tuesday Bo
 <img src="https://covers.openlibrary.org/b/isbn/`=this.isbn`-L.jpg" width="200" align="left" style="margin-right: 0;">
 ---
 
-> [!info] Original Published Date : *2009-10-30*

@@ -10,6 +10,8 @@ tags:
 description: Way back in 1994 (before anyone could even spell www.afl.com.au), I put together some thoughts on possible 'future' uses of technology for 'watching' the AFL....that is...in 2007 😄
 ---
 
+> [!info] Original Published Date : *1994* 🫨
+
 >18 Mar 2026  comment: Way back in **1994** (!) (before anyone could even spell www.afl.com.au), I put together some speculation on possible 'future' uses of technology with AFL. I couldn't get the OK from niece Courtney to use her name, as she was only about 3 (!), so Mum Kerri said it was all ok. I have changed birthdates used, for privacy reasons. 
 
 > So this was me in **1994** thinking about the future, that is **2007**.

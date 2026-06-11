@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2020-05-29*
+
 A potpourri of *oops *moments from the Good Old Days of I.T. All from memory, so some details may be suspect, but the core story is correct.
 
 ### I know what I meant….
@@ -58,4 +60,3 @@ They came to a key *Yes/No *decision and both swore they said *No*.  But the sy
 
 ---
 
-> [!info] Original Published Date : *2020-05-29*

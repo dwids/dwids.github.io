@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2020-03-30*
+
 ![](ss.20200330.211254.png)
 A quick guide to eBook file formats. Big Picture stuff and almost guaranteed to contain rash generalisations.
 
@@ -64,4 +66,3 @@ Some library apps also support eAudiobooks and eMagazines. But that&#8217;s for 
 
 ---
 
-> [!info] Original Published Date : *2020-03-30*

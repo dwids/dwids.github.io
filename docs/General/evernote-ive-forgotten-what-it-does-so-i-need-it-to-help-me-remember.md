@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2008-06-25*
+
 Oh I do love a witty title. Evernote is a new application that lets you record and index &#8216;stuff&#8217;, so you can find it later.  Not just text, but web pages and even images. And images means photographs or webcam captures.  But the killer bit number one is that it examines (scans) the image for text and adds that as a searchable keyword. And killer bit number two is that you can do this from your PC/Mac and/or your mobile phone and have the whole lot synced up. 
 
 An example:
@@ -23,4 +25,3 @@ More at their [web site](http://www.evernote.com/).   Article found via [Lifehac
 
 ---
 
-> [!info] Original Published Date : *2008-06-25*

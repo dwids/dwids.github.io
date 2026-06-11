@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2004-02-18*
+
 El Mariachi&#8221;  was a very early film from Robert Rodriguez. He apparently made this for $7,000 in 1992. The title role being played by Carlos Gallardo. As IMDB says &#8220;A travelling mariachi (guitarist/singer) is mistaken for a murderous criminal and must hide from a gang bent on killing him.&#8221;  Mayhem and stylized action and violence follow.&#8217;,&#8217;It was quite a (cult) hit. Armed with a larger budget he went on to make the semi sequel &#8220;Desperado&#8221; in 1995. This time Antonio Banderas playing  the role of El Mariachi. Salma Hayek lit up the screen as the female lead. Quentin Tarantino and his pal Steve Buscemi were in the cast too.
 
 Semi-sequel?
@@ -29,4 +31,3 @@ Now, the 4th Sergio Leone SpagWes film &#8211; but not with Clint this time &#82
 
 ---
 
-> [!info] Original Published Date : *2004-02-18*

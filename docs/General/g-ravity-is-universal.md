@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2020-05-16*
+
 That capital (big) **G** is the physics symbol for an amazing number. Which we will soon come back to. But for now, it&#8217;s close cousin, little** g**, is what we are looking at.
 
 That **g** is the &#8216;acceleration due to gravity g = 9.807 m/s2 (meters per second squared; which might be thought of as &#8220;meters per second, per second&#8221;)&#8230;&#8217; source quote for that is [here](https://en.wikipedia.org/wiki/Equations_for_a_falling_body). That&#8217;s the value at the Earth&#8217;s surface. In other words, it&#8217;s how quickly gravity accelerates an object when you drop it.
@@ -57,4 +59,3 @@ If you look back at the formula for **g** (above) and plug in the values and the
 
 ---
 
-> [!info] Original Published Date : *2020-05-16*

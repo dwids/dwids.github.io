@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2020-04-27*
+
 I have two key memories of Rod from when I was younger:
 
 1. My parents were members of some sort of record club, in the early 70s. They&#8217;d get these great colour catalogues posted to them.  I used to look at them and see the band *Faces *and think their album covers were strange and &#8211; it follows, logically &#8211; I wouldn&#8217;t like them. Rod was lead singer (but I didn&#8217;t know that then).
@@ -46,4 +48,3 @@ Link [here](https://youtu.be/dQw4w9WgXcQ).
 
 ---
 
-> [!info] Original Published Date : *2020-04-27*

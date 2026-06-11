@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2020-04-16*
+
 > [!info]+ Historical post 
 > As I have moved blogs multiple times, words like "today" and "here" etc below, refer to when I first migrated the old *Golden Miles* blog to a newer platform, c. 2020.
 
@@ -58,4 +60,3 @@ And then I found it was the only old Post that had this strange old format 🙂
 
 ---
 
-> [!info] Original Published Date : *2020-04-16*

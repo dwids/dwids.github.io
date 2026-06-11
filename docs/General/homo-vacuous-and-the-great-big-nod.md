@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2008-07-10*
+
 Good comedy, to me, has me not only laughing but nodding.  I not only find it amusing but it has triggered a recognition, even if it&#8217;s one that is disguised, buried or exaggerated via satire.
 
 One of my favourite hobbies is Spot the Bluffer.  This is a person, usually in the workplace, who is good at linking together the buzz words and statistics, whipping them into a verbal froth and smothering those around them.  No-one really questions exactly what they do or value they bring.  And why would you, when they can easily say things like:
@@ -37,4 +39,3 @@ Technorati Tags: [Hollowmen](http://technorati.com/tags/Hollowmen)
 
 ---
 
-> [!info] Original Published Date : *2008-07-10*

@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2008-05-16*
+
 Been trying out some GPS logging software with the new HTC p3600i PDA-Phone. This unit has a built-in GPS, but the supplied software was way over-kill for me. All colour maps and turn-here voice directions. I just want a simple application to tell me where I am as a few lines of text, plus log it for later use. Specifically to convert to Google Earth format and look at my bush-walk in 3D.
 The software I found produces the generic NMEA format messages. Here’s a sample:
 
@@ -31,4 +33,3 @@ Easy!
 
 ---
 
-> [!info] Original Published Date : *2008-05-16*

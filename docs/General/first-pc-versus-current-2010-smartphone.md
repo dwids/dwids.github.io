@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2010-07-05*
+
 This topic came up yesterday and I was intrigued by what some quick research showed.
 
 My [first PC](bye-bye-first-ever-pc-the-1985-era-ibm-jx-4-and-512.md) was an IBM JX, circa 1985.&#160; My new smartphone is a HTC Desire.&#160; And now to the numbers: 
@@ -27,4 +29,3 @@ This wasn’t my first **computer**, I deliberately said “first **PC**”.&#16
 
 ---
 
-> [!info] Original Published Date : *2010-07-05*

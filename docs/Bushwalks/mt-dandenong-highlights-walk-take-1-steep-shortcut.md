@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2009-10-04*
+
 Used some maps and planned a new, shorter version of the [[mt-dandenong-doongala|earlier walk]]   Basically the best bits and hence the name.  Today was the day to walk it to see how it goes.
 
 Had a great time.  However, it became pretty clear that my ‘shortcut’ back to the car (Glasgow Track &#8211; see below) was so steep that it really wouldn’t have been enjoyable had others been with me.   Here’s a Google Earth image, showing the walk. Note the height exaggerated by 2 for impact:
@@ -37,4 +39,3 @@ Mmm. Need to think more about how to get back from Doongalla to the car. Maybe j
 
 ---
 
-> [!info] Original Published Date : *2009-10-04*

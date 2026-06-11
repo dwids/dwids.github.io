@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2006-10-11*
+
 Okay, on the main PC &#8211; running Windows XP &#8211; I use:
 
 - [Firefox ](http://www.mozilla.com/firefox/)as my browser, with [these](http://www.artwill.com.au/hosted/info/ExtensionsList.html) great add ons (extensions)
@@ -19,4 +21,3 @@ Okay, on the main PC &#8211; running Windows XP &#8211; I use:
 
 ---
 
-> [!info] Original Published Date : *2006-10-11*

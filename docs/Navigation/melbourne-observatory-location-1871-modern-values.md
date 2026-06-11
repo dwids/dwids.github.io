@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2020-07-12*
+
 The &#8220;Williamstown Observatory was established in July 1853&#8243; [1].  &#8221; The work of the Williamstown Observatory was wound down in mid 1863, as instruments were progressively moved to the new Melbourne Observatory, which formally commenced operation on 9 June 1863.&#8221; [ibid]. The Williamstown one is long gone, but the Melbourne one is still proudly standing. 
 
 In researching the exact location of the **Williamstown** Observatory (see [this fascinating discussion](https://gis.stackexchange.com/questions/367355/transform-1860s-australian-english-map-coordinates-to-modern-ones)), I&#8217;ve just spotted an interesting &#8211; and possibly related &#8211; situation with the location of the **Melbourne** Observatory.
@@ -60,4 +62,3 @@ Accessed 12 July 2020
 
 ---
 
-> [!info] Original Published Date : *2020-07-12*

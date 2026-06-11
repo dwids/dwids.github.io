@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2008-06-12*
+
 I’m gradually making my way through all of the [Narnia ](http://en.wikipedia.org/wiki/The_Chronicles_of_Narnia)books, trying to do so in ‘reading order’ and not the order they were published. After the most recent one – *The Horse and His Boy* – I’m not sure if I’m going to make it.
 
 Talk about a struggle. Compared to *The Lion, The Witch and The Wardrobe*, *Prince Caspian* and *The Magican’s Nephew*, this just dragged. It really didn’t seem to go anywhere. I switch off from all the allegory stuff, so maybe I missed the point. But still even if you are going to have metaphors galore, at least wrap it around an interesting, engaging story.  If they do make a film of it in a few years, it will probably be direct to BluRay.
@@ -23,4 +25,3 @@ Overall: nope!
 
 ---
 
-> [!info] Original Published Date : *2008-06-12*

@@ -11,9 +11,10 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2011-02-14*
+
 Great way to start another week. Local lad does one of his trademark guitar virtuoso performances, including a bit of Elton thrown in for a musical thrill. As someone who can slowly pick out a few chords on the 6-string, I find this level of playing pretty awe-inspiring. 
 
 <iframe width="720" height="405" src="https://www.youtube.com/embed/S33tWZqXhnk" title="Classical Gas [Mason Williams] | Tommy Emmanuel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ---
 
-> [!info] Original Published Date : *2011-02-14*

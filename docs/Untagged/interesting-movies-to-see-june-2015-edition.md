@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2015-06-20*
+
 Some quick ideas to spice up your movie viewing. These range from cult through to mainstream and represent some of my favourite films.
 
 ## A Zed & Two Noughts
@@ -33,4 +35,3 @@ My favourite film of all time. It took about 3 years to make this sci-fi masterp
 
 ---
 
-> [!info] Original Published Date : *2015-06-20*

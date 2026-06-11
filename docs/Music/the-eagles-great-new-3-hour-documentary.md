@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2013-12-16*
+
 I first really listened to The Eagles when their mega-hit Hotel California album burst out (1976 according to Wikipedia, but maybe that’s when the recording started or USA release date? I recall 1977, so I was 16).  I was vaguely aware of Take It Easy, but was a bit young when it came out.
 
 This was about the same time Fleetwood Mac drifted into my musical frame too. Arguably both bands were hitting their peak or even dropping by about this time. The words “drugs” and “excess” spring to mind.
@@ -23,4 +25,3 @@ You know what, I&#8217;ve changed my mind and just deleted about 3 paragraphs I�
 
 ---
 
-> [!info] Original Published Date : *2013-12-16*

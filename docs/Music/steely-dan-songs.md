@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2020-05-02*
+
 There’s an old joke: Rock is 3 chords played to 1000 people. Jazz is 1000 chords…go on, finish it for yourselves 🙂
 
 Two quick things:
@@ -72,4 +74,3 @@ That is a complete lie. I can’t say who/what they are really named after as th
 
 ---
 
-> [!info] Original Published Date : *2020-05-02*

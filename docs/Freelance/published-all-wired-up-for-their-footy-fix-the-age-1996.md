@@ -14,6 +14,8 @@ cover:
 description: Even in 1996 Australian Rules Football was followed on the other side of the world.
 ---
 
+> [!info] Original Published Date : *1996*
+
 > *This article, my first ever published, originally appeared in the Melbourne Age newspaper on Monday 30th September 1996. Page 22 in the post-Grand-Final Sports Age section.*
 
 On a fine, warm day in Jerusalem, a boy in his late teens is doing his bi-weekly “shmira” on the roof of his school. Armed with an M-16 he is fairly relaxed doing this, his regular guard-duty period. The only break in the calm is the sudden whoosh as the jet fighters patrol overhead. To Eli, they look almost as if they are at play as they fade off into the blue.
@@ -52,4 +54,3 @@ There, stuck to the inside of an Uzi and staring out over the Holy Land is the f
 
 ---
 
-> [!info] Original Published Date : *1996*

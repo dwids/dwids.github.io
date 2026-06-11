@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2011-06-09*
+
 #### Being the ongoing adventures in application development … by someone who really doesn’t develop code.
 
 I never actually learnt how to write code. I can’t recall ever even vaguely doing it for a living. But ever since I can remember, I’ve dabbled and whipped up utility applications for my own use.
@@ -60,4 +62,3 @@ And so I dived in and started coding. Learning the details of the language I was
 
 ---
 
-> [!info] Original Published Date : *2011-06-09*

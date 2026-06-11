@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2008-04-02*
+
 "**Stray Cat Blues**; Rolling Stones (1968 UK) classic-period blues/rock, play LOUD     
 
 <iframe width="471" height="265" src="https://www.youtube.com/embed/oOSYB38y2xA" title="The Rolling Stones - Stray Cat Blues (Official Lyric Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -49,4 +51,3 @@ description:
 
 ---
 
-> [!info] Original Published Date : *2008-04-02*

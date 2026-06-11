@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2004-05-19*
+
 This tiny ex-gold-mining town clings to the side of a very steep valley in West Gippsland.  It once boasted a population of hundreds, if not thousands.  Today it’s about 20.
 
 Wahalla has hung on, literally,  since 1862. It has survived the mining bust – nearly 90 years ago – floods and fires. It only got the power on in the 1990s.
@@ -49,4 +51,3 @@ A few videos on YouTube, this one seems short and sweet. And has drone shots.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-s3y7PmF1yo?si=0yOKCSPFYbu1tKP2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ---
 
-> [!info] Original Published Date : *2004-05-19*

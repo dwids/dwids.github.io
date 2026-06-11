@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2008-09-14*
+
 I&#8217;ve been playing with the free Shonkymaps for the new GPS. Basically it goes like this: the GPS only comes with very basic maps.  Just the &#8216;big picture&#8217; stuff, no street names, mountain names, height information (topographic data) etc.
 
 You can buy commercial maps and load them into your GPS. Actually you load *sections* of them in, for the area of interest. 
@@ -29,4 +31,3 @@ Anyway hats off to Shonky for a great job. The amount of detail is fantastic.
 
 ---
 
-> [!info] Original Published Date : *2008-09-14*

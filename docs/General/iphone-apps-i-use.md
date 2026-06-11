@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2009-08-30*
+
 Late August 2009 list. Plus I actually have an iPod Touch, not an iPhone, so none of these (below) reply on GPS/compass, 3G nor camera. I use&#160; WiFi for my Internet connectivity, both at home and hotspots when out.
 
 One big thing for me is synchronisation; having my data available in more than one place. I really like the convenience and flexibility this gives me. If I see a good book/movie/wine/song or anything, I can record the information about it on the iPod then have it available back on the (home) browser etc.&#160; Ditto if I think of something I need to do, someone to email, a general idea etc.
@@ -79,4 +81,3 @@ These apps ship with the iPod and I may have used them once.&#160; *Stocks, iTun
 
 ---
 
-> [!info] Original Published Date : *2009-08-30*

@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2020-03-23*
+
 I&#8217;ve been using Spotify for some time and had seen that when you search for an Artist or Band, you get **their **&#8220;*This is*..&#8221; and &#8220;..*Radio*&#8220;.  Like this, for Van Morrison:
 ![](4_image.png)
 *This is Van Morrison* is just his &#8216;essential tracks&#8217; in one playlist.  Not his greatest hits, nor most popular. But anyway, not the point here 🙂
@@ -26,4 +28,3 @@ And we get this great *Solsbury Hill Radio* playlist of **similar songs**.
 
 ---
 
-> [!info] Original Published Date : *2020-03-23*

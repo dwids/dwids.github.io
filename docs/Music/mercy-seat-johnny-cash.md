@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2011-02-07*
+
 Mr Johnny Cash does an excellent, heartfelt cover of this Nick Cave song. No I am not kidding. It&#8217;s from the year 2000.  I myself have little or no exposure to Nick Cave, so this was somewhat eye-opening for me.
 
 A bit like yesterday&#8217;s Peter Gabriel song, this appears to be another narrator-as-baddie song. Indeed he is sitting on the electric chair and knows that the Mercy Seat is waiting; I assume a Biblical reference that he&#8217;s off to meet his maker. Plus probably a dark pun on chair/seat.
@@ -21,4 +23,3 @@ Oh, I forgot to tell you. He&#8217;s telling his tale as his &#8220;head is burn
 
 ---
 
-> [!info] Original Published Date : *2011-02-07*

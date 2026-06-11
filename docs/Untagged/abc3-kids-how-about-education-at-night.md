@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2009-11-01*
+
 It’s great we are getting a 3rd ABC TV channel, dedicated to kids. It starts “before Christmas [2009]” according to a [report on their own web site](http://www.abc.net.au/corp/pubs/media/s2602161.htm).&#160;&#160; The same page also notes it will&#160; “broadcast from 6am-9pm daily”.&#160;&#160; That’s good timing for the young market it is aiming at.
 
 But how about using the ‘spare’ 9pm to (say) midnight capacity for educational shows for we grown ups?
@@ -39,4 +41,3 @@ Could this work?
 
 ---
 
-> [!info] Original Published Date : *2009-11-01*

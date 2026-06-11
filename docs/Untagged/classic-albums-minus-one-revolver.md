@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2008-06-17*
+
 It&#8217;s interesting to take a musical step back. That is, to take a classic album and look at the one the artist released directly before that. In other words a classic minus one.
 
 First classic is Sgt. Pepper&#8217;s Lonely Hearts Club Band from The Beatles (1967), so back one is Revolver (1966).  In many ways I actually get more from Revolver that its more famous cousin, Pepper.  To me Revolver is the big jump album. It took the lads from the pop world into the more experimental landscape that the studio offered them.
@@ -40,4 +42,3 @@ And John. Wow. John – for me at least  &#8211; provides the Big Jump songs, su
 
 ---
 
-> [!info] Original Published Date : *2008-06-17*

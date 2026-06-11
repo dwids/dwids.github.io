@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2006-10-10*
+
 I&#8217;ve seen a sample of a high defintion (720 lines, progressive) AVI with AC3 (Dolby Digital  5.1 surround sound). The quality of the picture and sound was stunning.
 
 Some rough comparisons for how big a 38 minute recoding is, for different quality and type. This is for the lot, sound and video:
@@ -21,4 +23,3 @@ Some rough comparisons for how big a 38 minute recoding is, for different qualit
 
 ---
 
-> [!info] Original Published Date : *2006-10-10*

@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2004-10-01*
+
 I&#8217;ve just now finished watching a DVD promoting Victorian tourism. It would seem to be fairly recent but &#8211; as you&#8217;re about to read &#8211; that really isn&#8217;t the issue.
 
 It had some quite amazing errors in it. I should point out that it&#8217;s not actually any sort of &#8216;official&#8217; guide. I&#8217;m not even sure if it&#8217;s still being sold. But here goes:
@@ -25,4 +27,3 @@ You know what, I was reminded of the very funny &#8211; but SATIRICAL &#8211; [R
 
 ---
 
-> [!info] Original Published Date : *2004-10-01*

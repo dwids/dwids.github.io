@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2009-04-21*
+
 Have done a few walks up Mt Macedon, but today was first time I did the Big One; the 19km loop. Was a great day and met 2 very nice fellow walkers, who ended up doing the same route as me. We actually&#160; &#8211; initially – went our separate ways, but then met up before the halfway point and hooked up from there.
 
 Walk starts in the main street of the Mt Macedon village.
@@ -47,4 +49,3 @@ Grab the Parks Victoria [Macedon Regional Park &#8211; Walking Trails](http://ww
 
 ---
 
-> [!info] Original Published Date : *2009-04-21*

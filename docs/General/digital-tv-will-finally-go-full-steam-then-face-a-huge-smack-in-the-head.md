@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2008-06-11*
+
 I&#8217;ve been pondering Digital TV again recently. It really has been badly handled here in Australia. Who knows the why&#8217;s and hows; conflicted companies (who own free-to-air TV companies and pay-TV companies, certain big Telco&#8217;s who not only want you to use their broadband, but also have a share of the &#8216;only&#8217; pay-TV business). Government policy.  What a mess.
 
 As I&#8217;ve said before the original message should have been clear and simple. Focus only on &#8216;standard&#8216; definition. The key point being the picture is DVD quality on your current TV
@@ -23,4 +25,3 @@ Channel 7 are due to announce Tivo over the next few weeks. For the Mums and Dad
 
 ---
 
-> [!info] Original Published Date : *2008-06-11*

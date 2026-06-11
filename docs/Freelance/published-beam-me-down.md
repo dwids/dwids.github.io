@@ -11,8 +11,9 @@ cover:
 description: NASA’s uber-cool World Wind software. It pre-dated Google Earth.
 ---
 
+> [!info] Original Published Date : *2005-06-10*
+
 Woo hoo! *The Age*, Green Guide, *Livewire *section.  [A piece, by me,](http://www.theage.com.au/news/Software/Beam-me-down/2005/06/08/1118123845097.html) on NASA&#8217;s uber-cool World Wind software.
 
 ---
 
-> [!info] Original Published Date : *2005-06-10*

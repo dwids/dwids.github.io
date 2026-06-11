@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2020-04-30*
+
 Australian love songs, sung by blokes. But not what you’d call soft and soapy. *Blokey*.
 
 I thought there would be more, but couldn’t settle on any. I pondered [*How To Make Gravy*,](https://youtu.be/fh79619xxk8) but after listening to it again (curse those onions, tissue please), I don’t think it’s a *love *song. Ditto with his [*When I First Met Your Ma;*](https://youtu.be/VstXI-ndIWA) he’s singing to his child and my understanding is he’s looking back at a broken relationship with said lady. BTW this is probably based on his real life.
@@ -41,4 +43,3 @@ I knew of one local guitarist who had **two** electric guitars; one in normal EA
 
 ---
 
-> [!info] Original Published Date : *2020-04-30*

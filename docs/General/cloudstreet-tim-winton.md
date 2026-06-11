@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2010-01-01*
+
 Am re-reading the classic 1991 Australian novel
 
 > &#8220;Cloudstreet a broken down house of former glories on the wrong side of the tracks, a place teeming with memories of its own, a place of shudders, shadows and spirits.
@@ -35,4 +37,3 @@ Re-reading it for 3 reasons:
 <img src="https://covers.openlibrary.org/b/isbn/0140273980-L.jpg" width="200" align="left">
 ---
 
-> [!info] Original Published Date : *2010-01-01*

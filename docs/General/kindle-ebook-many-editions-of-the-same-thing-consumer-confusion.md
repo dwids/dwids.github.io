@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2010-10-26*
+
 I can’t recall a new technology that offered so many choices for apparently the same thing. And no clear reasons as to why I should get a particular one. 
 
 I’m talking about eBooks. In this case how a search for a single out-of-copyright book turned up a multitude of confusing choices.
@@ -38,4 +40,3 @@ So there you go. I’m guessing the non-free ones do have a TOC. Maybe they have
 
 ---
 
-> [!info] Original Published Date : *2010-10-26*

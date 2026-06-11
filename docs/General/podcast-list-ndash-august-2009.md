@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2009-08-30*
+
 Here’s the updated list of the podcasts I listen too, most found via iTunes or the ABC web site.&#160; These are audio-only, so *ABC* means ABC *Radio*, usually Radio National. Major changes in the year since I last did this list include:
 
 - ABC Radio now offering **individual** story podcasts. A year ago you had to grab the entire (say) 1 hour episode of *Late Night Live* or the *Science Show*. Whilst you can still do that, they now offer a 2nd ‘per show’ podcast feed; the individual stories of that show. You can pick (download) only the stories you are interested in. 
@@ -54,4 +56,3 @@ Both changes are just excellent. I appreciate the effort and use them many times
 
 ---
 
-> [!info] Original Published Date : *2009-08-30*

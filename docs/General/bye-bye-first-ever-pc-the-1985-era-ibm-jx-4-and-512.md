@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2008-06-30*
+
 I think I got my first PC back in about 1985 or 86.  Probably paid $2000 to $3000 for it. It was IBM&#8217;s ill-fated PC JX. Really only ever available in Japan, Australia and New Zealand, I believe, it was an attempt to bring in a &#8216;cheaper&#8217; PC for the masses. Probably about 1/2 the price of the &#8216;real&#8217; IBM PC at the time.
 
 A few web sites have [information](http://en.wikipedia.org/wiki/IBM_JX) on the [PC JX](http://www.old-computers.com/museum/computer.asp?st=1&amp;c=187).
@@ -41,4 +43,3 @@ Anyway I&#8217;m not quite sure what I&#8217;ll do with it. It&#8217;s a bit lik
 
 ---
 
-> [!info] Original Published Date : *2008-06-30*

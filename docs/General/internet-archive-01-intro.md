@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2020-04-17*
+
 This is one great, free resource. As they describe themselves, [Internet Archive](https://archive.org/index.php) is a &#8220;non-profit library of millions of free books, movies, software, music, websites, and more.&#8221; 
 
 It has a number of &#8216;sections&#8217;, beside the base one (above).  The two I go to most recently are:
@@ -44,4 +46,3 @@ It&#8217;s worth doing the one-time setup for the borrowing. There&#8217;s a hug
 
 ---
 
-> [!info] Original Published Date : *2020-04-17*

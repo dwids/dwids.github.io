@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2015-06-25*
+
 I lived briefly in Daylesford in the late 60s. I remember it being cold and at least [three other interesting things](daylesford-x3.md)![Smile](5df0d-wlemoticon-smile.png) , but I don’t remember any trains. Years later I heard the town had re-invented itself “after the railway closed”.   Fairly recently I stumbled upon some excellent scans of very old Victorian Railways engineering documents & drawings# These include  ‘steepness’ guides – called Grade Books – like this one (extract  shown):
 
 [![image](946a5-image_thumb1.png)](https://dwids.wordpress.com2020/03/7311a-image1.png)
@@ -77,4 +79,3 @@ And a bit further on, the old Line looks obvious to me. At least the sheep are m
 
 ---
 
-> [!info] Original Published Date : *2015-06-25*

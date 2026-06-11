@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2004-11-08*
+
 With Countdown starting 30 years ago this week, it&#8217;s time to ponder the favourite moments from the long running music show.  Here we go:
 
 First time I saw Kate Bush. Red dress. Dancing on the green.
@@ -25,4 +27,3 @@ Bound to be more
 
 ---
 
-> [!info] Original Published Date : *2004-11-08*

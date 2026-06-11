@@ -11,8 +11,9 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2006-07-30*
+
 Poor *Sic *blog. Haven&#8217;t written in **6 months**. Been quite busy with [work ](http://ericsson.com.au)and all that, so sorry. But haved moved to a new hosting server, so maybe I&#8217;ll pick things back up again&#8230;
 
 ---
 
-> [!info] Original Published Date : *2006-07-30*

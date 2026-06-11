@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2008-06-12*
+
 I'm really into Ancient Egypt. But know relatively little about contemporary life in that wonderful country. So when someone suggested the [The Yacoubian Building](http://en.wikipedia.org/wiki/The_Yacoubian_Building) book, I was very happy to find it at my local library.
 
 It did take me a while to get into it. Initially it felt like it was going to be a series of isolated stories, but gradually - in fact quite suddenly - the threads weave together and the quilt jumps forth; both engaging and emotional.
@@ -25,4 +27,3 @@ The English translation from Arabic is excellent. It captures the rhythm and nua
 <img src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1348797639i/128711.jpg"  width="200" align="left">
 ---
 
-> [!info] Original Published Date : *2008-06-12*

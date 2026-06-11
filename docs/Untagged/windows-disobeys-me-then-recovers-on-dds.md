@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2005-03-17*
+
 Windows disobeyed a direct order, then &#8211; by accident &#8211; it fixed things up.
 
 Here&#8217;s how it happened. To add to my woes, I started seeing hard-drive errors on DDS, so I went into the Bios and disabled the first 2 drives. This included the main C: drive with (corrupt) Windows on it.
@@ -31,4 +33,3 @@ Forgot to say that I checked the first 2 hard drives, which were playing up. One
 
 ---
 
-> [!info] Original Published Date : *2005-03-17*

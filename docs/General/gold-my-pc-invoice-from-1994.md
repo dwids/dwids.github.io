@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2013-04-06*
+
 Just found this in a drawer. Amazing. From nearly 20 years ago. I paid **$5190** for a desktop PC. Some highlights:
 
 - 486 chip running at 66 MHz (new PC has effectively 4 CPUs running at 3500 MHz each. Maybe 8, it’s quad core with 2 threads per core AFAIK. Not my area!)  
@@ -33,4 +35,3 @@ and x1000 again for TB, thus $1,390,000
 
 ---
 
-> [!info] Original Published Date : *2013-04-06*

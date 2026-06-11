@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2009-10-28*
+
 The   [[mt-macedon-loop|Mount Macedon Loop]] walk is a great one to do, but it can be a bit daunting for those who may not like **16+ km**, including the climb(s) and descent(s).&#160; So I’ve been planning a hybrid walk, involving a 2-car-shuffle. It’s not that complicated; basically one car ‘up the top’ (on the summit)&#160; and the 2nd ‘down the bottom’ (Mt Macedon village)
 
 After putting the cars in their right places:
@@ -35,4 +37,3 @@ Did it today and it works very well.&#160; As I only had one car, I got a lift t
 
 ---
 
-> [!info] Original Published Date : *2009-10-28*

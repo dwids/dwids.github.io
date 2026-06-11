@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2008-06-20*
+
 The Mars probe Phoenix has an oven on board. How cool is that. Well actually how hot is that. Cue Paris Hilton&#8230;
 
 After the robot arm grabs a sample of soil, it&#8217;s sifted a bit. Actually it was a bit sticky and this took a while. But finally the soil fell through the sifter and into the oven. By heating it and examining the gases, scientists can tell what&#8217;s in the soil.
@@ -21,4 +23,3 @@ Compared to earlier probes this one has another advantage. The previous ones had
 
 ---
 
-> [!info] Original Published Date : *2008-06-20*

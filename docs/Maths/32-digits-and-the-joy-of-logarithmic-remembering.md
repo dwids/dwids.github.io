@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2010-10-12*
+
 I only recently learned about GUID’s, that is Globally Unique Identifiers, usually [meaning the Microsoft one](http://en.wikipedia.org/wiki/Globally_Unique_Identifier). It’s a ‘number’, but made up of the digits (0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F).&#160; The computer dudes refer to this as Hex or Base16. We humans normally use Decimal or Base 10.
 
 Anyway GUID’s are 32 Hex numbers long. It wouldn’t take that long to write one out. In fact, like this: **`21EC2020-3AEA-1069-A2DD-08002B30309D`**. Their main purpose is to provide a unique number for things like serial numbers. For example each Ipod has one. I’m not sure if it’s a GUID but it’s similar. You can also see them inside your Windows Registry.
@@ -31,4 +33,3 @@ So with our humble 32 hex GUIDs, we could give each being $10^{(38 -20)}$  or  $
 
 ---
 
-> [!info] Original Published Date : *2010-10-12*

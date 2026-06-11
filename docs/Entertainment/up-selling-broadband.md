@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2005-06-02*
+
 Or perhaps that should read **over**-selling. Either way, I&#8217;ve noticed a recent, semi-subliminal message from Telstra. The mantra they are getting us to chant is &#8220;*I need really fast broadband, 4 to 6 megabits. Otherwise I won&#8217;t be able to watch new things, like TV, over the Internet*&#8221;
 
 Given that the fastest home ADSL connection is currently &#8216;only&#8217; 1.5 megabits, it&#8217;s a bit of a jump to 6. And not cheap either.
@@ -40,4 +42,3 @@ So, back to their possible motives for this apparent up-selling. Wouldn&#8217;t 
 
 ---
 
-> [!info] Original Published Date : *2005-06-02*

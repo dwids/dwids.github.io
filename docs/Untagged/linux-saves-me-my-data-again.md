@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2004-09-16*
+
 This time it was 50/50 blame. Half that wonderful Windows XP&#8217;s fault and half mine. As a consequence of my main PC&#8217;s second hard drive deciding to play up again (and XP not having the brains to accept it and carry on), I copied key data files over to my laptop and was using that as my main PC.
 
 A week or two later the laptop was whinging like an interstate AFL club about it&#8217;s hard drive being full. So I put Mandrake 10 Linux onto my old and spare 166 Mhz PC in the back room.  Got the Samba client working &#8211; so Linux could &#8216;see&#8217; the laptops Windows shared drives over a network and copied my data over. It was like 3 GB, but as 166 had a 100 speed Ethernet card, that went quite quickly.
@@ -29,4 +31,3 @@ I made a note of the drive&#8217;s name /dev/hda6/ and rebooted into the much fa
 
 ---
 
-> [!info] Original Published Date : *2004-09-16*

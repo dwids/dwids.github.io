@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2008-06-21*
+
 ![](http://www.getmiro.com/img/home-logo-revised.png)I tried the earlier versions of this and it was a bit unstable. But the latest is really working well. It lets you easily find, download and subscribe to lots of video-feeds over the Internet. And yep, one of these is TED as [previously discussed](__GHOST_URL__/2008/06/21/internet-tv-1-teds-excellent-leading-edge-lectures-and-performances/). Also NASA is in there too, with a number of &#8216;channels&#8217;
 
 It&#8217;s actually a [program you download](http://www.getmiro.com/) and install, not just a web site. 
@@ -25,4 +27,3 @@ In fact I use it to handle the subscriptions and downloads, then use my [Media C
 
 ---
 
-> [!info] Original Published Date : *2008-06-21*

@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2012-02-09*
+
 I&#8217;m puzzled that some shows that are quite big in the USA (The Office, 30 Rock, Boardwalk Empire, Sons of Anarchy, even Mad Men) just don&#8217;t seem to make it here on free to air.&#160; It could be that,except the first 2, they are all on cable in the US. Not just that, but made/funded by cable &#8211; I think.&#160; So perhaps cable here (the Foxtel monopoly) has first rights, particularly given they have local affiliate Foxtel channels, Showcase et al (?)
 
 I think One HD has renewed Sons of Anarchy, but they are years behind.&#160; 30 Rock, on Ch 7 is only a few eps behind.    
@@ -29,4 +31,3 @@ The Hulu thing would probably NOT get the US cable shows on it, but that&#8217;s
 
 ---
 
-> [!info] Original Published Date : *2012-02-09*

@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2021-02-05*
+
 This is an example page. It&#8217;s different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:
 
 > Hi there! I&#8217;m a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin&#8217; caught in the rain.)
@@ -23,4 +25,3 @@ As a new WordPress user, you should go to [your dashboard](__GHOST_URL__/wp-admi
 
 ---
 
-> [!info] Original Published Date : *2021-02-05*

@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2008-05-26*
+
 The first web browser came out in 1993. In 1994 the comet &#8211; or the pieces of the comet &#8211; Shoemaker-Levy 9, crashed into Jupiter, creating impact areas bigger than the Earth. At the time I was working for IBM Australia and merged the two.
 
 I gave a presentation to my fellow employees about this fairly new World Wide Web thing and used the example of hundreds of thousands of people monitoring the Jupiter impact via their browsers and the NASA web site.  I was one of the many as I think I had Mosaic Version 1.0 on my work PC. Running OS/2 no doubt. The audience was rather impressed with this, as most had never heard of Browsers etc, I&#8217;d tip.
@@ -25,4 +27,3 @@ I was about to turn blue, but was soon breathing again.
 
 ---
 
-> [!info] Original Published Date : *2008-05-26*

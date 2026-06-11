@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2020-03-22*
+
 Obviously we&#8217;ll be spending more time inside for a while, so I&#8217;ve had fun moving my old WordPress blog from Amazon Web Services to here at WordPress. AWS was fast, but I thought I was on the basic (ok, free) thingy, but they kept billing me and varying amounts and in USD. I was hardly using it, so today decided to :
 
 1. Migrate it to a (cheaper) WordPress instance
@@ -29,4 +31,3 @@ Off the top of my head, things like:
 
 ---
 
-> [!info] Original Published Date : *2020-03-22*

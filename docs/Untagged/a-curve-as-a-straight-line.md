@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2020-04-19*
+
 A number the graphs showing the growth of the virus may seem a bit puzzling.  As you&#8217;ll see, the thing to look carefully at is the **left **(**vertical**) axis. The bottom (horizontal) one is usually time; days, hours, weeks etc and pretty straightforward.
 
 So, consider this simple &#8211; and delicious &#8211; example. *Case 1*. Something is growing by adding 2 every day. Say,  I give you 2 chocolates every day. Here&#8217;s the number or chocolates you have after each day:
@@ -66,4 +68,3 @@ As I said, the actual viral graphs won&#8217;t be a straight line, but the focus
 
 ---
 
-> [!info] Original Published Date : *2020-04-19*

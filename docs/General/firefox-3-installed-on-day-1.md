@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2008-06-18*
+
 ![](http://www.lifehack.org/wp-content/files/2007/05/20070520-firefox_logo.jpg)The latest version of my browser-of-choice came out this very day. So I backed up my bookmarks and download the brand new [Firefox 3](http://www.mozilla.com/en-US/). Installed just fine on both the Windows boxes; PC and Laptop.
 
 Most of my add-ons either migrated over or had new versions that pretty much installed themselves. I noted during the day that new versions of some more of the extensions were updated, so the developers were busy.  The bookmarks came over just fine.
@@ -19,4 +21,3 @@ First impressions: it seems faster. I also like the Tags feature, where you can 
 
 ---
 
-> [!info] Original Published Date : *2008-06-18*

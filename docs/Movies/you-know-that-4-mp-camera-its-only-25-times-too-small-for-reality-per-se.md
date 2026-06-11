@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2004-05-14*
+
 How many Megapixels can your eyes see? In other words, if you wanted to use a digital camera to capture an image that had the same resolution as &#8220;the real world&#8221; that you see, what resolution would that camera need to be? What would be the Megapixel equivalent of a human eye?
 
 I heard a fascinating interview on ABC Radio National last night. It was with Australian filmmaker and inventor John Weiley
@@ -52,4 +54,3 @@ So there you go, in 10 to 12 years from now, consumer cameras should capture &#8
 
 ---
 
-> [!info] Original Published Date : *2004-05-14*

@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2011-02-14*
+
 Can&#8217;t remember where or when I first heard this song. I know it was years, or even a decade, after the original 1990 release date.
 
 I totally missed the whole Smiths thing from the UK, but this solo effort from Morrissey is intriguing. Probably best for Wikipedia to provide an [overview ](http://en.wikipedia.org/wiki/November_Spawned_a_Monster)
@@ -21,4 +23,3 @@ The song tackles the plight of the disabled, a remarkable subject matter  for a 
 
 ---
 
-> [!info] Original Published Date : *2011-02-14*

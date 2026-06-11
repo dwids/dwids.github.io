@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2014-06-11*
+
 Almost no words needed to describe:
 
 [![Screenshot - 11_06_2014 , 8_09_06 PM](3218f-screenshot-11_06_2014-8_09_06-pm_thumb.png)](https://dwids.wordpress.com2020/03/bedb8-screenshot-11_06_2014-8_09_06-pm.png)
@@ -23,4 +25,3 @@ Note: I’m sure it searches in ‘Comments’ (follow up posts on FB), so the s
 
 ---
 
-> [!info] Original Published Date : *2014-06-11*

@@ -11,6 +11,8 @@ cover:
 description: Reflections on the race politics of C. 2001 and a beautiful tree in the bush near Walhalla.
 ---
 
+> [!info] Original Published Date : *2001*
+
 > In c. 2001 I found myself just outside of Walhalla on the old railway line. The issues of immigration and refugees were starting to bubble up in the media and just about to used as a political football. 
 
 
@@ -34,5 +36,4 @@ That oak (or maple) tree just seems to fit in. It doesn’t make a big thing abo
 
 The pretty tree at Happy Creek is not from around these parts. It is different. But if you think about it, that really doesn’t seem to matter. 
 
-> [!info] Original Published Date : *2001*    
 > 2026 note: I made a minor edit as the original final bit was too close to another piece of mine.

@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2013-08-22*
+
 ***An eastbound adventure trip to Gippsland***
 
 Firstly here’s the map and link to it: [http://goo.gl/maps/C7LFj](http://goo.gl/maps/C7LFj)
@@ -77,4 +79,3 @@ Of, if you want a little off-road adventure (nothing too hard) the huge dunes of
 
 ---
 
-> [!info] Original Published Date : *2013-08-22*

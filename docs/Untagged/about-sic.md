@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2008-06-21*
+
 Welcome!  I&#8217;m David Sidwell. I am a Technical Writer,  IT Technical Consultant, and Trainer.
 
 And this here is my Blog. *SiC. *The Silicon-Carbon Interface ;  Where Computers and People meet. See below on what a Blog is.
@@ -42,4 +44,3 @@ So having said that, I&#8217;m going back to think of more interesting things to
 
 ---
 
-> [!info] Original Published Date : *2008-06-21*

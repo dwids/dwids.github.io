@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2004-05-24*
+
 Have seen two great digital (photo) cameras over the last few days:
 
 &#8220;Point and Shoot&#8221;  Sony Cyber-shot DSC-T1. Review and samples at
@@ -24,4 +26,3 @@ RRP in Australia is apparently $1999. Yes the same price as its little sibling &
 
 ---
 
-> [!info] Original Published Date : *2004-05-24*

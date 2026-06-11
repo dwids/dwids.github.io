@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2014-09-16*
+
 Despite what some people think, I am not a programmer. In fact, the correct term is probably *developer*. But I’m not a developer either.
 
 I write tiny little programs/scripts/batch_files that do tiny little tasks, to make my work easier.  For example, take a list of Towns in a text file and create a whole folder tree (with sub-folders) using each Town name.  My applications are usually distinguished by one common element: effectively zero error checking. If they work, sweet. If they get a small error, they hard crash. I can live with that.
@@ -57,4 +59,3 @@ And thus I made a light blink.  For 1 second at a time. I am master of the digit
 
 ---
 
-> [!info] Original Published Date : *2014-09-16*

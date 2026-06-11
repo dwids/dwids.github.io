@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2010-06-10*
+
 I’m gradually building up a few articles here on SiC about software I use and tips on how I do things.&#160; This will be the Master List and thusly have summaries and links.
 
 - [Archiving and indexing your digital photos ](archiving-and-indexing-your-digital-photos.md)
@@ -19,4 +21,3 @@ I’m gradually building up a few articles here on SiC about software I use and 
 
 ---
 
-> [!info] Original Published Date : *2010-06-10*

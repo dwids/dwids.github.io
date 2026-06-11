@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2020-05-28*
+
 There are two programs I use for photography-related work. Both are from Adobe. It may surprise you which one I overwhelmingly use the most. They are:
 
 - Photoshop
@@ -68,4 +70,3 @@ You will need speciality software to properly process/edit Camera Raw images. So
 
 ---
 
-> [!info] Original Published Date : *2020-05-28*

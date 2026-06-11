@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2011-03-22*
+
 Wow. Just heard this on the radio 5 mins ago;  specifically on [The Planet](http://www.abc.net.au/rn/dailyplanet/stories/2011/3166946.htm#transcript) show (with Lucky Oceans) on ABC Radio National. Just hooked me. Soul done well.
 
 Now, it seems it was recorded quite recently but is a cover of an old, obscure soul number. John does a magic job.
@@ -21,4 +23,3 @@ To add to the feeling, this clip is from a 45 RPM record version. Yes a vinyl, a
 
 ---
 
-> [!info] Original Published Date : *2011-03-22*

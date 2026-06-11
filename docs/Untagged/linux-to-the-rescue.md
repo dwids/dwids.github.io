@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2004-06-03*
+
 Had cause to yet again thank Linux yesterday. The free operating system never ceases to amaze me. Yesterday, it was front and centre as Windows refused to recognize an occasionally sick hard drive.
 
 The hard disk had GB of valuable data. So I had it replaced by the  good lads at my local PC store. They gave me back the faulty disk, ready for me to try and &#8220;pump&#8221;; being an old IBM 1980&#8217;s term for &#8220;get the data off a faulty disk to somewhere safe&#8221;
@@ -39,4 +41,3 @@ the scp utility to copy files over to the Laptop.
 
 ---
 
-> [!info] Original Published Date : *2004-06-03*

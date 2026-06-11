@@ -10,6 +10,8 @@ cover:
     alt: Megabytes, microSD cards and typing
 description: 
 ---
+
+> [!info] Original Published Date : *2014-03-11*
 > [!info] Original Published Date : *2014-03-11*
 
 We take for granted how much real world data our storage devices hold. A quick example: 
@@ -41,4 +43,3 @@ So "hello" = 5 bytes, but "hello 👋" = 9 bytes (4 for the emoji).
 
 ---
 
-> [!info] Original Published Date : *2014-03-11*

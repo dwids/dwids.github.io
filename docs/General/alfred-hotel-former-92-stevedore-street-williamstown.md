@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2014-09-14*
+
 When I first moved to Williamstown 20 years ago, I was intrigued by the aqua blue building in Stevedore street. I did read up on it, back then. However, now that it’s no longer aqua (the paint was removed as part of a renovation a few years ago), I was about to ask if anyone had any photos showing it with it’s former blue coat. 
 
 Then, by accident, today I found a photo I’d taken – on my phone &#8211; in May 2008.  And yep, it shows it halfway through the renovation!  Now, phone-cameras back then were still a bit primitive, but I’ve cleaned up the image a little bit and here it is:
@@ -46,4 +48,3 @@ Most of this information came from Reference [1]. For copyright reasons, I’m o
 
 ---
 
-> [!info] Original Published Date : *2014-09-14*

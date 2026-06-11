@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2013-10-20*
+
  
 
 A quick post which took **ages** to prepare (the graph bit; just couldn’t get Excel to do it. In the end got it to do most of it, the printed that and did rest by hand!)
@@ -44,4 +46,3 @@ Can’t resist wondering? Well: Look at the 1000 Steps blue-triangle above. I th
 
 ---
 
-> [!info] Original Published Date : *2013-10-20*

@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2005-05-10*
+
 From a reliable source. That would be a dentist. The Ancient Egyptians had two main cures for toothache way back around 1500 BCE.
 
 *Cure 1*: Oil of Cloves  (still used today)
@@ -19,4 +21,3 @@ From a reliable source. That would be a dentist. The Ancient Egyptians had two m
 
 ---
 
-> [!info] Original Published Date : *2005-05-10*

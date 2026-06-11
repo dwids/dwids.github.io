@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2005-04-12*
+
 Another pause, ponder and reflect moment as I read back a forum entry I&#8217;ve just written:
 
 > &#8220;Also I currently use VirtualdubMPEG2, resized via inbuilt filter to 576&#215;324 Lanc, 2 pass, AS @ L5, ( B-VOPS 2 / 1.5 / 1.00) with [ Adap Q, Interlaced Enc, QPEL, GMC] all off, if that helps&#8221;
@@ -26,4 +28,3 @@ A VOP is a Video Object  Plane, sort of like a frame. B means Bidirectional; thi
 
 ---
 
-> [!info] Original Published Date : *2005-04-12*

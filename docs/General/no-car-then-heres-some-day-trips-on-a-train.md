@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2010-08-11*
+
 Over the last few years I’ve re-discovered trains.&#160; By that I mean longer trips, not just the 20 minute hop into Melbourne.&#160; Here are some of the ones I did. But first:
 
 - You can get timetable information from [V/Line](http://www.vline.com.au)
@@ -69,4 +71,3 @@ Would be about 2 hours each way on a train from Melbourne-area, so getting a bit
 
 ---
 
-> [!info] Original Published Date : *2010-08-11*

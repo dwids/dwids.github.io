@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2020-04-01*
+
 Time to learn some music basics.  But there&#8217;s no theory nor scales here.  **In fact you have to work out how to play this simple, 6 note melody yourself**, on a piano or other keyboard.  
 
 If you are really stuck, there&#8217;s a 2nd clip with basically the answer.
@@ -35,4 +37,3 @@ If this is too much you can check out this fun &#8216;here&#8217;s the note *nam
 
 ---
 
-> [!info] Original Published Date : *2020-04-01*

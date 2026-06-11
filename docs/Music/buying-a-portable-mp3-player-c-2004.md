@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *c.2004*
+
 I&#8217;d forgotten about this one. Not sure if it was published in the Green Guide during my freelance period. Some of the numbers raise the eyebrows today; the prices and the amount of storage.  My player was quite small but had a bad design when it came to actually using; a sliding  next-prev thing, which you had to push down to &#8216;hit Enter (select)&#8217;. Almost impossible to use without jumping to the next song when trying to select the one you wanted.
 
 ---
@@ -49,4 +51,3 @@ Here’s a real world example to leave you with. I used the tiny MP3 player (rec
 
 ---
 
-> [!info] Original Published Date : *c.2004*

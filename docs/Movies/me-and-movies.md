@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2006-11-06*
+
 I realised today it&#8217;s been 10 years since I started writing Internet movie reviews. Back then 🙂 there were no Blogs, Podcasts or Wikis. So it was [Usenet ](http://en.wikipedia.org/wiki/Usenet)News; a non-web based News network that was &#8211; sort of &#8211; done via a bashed up email. The Newsgroup was &#8211; and still is &#8211; moderated. That meant a human checked your review before giving the go ahead to be &#8220;published.&#8221;
 
 Anyway, IMDB and others, even back in 1996, harvested the Usenet posts and put them up on their web site. So here&#8217;s an [IMDB listing](http://www.imdb.com/ReviewsBy?David+Sidwell) of my reviews of *Shine, Chopper* etc.
@@ -19,4 +21,3 @@ Plus this here blog you are reading has [some movie thoughts ](__GHOST_URL__/?ca
 
 ---
 
-> [!info] Original Published Date : *2006-11-06*

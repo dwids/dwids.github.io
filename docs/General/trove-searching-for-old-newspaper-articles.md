@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2011-10-23*
+
 The National Library has an excellent on-line site called [Trove](http://trove.nla.gov.au/?q).&#160; Their own description is best &#8211; it enables you to “Find and get over [249 million] Australian and online resources: books, images, historic newspapers, maps, music, archives and more”
 
 Yesterday the helpful people at my local library showed me how to search the historic newspapers section. In fact a local paper, the *Williamstown Chronicle* (1856 &#8211; 1954), has had a large number of issues scanned, indexed and put up on Trove.
@@ -59,4 +61,3 @@ Notes:
 
 ---
 
-> [!info] Original Published Date : *2011-10-23*

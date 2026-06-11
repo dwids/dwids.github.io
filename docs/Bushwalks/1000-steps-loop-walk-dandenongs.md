@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2010-10-29*
+
 Sunny day yesterday so went off to the Dandenongs to tackle the 1000 Steps walk again, including the ‘round the back’ extra bits. Total walk is about 11 km and you should allocate 3 to 4 hours.&#160;&#160; This walk is not even an hour from my place.
 
 It’s broken up into 4 main bits
@@ -33,4 +35,3 @@ All tracks are in the Melways, starting on Map 74 H4.
 
 ---
 
-> [!info] Original Published Date : *2010-10-29*

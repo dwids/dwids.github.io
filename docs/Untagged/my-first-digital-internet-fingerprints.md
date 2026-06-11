@@ -7,6 +7,8 @@ slug: my-first-digital-internet-fingerprints
 description:
 ---
 
+> [!info] Original Published Date : *2008-08-30*
+
 It all started yesterday when my dear old Dell laptop started making that dreaded clicking sound. Judging by the whirr, it had to be the CD drive (actually a  CD-RW DVD-ROM combo).
 
 Not sure if it’s really broken, but it got me pondering how old the laptop was.
@@ -37,4 +39,3 @@ All these dates make sense now. I recall not being on the BBs that long before T
 I came back home to discover the whole lot had downloaded perfectly.
 
 
-> [!info] Original Published Date : *2008-08-30*

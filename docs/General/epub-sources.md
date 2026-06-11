@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2024-10-18*
+
 # ePub Sources
 
 ## Standard Ebooks  (US)
@@ -45,4 +47,3 @@ Can be hit and miss and they seem to be OCR only (not manually cleaned up, like 
 
 ---
 
-> [!info] Original Published Date : *2024-10-18*

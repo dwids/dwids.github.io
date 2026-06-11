@@ -11,8 +11,9 @@ cover:
 description: All about these 'new' Google Earth and Google Maps things
 ---
 
+> [!info] Original Published Date : *2005-07-11*
+
 A piece in the Age *LiveWire *section on Google Maps and Google Earth. It&#8217;s called [Homing In](http://www.theage.com.au/news/livewire/homing-in/2005/07/05/1120329453235.html). 
 
 ---
 
-> [!info] Original Published Date : *2005-07-11*

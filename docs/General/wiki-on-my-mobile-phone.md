@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2008-05-25*
+
 Someone once said that &#8220;Wiki&#8217;s were the way the web was meant to be.&#8221; Well&#8230;okay, it was me who said it. And it was published in The Age newspaper as well. 
 
 But anyway, the Wiki concept is web pages that are easy to edit and link up. Wikipedia is a great example.
@@ -25,4 +27,3 @@ Said Tech Buddy also pointed out that another of our Tech Buddies talked about a
 
 ---
 
-> [!info] Original Published Date : *2008-05-25*

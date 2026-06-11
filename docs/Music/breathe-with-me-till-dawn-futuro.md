@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2011-08-10*
+
 One of the first mashups I heard. And what a beauty. Mashups are created by taking 2 or more original recordings and digitally merging them into a &#8216;new&#8217; song. It really wouldn&#8217;t have been possible in the days of tapes (analog) because chances are the 2 songs weren&#8217;t the same speed nor key/pitch. So if you slowed one tape down &#8211; to match the other one&#8217;s speed &#8211;  you&#8217;d drop its pitch.  And vice versa. You&#8217;d be chasing your tail.
 
 At this point an interruption and shout-out to Mr Lee Simon. My memory is that Lee did create an analog mashup back in the 1970s on radio 3XY. Linda Ronstadt had done a cover of Elvis&#8217;s Love Me Tender. The 2 records were pretty much in the same key and same speed. So he could merge them! It was excellent.
@@ -21,4 +23,3 @@ Today you can digitally slow a song down and NOT adjust its pitch. Thus creative
 
 ---
 
-> [!info] Original Published Date : *2011-08-10*

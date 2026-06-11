@@ -11,10 +11,11 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2014-11-23*
+
 Quick notes: I had thought I’d been told that Mt Stapylton area didn’t burn, but **I was wrong**. The actual wording was “Mt Zero and Mt Zero car park…etc”. So I was initially surprised when I saw that Mt S area had clearly been burnt and was now in recovery. Anyway, that’s cleared up now. 
 
 Ok, I’ve now set up a Flick account and uploaded the photos there:  [https://www.flickr.com/photos/129464096@N05/](https://www.flickr.com/photos/129464096@N05/)
 
 ---
 
-> [!info] Original Published Date : *2014-11-23*

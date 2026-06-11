@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2005-06-13*
+
 Julianne Moore is one actor whose work I admire greatly. She has a wide and varied portfolio and is not afraid of challenging roles. Here’s just a few:
 
 - 
@@ -31,4 +33,3 @@ inner strength and usually don’t run around ranting, raving and throwing thing
 
 ---
 
-> [!info] Original Published Date : *2005-06-13*

@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2008-06-15*
+
 I don&#8217;t think I&#8217;ve ever lost a hard drive. As in had one crash, be zapped, stolen, corrupted&#8230;and the data not recoverable. 
 
 I have lost a days work, back in the 80&#8217;s, when the file transfer between PCs and Servers (actually Mainframes) was in its infancy. I did the transfer the wrong way &#8211; it was a big long command you typed in. So instead of copying today&#8217;s work up to the Server, I copied yesterdays down. And clobbered all of today&#8217;s work.
@@ -27,4 +29,3 @@ One hiccup is an apparent Windows limitation.  If your c:completefilenameincludi
 
 ---
 
-> [!info] Original Published Date : *2008-06-15*

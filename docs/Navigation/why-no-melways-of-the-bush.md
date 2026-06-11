@@ -13,6 +13,8 @@ cover:
 description:
 ---
 
+> [!info] Original Published Date : *2009-12-03*
+
 I remember years ago wondering why there wasn't a Melways (street directory) of the entire State of Victoria, including the bush areas. 
 
 And here's one reason. 
@@ -29,4 +31,3 @@ Right, so how big is Victoria? According to [the government](http://www.dfat.gov
 
 And if printed in the main Melway’s scale it would be worse. The majority of their maps are in a smaller scale, 1:20,000; So even more that 3,250 pages would be needed.
 
-> [!info] Original Published Date : *2009-12-03*

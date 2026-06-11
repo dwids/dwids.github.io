@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2020-04-07*
+
 I got into podcasts quite early. It was mainly due to the ABC and BBC, who quickly realised they could &#8216;capture&#8217; broadcast radio shows, add some [tags ](__GHOST_URL__/2020/04/02/tag-youre-it-mp3s-jpegs/) and make it available for us to download and listen. 
 
 AFAIK , the name *podcast *comes from from i*Pod* and Broad*cast* as the iPod was the first successful portable, digital music player. 
@@ -76,4 +78,3 @@ When I click on *Classic LNL*, it then lists each mp3-podcast&#8217;s episode (T
 
 ---
 
-> [!info] Original Published Date : *2020-04-07*

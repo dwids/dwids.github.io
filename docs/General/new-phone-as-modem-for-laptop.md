@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2008-06-21*
+
 It&#8217;s nice to discover things you didn&#8217;t know about. Even better when they have a practical benefit.![](http://www.zdnetindia.com/productImages/2007/08/31/1188553546_1.gif)
 
 My new HTC phone is 3G and can access the Internet at quite good speeds. I initially thought that I&#8217;d have little or no use for this function as the included web site content was pretty basic ; a handful of news summaries, movie times, even horoscopes (!)   Yes it can access other sites, but the small screen makes it a bit difficult.
@@ -33,4 +35,3 @@ Another benefit, particularly when visiting a customer, is that I&#8217;m not on
 
 ---
 
-> [!info] Original Published Date : *2008-06-21*

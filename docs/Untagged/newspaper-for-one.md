@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2008-06-16*
+
 I am fairly regular in my Internet viewing habits. That is, every morning I check the same web sites, sometimes even in the same order, for what has happened over night. Indeed I will return to those sites during the day. It&#8217;s not just news &#8211; as in newspapers &#8211; it&#8217;s also hobbies/interests. 
 
 Nearly every one of these sites also offers their information as an RSS feed, that is a formatted summary of their items. It&#8217;s like the headline and the first few paragraphs.
@@ -27,4 +29,3 @@ David&#8217;s Google Reader main page.
 
 ---
 
-> [!info] Original Published Date : *2008-06-16*

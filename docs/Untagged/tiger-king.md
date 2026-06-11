@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2020-03-29*
+
 To quote the Generation Somethings: OMFG.  Just watched the first episode of this &#8216;true life&#8217; series. The full title gives only a small hint: &#8220;Tiger King: Murder, Mayhem and Madness&#8221;.
 
 It&#8217;s on Netflix and has come from nowhere to be the &#8216;you gotta see this&#8217; show of the moment.  I would swear it&#8217;s satire, but &#8211; apparently &#8211; it&#8217;s not.  
@@ -25,4 +27,3 @@ I&#8217;m off to watch Episode 2 later today. Apparently, I ain&#8217;t seen nuf
 
 ---
 
-> [!info] Original Published Date : *2020-03-29*

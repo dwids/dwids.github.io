@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2010-06-10*
+
 Now where are those files?&#160; I’m looking for the movie *Big Buck Bunny.avi*&#160; as well as the unpublished masterpiece&#160; *My Life Story by Me.doc*
 
 They are either on the main hard drive … or maybe on one of my archive DVDs or – hang on – are they on that 500 GB external USB hard disk?&#160;&#160;&#160; Then there’s the files on that old laptop that I access via the network. Mmmm. 
@@ -41,4 +43,3 @@ I use the free [EMDB](http://members.upc.nl/e.heesakkers3/emdb/). You don’t ac
 
 ---
 
-> [!info] Original Published Date : *2010-06-10*

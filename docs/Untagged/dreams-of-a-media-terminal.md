@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2005-09-27*
+
 At the moment I can&#8217;t get what I want. And it&#8217;s a bit frustrating as normally technology is **ahead **of my requirements, not **behind**. Normally it&#8217;s me looking at these cool new tech toys and going &#8216;neat, one day I&#8217;ll get one of those&#8217;
 
 My annoyance is that convergence (of PCs and home entertainment systems) hasn&#8217;t taken off as fast as I would like.
@@ -31,4 +33,3 @@ There, I&#8217;ve designed it. Now someone please build it. Thanks.
 
 ---
 
-> [!info] Original Published Date : *2005-09-27*

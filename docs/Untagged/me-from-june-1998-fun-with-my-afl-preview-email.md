@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2009-06-14*
+
 Found this lost gem on my hard drive this afternoon.&#160; You see back in 1998 I used to write regular AFL game previews and email them out to many football fans throughout the entire world.&#160; Now, someone on Twitter today made an apparent pop-culture reference and it got me thinking about how – during this 1998 email activity – I used to throw in obscure references too.&#160; And thanks to indexing and searching of some VERY old email archives, I found it: 
 
 > From: David Sidwell <dsidwell@connexus.apana.org.au>      
@@ -92,4 +94,3 @@ Found this lost gem on my hard drive this afternoon.&#160; You see back in 1998 
 
 ---
 
-> [!info] Original Published Date : *2009-06-14*

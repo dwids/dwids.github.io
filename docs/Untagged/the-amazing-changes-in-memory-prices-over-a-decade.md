@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2014-12-11*
+
 This picture [1]: 
 
 [![Screenshot - 11_12_2014 , 8_13_05 AM](8b780-screenshot-11_12_2014-8_13_05-am_thumb1.png)](https://dwids.wordpress.com2020/03/7e98f-screenshot-11_12_2014-8_13_05-am1.png)
@@ -35,4 +37,3 @@ Hard Disk Drives are/were cheaper per MB than these little cards. If I look back
 
 ---
 
-> [!info] Original Published Date : *2014-12-11*

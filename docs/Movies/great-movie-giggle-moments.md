@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2004-05-17*
+
 The beauty of watching a DVD in the home cinema, is that not only do remember the movie itself, but you also think back to when you first saw it at the real cinema. In turn this triggers related memories. In my case, recently seeing two Aussie Classics on DVD, made me think of Great Movie Giggle Moments
 
 GMGM #1. Back in 1976. The school has taken us to see the very serious Picnic at Hanging Rock. My fellow 15 year olds are quite getting into it. The film is quite tense as the girls have just gone missing. The search has not long started, when up the hill walks the great Garry McDonald, playing a policeman. The cinema erupts with &#8220;hey, that&#8217;s Norman Gunston. Norman! Norman!&#8221;
@@ -23,4 +25,3 @@ There, walking with Max is the actor Gil Tucker; he&#8217;s playing a legal cler
 
 ---
 
-> [!info] Original Published Date : *2004-05-17*

@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2008-07-29*
+
 Having finally [got a full GPS](got-a-gps-at-last.md) at last, it was time to get some maps. The unit very quickly found exactly where it was on Earth ; and I mean *quickly*. But the basic map that came with it, only said it was near Melbourne. Nothing like street level.  It could tell me my latitude and longitude as well as log it when I went for a walk around the block. In fact I did this, converted it to Google Earth format and was able to see how accurate it was, particularly compared to the GPS in the HTC mobile phone.
 
 Anyway time for some maps. I do **not** want Turn by Turn street directions. In fact the GPS is set to be in &#8220;off road&#8221; map mode which means just get me from Point A to Point B, don&#8217;t worry about keeping me on the Roads. So it&#8217;s more for bushwalking.
@@ -29,4 +31,3 @@ Technorati Tags: [OpenStreetMap](http://technorati.com/tags/OpenStreetMap),[OSM]
 
 ---
 
-> [!info] Original Published Date : *2008-07-29*

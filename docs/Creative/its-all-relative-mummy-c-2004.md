@@ -11,6 +11,8 @@ cover:
 description: You think 2000 years is a long time. Let's talk about Ancient Egypt's duration in that context.
 ---
 
+> [!info] Original Published Date : *c. 2004*
+
 > *Another one from the archive. I can't find the exact year, but I think it was around 2004. As I wrote "Interested in Egypt? Think King Tut and the Pyramids and Cleopatra were a few years apart? Have I got news for you"*.   The film was the terrible *The Scorpion King*
 
 
@@ -56,4 +58,3 @@ Here's a "Relief depicting Akhenaton (sic) and Nefertiti with three of their dau
 [^2]: This is not universally agreed. 
 
 
-> [!info] Original Published Date : *c. 2004*

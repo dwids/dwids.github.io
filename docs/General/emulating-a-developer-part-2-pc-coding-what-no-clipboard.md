@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2011-06-09*
+
 #### Being the ongoing adventures in application development … by someone who really doesn’t develop code.
 
 <The first part is, ironically, [located in Part 1](emulating-a-developer-part-1-learn-as-you-type.md)>
@@ -89,4 +91,3 @@ So then I thought, I’m sure I could write this on the Server.&#160; Totally re
 
 ---
 
-> [!info] Original Published Date : *2011-06-09*

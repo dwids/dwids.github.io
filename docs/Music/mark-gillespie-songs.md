@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2020-04-18*
+
 I only have the one album of Mark’s and it was *Only Human* from 1980, so probably got (the original vinyl) at university. It was stunning. I was amazed to learn that he was from Melbourne too.
 
 ==Sad update - November 27th 2024==. I had initially wrote that "It’s a bit hard to find information [on] Mark as he’s basically retired – apparently to the Victorian countryside – many years ago."  I was saddened to discover recently that he has actually died. He passed away on "Thursday November 11 [2021] in hospital in Dhaka, Bangladesh, the country in which he had lived for many years." according to [this source](https://rhythms.com.au/mark-gillespie-r-i-p/).  The same article also adds: "A friend of Gillespie’s, who was working for British Airways when he met him in the early ’80s, recalled that Gillespie was working as a volunteer in a children’s home in Dhaka, Bangaldesh, and helped build and and run a new home in the village of Sreepur."
@@ -73,4 +75,3 @@ Copyright (c) Mark Gillespie
 
 ---
 
-> [!info] Original Published Date : *2020-04-18*

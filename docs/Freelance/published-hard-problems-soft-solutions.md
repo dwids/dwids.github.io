@@ -11,6 +11,8 @@ cover:
 description: The Age asked me to write this one. How NASA is working with the University of Qld to develop smart hardware
 ---
 
+> [!info] Original Published Date : *2005-09-22*
+
 
 Slightly different this time.  The Age contacted me and asked if I&#8217;d be interested in writing a piece based on one of **their **topics; normally I suggest topics to them. Who am I to resist a challenge 🙂  Twas all about how NASA is working with the University of Qld to develop [smart hardware ](http://www.theage.com.au/news/livewire/hard-problems-soft-solutions/2005/09/21/1126982068816.html)&#8211; that you can re-program.
 
@@ -18,6 +20,5 @@ Slightly different this time.  The Age contacted me and asked if I&#8217;d be in
 
 ---
 
-> [!info] Original Published Date : *2005-09-22*
 
 Twas all about how NASA is working with the University of Qld to develop smart hardware

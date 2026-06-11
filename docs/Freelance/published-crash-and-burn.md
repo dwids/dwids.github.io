@@ -11,8 +11,9 @@ cover:
 description: Squashing down digital TV recordings to save disk space.
 ---
 
+> [!info] Original Published Date : *2005-05-19*
+
 *The Age,* actually the *Livewire *section of the *Green Guide*, today published an article of mine about squashing down digital TV recordings to save disk space.  It&#8217;s called [Crush and Burn ](http://www.theage.com.au/news/Livewire/Crush-and-burn/2005/05/18/1116361588550.html) and I&#8217;m very happy with it. 
 
 ---
 
-> [!info] Original Published Date : *2005-05-19*

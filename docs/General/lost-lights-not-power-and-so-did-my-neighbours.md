@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2008-06-29*
+
 Insert cliche: yes you do learn something every day.
 
 Just a few minutes ago the lights in one room flickered and went out. But all other power was still fine. I was slightly annoyed as it was one of those &#8220;last for months/years&#8221; compact fluorescent globes&#8230;and it was fairly new.
@@ -31,4 +33,3 @@ Just as he said that, his lights came on. And, inside my house &#8211; and indee
 
 ---
 
-> [!info] Original Published Date : *2008-06-29*

@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2004-05-17*
+
 A recent radio review of a movie highlighted (again) the need for reviewers to be very careful of not giving the plot away; even accidently .
 
 This time it was a panel, all waxing lyrical and enthusiastically about Clint Eastwood&#8217;s Mystic River. I, like most of the listening audience, hadn&#8217;t seen it yet. It had only just opened and the reviewers had probably seen an earlier critics preview anyway.
@@ -27,4 +29,3 @@ Mark S from Monash, if you are out there you may be having a quiet laugh. I do b
 
 ---
 
-> [!info] Original Published Date : *2004-05-17*

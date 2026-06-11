@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2020-04-05*
+
 I’m going to embark on some Astronomy Basics posts. I’ll be using the excellent free software [Stellariuim](https://stellarium.org/), which runs on lots of different systems.  I use Windows, but also have the Android app (don’t use that much; easier with a mouse)
 ![](ss.20200405.173845.png)
 
@@ -55,4 +57,3 @@ Hence these are your **local coordinates** for that object at that time.  An imp
 
 ---
 
-> [!info] Original Published Date : *2020-04-05*

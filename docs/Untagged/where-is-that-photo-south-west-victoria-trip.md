@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2016-06-12*
+
 I was asked where some photos I had (in my Apple TV screensaver) were taken.  Most were from the same trip, it turns out. Down the South West of Victoria.
 
 ## Photo 1
@@ -38,4 +40,3 @@ The other end of the Grampians. Coming East from Hamilton area towards Dunkeld i
 
 ---
 
-> [!info] Original Published Date : *2016-06-12*

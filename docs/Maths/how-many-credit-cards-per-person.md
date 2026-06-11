@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2013-01-07*
+
 Another quick and fun example of everyday deceptively LARGE numbers action. I recently used my first ‘virtual’ or temporary credit card, for a USA purchase. This site generated a single-use card, pre-loaded with $n USA (but it couldn’t be recharged).  *Mmm*, says the mathematician in me, *how many cards could each person on Earth have*? 
 
 Some in the head, **approximate** numerical pondering followed:
@@ -23,4 +25,3 @@ Thusly dividing (a)/(b) we can have $10^{(16-10)}$ each (remember your exponenti
 
 So, about **1 million cards** each.
 
-> [!info] Original Published Date : *2013-01-07*

@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2020-05-23*
+
 ### Index Once, Search Many
 
 I&#8217;ve got documents that go back 20 years or more. Thousands of them. Work and fun ones. Of all file types (.doc, .docx, .pdf, .xls, .xlsx, .ppt, .txt etc etc).  I knew that somewhere in that large collection was a piece about a mystery *near* Hanging R[o](https://youtu.be/TkMDAbDBB4s)ck; not *at *hanging rock, *near *it. It was about the road that appears to allow things to roll *up-hill*, including cars.
@@ -61,4 +63,3 @@ Oh yeah, Mir[a](https://youtu.be/TkMDAbDBB4s)nda, it&#8217;s an optical illusion
 
 ---
 
-> [!info] Original Published Date : *2020-05-23*

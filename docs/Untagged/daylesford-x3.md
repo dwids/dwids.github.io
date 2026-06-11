@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2013-03-05*
+
 The first in a series of *Things I Was Told And Believed*  I’ll put them under the tag Things_Told
 
 All of these were in the late 60s, so I was 8 or 9. 
@@ -31,4 +33,3 @@ Don’t forget, this was the 60s. It was told to us as a cautionary tale on gett
 
 ---
 
-> [!info] Original Published Date : *2013-03-05*

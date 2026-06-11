@@ -10,6 +10,8 @@ cover:
     alt: "Until the final hour : Hitler's last secretary"
 description: 
 ---
+
+> [!info] Original Published Date : *2009-11-05*
 Finished this book
 
 ![](https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1356594677i/218081.jpg)
@@ -18,4 +20,3 @@ Was one of the books used in the creation of the brilliant movie *Downfall*. Boo
 
 ---
 
-> [!info] Original Published Date : *2009-11-05*

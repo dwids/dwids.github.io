@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2008-08-06*
+
 After a break of more than a few months, I&#8217;m working again and back in Melbourne again. So I guess that means this Blog may go a bit quiet again as &#8211; as some of you may know &#8211; I write for a living. Actually I&#8217;m a Technical Writer; merging my 25 years of Technical IT stuff with my freelance writing. 
 
 The point being I write all day at work, so am less likely to write Blog entries when I get home. The phrase *bus-mans holiday springs* to mind. Look it up &#8230;
@@ -25,4 +27,3 @@ He needed it again today!  Same train, similar problem.  At North Melbourne stat
 
 ---
 
-> [!info] Original Published Date : *2008-08-06*

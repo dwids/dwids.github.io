@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2020-04-15*
+
 About 20 years ago, what is now called the *Golden Age of TV *started. Multi-seasonal, long format Drama series. Not afraid to take their time and let their complex story threads slowly untangle and then entwine the viewer.  *West Wing, Mad Men* and so on.
 
 Writers I respect and enjoy, like Alan Sepinwall, have done assorted fascinating pieces on these shows over the years.
@@ -67,4 +69,3 @@ Continuum Of Excellence.
 
 ---
 
-> [!info] Original Published Date : *2020-04-15*

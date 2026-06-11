@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2004-03-19*
+
 On balance, "2001: A Space Odyssey" is probably my favourite film of all time. I first saw it in about 1975 as a 15-year-old at the Trak cinema in Toorak. It was 'only' 7 years old at that stage, so still fairly fresh.
 
 ### A Lasting Impression
@@ -45,4 +47,3 @@ I find it fascinating reading. The piece is well-written and well-argued. I offe
 
 ---
 
-> [!info] Original Published Date : *2004-03-19*

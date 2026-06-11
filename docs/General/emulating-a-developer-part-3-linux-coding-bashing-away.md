@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2011-06-10*
+
 #### Being the ongoing adventures in application development … by someone who really doesn’t develop code.
 
 <Continues [from Part 2](emulating-a-developer-part-2-pc-coding-what-no-clipboard.md)>
@@ -64,4 +66,3 @@ PS: Things I want to add in Version 2:
 
 ---
 
-> [!info] Original Published Date : *2011-06-10*

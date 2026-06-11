@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2009-05-25*
+
 ### Image-related 
 
 IrfanView&#160;&#160; [http://www.irfanview.com/](http://www.irfanview.com/)&#160;&#160; + does manual/auto screen captures, and basic image editing 
@@ -21,4 +23,3 @@ Gimp&#160; [http://www.gimp.org/](http://www.gimp.org/)&#160; GNU Image Manipula
 
 ---
 
-> [!info] Original Published Date : *2009-05-25*

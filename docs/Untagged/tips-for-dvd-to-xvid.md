@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2004-12-03*
+
 It&#8217;s possible to copy a movie off your DVD (MPEG**2** compression) and convert it to *XviD *(the more modern MPEG**4** compression).  This is usually stored in the generic PC file format called *AVI*. The AVI can be 1/5th the size of the DVD, yet still be of almost the same video quality.  It can be played back on your PC etc.  The sound is &#8216;only&#8217; digital stereo 🙂
 
 I use the Gordian Knot package in &#8216;manual&#8217; mode (not auto) as it gives much more control, but at the cost of being more complex to configure and use. It&#8217;s at [doom9 ](http://www.doom9.org/index.html?/gknot-main5.htm), where you can also find assorted guides.
@@ -65,4 +67,3 @@ A 1 hour commercial TV show, with ads removed, is only about 45 minutes of actua
 
 ---
 
-> [!info] Original Published Date : *2004-12-03*

@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2004-12-29*
+
 I only use Windows because I have to. I&#8217;m gradually moving off it to Linux, including running non-Microsoft software under Windows. This includes &#8216;free&#8217; (Open Source) applications. Most of these below fall into this category.
 
 Browser:  Mozilla [Firefox](http://www.mozilla.org/products/firefox/) with the excellent [Googlebar ](http://googlebar.mozdev.org/screenshots.html) extension.
@@ -27,4 +29,3 @@ For document creation: The brilliant [Open Office](http://www.openoffice.org/) c
 
 ---
 
-> [!info] Original Published Date : *2004-12-29*

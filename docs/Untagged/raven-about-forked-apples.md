@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2020-04-12*
+
 ## Or: *My Life Under Virus Watch* – Part 1
 
 The downside of being a (self-proclaimed) pseudo-intellectual and semi-polymath, is that you hear a new term and the brain’s relational database immediately makes the word association (football) and you just ‘know’ what it means.
@@ -57,4 +59,3 @@ Okay, that’s the first half of the day covered. And enough for now. Part 2 lat
 
 ---
 
-> [!info] Original Published Date : *2020-04-12*

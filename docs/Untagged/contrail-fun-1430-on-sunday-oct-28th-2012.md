@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2012-10-28*
+
 Beautiful contrail seen over Melbourne. I was driving on Boronia Rd, heading approx West towards Eastlink. Contrail was almost coming straight at me, in the clear blue sky:
 
 [![dsC360_2012-10-28-14-31-44](50f0f-dsc360_2012-10-28-14-31-44_thumb.png)](https://dwids.wordpress.com2020/03/ab209-dsc360_2012-10-28-14-31-44.png)  
@@ -27,4 +29,3 @@ I love a good, modern, Internet-based, Google Earthy proof.
 
 ---
 
-> [!info] Original Published Date : *2012-10-28*

@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2020-03-25*
+
 The higher the picture quality of your video streaming, the more data per hour you use and the greater load it places on the NBN or your Mobile network.
 
 Netflix are making changes, but you can get in early and drop the quality yourself.  The less you use, the more we all have. For home-schooling etc.
@@ -49,4 +51,3 @@ Working on that next&#8230;
 
 ---
 
-> [!info] Original Published Date : *2020-03-25*

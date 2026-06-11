@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2020-06-02*
+
 >[!info] Jump to [[latitude-01-what-is-it|Part 1]], [[latitude-02-the-sun-and-the-book|Part 2]], [[latitude-3-cooks-calculation|Part 3]]
 
 Before we calculate our Latitude (in the next post in this series) we have one vital concept to understand.
@@ -93,4 +95,3 @@ I dropped the output into Excel to quickly format it a bit cleaner. As it was mo
 
 ---
 
-> [!info] Original Published Date : *2020-06-02*

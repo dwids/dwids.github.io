@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2013-06-23*
+
 June means the yearly hard rubbish removal for me; we don’t have a council tip. This year the focus was inside, with cleaning out the old “I’ll just keep that technical item, because one day…”. Well, that one day either never came or was 12 years ago. And here’s the main lot:
 
 [![hard_rubbish_20130623_09251](17f4b-hard_rubbish_20130623_09251_thumb.png)](https://dwids.wordpress.com2020/03/60175-hard_rubbish_20130623_09251.png)
@@ -28,4 +30,3 @@ As usual some fascinating items turned up, including:
 
 ---
 
-> [!info] Original Published Date : *2013-06-23*

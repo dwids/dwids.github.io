@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2006-10-10*
+
 I use an old PC plugged into the new LCD TV and the amp (receiver)
 
 The LCD TV has a fair few inputs, one of which is a standard PC socket. I had planned to just test this out before moving to the &#8216;real&#8217; one; the pure digitial HDMI. However the picture quality was excellent so the digital socket is free for a BluRay player one day. The rest of the kit is:
@@ -29,4 +31,3 @@ The lounge PC also supports digital sound out, so it can send the Dolby 5.1 or D
 
 ---
 
-> [!info] Original Published Date : *2006-10-10*

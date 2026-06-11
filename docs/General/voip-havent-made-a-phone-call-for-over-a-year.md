@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2008-06-24*
+
 VOIP. It&#8217;s 4 letters your telephone company does not want you to find out about. Voice Over IP. In other words, telephone calls over the Internet. And not involving your telephone company.
 
 The main reason I switched over was cost. For me it&#8217;s much cheaper to use VOIP than a traditional phone provider.
@@ -29,4 +31,3 @@ And the price for the calls? Well check out Pennytel for example. I&#8217;ve got
 
 ---
 
-> [!info] Original Published Date : *2008-06-24*

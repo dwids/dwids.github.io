@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2004-03-19*
+
 Not sure quite where these originated from or if they are copyright.
 
 Some of the finest double entendres on British TV & Radio:
@@ -121,4 +123,3 @@ Bulgaria. I saw her snatch this morning and it was amazing!
 
 ---
 
-> [!info] Original Published Date : *2004-03-19*

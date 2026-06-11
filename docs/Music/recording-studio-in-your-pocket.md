@@ -13,6 +13,8 @@ cover:
 description:
 ---
 
+> [!info] Original Published Date : *2004-06-03*
+
 As per the earlier post, I&#8217;ve been using something called &#8220;live&#8221; Linux ; which is where the entire O/S plus all software lives on a bootable media (CD) and doesn&#8217;t actually need a hard drive (!).   Full GUI, mouse, network, sound etc. Windows cannot do this. It helped me rescue GB of data yesterday&#8230;
 
 Now, there&#8217;s a good amount of musical recording/editing software for Linux; nearly all free and yet seen as professional quality.
@@ -25,4 +27,3 @@ In theory you can plug this into ANY pc as it detects the h/w at boot time. They
 
 ---
 
-> [!info] Original Published Date : *2004-06-03*

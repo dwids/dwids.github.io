@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2016-07-07*
+
 I’ve known for years how to convert TV recordings (“mpeg-2”) to PC files (avi, mkv).  But yesterday I dived back in and learnt a few things:
 
 1. My tiny Raspberry Pi media player struggles with raw TV recording playback
@@ -39,4 +41,3 @@ News to me.   But it worked.  All good now. One drag and drop and it’s done
 
 ---
 
-> [!info] Original Published Date : *2016-07-07*

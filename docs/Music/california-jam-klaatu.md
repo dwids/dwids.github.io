@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2011-02-06*
+
 I don&#8217;t keep Top 10 fave lists of bands, but if I did Klaatu would be in this list. Which doesn&#8217;t exist 🙂
 
 Circa 1976 they put out their first album. They didn&#8217;t put their names nor images on the cover. Apparently a journalist &#8211; not associated with the band &#8211; started speculating that The Beatles had reformed and recorded this album. Molly Meldrum even repeated this on Countdown, but I remember him stressing it was only a rumour.
@@ -25,4 +27,3 @@ But for now, off their first album, here&#8217;s the most good California Jam.
 
 ---
 
-> [!info] Original Published Date : *2011-02-06*

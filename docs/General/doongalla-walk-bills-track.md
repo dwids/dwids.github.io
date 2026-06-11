@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2015-04-15*
+
 A great, energising walk through the Dandenongs.  Magic views of Melbourne (Burkes Lookout) at the top and then it’s down hill. The landscape suddenly changes from dry to temperate rain forest, including ferns.  Our target is the beautiful Doongalla Homestead Site area. Split in two and connected via a road, both have toilets and picnic facilities and are thus ideal for lunch.  It follows it’s up hill for most of the way back, retracing your steps. 
 
 ## Suggested add-on : Bills Track (and more)
@@ -69,4 +71,3 @@ It’s a climb back up, but with views like this you hardly notice:
 
 ---
 
-> [!info] Original Published Date : *2015-04-15*

@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2004-06-13*
+
 Woo hoo. I had recently watched the Big Brother DVD where you get to see what goes on behind the scenes, in the production room etc. About 7:50 tonight I was thinking how smooth it was all going on the Eviction show and the production gang must be in autopilot. Then, about 12 minutes later, it was on for one and all.
 
 Merlin was announced as being evicted and off he went into the car. After the ad break he appeared in the walkway, but was playing with some paper in his hands &#8211; he was struggling to &#8216;unpeel&#8217; it and pointedly not hi-fiving the audience on his way to the stage. 
@@ -30,4 +32,3 @@ Still,  the headlines will be worth all the stress. If they&#8217;ve got any sen
 
 ---
 
-> [!info] Original Published Date : *2004-06-13*

@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2005-03-22*
+
 As I had put the old (unstable?) Ethernet card back into the spare PC, I &#8216;d predicted I&#8217;d simply transferred the problem from one box to another. Yep, sure had. Linux had the same symptoms using the natsemi driver on this card &#8211; poor connection and 50% packet loss.
 
 So, I went and and brought a Surecom Gigabit card for under $40. It wasn&#8217;t a no-name clone, so it should be okay with Linux. But it did take me HOURS to get working. About 4, I&#8217;d tip.
@@ -49,4 +51,3 @@ This Debian kernel (2.4.18) is quite &#8216;back level&#8217; relative to other 
 
 ---
 
-> [!info] Original Published Date : *2005-03-22*

@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2017-11-15*
+
 David has been in IT since 1983 and is a Senior Technical Writer. He specialises in documenting As-Built (As-Is) and IT Development/Integration projects.  David can also assist with Pre-Sales Marketing, Training and some Solutions Architecture and “Reverse” Technical BA.
 
 David has his own company &#8211; **Artwill Services Pty Ltd **&#8211; through which he has had many successful Technical Writing client engagements over recent years, including:
@@ -44,4 +46,3 @@ The above is just an overview.  You can find out more about how David puts the 
 
 ---
 
-> [!info] Original Published Date : *2017-11-15*

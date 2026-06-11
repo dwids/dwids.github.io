@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2020-05-19*
+
 Finally, we get here. After [mentioning](../Untagged/trajectories-a-work-in-4-parts-and-still-in-progress.md) the amazing footage of the probe landing on the aster[o](https://youtu.be/kRy4JfR9pBs)id *Ryugu*, I can now work out what it would be like to throw a stone on such a tiny body. I&#8217;m doing my own [What If?](https://www.booktopia.com.au/what-if--randall-munroe/book/9781848549562.html)  (well worth the read, BTW)
 
 It is tiny. And the strength of its gravity depends on that mass.  Time to re-do the [gravity calculation](g-ravity-is-universal.md) for little Ryugu
@@ -50,4 +52,3 @@ I also think if I did throw it when standing on the asteroid &#8211; thanks to N
 
 ---
 
-> [!info] Original Published Date : *2020-05-19*

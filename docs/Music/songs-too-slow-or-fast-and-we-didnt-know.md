@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2013-10-10*
+
 I should add *allegedly* to that title. Anyway, two things came together in my ever active mind just this morning. The first being an ABC RN show/podcast on how music activates a number of our brains centres all at once. One of them being memory (event-recall) related. It seems that music buries itself deep inside our brains.
 
 The other being that some recordings were recorded or mastered too fast or slow. But, tying back to the first point, we’ve heard the ‘original’ recording so often, the ‘corrected’ one just doesn’t sound right. The original is burnt into the grey matter.
@@ -43,4 +45,3 @@ This is something worth having a look at. I’m sure there are other examples an
 
 ---
 
-> [!info] Original Published Date : *2013-10-10*

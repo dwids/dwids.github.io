@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2005-09-24*
+
 The 2005 AFL Grand Final was a ripper. I started watching it, excited but only about 75% interested. From the opening bounce I was enthralled.
 
 I don&#8217;t watch much footy these days. A few short years ago I was an Essendon member; going each week, reserved seat and all that. But I became disillusioned. Not with my team, but with the fairness of the whole AFL competition. But that&#8217;s not for today.
@@ -21,4 +23,3 @@ The Age headline summed it up well: &#8220;The mark that saved the flag&#8221;. 
 
 ---
 
-> [!info] Original Published Date : *2005-09-24*

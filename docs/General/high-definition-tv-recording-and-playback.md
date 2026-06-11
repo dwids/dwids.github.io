@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2008-08-03*
+
 I have [mentioned HD TV](__GHOST_URL__/tag/digitaltv/) before. In fact I do have a HD TV, but it&#8217;s &#8216;only&#8217; 720 lines; technically it&#8217;s a 720p LCD, compared to full HD which is 1080p.  BluRay disks are 1080p so I wouldn&#8217;t be getting the full resolution if I was to buy a BluRay player. The TV also has a built in HD tuner, so I can watch HD TV, but not record it.
 
 In actual fact that&#8217;s not 100% true. And twice over:
@@ -31,4 +33,3 @@ Hopefully by then I may have a proper 1080p TV too. Dream on&#8230;
 
 ---
 
-> [!info] Original Published Date : *2008-08-03*

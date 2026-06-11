@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2006-09-03*
+
 In trying to get a $10 adapter cable to work on the laptop, I hit a rare Linux bug. And the system, she go booom. Wouldn&#8217;t boot in normal mode, nor in recovery mode. Same &#8216;small&#8217; problem; pretty much couldn&#8217;t find the hard drive.
 
 It was nothing to do with the cable per se.
@@ -36,4 +38,3 @@ And it worked.
 
 ---
 
-> [!info] Original Published Date : *2006-09-03*

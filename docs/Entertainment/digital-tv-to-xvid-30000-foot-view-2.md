@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2005-09-26*
+
 DVB (digital TV) recordings, as I&#8217;ve said before, are cool but fat. I squash them down to AVI files containing XviD (MPEG4) video and MP3 audio. Yes, THAT MP3. Still an excellent audio compression scheme.
 
 One day I&#8217;m going to write a full on &#8216;how to&#8217; but here&#8217;s a summary from 10,000 meters.
@@ -29,4 +31,3 @@ Takes about 40 mins all up for a 30 minute show, including zapping ads. Probably
 
 ---
 
-> [!info] Original Published Date : *2005-09-26*

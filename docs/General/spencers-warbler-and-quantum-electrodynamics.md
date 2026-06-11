@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2008-07-06*
+
 Heard a great quote from the late, great physicist [Richard P Feynman](http://en.wikipedia.org/wiki/Richard_Feynman) today. He was talking about an incident from his childhood, where he was out with his father: 
 
 > ‘See that bird?’ he says. ‘It’s a Spencer’s warbler. (I knew he didn’t  know  the real name.) ‘Well, in Italian, it’s  a  Chutto Lapittida. In Portuguese, it’s a Bom da Peida. In Chinese  it’s a Chung-long-tah, and in Japanese it’s a Katano Takeda. You  can know the name of that bird in all the languages of the world, but when  you’re finished, you’ll know absolutely  nothing  whatever about  the  bird.  You’ll only know  about  humans  in  different places,  and what they call the bird. So let’s look at the  bird and see what it’s doing &#8211; that’s what counts!
@@ -21,4 +23,3 @@ Variation of quote heard today via ABC Radio National Podcast of an [In Conversa
 
 ---
 
-> [!info] Original Published Date : *2008-07-06*

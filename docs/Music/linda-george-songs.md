@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2020-04-10*
+
 > Just another superb local singer. Even at the time of these – mainly the 70s – I thought she had a lovely voice and did just wonderful covers and originals, with above average playing and production.  You can learn more on this “English-born Australian pop, jazz fusion and soul singer” from [Wikipedia](https://en.wikipedia.org/wiki/Linda_George_(Australian_singer)).
 
 ## Mama’s Little Girl (1974)
@@ -41,4 +43,3 @@ A duet, apparently with Paul Meaney.  The theme for the International Year of th
 
 <iframe width="500" height="283"  src="https://www.youtube.com/embed/JifQTVkF-ZI" title="Care For Kids TV Commercial 1979 Australia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-> [!info] Original Published Date : *2020-04-10*

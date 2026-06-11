@@ -10,6 +10,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2014-06-05*
+
 I&#8217;ve done a fair few bushwalks, mainly around Victoria and specifically within a few hours of Melbourne.
 
 Overall my favourite areas are:
@@ -40,4 +42,3 @@ More details of some of the walks is available in a [particular section](__GHOST
 
 ---
 
-> [!info] Original Published Date : *2014-06-05*

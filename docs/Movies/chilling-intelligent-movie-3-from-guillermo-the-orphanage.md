@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2008-06-27*
+
 Watching the excellent Mexican/Spanish movie The Orphanage (El Orfanato) today, I realised it was the third emotionally-intense, chiller, supernatural film I&#8217;d really loved over the last few years. And all were produced or directed by Guillermo del Toro.
 
 All had strong lead actors who were children and children were pivotal to the unfolding story. The other two films were The Devil&#8217;s Backbone (El Espinazo del diablo) and Pan&#8217;s Labyrinth (El Laberinto del fauno)
@@ -32,4 +34,3 @@ IMDB and RT pages for these movies. RT has lots of reviews and creates an averag
 
 ---
 
-> [!info] Original Published Date : *2008-06-27*

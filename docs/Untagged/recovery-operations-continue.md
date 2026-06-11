@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2005-03-17*
+
 So here we are the following morning. I&#8217;m attacking the *Windows Won&#8217;t Boot on DDS* problem with a vengeance.
 
 DDS doesn&#8217;t have a CD, but it does have a diskette drive. I needed to try a full XP recovery-install.
@@ -33,4 +35,3 @@ Beaten! But only this round.   Work continues.
 
 ---
 
-> [!info] Original Published Date : *2005-03-17*

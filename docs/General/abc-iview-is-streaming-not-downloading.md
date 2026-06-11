@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2008-08-10*
+
 ABC TV has done a great thing and launched their [iView service.](http://www.abc.net.au/tv/iview/) To quote their web site it &#8220;*is a new way to watch TV &#8211; a free internet* (sic) *broadcasting service that lets you watch ABC programs on your computer*&#8230;&#8221;
 
 The key phrase to note there is ***broadcasting***. It correctly sums this up, the data is streamed to your PC or Mac. More importantly it is NOT downloaded in the sense that most people understand. 
@@ -38,4 +40,3 @@ Technorati Tags: [iView](http://technorati.com/tags/iView)
 
 ---
 
-> [!info] Original Published Date : *2008-08-10*

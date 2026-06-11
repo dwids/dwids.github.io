@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2005-04-24*
+
 I&#8217;ve just got a book on Video compression. The DVD format (mpeg2 compression) has been around for about a decade (mpeg2 I mean, not DVD per se). It&#8217;s also mpeg2 used for digital TV around the world. Yet you would have thought that in nearly 10 years the Next Generation would have come out&#8230;and been twice as good etc. Moores law.
 
 Turns out it did and was called mpeg4 (name mpeg3 skipped for historical reasons), BUT they &#8211; the creators &#8211; put such restrictive licensing terms that The Industry rejected it. Only recently &#8211; after &#8216;hacked&#8217; versions appeared &#8211; did they relent and change the conditions.
@@ -21,4 +23,3 @@ But all may not be lost. At least one of the new &#8220;DVD&#8221; follow ons (B
 
 ---
 
-> [!info] Original Published Date : *2005-04-24*

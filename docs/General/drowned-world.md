@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2009-11-13*
+
 Currently Reading the 1962 SciFi book:
 
 "<img src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1434118684i/16234584.jpg" width="300">
@@ -19,4 +21,3 @@ Borrowed from the local library
 
 ---
 
-> [!info] Original Published Date : *2009-11-13*

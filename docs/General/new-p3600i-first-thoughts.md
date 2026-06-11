@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2008-05-15*
+
 Got this, my first PDA-phone and am quite happy with it. I&#8217;ve previously had 2 Palm Pilots, but these weren&#8217;t phones. However a few things that the Palm&#8217;s had, but I can&#8217;t (yet) find on this Windows-based p3600i are:
 - A database manager 
 - Categories on Items
@@ -20,4 +22,3 @@ The DB manager was, to be fair, an add-on application on the Palms. But it did e
 
 ---
 
-> [!info] Original Published Date : *2008-05-15*

@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2005-05-20*
+
 Recently a friend &#8211; and fellow movie buff &#8211; asked me to name my favourite film of all time. After giving my answer-  *2001: A Space Odyssey* (1968) &#8211;  I got to thinking about the polar opposite. Films I didn&#8217;t like &#8211; in fact films I&#8217;ve walked out of.
 
 The list isn&#8217;t that big and there&#8217;s one I remember leaving, but can&#8217;t even recall it&#8217;s name. Must have left a good impression.
@@ -25,4 +27,3 @@ The list isn&#8217;t that big and there&#8217;s one I remember leaving, but can&
 
 ---
 
-> [!info] Original Published Date : *2005-05-20*

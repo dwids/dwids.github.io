@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2014-07-26*
+
 # Business Requirement
 
 This was very interesting. We had a large **Word** document with over 200 ‘listings’ of items, all laid out in similar ways.  None were in tables. I’ve recreated the similar format, but totally modified the actual data to protect the confidentially of the original. It shows 2 listings. (Click on image to enlarge)
@@ -44,4 +46,3 @@ If you understand how to use these tools and applications beyond the basics, the
 
 ---
 
-> [!info] Original Published Date : *2014-07-26*

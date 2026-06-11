@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2005-03-18*
+
 As of about 6pm yesterday Windows had been recovered on DDS. But, from bitter experience, I know it arrogantly over-writes any other boot managers etc.
 
 In my case XP would have clobbered the Linux Loader (LILO) that is used to start the Linux boot process. So Windows ensures that whilst Linux is left alone, you can&#8217;t actually start it nor use it.
@@ -42,4 +44,3 @@ A confident reboot followed. There&#8217;s LILO, with menu items for Linux and W
 
 ---
 
-> [!info] Original Published Date : *2005-03-18*

@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2008-07-23*
+
 Tags are everywhere and they are invaluable They are little pieces of text that let you describe **your** stuff &#8211; music files, images, blog posts, browser bookmarks etc &#8211; with **your** descriptions.  Some tags live inside the files (like the *title, artist* ones within a mp3 file, or the *exposure, white balance* values within a jpg).  Others live outside, such as a description or comments of/on that photo when you move it to Picasa, iPhoto or up to the  Flickr web site.
 
 But, as I found, you have to be a bit careful.
@@ -47,4 +49,3 @@ Technorati Tags: [Controlled Vocabulary](http://technorati.com/tags/Controlled%2
 
 ---
 
-> [!info] Original Published Date : *2008-07-23*

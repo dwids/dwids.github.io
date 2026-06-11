@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2011-03-15*
+
 Am going to do a few anti-war songs over the next few posts. For no particular reason and also not your sledge-hammer ones, where the message is clearly laid out for all to hear. No, I&#8217;m going for the subtle ones.
 
 To start with we have this fine 1970 work from Russell Morris. Whilst it came out during our involvement in the Vietnam War, it could be seen as a more general comment.  It sounds like Rachel is a nurse, working with wounded soldiers. It&#8217;s a moving song and well worth a visit.
@@ -19,4 +21,3 @@ To start with we have this fine 1970 work from Russell Morris. Whilst it came ou
 
 ---
 
-> [!info] Original Published Date : *2011-03-15*

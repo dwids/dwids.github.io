@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2008-07-30*
+
 Just a few days ago one of my nieces said she couldn&#8217;t find a certain word in the dictionary and asked me to help. I think it might have been &#8211; ironically enough &#8211; the word *assistance*.
 
 And sure enough it wasn&#8217;t there as its own entry.
@@ -19,4 +21,3 @@ But, of course, it was there under *assist*. And so we had a bit of a chat about
 
 ---
 
-> [!info] Original Published Date : *2008-07-30*

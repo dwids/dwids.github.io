@@ -11,8 +11,9 @@ cover:
 description: File compression to save space. MP3s and JPGs have things in common.
 ---
 
+> [!info] Original Published Date : *2005-10-20*
+
 Scratch the surface and MP3s and JPEG images have more in common than you might think. As well as informational tags, or metadata, both are compressed or squashed up to save disk space. Also, the smaller the file, the quicker and cheaper it can be sent over the internet. [Putting the squeeze on](http://www.theage.com.au/news/livewire/putting-the-squeeze-on/2005/10/19/1129401264687.html)
 
 ---
 
-> [!info] Original Published Date : *2005-10-20*

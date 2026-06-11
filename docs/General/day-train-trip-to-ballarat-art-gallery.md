@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2015-05-20*
+
 Did this train trip on a weekday as that, from my reading, means it&#8217;s *off-peak* prices (assuming you do similar times to me). Pays to check. 
 
 My main purpose was to revisit the excellent ***Ballarat Art Gallery***. It has a marvellous collection of Australian Art and is only about 5 minutes stroll from the main Ballarat train station. In fact, I don&#8217;t think I was ever more than about 15 minutes walk from the station during this whole trip.
@@ -32,4 +34,3 @@ I walked to the station from home. So this journey was almost exactly like someo
 
 ---
 
-> [!info] Original Published Date : *2015-05-20*

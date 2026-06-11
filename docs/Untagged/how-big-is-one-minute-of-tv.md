@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2005-09-26*
+
 In other words, how much disk space does it take?
 
 I did some samples using a fast moving show. It was a  standard definition recording, captured direct as the MEPG2 data. I then converted it to Raw, uncompressed frames, then did two MPEG4 compressions; one average quality, the other very good. Both used MP3 audio.  The second figure is the percentage relative to the base MPEG2 recording.
@@ -42,4 +44,3 @@ The message is: yes, use a frame server, but ensure your dubber (say Virtualdub)
 
 ---
 
-> [!info] Original Published Date : *2005-09-26*

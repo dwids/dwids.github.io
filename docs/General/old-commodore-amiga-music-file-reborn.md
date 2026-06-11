@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2020-06-06*
+
 ![](https://cdn.arstechnica.net/wp-content/uploads/2015/07/Screen-Shot-2015-07-23-at-11.10.08-AM-640x387.png)I think it was about 25+ years ago I had a [Roland JV-30 Synthesizer](http://www.vintagesynth.com/roland/jv-30) and a Commodore Amiga computer. Plugged into each other.  To cut to the chase, I recorded a number of musical pieces; both original and c[o](https://youtu.be/dvs9hwxE7YA)ver versions. I didn&#8217;t record the sound per se, but the digital representation of the notes (in [MIDI ](https://en.wikipedia.org/wiki/MIDI)files). They were multi-track too and I had carefully assigned instruments (sounds) to each channel/track.
 
 There&#8217;s a HUGE problem with old Amiga things. The floppy diskette format is simply NOT readable on a modern PC or Mac. I had tossed my Amiga out decades ago, but not the diskettes.
@@ -29,4 +31,3 @@ https://youtu.be/AfSzmgMzE2c
 
 ---
 
-> [!info] Original Published Date : *2020-06-06*

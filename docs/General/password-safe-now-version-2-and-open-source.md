@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2004-03-19*
+
 Probably the single most useful piece of software on my PC is Password Safe. It was originally developed by Bruce Schneier, cryptography specialist and author of that excellent book [&#8220;Applied Cryptography&#8221;](http://www.schneier.com/book-applied.html).
 
 As Bruce describes it &#8220;With Password Safe, a free Windows 9x/2000 utility from Counterpane Labs, users can keep their passwords securely encrypted on their computers. A single Safe Combination&#8211;just one thing to remember&#8211;unlocks them all.&#8221; &#8211; (quote from above schneier.com)
@@ -19,4 +21,3 @@ As I said, Password Safe is now an open source project, and is available from  i
 
 ---
 
-> [!info] Original Published Date : *2004-03-19*

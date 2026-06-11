@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2004-06-07*
+
 *Today I was sent a moving poem on child abuse, as written by the 3 year old victim, Sarah.  Here is my reply*
 
 On the train late last week I saw &#8220;Sarah&#8221; or a  younger version. Her Mum and Dad both dressed in trakkies and hidden behind dark sunnies. Mum was lying on a train seat with one kid nearby in a pram. &#8220;Sarah&#8221; was with her Dad and her brother, sitting opposite Mum. All at the end of the carriage.
@@ -23,4 +25,3 @@ No. She shakes her, like a rag doll and yells at her to shut up.
 
 ---
 
-> [!info] Original Published Date : *2004-06-07*

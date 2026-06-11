@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2020-04-03*
+
 So&#8230;when I say &#8216;radio&#8217; I don&#8217;t mean listening on AM or FM; it&#8217;s hardware in your device that send and receive radio waves. Like 4G, Wifi and Bluetooth. Also known as &#8220;wireless&#8221;. 
 
 A modern mobile phone &#8211; or tablet &#8211; has a range of &#8216;radio&#8217; receivers/transmitters inside it.  Each one has different effective ranges and are for different purposes.  
@@ -111,4 +113,3 @@ On my Android phone at least, it&#8217;s swipe down at the top and menu appears,
 
 ---
 
-> [!info] Original Published Date : *2020-04-03*

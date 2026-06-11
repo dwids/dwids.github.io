@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2023-02-12*
+
 In Feb 2023, this whole (neglected) blog was moved from one hosting site to another. It seemed to go ok, but I now realise that images are now half-working. Some (most?) of them display ok *inline &#8211; *in the blog post, but when you click on the image to embiggen it&#8230;.it says &#8220;trouble finding that site&#8221; or similar.  I&#8217;m trying to find a way to bulk update all image links from old site A to new site B. In the meantime, just enjoy the little versions within the blog post
 
  
@@ -19,4 +21,3 @@ In Feb 2023, this whole (neglected) blog was moved from one hosting site to anot
 
 ---
 
-> [!info] Original Published Date : *2023-02-12*

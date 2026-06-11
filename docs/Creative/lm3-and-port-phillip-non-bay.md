@@ -11,6 +11,8 @@ cover:
 description: Over 40,000 years ago, the now dry Lake Mungo (outback NSW) had people living there.
 ---
 
+> [!info] Original Published Date : *2004*
+
 > From the archives[^1] . Written back in **2004**. For the Aspect Computing staff newsletter, I think.  Was originally 'LM3 and Port Phillip non-Bay'.   Science moves on and in the 20+ years since, some findings have changed. I have updated the body and included changed footnotes. 
  
 [^1]: It took a while to find this; it was inside an archive (.tar), which was inside another archive (.zip). All being part of the large back up of an old website of mine. Glad I kept it all!
@@ -54,4 +56,3 @@ Think about that 40,000 years number.  Ancient Egypt was still about 35,000 year
 
 ---
 
-> [!info] Original Published Date : *2004*

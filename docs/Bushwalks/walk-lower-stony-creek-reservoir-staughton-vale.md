@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2020-01-24*
+
 About 30 minutes south of Ballan, in the middle of the dry Brisbane Ranges, you’ll find the first ever Concrete Dam wall built in Australia.
 
 It was constructed in 1873 and is happily sitting there today. The surprisingly large wall just appears out of nowhere as you walk up a steep-walled creek valley from your car.  I’m not sure if it still supplies water (mmm, see Reference [2] at the end).
@@ -72,4 +74,3 @@ I first wandered into this area in 2015, doing the excellent *Ted Errey Nature C
 
 ---
 
-> [!info] Original Published Date : *2020-01-24*

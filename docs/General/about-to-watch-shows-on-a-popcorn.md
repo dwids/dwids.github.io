@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2008-08-24*
+
 No not WITH popcorn ON a Popcorn. Actually VIA a Popcorn to be precise&#8230;and through my lounge room TV.
 
 Enough witty opening lines. A Popcorn A-100 is a network media player, also known as a network media tank.  It has 3 main parts to it:
@@ -43,4 +45,3 @@ Time will tell. The local forums say it shouldn&#8217;t take long to get here. M
 
 ---
 
-> [!info] Original Published Date : *2008-08-24*

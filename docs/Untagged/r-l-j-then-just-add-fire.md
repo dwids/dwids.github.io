@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2016-04-22*
+
 Quick summary of Internet fan theories. No spoilers coz most of this is not in the books :
 
 - Ned’s Stark had a sister Lyanna. This was all 20+ years before the books and TV show.  
@@ -30,4 +32,3 @@ R + L = J  is the meme for Jon Snow’s parents.
 
 ---
 
-> [!info] Original Published Date : *2016-04-22*

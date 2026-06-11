@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2011-02-04*
+
 I regularly use [Locate32](http://www.locate32.net/) for my fast indexing – and searching – of PC files.&#160; Plus I use Dropbox to store my shared files. So why not see if the two can work together?&#160; A bit of experimenting showed the answer was **yes**.&#160; Here’s one way to have an Index of one computer’s *My Documents* folder available on the other. And vice versa.&#160; 
 
 I know that Locate32 can support remote shares (aka&#160; *\servershare*) directly, but that has some considerations, not least of which is sharing&#160; out My Documents. So I thought of putting the Locate32 index for one computer (Notebook) on Dropbox and having it used in another (Desktop). The steps, all done using Locate32 3.1 RC3 build 10.5090 :
@@ -57,4 +59,3 @@ Of course you can now do the vice-versa and create an Index for the Desktop and 
 
 ---
 
-> [!info] Original Published Date : *2011-02-04*

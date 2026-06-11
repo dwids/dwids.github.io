@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2004-12-07*
+
 Even in small companies **knowledge capture** can be a challenge.  WHAT employees and managers know and have achieved, plus HOW they did it (including any &#8216;things we tried but they didn&#8217;t work&#8217;) tends to remain in their heads or on scraps of paper. When they leave &#8211; or even move on to other tasks in the same company &#8211; it goes with them.
 
 I&#8217;ve seen this, plus the assorted bold attempts to ensure that such highly valuable assets are captured. But they haven&#8217;t really worked. It always seemed to involve a layer of &#8220;intrusive&#8221; software or extra manual tasks for the end-user. It was easy for them to complain that it was holding them back from performing their &#8216;real&#8217; work properly. The short term view won out.
@@ -25,4 +27,3 @@ I was therefore interested to read an article in Popular Science magazine.  Cons
 
 ---
 
-> [!info] Original Published Date : *2004-12-07*

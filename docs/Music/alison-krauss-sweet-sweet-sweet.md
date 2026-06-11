@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2004-01-24*
+
 I&#8217;m currently enraptured by the sweet singing of Alison Krauss. She has a voice like warm, filtered honey.
 
 Don&#8217;t let the any county/bluegrass tag put you off, Alison does a range of material, including a slowed-down version of *Baby, Now That I?ve Found You*. The soul hit is reborn as a mournful and sensitive piece of longing.  By the way, I love Bluegrass, so no slight intended.&#8217;,&#8217;I first heard her on The Rough Guide to Bluegrass compilation CD ? an excellent introduction to this most American of music. Here she performs *Every Time You Say Goodbye* with her band;  Alison Krauss & Union Station.  It reminded me of the first time I heard *Say You Love Me* from Phantom. Hooked from the first bar.
@@ -23,4 +25,3 @@ note: a bit hard to buy Alison Krauss CDs in Melbourne.  Gaslight Records have a
 
 ---
 
-> [!info] Original Published Date : *2004-01-24*

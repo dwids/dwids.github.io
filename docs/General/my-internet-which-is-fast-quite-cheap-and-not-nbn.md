@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2020-05-05*
+
 The rental apartment is quite new. It has a phone port. The previous tenant, also the owner, had ADSL but didn&#8217;t opt for NBN when offered. It had nothing when I moved in, so I thought it would be easy to get NBN on.
 
 It was a nightmare. My old RSP &#8211; Aussie Broadband &#8211; tried but I had to eventually deal with NBNCo, who were arrogant and unhelpful. They said &#8211; for some reason &#8211; my phone port (which I can see) and line didn&#8217;t exist on their system &#8211; and the only way to get NBN was to &#8216;pretend to be a developer and submit a new-site-access (or whatever) form&#8217;. They were adamant it would &#8216;take 6 months and there&#8217;s nothing you can do about it&#8217;. WTF. Cs.
@@ -31,4 +33,3 @@ My Optus quota was originally **200 **GB PM for $60 including modem purchase; no
 
 ---
 
-> [!info] Original Published Date : *2020-05-05*

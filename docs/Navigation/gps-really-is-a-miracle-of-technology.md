@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2019-12-05*
+
 I only vaguely understood how GPS worked, including that Relativity was involved. I was amazed to read the details in a recent edition of* Silicon Chip* [1]  : 
 
 Firstly, unlike Pay TV and related, the GPS satellites are not in a *geosynchronous* orbit. Otherwise they couldn&#8217;t &#8216;see&#8217; the whole Earth. So they move relative to us here on the surface.
@@ -39,4 +41,3 @@ The values &#8211; *a, t, e, E*, etc &#8211; are provided by the GPS signal and 
 
 ---
 
-> [!info] Original Published Date : *2019-12-05*

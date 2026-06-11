@@ -11,10 +11,11 @@ cover:
 description: Early web-site generators, like Mambo
 ---
 
+> [!info] Original Published Date : *2005-09-01*
+
 Melbourne Age and [Sydney Morning Herald](http://smh.com.au/articles/2005/07/26/1122143850344.html). A look at content managers. 
 
 >[!tip]2026 update - Wrong term
 > Not really Content Managers.  This is about web site **Generators**, instead of 'doing it by hand'. Not having to edit and deploy html files etc.
 ---
 
-> [!info] Original Published Date : *2005-09-01*

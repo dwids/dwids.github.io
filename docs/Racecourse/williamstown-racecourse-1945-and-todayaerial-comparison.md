@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2014-08-04*
+
 Thanks to an email discussion with Peter Weaver (Altona Laverton Historical Society), I realised I already had some key information to help in my quest to work out what’s what at the site of the racecourse.
 
 Key is the 1945 high quality aerial survey found at: [http://www.lib.unimelb.edu.au/collections/maps/historical/1945melb/l_sheets/848b3d.jpg](http://www.lib.unimelb.edu.au/collections/maps/historical/1945melb/l_sheets/848b3d.jpg)
@@ -43,4 +45,3 @@ The ruins per se.
 
 ---
 
-> [!info] Original Published Date : *2014-08-04*

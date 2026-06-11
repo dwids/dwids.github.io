@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2004-10-03*
+
 Mark Latham reminds me of Essendon coach Kevin Sheedy. Particularly in the early 1980s with his great battles in Grand Finals against Hawthorn. The young up-start against the wily old campaigner.
 
 In 1983 Hawthorn pumped Sheedy&#8217;s team by a then-record amount. A year later, Sheeds swung some wild and unexpected changes. It wrong footed his more conservative opponent. And Essendon came from behind to win.
@@ -19,4 +21,3 @@ The big question is: is Latham Sheedy Version-83 or Version-84?  We&#8217;ll kno
 
 ---
 
-> [!info] Original Published Date : *2004-10-03*

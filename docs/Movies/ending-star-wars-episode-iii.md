@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2005-04-16*
+
 Firstly, I am not a hard core Star Wars fan. I like the films, but am not one of those who can tell you how many teats a female Bantha has.
 
 I&#8217;m on the record &#8211; along with others &#8211; as saying that Return of The King has really set a high water mark for quality. And that George Lucas  will be measured against it.
@@ -33,4 +35,3 @@ We cut to on-board. You can guess the rest. C-3PO and R2-D2 are arguing what to 
 
 ---
 
-> [!info] Original Published Date : *2005-04-16*

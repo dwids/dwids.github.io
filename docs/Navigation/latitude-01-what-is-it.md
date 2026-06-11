@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2020-05-27*
+
 >[!info] Jump to [[latitude-01-what-is-it|Part 1]], [[latitude-02-the-sun-and-the-book|Part 2]], [[latitude-3-cooks-calculation|Part 3]]
 
 In this first post, we’ll cover what latitude is.
@@ -63,4 +65,3 @@ I don’t bother with the scanner, just photograph it/them and upload to Dropbox
 
 ---
 
-> [!info] Original Published Date : *2020-05-27*

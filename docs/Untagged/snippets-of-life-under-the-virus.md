@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2020-04-29*
+
 Random items.
 
 ## Things I’m Glad I Bought
@@ -66,4 +68,3 @@ However, I’m NOT making plans for where I’ll go, or who I’ll see, on Day V
 
 ---
 
-> [!info] Original Published Date : *2020-04-29*

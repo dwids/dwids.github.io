@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2020-05-08*
+
 ##  Or&#8230;how I forgot high school maths
 
 It started with a whimsical comment of mine, during a brief email-chat about the &#8220;[incredible video](https://arstechnica.com/science/2020/05/incredible-video-shows-hayabusa2-pogo-bouncing-off-asteroid/) [that] shows Hayabusa2 pogo-bouncing off  [an] asteroid&#8221; 
@@ -61,4 +63,3 @@ And that&#8217;s where I stand.  Tomorrow it&#8217;s going to be cold and rainin
 
 ---
 
-> [!info] Original Published Date : *2020-05-08*

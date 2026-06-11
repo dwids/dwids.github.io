@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2013-01-13*
+
 Walk done Saturday Jan 12th 2013. Had planned to do Thousand Steps but it was packed out, due to an event.  About 9km in total (excluding exploring Alfred Nicholas Gardens)
 
 Quick notes. Will try and upload a few photos later. Numbers are points on map 
@@ -45,4 +47,3 @@ Dense bush!
 
 ---
 
-> [!info] Original Published Date : *2013-01-13*

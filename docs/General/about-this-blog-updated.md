@@ -11,10 +11,11 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2020-04-03*
+
 Gradually neatening things up here. A few pages had default text as it was a new instance of the WordPress software.  Just updated the [About ](__GHOST_URL__/about/)page.
 
 It&#8217;s a pretty good system. ***Pages ***are more fixed/important things.  *About*. *Contact*. Then you have your Blog ***Posts***, which are the &#8216;articles&#8217;. 
 
 ---
 
-> [!info] Original Published Date : *2020-04-03*

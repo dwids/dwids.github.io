@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2009-07-24*
+
 Ended up being a great walk today. Didn’t start out the best – think the instructions and/or map were quite old. But recovered to be just excellent.&#160; Images – including 3D Google Earth view and Google Map links at end. 
 
 In summary:
@@ -34,4 +36,3 @@ And a [few photos](http://www.flickr.com/photos/artwill/sets/72157622345260203/d
 
 ---
 
-> [!info] Original Published Date : *2009-07-24*

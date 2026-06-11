@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2009-06-20*
+
 #### As presented on Saturday June 20th 2009 by me!
 
 At Williamstown Library
@@ -51,4 +53,3 @@ Astronomy related news [http://www.universetoday.com/](http://www.universetoday.
 
 ---
 
-> [!info] Original Published Date : *2009-06-20*

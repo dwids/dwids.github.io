@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2008-06-25*
+
 Well well. Nearly 10 years after the TiVo hit America we finally get it here. This hard drive Personal Video Recorder lets you record TV shows &#8211; these days two shows at once &#8211; and play them back later. Unlike VCRs you can start playing back a show as it&#8217;s still recording.  Depending on the model other things are available too, including:
 
 - Playing back of an earlier show, whilst two others are being recorded
@@ -38,4 +40,3 @@ Quote from [IMDB](http://www.imdb.com/title/tt0583650/)
 
 ---
 
-> [!info] Original Published Date : *2008-06-25*

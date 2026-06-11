@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2024-10-17*
+
 My New Blog is an independent publication launched in October 2024 by David Sidwell. If you subscribe today, you'll get full access to the website as well as email newsletters about new content when it's available. Your subscription makes this site possible, and allows My New Blog to continue to exist. Thank you!
 
 ### Access all areas
@@ -33,4 +35,3 @@ Enjoying the experience? Get started for free and set up your very own subscript
 
 ---
 
-> [!info] Original Published Date : *2024-10-17*

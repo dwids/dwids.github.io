@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2008-07-29*
+
 Was a sunny but cool day today, so decided to take the new GPS out for a spin and get some exercise at the same time. The Organ Pipes is a natural rock formation quite close to Melbourne; the exit is literally off the Calder Freeway near Keilor.  They were formed millions of years ago when lava cooled slowly and cracked into quite regular columns. Erosion exposed them and they are now on the side of a hill on a river bend. And yes, from the Parks Victoria page, [they really do look like organ pipes](https://www.parks.vic.gov.au/places-to-see/parks/organ-pipes-national-park)
 
 Before I left home I knew there were at least a few interesting things to see whilst visiting this Park; the Pipes themselves plus another interesting formation called the Rosette Rock. I wanted to get their exact GPS locations (latitude and longitude) and put them into the GPS before I left. I&#8217;m still searching for a list on the web of such &#8216;waypoints&#8217;, but no luck so far. So went to Google Earth, zoomed in&#8230;and using some of the external data (layers) was easily able to find the Pipes and the Rock.
@@ -25,4 +27,3 @@ One final comment on this National Park. When I first visited it in the early 19
 
 ---
 
-> [!info] Original Published Date : *2008-07-29*

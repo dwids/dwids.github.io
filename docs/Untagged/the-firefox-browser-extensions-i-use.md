@@ -11,8 +11,9 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2006-01-22*
+
 [Firefox ](http://www.mozilla.org/products/firefox/)is an excellent browser if you are using Windows (or Linux or Mac). Besides the enhanced security, performance and tabbed browsing compared to I.E. , I also love the range of extensions available. Here&#8217;s my [current list ](http://artwill.com.au/hosted/ExtensionsList.html)of extensions.   Move your mouse over a link to get a description of each extension.
 
 ---
 
-> [!info] Original Published Date : *2006-01-22*

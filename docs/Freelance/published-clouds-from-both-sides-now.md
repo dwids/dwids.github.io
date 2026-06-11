@@ -11,10 +11,11 @@ cover:
 description: Early days of creating timelapse videos of clouds. Using your webcam and free sofware.
 ---
 
+> [!info] Original Published Date : *2005-06-02*
+
 To quote from today&#8217;s *Age*, *Livewire *section in the Green Guide: &#8220;Stimulate your movie-making muse with the vagaries of the weather, writes David Sidwell.&#8221;
 
 Hey that&#8217;s me. And [here it is](http://www.theage.com.au/news/Livewire/Clouds-from-both-sides-now/2005/06/01/1117305625084.html)
 
 ---
 
-> [!info] Original Published Date : *2005-06-02*

@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2008-06-16*
+
 I&#8217;ve installed Ubuntu Linux, oh, about 6 times I&#8217;d guess. Pretty much flawless each time. But not recently. I wanted to put a new 320 GB disk into a very old PC. Previously this had a much smaller disk &#8211; it can only support one drive &#8211; and it too was running Ubuntu.
 
 So at 4pm I plugged in the drive and off it went installing the latest Ubuntu. I gave up nearly 5 hours later. It spent what seemed like 2 hours doing (waiting for?) some sort of language thing. . What a pain. All I wanted was a simple, CLI &#8211; that means Command Line Interface (no Windowed GUI) server.  I then tried another way and it finally installed&#8230;but only after waiting for what seems like an hour for a linux kernel to install.
@@ -23,4 +25,3 @@ Following morning it was back to Ubuntu&#8217;s older, wiser brother, Debian Lin
 
 ---
 
-> [!info] Original Published Date : *2008-06-16*

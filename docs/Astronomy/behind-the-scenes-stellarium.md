@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2020-05-14*
+
 Whilst the excellent astronomy software *Stellarium* is most probably used ‘interactively’ (as in using the mouse and on-screen options), behind the scenes you can **automate** it. That means have a series of instructions in a ‘text’ file and just run them.  Yes, a bit like an Office macro. 
 
 Naturally this leapt out at me and I said “sweet – something new – and useful – to learn!”. *Useful* because I have a list of Astronomy Introduction topics in mind and such automation would be very helpful here. 
@@ -27,4 +29,3 @@ I’ve actually broken the back of the core things I want to do. Now time to put
 
 ---
 
-> [!info] Original Published Date : *2020-05-14*

@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2006-09-18*
+
 If you wanted to compress a movie (say a DVD) down to fit on a CD and use modern compression schemes; yes AVC (via the X264 codec) and AAC for the audio&#8230;what sort of length movie could you use and still get good results?
 
 Assume
@@ -35,4 +37,3 @@ You could increase this quality by using one of the &#8216;slower&#8217; (HQ or 
 
 ---
 
-> [!info] Original Published Date : *2006-09-18*

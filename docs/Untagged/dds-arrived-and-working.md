@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2005-03-15*
+
 David&#8217;s Data Server &#8211; the old Athlon 1.4 GHz PC &#8211; has arrived home, with 4 hard drives. Again they too are old, but hey for virtually nothing I&#8217;ve now got a data server with like 150 GB.
 
 They guys did a good job, leaving the original boot drive in place, so it still boots both Linux and Windows XP.
@@ -81,4 +83,3 @@ The linux fdisk utility shows all 4 disks and lots of partitions. For the geeks 
 
 ---
 
-> [!info] Original Published Date : *2005-03-15*

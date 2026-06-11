@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2008-05-25*
+
 I am a big fan of the movie homage ; when one film pays a small tribute to another film. Indeed it doesn&#8217;t have to be film-to-film; current TV shows like The Office (US version), 30 Rock, My Name is Earl and even &#8211; wait for it &#8211; Australian Big Brother regularly have little in-jokes (asides, allusions) that movie fans give a quiet, appreciative nod to.
 
 Big Brother recently said &#8220;love the suit&#8221;&#8230;thereby making me hungry for some fava beans and a nice chianti.
@@ -27,4 +29,3 @@ And we&#8217;re not done yet. In the same movie, Lucas also has E.T. visible. No
 
 ---
 
-> [!info] Original Published Date : *2008-05-25*

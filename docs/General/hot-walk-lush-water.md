@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2005-12-30*
+
 Today was the 5th and final day of the cricket at the MCG. Went along, and knowing it was going to be hot, we sat in the shade. Initially that was upstairs in the magnficant new Northern Stand, but as the play went on longer than expected, we wandered upstairs. By this stage it was about 12:30 and already 37c.
 
 South Africa hung on for longer than most people (me included) tipped. Despite losing their 9th wicket in the final over before lunch, the rules apparently don&#8217;t allow for even a 15 minute extension. Strange. So we all waited 40 minutes. The players returned and it was then all over in less than 5 minutes.
@@ -21,4 +23,3 @@ Anyway found what I wanted and was talking to the two store ladies about the hea
 
 ---
 
-> [!info] Original Published Date : *2005-12-30*

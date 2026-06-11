@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2014-06-11*
+
 Quicknotes and Map of our holiday Monday walk (June 9th 2014). It’s the spontaneous ones that often work out the best. And this was a prime example.
 
 Here’s a map, using OziExplorer with the Open Street Maps (aka “Internet Maps”).   Red outbound, left then clockwise. Blue back to the car, with the dotted line an alternate route back. Click for full size
@@ -67,4 +69,3 @@ The old boatshed on the lake
 
 ---
 
-> [!info] Original Published Date : *2014-06-11*

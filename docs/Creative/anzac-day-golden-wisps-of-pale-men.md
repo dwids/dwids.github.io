@@ -11,6 +11,8 @@ cover:
 description: Reflections on my Grandfather (Pa Hudson), his Brother and their service to our country in WWII.  Lest We Forget.
 ---
 
+> [!info] Original Published Date : *2004-04-25*
+
 I went in search of gold and there, in the filtered light, I found the leg.
 
 It&#8217;s probably 25 years ago and I am in my mid-teens; a cocktail of straggly long hair, Brut with a dash of Uncle Sam and all bubbling under something brightly polyester. My grandfather has not long passed away and I&#8217;m in his back shed.
@@ -42,4 +44,3 @@ Behind him I can nearly see the thousands of pale and wispy men in uniforms. I s
 
 ---
 
-> [!info] Original Published Date : *2004-04-25*

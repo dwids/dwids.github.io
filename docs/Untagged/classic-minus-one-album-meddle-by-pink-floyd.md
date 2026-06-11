@@ -10,6 +10,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2008-06-17*
+
 ![](41Y1XQ2JBBL._AA60.jpg)The second [Classic Minus One](classic-albums-minus-one-revolver.md) starts with Pink Floyd&#8217;s 1973 mega-album Dark Side of the Moon. Their previous album-album was 1971&#8217;s Meddle. Why album-album? Well in 1972 they recorded a soundtrack for the movie Obscured by Clouds.  So I mean non-soundtrack-album.
 
 The thing for me with Meddle is the one track. In fact back when albums had sides, this one song took up all of Side Two. It&#8217;s their masterpiece Echoes. 
@@ -28,4 +30,3 @@ No, I&#8217;m not kidding. That&#8217;s the image these amazing sounds create wh
 
 ---
 
-> [!info] Original Published Date : *2008-06-17*

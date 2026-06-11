@@ -11,10 +11,11 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2013-08-17*
+
 Trip to National Gallery of Victoria today. Took a single video clip with the Galaxy SIII and dropped it into PE. Taught myself how to use it and created this clip.
 
 [https://dl.dropboxusercontent.com/u/1569889/DavidS_NGV_Aug_2013.mp4](https://dl.dropboxusercontent.com/u/1569889/DavidS_NGV_Aug_2013.mp4)
 
 ---
 
-> [!info] Original Published Date : *2013-08-17*

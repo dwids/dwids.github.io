@@ -11,10 +11,11 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2008-08-01*
+
 Ouch. Didn&#8217;t like reading the reports in yesterdays Green Guide (page 14) that ABC TV&#8217;s The Hollowmen was &#8220;slipping in appeal&#8221; and was &#8220;No. 54 in Melbourne&#8221;&#8230;.and &#8220;No. 68 Nationally&#8221;.  I wonder why. Is it too clever by half? Are people finding the storylines somehow predictable? Are the characters actions also predictable?  Too limited appeal? Bad timing with a (relatively) new government in power?
 
 All these questions. I&#8217;m sure that someone is doing the qualative analysis. Particularly when the ABC had agreed to Series 2 before the first episode of Series 1 even went to air.
 
 ---
 
-> [!info] Original Published Date : *2008-08-01*

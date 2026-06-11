@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2008-05-24*
+
 Done: May 22nd 2008
 
 Weather forecast was for fog, then clearing and so off I went to tackle Mt Macedon for the first time. Parks Victoria has a good [web page](http://www.parkweb.vic.gov.au/1park_display.cfm?park=137) on this, including a PDF that has the walk(s) and a map. It&#8217;s called &#8220;Macedon Regional Park &#8211; Walking Trails&#8221;
@@ -27,4 +29,3 @@ Rating: very good. About 7km one-way from township to Camels Hump. So start befo
 
 ---
 
-> [!info] Original Published Date : *2008-05-24*

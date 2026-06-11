@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2005-05-25*
+
 Saw  an ad on TV last night for a new plasma TV with a built in high-definition tuner. Normally you have to have an external set top box (STB)  and run a cable from it to the TV. If said TV is thin and hanging on your wall &#8211; TV as moving painting &#8211; these cables are quite unsightly.
 
 Hence the ad shows the cable fading away to reveal just the TV on the wall. The slogan appears: &#8220;cables suck&#8221;.
@@ -21,4 +23,3 @@ So to achieve the view as seen on the ad,  you must hide the power and aerial ca
 
 ---
 
-> [!info] Original Published Date : *2005-05-25*

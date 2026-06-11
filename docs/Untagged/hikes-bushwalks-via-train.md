@@ -11,10 +11,11 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2015-12-02*
+
 An interesting question came up yesterday, what sort of good bushwalks can you do, that are accessible by train?  We are assuming day-trips; back the same day. My first thoughts – as I said ![Smile](84b22-wlemoticon-smile.png) where The Dandenongs: Belgrave Station (where Puffing Billy departs from).  I’ll update this later when I work out what walks go from there. 
 
 Another idea may be a country bus trip or combined train/bus trip. Time for some research.
 
 ---
 
-> [!info] Original Published Date : *2015-12-02*

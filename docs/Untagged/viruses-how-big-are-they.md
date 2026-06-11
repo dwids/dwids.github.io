@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2020-05-09*
+
 I know they are small and they get inside cells. But how big are the viruses and the cells? My focus is the current *Coronavirus* strain, which causes COVID-19.
 
 I have to say these are only my *estimates* after browsing scientific papers and articles…and in an area I know very little about. However I’m only looking for order-of-magnitude comparisons.
@@ -70,4 +72,3 @@ So there seems to be no way to see the tiny viruses in a ‘normal’ (optical) 
 
 ---
 
-> [!info] Original Published Date : *2020-05-09*

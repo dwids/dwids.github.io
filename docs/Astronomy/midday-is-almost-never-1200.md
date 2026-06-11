@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2020-04-09*
+
 So, check this out: here in Melbourne the exact middle of the day (aka *midday*) is almost never 12:00 local time.  From what I can see it&#8217;s actually **never** 12:00 here, but I&#8217;m still checking.  
 
 What defines the middle of the day?  The symmetry of the Sun&#8217;s path in the sky does (1). 
@@ -41,4 +43,3 @@ There&#8217;s a lot to explore here, so we&#8217;ll leave this for now and retur
 
 ---
 
-> [!info] Original Published Date : *2020-04-09*

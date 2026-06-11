@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2005-12-31*
+
 Currently just after 7:30am and only 20c, but the forecast is for 42c here in Melbourne. Should this happen, it will be the hottest recorded December day ever &#8211; since records began in the 1800s. 
 
 Total fire ban for most of Victoria. With the hot North wind &#8211; which feels like that blast you get when you open an over door, only it doesn&#8217;t stop &#8211; the bushfire alert is probably extreme. Fingers crossed that nothing happens.
@@ -19,4 +21,3 @@ Also, the weather guys were saying it &#8216;only&#8217; has to hit 32c to make 
 
 ---
 
-> [!info] Original Published Date : *2005-12-31*

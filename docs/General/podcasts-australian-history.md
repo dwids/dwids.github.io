@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2020-04-08*
+
 After yesterday covering [some practical tips on Podcasts](podcasts-practical-tips.md), including accessing &#8216;archived&#8217; ones (mp3 files), it&#8217;s time to have a look at some of the Australian History ones I&#8217;ve discovered over the years.
 
 ### The History Listen 
@@ -59,4 +61,3 @@ https://player.fm/series/series-2224279
 
 ---
 
-> [!info] Original Published Date : *2020-04-08*

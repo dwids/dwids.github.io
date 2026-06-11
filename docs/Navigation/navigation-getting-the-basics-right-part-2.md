@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2016-06-26*
+
 This is not directly related to [[navigation-getting-the-basics-right-part-1|Part 1]], but similar concepts : you need to get the underlying basic setup – or measurement system – right.
 
 Just a week ago we were out for a walk by the sea along Pt Gellibrand here in Williamstown. On the other side of the bay, we spotted an obvious point, but were unsure what it was. It was misty, so hard to see details. I took some phone photos and went back the following day to take some with a camera. Again it was misty (double click to zoom in on all photos):
@@ -38,4 +40,3 @@ Seems pretty right to me. Just need to work out what the two towers are. And don
 
 ---
 
-> [!info] Original Published Date : *2016-06-26*

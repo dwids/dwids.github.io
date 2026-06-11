@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2005-03-11*
+
 Work is progressing on turning my old spare-room Athlon 1.4 GHz PC into a data server.  That would be a 4 disk drive system running Linux (Debian) and Samba ; so my Windows PC can &#8216;see&#8217; the data over the LAN.
 
 It&#8217;s currently off with my local PC guru store whose mission is  &#8211; and I quote from my own note to them :
@@ -33,4 +35,3 @@ The system currently dual-boots Windows XP and Linux. Not for long.  Windows  wi
 
 ---
 
-> [!info] Original Published Date : *2005-03-11*

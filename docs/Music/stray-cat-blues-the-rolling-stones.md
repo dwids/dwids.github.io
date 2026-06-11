@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2011-02-25*
+
 To get started &#8211; a confession. I first heard this as a live cover on the excellent [RocKwiz ](http://www.sbs.com.au/rockwiz/)TV show. It was Chris Cheney & Chrissy Amphlett doing a rip-roaring duet at the end of the show, backed by the excellent Orkestra house-band.   Twas only after that did I hunt down the 1968 original; off the Stones&#8217; Beggars Banquet LP. It&#8217;s a beauty.
 
 Yes, I really like Mick and the boys, but don&#8217;t know that much of their stuff. So another 2-parter follows. Firstly the Rolling Stones:
@@ -25,4 +27,3 @@ Sadly Chrissy passed away after this cover was done.
 
 ---
 
-> [!info] Original Published Date : *2011-02-25*

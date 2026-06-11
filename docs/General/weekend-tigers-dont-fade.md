@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2005-05-09*
+
 I arrived at the ground late due to the kids and as we walked past a radio an announcer said “so that makes it seven goals four to nothing”. I stopped and nearly turned to go home until he mentioned that it was the blues who were zero. It was a bit weird arriving at a game that was already over but I enjoyed the last three quarters. I can’t remember the last time we beat one of the big three (blues, magpies, bombers) by more than forty points let alone eighty.
 
 Besides Coughlan who was sensational the stars of the day were in the backline. Despite that 7.4 – 0.2 score line at quarter time we only had two more inside fifties. It just seemed like every time they bombed it in one of Kellaway, Newman or Gaspar would take a mark. Then up the other end our guys were just too tall on occasions and as a result they didn’t pay any attention to two small guys in Brown and Krakouer. At one stage Brown took the ball out of Houlihan’s hands, strolled to the fifty metre line on the boundary on the wrong side for a left footer and he slotted it through. That was the point where I think all the Richmond supporters stopped worrying about any fight back.
@@ -21,4 +23,3 @@ The bombers aren’t very happy about the fifty metre penalty, I hope it doesn�
 
 ---
 
-> [!info] Original Published Date : *2005-05-09*

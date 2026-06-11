@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2008-06-16*
+
 One of those, hey why didn&#8217;t I think of that ideas.
 
 Your hand-held camcorder/phone etc video is always going to wobble. So the subject moves around within the fixed frame.
@@ -21,4 +23,3 @@ Original article at [LifeHacker](http://www.lifehacker.com.au/tips/2008/06/14/_m
 
 ---
 
-> [!info] Original Published Date : *2008-06-16*

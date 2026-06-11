@@ -11,6 +11,8 @@ cover:
 description:
 ---
 
+> [!info] Original Published Date : *2013-08-07*
+
 I appreciate that *The Age* – and other papers – are doing it tough.  **I am going to pay them for access to their content**. But the process and offerings are confusing.
 
 They basically have 2 ‘digital’ offerings: Website Only or Website plus Tablet. I went for the Website plus Tablet. At $1 for the first month it, was a great deal (then only $25 pm after that)
@@ -49,4 +51,3 @@ Note: I corrected the original ‘are clear’ to ‘are **not** clear’ with a
 
 ---
 
-> [!info] Original Published Date : *2013-08-07*

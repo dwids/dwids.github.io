@@ -11,6 +11,8 @@ cover:
 description: In 2008 I got my first proper, hand-helo GPS unit
 ---
 
+> [!info] Original Published Date : *2008-07-28*
+
 > **01 Apr 2026 update**:  In 2008 I got my first proper hand-held, stand-alone GPS unit. Our dollar was effectively at parity with the USD.  Found the invoice in gmail. \$232.99 + \$50.50 (shipping) = **\$283.49** (shipped).  Retailer gone (?) so product link now to nice external page at the wonderful OSM site.
 
 Take 3 on this 'get a GPS' idea. My *first* GPS was some years ago, but it wouldn’t work with rechargeable batteries (despite the store saying it would). But they were cool about it and gave me a full refund. Particularly when they themselves couldn’t even fit the rechargeable’s inside the unit.
@@ -29,4 +31,3 @@ Anyway it’s a [Garmin eTrex Vista HCx](https://wiki.openstreetmap.org/wiki/Gar
 
 ---
 
-> [!info] Original Published Date : *2008-07-28*

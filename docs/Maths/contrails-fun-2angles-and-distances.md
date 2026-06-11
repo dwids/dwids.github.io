@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2013-06-30*
+
 After  [[contrail-fun-1430-on-sunday-oct-28th-2012 |last years first episode]] 
 with contrails, another one popped up today.  During a late afternoon walk, on a sunny Winter’s day, I saw a great contrail right over the Melbourne area:
 
@@ -48,4 +50,3 @@ Very close to my 5 to 10 degrees. Yay me.
 
 ---
 
-> [!info] Original Published Date : *2013-06-30*

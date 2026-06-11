@@ -11,10 +11,11 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2013-04-14*
+
 Up until a few years ago – and I literally mean about 2010 – I thought “they” couldn’t make ice until we started using electricity. I mean historically. Again, like the “[no waves in winter](things-i-once-thought.md)” one, it was a deduction based on an observation: if the power goes off at home today, the ice in the fridge melts.  
 
 By compressing a gas – I assume using steam machines – they could create a ‘heat exchanger’ and thus cool water down below freezing point. [Wikipedia](http://en.wikipedia.org/wiki/Icemaker) points out there were functioning and patented ice-making machines in the 1850s. Edison wasn’t doing his stuff with electricity until about the 1880s.
 
 ---
 
-> [!info] Original Published Date : *2013-04-14*

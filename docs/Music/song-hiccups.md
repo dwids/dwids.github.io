@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2020-05-17*
+
 I guess, if you’re really into music, you’ll pick up the occasional flub/hiccup in the recording of – or playing on – a song. Maybe they are deliberate or perhaps I’m just imaging them.
 
 Here are a few ones that jump out at me (best with headphones on, usually. Makes it easier)
@@ -59,4 +61,3 @@ Actually not really…
 
 ---
 
-> [!info] Original Published Date : *2020-05-17*

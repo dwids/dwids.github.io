@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2004-06-24*
+
 As the title of the Blog hints at, I&#8217;m very interested in the convergence of Machine and Human. Where Technology meets Biology.
 
 Now, I know I&#8217;m not the first to do this. Indeed last year, I saw Shane Gehlert&#8217;s fascinating [Cyber Kangaroo](http://www.outbackart.com.au/Gallery/Cyber-Kangaroo_Series/cyber-kangaroo_series.html) work on display at Broken Hill.
@@ -31,4 +33,3 @@ It&#8217;s at the Bendigo Art Gallery for a few more days. PP has a sample of [W
 
 ---
 
-> [!info] Original Published Date : *2004-06-24*

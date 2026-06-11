@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2005-03-16*
+
 DDS (David&#8217;s Data Server) is in a spot of trouble. Actually 3 spots.
 
 To recount: it has 4 hard drives, 1 floppy and no CD nor DVD. Linux and Windows are installed &#8211; on the first drive &#8211; and working. A boot menu &#8211; LILO &#8211; lets me boot either.
@@ -46,4 +48,3 @@ So from being happy about DDS I&#8217;m now in sad land. Lots of thinking to do.
 
 ---
 
-> [!info] Original Published Date : *2005-03-16*

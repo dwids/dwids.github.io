@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2008-04-23*
+
 Done on April 23rd 2008
 
 Now this was a spectacular and challenging walk. I&#8217;d rate it as medium/difficult &#8211; for the steepness and terrain &#8211; but well worth it. The only hiccup for me was the smoke. A controlled burn-off and still conditions conspired to have the smoke linger for days, so the views were smoke-limited.
@@ -23,4 +25,3 @@ A highly rated walk. You really should wear sturdy boots and take a walking pole
 
 ---
 
-> [!info] Original Published Date : *2008-04-23*

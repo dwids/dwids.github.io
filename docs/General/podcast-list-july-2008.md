@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2008-07-16*
+
 I reckon I&#8217;d weigh 15 kilograms more if it wasn&#8217;t for [Podcasts](http://www.abc.net.au/services/podcasting/help.htm#what). As much as I love music, I prefer to be informed and/or educated during my daily walks and that&#8217;s what my Podcasts are for.  Now that I&#8217;ve joined a Gym,  I may listen to the less-demanding music a bit more, but for now it&#8217;s Podcasts. And here&#8217;s my list of ones I subscribe too in iTunes.  These are audio-only, so *ABC* means ABC *Radio*, usually Radio National.
 
  
@@ -54,4 +56,3 @@ I reckon I&#8217;d weigh 15 kilograms more if it wasn&#8217;t for [Podcasts](htt
 
 ---
 
-> [!info] Original Published Date : *2008-07-16*

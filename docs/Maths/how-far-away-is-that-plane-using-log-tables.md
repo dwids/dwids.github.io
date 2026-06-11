@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2017-12-09*
+
 Today I took this phone snapshot of a great plane trail. It was *about* 3pm, looking *about* West.  
 
 ![[515dd-img_20171209_150219.jpg]]
@@ -69,4 +71,3 @@ With the result being **21.39** km.  Not bad. Not bad at all.
 [^3]: http://flightaware.com/live/flight/QFA64/history/20171208/1650Z/FAOR/YSSY/tracklog
 
 
-> [!info] Original Published Date : *2017-12-09*

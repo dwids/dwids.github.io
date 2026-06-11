@@ -7,6 +7,8 @@ slug: hanging-rock-and-me
 description: 
 ---
 
+> [!info] Original Published Date : *2020-05-11*
+
 A few items to do with my interactions with the location and film *Picnic at Hanging Rock*.  No other place – nor movie – has quite the hold on me.  I only live about one hour's drive from The Rock.
 
 ![[ds_hanging_rock01.jpg]]
@@ -94,4 +96,3 @@ He was true to his word and discussed this on an ABC RN Podcast in 2011. The ABC
 
 ---
 
-> [!info] Original Published Date : *2020-05-11*

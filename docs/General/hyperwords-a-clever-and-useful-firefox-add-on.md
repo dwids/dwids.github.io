@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2008-06-19*
+
 Besides being open and fast, the Firefox browser also allows you to add-on add-ons. These are small mini-programs that [enhance the functionality](https://addons.mozilla.org/en-US/firefox) of this already terrific web browser. 
 
 One of my favourites is the free [Hyperwords](http://www.hyperwords.net/). Once installed you right click on a word or phrase and a most clever menu pops up. From this menu you can easily take that word/phrase and do lots of smart searches. For example look for it on Google, Wikipedia, Amazon, eBay, Flickr etc etc.
@@ -25,4 +27,3 @@ Highly recommended. And great at the price.
 
 ---
 
-> [!info] Original Published Date : *2008-06-19*

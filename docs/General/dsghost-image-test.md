@@ -11,10 +11,11 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2024-10-22*
+
 The body of this post has no images, just text. The feature image I chose is **dsGhost.png **(2000 x 1125 px, original size). 
 
 The objective is to see where Ghost puts the iPad-ready (resized?) version of it. Also for Pixel 8a testing too.
 
 ---
 
-> [!info] Original Published Date : *2024-10-22*

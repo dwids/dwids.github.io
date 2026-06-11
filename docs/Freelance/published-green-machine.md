@@ -11,11 +11,12 @@ cover:
 description: Network Storage - Your old PC can be used as storage for the new PC.
 ---
 
+> [!info] Original Published Date : *2005-09-10*
+
 Your old PC can be used as [remote ](http://www.theage.com.au/news/livewire/green-machine/2005/09/06/1125772526609.html)storage for the new PC.
 
 ---
 
-> [!info] Original Published Date : *2005-09-10*
 
 
 Your old PC can be used as storage for the new PC.

@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2008-04-09*
+
 Done: April 9th, 2008
 
 This is all my own doing, as in I didn&#8217;t use a book for this one. Rather than drive to the lovely Steavensons Falls, it&#8217;s more fun to walk up  to them from the main street of Marysville. Then a fun climb up the mountain, reveals great views at the Lookout
@@ -31,4 +33,3 @@ There are walks that continue &#8216;forward&#8217; rather than returning the sa
 
 ---
 
-> [!info] Original Published Date : *2008-04-09*

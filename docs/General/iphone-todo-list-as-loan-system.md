@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2009-09-28*
+
 Over the years I have loaned out assorted DVDs and books, then totally forgotten who has what. Indeed just 2 days ago a friend returned 3 DVDs and a book. And I swear I had no idea they had them.
 
 I had flagged the idea of looking for a specialty ‘loan manager’ application for the iPhone (iPod Touch).&#160; One where I could record the key info (media type, media name, person, date loaned).&#160; With thousand and thousands of apps out there, surely there would be a little database one to do this.
@@ -25,4 +27,3 @@ Both the iPhone app and the Toodledo then let me quickly look at my *Loans Outbo
 
 ---
 
-> [!info] Original Published Date : *2009-09-28*

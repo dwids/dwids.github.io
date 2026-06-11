@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2009-05-02*
+
 Today I spent a fun hour at an excellent chat session hosted by Wayne Hope and Robyn Butler, the creative team behind [The Librarians](http://en.wikipedia.org/wiki/The_Librarians_(TV_series)) (etc!).&#160; This was part of a local festival[http://www.willylitfest.org.au/](http://www.willylitfest.org.au/).&#160; It was a packed house and Robyn and Wayne brought their young daughter along. She sat quietly playing with her colouring on the side of the small stage area.
 
 They told a few anecdotes, but it was mainly questions from the floor. Naturally I got a few in, plus had a good chat to Wayne afterwards. We share a common interest in spotting people who are bluffing, both in the workplace and outside of it.&#160; 
@@ -28,4 +30,3 @@ Again as Prof Langton was preparing, a rather familiar looking lady was standing
 
 ---
 
-> [!info] Original Published Date : *2009-05-02*

@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2008-03-22*
+
 Easter and some (extended) family were off to the Grampians to go camping. I had been invited and &#8211; at the last minute &#8211; decided to head up that way. On a beautiful Autumn day, I then took a whole gang up the wonderful Hollow Mountain walk at the very &#8216;top&#8217; (North) of the Grampians.
 
 It was the first time any of them had been up Hollow Mountain and I do believe they loved it ; despite a few obvious reservations! 
@@ -27,4 +29,3 @@ It&#8217;s a magical place and one well worth visiting. Walk is basically:
 
 ---
 
-> [!info] Original Published Date : *2008-03-22*

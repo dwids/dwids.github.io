@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2020-06-03*
+
 A film review from the archives, but with a difference. To quote from an email I sent to a friend on Dec 7th, 2004 (so 8 years after this review):
 
 *On the recent Grampians trip, I received a voicemail message. It was one Nick Parsons, writer and director of the Australian film &#8220;Dead Heart&#8221;. Came out about 1996. The DVD is being put together, could he please use my review as part of the material that ships with the DVD?*
@@ -57,4 +59,3 @@ He says: &#8220;I&#8217;m just a fella&#8221;
 
 ---
 
-> [!info] Original Published Date : *2020-06-03*

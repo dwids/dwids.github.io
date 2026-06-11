@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2008-07-22*
+
 After a few years I&#8217;m looking at Docbook again. The theory is excellent, particularly for creating Technical or Help guides; you create your &#8216;document&#8217; once &#8211; in a neutral language/format &#8211; and then you can publish it in many ways. For example you can generate a:
 
 - PDF file  
@@ -60,4 +62,3 @@ Technorati Tags: [docbook](http://technorati.com/tags/docbook)
 
 ---
 
-> [!info] Original Published Date : *2008-07-22*

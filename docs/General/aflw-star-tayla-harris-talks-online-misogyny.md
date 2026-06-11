@@ -13,6 +13,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2020-05-14*
+
 The Age did a long-format article on AFLW champion Tayla Harris. It was published in their *Good Weekend* magazine on April 2020. It&#8217;s described as &#8220;Konrad Marshall&#8217;s story profiles the young female footy player and pugilist, Tayla Harris, who stood up to vicious online attacks sparked by a kicking photo.&#8221;
 
 In a clever piece of thinking it&#8217;s now a podcast, which has two sections:
@@ -27,4 +29,3 @@ I had no idea exactly what the trolls wrote about Tayla and this podcast covers 
 
 ---
 
-> [!info] Original Published Date : *2020-05-14*

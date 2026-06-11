@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2015-05-30*
+
 Just watched a great UK documentary on Hidden Britain where they went up Mt Ben Nevis &#8211; the highest mountain in the British Isles. I knew that Australia was very old and eroded away. So that our mountains were not high compared to Europe and the USA etc. But I was surprised when they said that Mt Ben Nevis was 1,344 metres. I thought “that doesn’t seem that high”.  So time for some quick research – on the Victorian and Australian peaks &#8211;  and a bit of Excel graphing. Turns out I was right:
 
 [![image](34330-image_thumb.png)](https://dwids.wordpress.com2020/03/2e882-image.png)
@@ -25,4 +27,3 @@ Notes:
 
 ---
 
-> [!info] Original Published Date : *2015-05-30*

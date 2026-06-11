@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2004-03-19*
+
 Firstly give yourself a pat on the back and a kangaroo stamp if you correctly got the song hint.
 
 But it&#8217;s the movie that intrigues me. I vaguely recall seeing The Day the Earth Stood Still  on some wonky, ripped and rolling video tape. Didn&#8217;t quite do it justice. So, the recent chance to see it &#8211; in a restored print too &#8211; on DVD, was just too much to resist.
@@ -23,4 +25,3 @@ What an intelligent and thoughtful, no&#8230;insightful film. Klaatu, we need yo
 
 ---
 
-> [!info] Original Published Date : *2004-03-19*

@@ -11,6 +11,8 @@ cover:
 description: How to keep track of all those passwords, aka using Password Manager (software)
 ---
 
+> [!info] Original Published Date : *2005-07-17*
+
 A LiveWire piece that looks at how to keep [track of all those passwords](http://www.theage.com.au/news/livewire/secret-service/2005/07/12/1120934248830.html)
 
 
@@ -18,4 +20,3 @@ A LiveWire piece that looks at how to keep [track of all those passwords](http:/
 > For a more recent update have a look at my blog article on [[BitWarden]]
 
 ---
-> [!info] Original Published Date : *2005-07-17*

@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2010-05-04*
+
 So, how &#8216;good&#8217; is the picture on a 1080p screen versus the older 720p and the even older, original analog Australian TV signal? 
 
 Some simple maths. 
@@ -33,4 +35,3 @@ Footnote: Due to [technical reasons](http://www.animationpost.co.uk/bitmaps/aspe
 
 ---
 
-> [!info] Original Published Date : *2010-05-04*

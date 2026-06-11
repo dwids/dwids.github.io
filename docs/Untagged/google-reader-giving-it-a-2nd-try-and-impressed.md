@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2008-06-12*
+
 RSS (Really Simple Syndication) allows a web site to provide a newsfeed (headlines, summaries) of their stories. This can range from an international newspaper to my humble blog, whereupon your eyes are now feasting.
 
 Users can then subscribe to that newsfeed and hence quickly find out when new articles are added to the original site&#8230;without having to go to that site as such.  An RSS reader is used to not only handle the subscriptions, but also regularly fetch and show the headlines/summaries. From there you can click on a link to read the main body of the story, if it interests you.
@@ -25,4 +27,3 @@ Initially I couldn&#8217;t see much benefit for me, but gave it a second chance 
 
 ---
 
-> [!info] Original Published Date : *2008-06-12*

@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2014-05-06*
+
 Someone asked me what I’d been up to since leaving Monash Uni. Well, here’s a quick summary, including those 4 great years at Monash.
 
 ## Work Stuff
@@ -33,4 +35,3 @@ I now love bushwalking, with a focus on Victoria.  That also takes in photograph
 
 ---
 
-> [!info] Original Published Date : *2014-05-06*

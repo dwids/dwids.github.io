@@ -11,8 +11,9 @@ cover:
 description: Digital photo editing and pasting people into photos.
 ---
 
+> [!info] Original Published Date : *2005-11-17*
+
 [Digital photo editing ](http://www.theage.com.au/news/software/back-in-the-picture/2005/11/15/1132016799342.html)and pasting people into photos. Melbourne *Age*, Green Guide, *Livewire *section. November 17, 2005
 
 ---
 
-> [!info] Original Published Date : *2005-11-17*

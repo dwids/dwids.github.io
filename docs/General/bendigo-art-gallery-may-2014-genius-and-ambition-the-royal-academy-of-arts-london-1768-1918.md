@@ -11,9 +11,10 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2014-05-27*
+
 [![](0d94f-davids_20140527_105927.jpg)](0d94f-davids_20140527_105927.jpg)
 2020 update: I think I just liked my photo.  Looking back I had selectively de-coloured just part of it. I can see why I liked it 🙂 
 
 ---
 
-> [!info] Original Published Date : *2014-05-27*

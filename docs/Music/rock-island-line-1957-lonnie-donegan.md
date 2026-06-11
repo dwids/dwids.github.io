@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2011-07-26*
+
 Beatles!  Some 30 years on I’m re-reading the excellent “*Shout! – The True Story of The Beatles*” by Phillip Norman.  Still have my original hardcover too.
 
 As I may have mentioned, I’m quite into meta-influences; that is who influenced artists I like. And the book makes it clear that John and Paul et al looked up, with wonder, at Lonnie Donegan. In fact it says that “…(in 1956)…it was after seeing Lonnie Donegan that Paul began clamouring for a guitar” [p28]
@@ -23,4 +25,3 @@ It certainly starts slowly, but then rapidly builds up as the train, travelling 
 
 ---
 
-> [!info] Original Published Date : *2011-07-26*

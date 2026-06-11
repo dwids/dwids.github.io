@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2016-07-07*
+
 I’m just reading the final chapters of the excellent [Apollo book.](https://www.amazon.com/dp/B00DWKPN02/ref=dp-kindle-redirect?_encoding=UTF8&amp;btkr=1#navbar) I had no idea that the crew of Apollo 12 witnessed the Earth eclipsing the Sun!
 
 Mission planners knew that, on the way back, the Earth would block the Sun. But nothing special was planned.
@@ -27,4 +29,3 @@ This was the first time any human had seen this. And the last. No other Apollo c
 
 ---
 
-> [!info] Original Published Date : *2016-07-07*

@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2004-12-12*
+
 There&#8217;s been some talk about this new Twenty 20 Cricket being played in the UK.  Instead of a 2&#215;50 over one-day format, this is less than half of that;  2&#215;20 overs.  Seems to be played between counties and as night matches. Hence it&#8217;s probably closer in duration to an AFL or Rugby game.  I&#8217;ve got no doubt that Cricket Australia are eyeing this format off. Perhaps interstate games as a trial, then the Australian team.
 
 Scores, per 20 over innings,[ seem to be around](http://www.thetwenty20cup.co.uk/pages/season04/fixtures.asp) the 150 to 170 mark.  This would suggest a run rate of well over 1 run per ball. But &#8211; as you can see below &#8211; with new penalties for things like batsmen not being ready, it may be even greater.
@@ -39,4 +41,3 @@ The main thing than interested me were the rules.  These below, which come from 
 
 ---
 
-> [!info] Original Published Date : *2004-12-12*

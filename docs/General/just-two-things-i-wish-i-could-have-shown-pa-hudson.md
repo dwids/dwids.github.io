@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2020-05-01*
+
  
 
 My maternal grandfather was Arthur William Hudson. He passed away, suddenly, in early September 1977. He had just turned 64. I was 16 and really only just properly getting into science and maths. That last bit is important as Pa was an engineer.
@@ -46,4 +48,3 @@ Just weeks after Arthur William Hudson passed away, Elvis Aaron Presley died. Wh
 
 ---
 
-> [!info] Original Published Date : *2020-05-01*

@@ -14,6 +14,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2015-07-13*
+
 A little time capsule. Let’s re-open in a year to see how wrong I was ![Smile](41ef2-wlemoticon-smile.png)  
 
 I have zero inside knowledge. Just bringing together some threads from the recent few weeks;
@@ -27,4 +29,3 @@ So here’s my speculation as of 8:05am on Monday July 13th 2015:
 
 ---
 
-> [!info] Original Published Date : *2015-07-13*

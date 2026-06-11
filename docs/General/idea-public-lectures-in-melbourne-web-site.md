@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2008-05-27*
+
 In the last few days I&#8217;ve been to two very good public lectures. One was on Lake Mungo and the other on William Buckley and William Barak. 
 
 If a friend hadn&#8217;t pointed out the first one, I&#8217;d never have known about it.  This got me thinking.
@@ -27,4 +29,3 @@ Mmmm. Messy. And is it my decision or should the reader/user decide?  Or perhaps
 
 ---
 
-> [!info] Original Published Date : *2008-05-27*

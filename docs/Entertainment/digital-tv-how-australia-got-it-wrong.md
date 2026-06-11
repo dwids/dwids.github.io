@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2005-04-29*
+
 I&#8217;m not sure why it happened or &#8211; worse still &#8211; who forced things, but  Australia (to wit: the federal government) has really screwed up digital TV. This is free-to-air, not pay TV. Don&#8217;t get me started on pay TV&#8230;
 
 First some basic technical stuff about TV. It&#8217;s not hard, trust me.
@@ -41,4 +43,3 @@ To my way of thinking Standard Definition should be relaunched with just such a 
 
 ---
 
-> [!info] Original Published Date : *2005-04-29*

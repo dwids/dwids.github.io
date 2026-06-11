@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2007-04-03*
+
 Personal Video Recorders (PVR) are all the go. They let you record digital TV, usually to a hard drive.  I myself prefer hard drives over the &#8216;record to DVD&#8217; models; extra capacity and &#8211; if you choose correctly &#8211; you can always burn a DVD copy of the show from hard drive anyway. 
 
 At their simplest a PVR can replace your current VHS video recorder, but with extra functions, such as the ability to watch and record at the same time. Even these models can support the use of an Electronic Program Guide, so you can record West Wing simply by selecting it&#8217;s name from a menu (rather than manually: Channel Blah at Blah O&#8217;clock on a Saturday for 90 minutes)
@@ -41,4 +43,3 @@ Powered by [ScribeFire](http://scribefire.com/).
 
 ---
 
-> [!info] Original Published Date : *2007-04-03*

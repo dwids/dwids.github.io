@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2015-04-12*
+
 # Mt Beckworth walk update (Feb 2015)
 
 I had tried this walk before back in Oct 2009. Allow me to quote myself, from an email I sent at the time: 
@@ -102,4 +104,3 @@ Clearly there are other ways.  And part 2 of 2 is next. The green bit on the LHS
 
 ---
 
-> [!info] Original Published Date : *2015-04-12*

@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2005-03-26*
+
 ![During recent works on DDS and related](http://www.artwill.com.au/images/dsIMG_0081.jpg)
 
 Here&#8217;s a snapshot, both literally and figuratively, of me today. I&#8217;m trying to work out if/why a certain disk drive that was part of my &#8220;PC reborn as a data server&#8221;&#8230;is playing up. Labelled for your viewing pleasure.
@@ -42,4 +44,3 @@ I am very, very impressed with Knoppix. I was easily able to configure my Ethern
 
 ---
 
-> [!info] Original Published Date : *2005-03-26*

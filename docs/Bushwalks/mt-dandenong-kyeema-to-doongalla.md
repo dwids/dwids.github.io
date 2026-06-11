@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2010-03-30*
+
 This is a great walk. It&#8217;s part of a much longer one, but I think this is by far the best part. In summary, you start up the top of Mt Dandenong, walk along a summit track, see wonderful views of Melbourne and the suburbs, then descend down to the (site of) Doongalla Homestead. This is now a picnic ground with BBQs and toilets, all in the middle of the bush.&#160;&#160; Take water and food.
 
 It&#8217;s all on the standard Melways, map 66.&#160; Go and get it now. Seriously!
@@ -43,4 +45,3 @@ Car to Doongalla should be under an hour, with photo-stops.&#160; Bit longer to 
 
 ---
 
-> [!info] Original Published Date : *2010-03-30*

@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2008-06-22*
+
 Small bit of rain about so I thought: why not spend some time at the Melbourne Museum as I&#8217;d heard that they had recently totally re-done the large Melbourne Gallery section. Plus being a Museum Members keeps the entry price to exactly zero.
 
 That area is called [Melbourne Story](http://museumvictoria.com.au/MelbourneStory) and they have done a great job with it. It now tells the story in logical time order and sections. So first it&#8217;s pre-1835 (before white settlement), then from 1835 to the 1850 gold rush and separation from NSW etc.  Each section has a well thought out mixture of the Big Picture items and context, right down to individual stories and objects.
@@ -23,4 +25,3 @@ Even if you have just a tiny interest in Melbourne&#8217;s history, then I&#8217
 
 ---
 
-> [!info] Original Published Date : *2008-06-22*

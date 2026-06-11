@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2007-03-15*
+
 It just seemed like yesterday when I&#8217;d back up my data to 1 CD (that is about 0.7 GB). Yes, this was before I got my first digital camera and my TV card, so I didn&#8217;t have that much data.
 
 Now I used DVDs. Specifically single-layer, single sided. They hold about 4.7 GB.
@@ -27,4 +29,3 @@ So, all of my old data backup CDs can easily fit on the smallest Blu-Ray.
 
 ---
 
-> [!info] Original Published Date : *2007-03-15*

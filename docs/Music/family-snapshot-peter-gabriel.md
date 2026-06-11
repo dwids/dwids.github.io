@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2011-02-07*
+
 From his 1980 solo album known as &#8220;Melt&#8221; due to the image on the Hipgnosis-created cover. 
 
 He&#8217;s positioned himself well, our narrator. Nice and high up.
@@ -26,4 +28,3 @@ As the car moves closer, the intensity builds up, including the (Phil Collins?) 
 
 ---
 
-> [!info] Original Published Date : *2011-02-07*

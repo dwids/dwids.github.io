@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2005-09-27*
+
 I&#8217;m using [Google Earth](http://earth.google.com/) a fair bit. I&#8217;ve been fascinated with turning maps into 3D views since secondary school; when we learned how to create a height versus distance cross-section from a topology map.
 
 Google Earth has the ability to cut and paste latitude & longitude co-ords directly in, which makes it quite easy to Go To a place of interest.
@@ -25,4 +27,3 @@ I&#8217;ve found a [few ](http://www.swopnet.com/waypoints/gps/australia3.html)o
 
 ---
 
-> [!info] Original Published Date : *2005-09-27*

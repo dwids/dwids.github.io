@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2020-04-28*
+
 All of these were off-the-asphalt drives I&#8217;ve done over the years. Longish dirt roads and tracks.  At least two were before I had a 4WD!  
 
 ## Buchan to Corryong in a 1973 Cortina
@@ -59,4 +61,3 @@ I now remember the guide book had the *wrong *instructions; trying to get you to
 
 ---
 
-> [!info] Original Published Date : *2020-04-28*

@@ -11,6 +11,8 @@ cover:
 description: RSS News feeds - getting article headline and summary
 ---
 
+> [!info] Original Published Date : *2005-12-01*
+
 
 When we read a newspaper or browse a website we are conditioned to quickly scan the headlines and the first few lines of each article. This helps us to grab the essence of that item and decide if we want to read the rest.
 
@@ -46,4 +48,3 @@ Keeping up with news online - especially from papers overseas - has never been e
 
 ---
 
-> [!info] Original Published Date : *2005-12-01*

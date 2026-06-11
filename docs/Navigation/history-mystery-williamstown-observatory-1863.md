@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2020-04-21*
+
 [A post for a friend of a friend who may be able to help, but obviously anyone can read and comment if you have any thoughts. Yes, comments are enabled for once :-)]
 
 ## Executive Summary
@@ -56,4 +58,3 @@ QED. In a back-of-the-envelope ballpark sense 🙂
 
 ---
 
-> [!info] Original Published Date : *2020-04-21*

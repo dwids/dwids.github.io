@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2008-07-31*
+
 I&#8217;ve got files everywhere. This PC has 2 hard drives, plus another external one that I sometimes plug in. There&#8217;s two other PCs; the  old Linux server and the XP Laptop. Plus lots of back up CDs and DVDs. 
 
 So where is &#8220;Linux and Windows.txt&#8221; file, which has my step-by-step guide on file sharing. Or &#8220;MyTextMovie.avi&#8221; ?  Or &#8220;Podcast23.mp3&#8221; ?  or or or
@@ -29,4 +31,3 @@ Let me add a Adamsian 4th to my list of 3. One for **Movie DVDs**. [Eric&#8217;s
 
 ---
 
-> [!info] Original Published Date : *2008-07-31*

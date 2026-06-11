@@ -11,8 +11,9 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2004-11-04*
+
 I would make a simple change. Get your 2008 presidential nominations over now. All get behind the one leader and have him/her the focal point. Give the people a chance to get to know the leader. Would also give you time to blunt any attacks from your opponents, no matter how untrue they are.
 
 ---
 
-> [!info] Original Published Date : *2004-11-04*

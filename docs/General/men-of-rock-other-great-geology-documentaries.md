@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2011-01-19*
+
 I love Geology. After a very sad start to this geeky affair (see at very end), it’s bloomed over the years. I’ve seen some fascinating documentaries, most of them hosted by Professor Iain Stewart. Here’s two recent series of his:
 
 ***Men of Rock*** (2010) &#8211; retraces the steps of a band of maverick pioneers who made ground-breaking discoveries in the landscape of Scotland about how our planet works.
@@ -34,4 +36,3 @@ Physics and Geology clashed with their times. I had to drop my major (Physics) t
 
 ---
 
-> [!info] Original Published Date : *2011-01-19*

@@ -13,6 +13,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2005-05-20*
+
 Now that the AFL has given Channels 10 and 7 the go ahead to offer a joint bid, can the consortium ask for all 8 games?
 
 It would make life interesting if they offered a sweetener; to show Friday night games live into Queensland and New South Wales. This has been a long-held dream of the AFL.
@@ -23,4 +25,3 @@ Then there&#8217;s the &#8216;spare&#8217; capacity of digital (free to air)  TV
 
 ---
 
-> [!info] Original Published Date : *2005-05-20*

@@ -9,6 +9,8 @@ slug: williamstown-mmbw
 description: 
 ---
 
+> [!info] Original Published Date : *2010-01-01*
+
 # Williamstown MMBW
 
 Nice help link: [http://guides.slv.vic.gov.au/MMBWplans/indexes](http://guides.slv.vic.gov.au/MMBWplans/indexes)
@@ -39,4 +41,3 @@ Map showing the area of Altona between the Explosives Reserve and Blackshaws Roa
 
 ---
 
-> [!info] Original Published Date : *2010-01-01*

@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2010-01-22*
+
 Non-Fiction. Covers "May 10, 1972, Air War, North Vietnam" in very good detail. As the name implies; just what happened on that one day. 
 
 Out of print and obtained 2nd hand from Better World Books
@@ -24,4 +26,3 @@ Out of print and obtained 2nd hand from Better World Books
 
 ---
 
-> [!info] Original Published Date : *2010-01-22*

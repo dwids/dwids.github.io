@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2009-11-21*
+
 Reading the WWII history book
 
 I understand this was one of the two main books used as the source for the excellent "Downfall" film. The [other one](until-the-final-hour-hitlers-last-secretary.md) I have also recently read.
@@ -22,4 +24,3 @@ Purchased online from BetterWorld Books
 
 ---
 
-> [!info] Original Published Date : *2009-11-21*

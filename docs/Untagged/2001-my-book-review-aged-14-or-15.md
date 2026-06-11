@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2020-04-14*
+
 The film *2001: A Space Odyssey* came out in 1968. I was 7 and despite my temper tantrum, I wasn’t taken to see it.  Nah, that didn’t happen.
 
 I think it was in 1975 (Form 3/Year 9) that the school sent our parents a letter about an upcoming excursion – to the Trak Cinema to see *2001*.  I’d never heard of it, but someone said it was about a spaceship going to Jupiter.  Mmm, that could be interesting.
@@ -31,4 +33,3 @@ Seriously – you can hopefully now see why, when a year of two later the “sci
 
 ---
 
-> [!info] Original Published Date : *2020-04-14*

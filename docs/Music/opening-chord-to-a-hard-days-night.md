@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2013-08-28*
+
 It is probably the most famous &#8211; and argued about &#8211; opening chord in music history. It turns out that it&#8217;s not one chord, but a band &#8211; plus their Producer &#8211; all playing different &#8216;chords/notes&#8217;. I think these guys have it right (listen to audio clip at the end) &#8211; but they missed George Martin who added even more notes on a piano. As the clip says:
 Electric 12 string (George H):  F chord, but with G on top and bottom strings, plus C on the 2nd bottom string (B)
 Bass (Paul)  D note
@@ -25,4 +27,3 @@ I&#8217;m also sure I read that George H says he repeats his opening F (+G +G +C
 
 ---
 
-> [!info] Original Published Date : *2013-08-28*

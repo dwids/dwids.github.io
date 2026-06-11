@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2011-09-01*
+
 Ah, 1974 and glam rock is up and running. And boy was I into it. But I don’t think UK band [Mud ](http://en.wikipedia.org/wiki/Mud_%28band%29)were that big here in Australia. If anyone cares to correct me, please do. They certainly had that classic Chinn/Chapman sound (and lyrics); being the famous writers and producers. Think Sweet and Suzi Quatro for other examples.
 
 It’s great to discover at least some of the younger generation really like this oldie. I can speak from seeing it with my own eyes at a party.  They even requested it. True.
@@ -23,4 +25,3 @@ Great dancing!  I’m sure that bloke-with-bloke dance – about 1:27 in – wa
 
 ---
 
-> [!info] Original Published Date : *2011-09-01*

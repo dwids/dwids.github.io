@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2005-03-17*
+
 In pondering DDS things, I realised that I may need an optical drive (CD) after all.  Problem [1] as you may recall, was running out of space in Linux. Maybe a &#8216;start again&#8217; approach would work. I was, after all, using an old, temporary install of Linux and attempting to bash  🙂 it into shape with it&#8217;s 3 &#8216;new&#8217; hard drives.
 
 Plus, the main problem [2] with Windows not booting, may be solved with a bootable CD and recovery-install.
@@ -25,4 +27,3 @@ Thus here we are at 11:53 am and I&#8217;m about to boot DDS_V2.  With 3 hard dr
 
 ---
 
-> [!info] Original Published Date : *2005-03-17*

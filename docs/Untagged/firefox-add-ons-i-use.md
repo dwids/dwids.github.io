@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2009-04-11*
+
 Firefox is a great browser and you can make it even better by installing free add-ons or extensions.  I was surprised to discover that I have 28 of them on my main PC. Only 1 is purely visual;  a theme which changes the look and feel. The other 27 add functions to the browser or enhance the existing functions.
 
 Couldn&#8217;t find a &#8216;one-click&#8217; way to generate a useful list of all my add-ons, but the excellent FEBE extension produces a report once it has done it&#8217;s main job &#8211; backing up your add-ons.  Here&#8217;s a [report done this very morning](http://www.artwill.com.au/hosted/firefox/FEBEresults.html).
@@ -21,4 +23,3 @@ Technorati tags: ["general"](http://technorati.com/tags/firefox),[addon](http://
 
 ---
 
-> [!info] Original Published Date : *2009-04-11*

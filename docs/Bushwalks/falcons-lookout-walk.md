@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2010-06-06*
+
 Great walk, starting only about an hour from my place! Spectacular views over the steep Werribee Gorge. The river, of the same name, has cut a massive slice through the country over the millennia.&#160;&#160; A relatively easy walk takes you from the car park, along a creek valley and some spurs to the Lookout.
 
 ![](20100603_123041.jpg)
@@ -26,4 +28,3 @@ Great walk, starting only about an hour from my place! Spectacular views over th
 
 ---
 
-> [!info] Original Published Date : *2010-06-06*

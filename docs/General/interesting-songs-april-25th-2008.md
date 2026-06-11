@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2008-04-26*
+
 Don&#8217;t mind a bit of heavy, rock-oriented dance music. Yes, this comes from a proud owner of the late 70&#8217;s single Death to Disco&#8230;.
 
 Last Train To Trancentral (The KLF, 1991)    
@@ -24,4 +26,3 @@ Wow. First time I heard this, it just grabbed me. The full, album version has a 
 
 ---
 
-> [!info] Original Published Date : *2008-04-26*

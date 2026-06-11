@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2010-06-10*
+
 It’s now mid 2010. A quick search shows I have been taking photographs with digital cameras since 2005.&#160; I was actually a late starter, but still have lots and lots of JPG and NEF image files.&#160; 
 
 There comes a time when you have to move them off your hard drive to free up space. This is called **archiving**.&#160; For my purposes this is different from **backing up**, which means taking a *copy* onto an external media, but leaving the original on the hard drive. Archiving means deleting them off the hard disk, once they are safely on your external media (like a DVD).
@@ -50,4 +52,3 @@ When you have done all the above – including checking all images etc were burn
 
 ---
 
-> [!info] Original Published Date : *2010-06-10*

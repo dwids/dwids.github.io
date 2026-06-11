@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2005-09-26*
+
 I may have mentioned that I use the free iTunes for Windows as my MP3 library and player.
 
 If I did &#8211; and you installed it &#8211; this here is a note to say that the recent Version 5.0 seems to introduce an autostarting service that caused me &#8211; and others &#8211; mucho grief.
@@ -21,4 +23,3 @@ Apparently fixed in the *&#8216;oops, sorry about that&#8217; *[5.01 release](ht
 
 ---
 
-> [!info] Original Published Date : *2005-09-26*

@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2020-05-31*
+
 Going way back today. As the original said: *Copyright © David Sidwell 1996*
 
 ---
@@ -153,4 +155,3 @@ Finally, a person at that school in Norway would send email to &#8220;davids@mel
 
 ---
 
-> [!info] Original Published Date : *2020-05-31*

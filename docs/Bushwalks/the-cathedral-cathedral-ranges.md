@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2010-10-20*
+
 About 2 hours NE of Melbourne are the rugged Cathedral Ranges. They are between Marysville and Alexandra.&#160; And boy do they offer some great, challenging walks.
 
 I remember being told, as a kid, that some people actually walked up to the very top. I was gob smacked, but believed it when told that they “had to start early in the morning”.&#160; Now that I’ve done it 3 times, I acknowledge it certainly isn’t easy. But not so sure about the early morning start.
@@ -33,4 +35,3 @@ It may have been the recent rain loosened the surface just that bit more too.&#1
 
 ---
 
-> [!info] Original Published Date : *2010-10-20*

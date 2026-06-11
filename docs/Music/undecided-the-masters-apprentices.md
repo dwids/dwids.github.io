@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2011-03-01*
+
 1966 and all is well. I believe this rip-roaring track was their debut single. [Wikipedia ](http://en.wikipedia.org/wiki/Masters_apprentices)claims that the &#8220;biting fuzz-tone&#8221; guitar sound was due to a faulty amplifier, but the band loved it and left it there.
  Formed in Adelaide, the Masters Apprentices moved on over here to Melbourne and later went on to give us other great songs including It&#8217;s Because I Love You and Turn Up Your Radio. 
 
@@ -18,4 +20,3 @@ description:
 <iframe width="720" height="540" src="https://www.youtube.com/embed/JnMytzzcRGI" title="UNDECIDED (1966) by The Masters Apprentices - incredible sixties debut single" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ---
 
-> [!info] Original Published Date : *2011-03-01*

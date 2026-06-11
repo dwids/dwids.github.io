@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2020-04-23*
+
 In looking at an old photo album today, I found two original photos with big cricket crowds at the MCG.  I scanned one in and tidied it up a bit:
 ![](davids_20200422_225310.jpg)
 On the back, there was the stamp &#8220;Jan 82&#8221;; being the date that Kodak or whoever processed and printed it.
@@ -42,4 +44,3 @@ Can&#8217;t yet find the attendance, but it looked well over 80,000.  You could 
 
 ---
 
-> [!info] Original Published Date : *2020-04-23*

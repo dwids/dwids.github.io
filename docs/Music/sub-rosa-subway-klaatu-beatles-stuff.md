@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2011-02-09*
+
 I&#8217;ve had a few people email me about the Klaatu-Beatles stuff. It was intense, but very brief when it did happen way back in 1976 or 77. A bit like the Paul Is Dead story with the Beatles, people looked for &#8220;Klaatu clues&#8221; everywhere.  This song, also off their first album, featured as &#8220;evidence&#8221;.
 
 I think there were at least 2 reasons:
@@ -23,4 +25,3 @@ I think there were at least 2 reasons:
 
 ---
 
-> [!info] Original Published Date : *2011-02-09*

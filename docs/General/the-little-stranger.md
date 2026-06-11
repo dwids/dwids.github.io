@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2009-10-15*
+
 Currently reading the recent ghost story book. Set in post-WWII England.
 
 ![](n292415.jpg)
@@ -21,4 +23,3 @@ Borrowed from the local library. Thanks to the First Tuesday Book Club gang for 
 
 ---
 
-> [!info] Original Published Date : *2009-10-15*

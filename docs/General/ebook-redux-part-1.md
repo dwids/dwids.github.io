@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2010-05-06*
+
 Thoughts of someone outside of the book industry on this most interesting of topics….
 
 I understand that as of now – May 2010 – the eBook market is still quite new. However it does have some disturbing trends already; the main one being device specific formats, aka lock-in. I believe that if you buy an eBook for your Amazon Kindle that book cannot be read on your friend&#8217;s Nook reader device.
@@ -96,4 +98,3 @@ All of this is just speculation, with a dash of wishful thinking thrown in.
 
 ---
 
-> [!info] Original Published Date : *2010-05-06*

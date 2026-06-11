@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2009-11-27*
+
 Current book is the Vietnam War account that is
 
 The cover says: &#8220;The best book I have ever read on men and war in our time &#8211; John le Carre&#8221;
@@ -24,4 +26,3 @@ Purchased online from BetterWorld Books
 
 ---
 
-> [!info] Original Published Date : *2009-11-27*

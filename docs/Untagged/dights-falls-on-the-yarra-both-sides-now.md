@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2015-06-13*
+
 This is a magic riverside urban bushwalk, just a few km from the City
 
 The forecast was a for a lovely winters day. So I decided this morning to do this as I’d never actually seen Dights Falls on the Yarra River near Collingwood. It’s a natural barrier which stops brackish water from moving further upstream. Anyway, I had a rough route in my head. In fact I had what’s called a map in my hand.  
@@ -45,4 +47,3 @@ I plan to merge these into a single walk with my little side trips and flubs rem
 
 ---
 
-> [!info] Original Published Date : *2015-06-13*

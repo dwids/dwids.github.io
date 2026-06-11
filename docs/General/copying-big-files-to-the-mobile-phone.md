@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2008-07-01*
+
 Bit frustrating to find that Windows seems to have a limit on how big a file can be, if you are transferring it to your phone the official way (by ActiveSynch). But a step back first.
 
 [Pocket Wikipedia](http://www.free-soft.ro/pocket-wikipedia/pocket-wikipedia.html) is now available for Windows Mobile phones, like my HTC p3600i. It&#8217;s a subset of the main [Wikipedia](http://en.wikipedia.org/wiki/Main_Page) that as they say only (ha ha) is &#8220;*about the size of a fifteen volume encyclopaedia (24,000 images and 14 million words)&#8221;*
@@ -30,4 +32,3 @@ Right now, as I type, it&#8217;s transferring happily. It even has a resume func
 
 ---
 
-> [!info] Original Published Date : *2008-07-01*

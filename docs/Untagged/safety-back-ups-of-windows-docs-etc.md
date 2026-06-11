@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2009-09-08*
+
 Am looking for a solution that runs on my Windows XP PC for a fairly simple set of requirements:
 
 - Define a backup set of folders/files on XP PC (eg My Documents) 
@@ -45,4 +47,3 @@ Found one that works. Here’s the email I sent to the tech buddies who had help
 
 ---
 
-> [!info] Original Published Date : *2009-09-08*

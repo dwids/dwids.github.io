@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2020-04-22*
+
 So, I was going to say &#8220;The Last Hike I Did&#8221; and add *Before The Virus*, but that sounds wrong. And even negative. Which is just not me. 
 
 Anyway, this was Tues March 10th this year. I &#8216;knew&#8217; we could walk from Shoreham to Flinders, based on research, plusthat we didn&#8217;t have to worry about tides&#8230;but it&#8217;s always good to get the boots on the ground and confirm. **Update** : I think I was concerned about tides, hence the late start. 
@@ -35,4 +37,3 @@ If you head down to the Mornington Peninsula, do try and visit it&#8217;s quaint
 
 ---
 
-> [!info] Original Published Date : *2020-04-22*

@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2004-06-05*
+
 The feeling of deja vu was amplified by the camera work today. The way they
 
 had a close up of the one &#8216;incident&#8217; and had to quickly pull back (or cut
@@ -45,4 +47,3 @@ incidents. May it never change.
 
 ---
 
-> [!info] Original Published Date : *2004-06-05*

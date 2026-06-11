@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2008-07-16*
+
 My dear old Dell laptop has served me well over the years. At the time the hard drive was average, I&#8217;d guess. 30 GB total. Of course today that&#8217;s rather small and the poor thing was getting close to full, with a few too many &#8220;C: drive nearly full&#8221; messages popping up.
 
 So what to do?  The rest of it is fine.
@@ -74,4 +76,3 @@ Technorati Tags: [sfdisk](http://technorati.com/tags/sfdisk),[Knoppix](http://te
 
 ---
 
-> [!info] Original Published Date : *2008-07-16*

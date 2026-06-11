@@ -11,6 +11,8 @@ cover:
 description: In 1862 the journey to the remote Victorian goldfiends took days and was very challenging.
 ---
 
+> [!info] Original Published Date : *c. 2001*
+
 > Today you can get from Melbourne to London in a day and a bit. 130 years ago it took five times that to get from Melbourne to the Victorian goldfields. They were not that far from where Lake Eildon is now located.
 
 > On March 25th 1862 the real-life Captain Solomon left Yea for a trip to the recently discovered goldfields at Jericho near Woods Point. Today this journey takes a few hours. It took Captain Solomon, aka Captain Blowhard, nearly 7 days. At one point he ‘jokes’ about putting a gun in his mouth rather than enduring yet another 45 degree climb up yet another mountain.
@@ -77,4 +79,3 @@ Road to Woods Point quite ok. Track down to Jericho shut from early June to earl
 [^1]: This was the route I took from Woods Point the *first* time I went into the site of Jericho. It’s the *Victor Spur Track.* Later on I used the much shorter *Jericho Track*. On this first trip, I did try and find the Jericho Track, but turns out the sign had been removed. On my *second* trip, I did get conflicting advice re: Jericho Track. One bloke – to be fair he was miles away at Tralagon – remembered it as being very steep and “in first gear the whole time”. Mmmm. Later that same day a ‘local’ – to wit the bloke at the Woods Point Store – said it was quiet easy. He was right.
 
 ---
-> [!info] Original Published Date : *c. 2001*

@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2011-02-18*
+
 Won&#8217;t be the first time Gilbert will get a mention. His 1972 hit &#8220;Clair&#8221; is a clever piece of pop, with a sweet little sting in the tail. I liked it back then and I still do now.
  There are at least 2 other Internet spellings of this song title, Claire and Clare.  From his own [website](http://www.gilbertosullivan.net/songs/list5.htm#C), not only did I learn the correct spelling, but the good news that he&#8217;s still actively recording and touring.
 
@@ -18,4 +20,3 @@ Won&#8217;t be the first time Gilbert will get a mention. His 1972 hit &#8220;Cl
 
 ---
 
-> [!info] Original Published Date : *2011-02-18*

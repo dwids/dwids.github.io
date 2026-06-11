@@ -9,6 +9,8 @@ tags: ["music"]
 description: 
 ---
 
+> [!info] Original Published Date : *2020-06-08*
+
 Text
 
 Captured live at The Espy pub during episodes of the much-missed *RockWiz*. Every episode of the show finished with a duet, including with artists who may have never worked together and possibly from different genres.  
@@ -35,4 +37,3 @@ Stunning and beautiful and amazing.
 
 ---
 
-> [!info] Original Published Date : *2020-06-08*

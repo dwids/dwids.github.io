@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2005-09-26*
+
 Have really got into the video conversion is a big way over the last few months. Main reason is I bought a set top box for the PC. It can record both Standard and High Definition video. As an aside, I&#8217;ve previously commented on [how Australia got this so wrong](__GHOST_URL__/?p=49).
 
 Anyway recording digital TV is cool. The pictures are wide screen, clear and literally DVD quality (even in Standard Def mode!). But they eat disk space at the rate of 3 to 4 GB per hour.
@@ -57,4 +59,3 @@ Subtitle("Copyright me 2005",font="Arial")`
 
 ---
 
-> [!info] Original Published Date : *2005-09-26*

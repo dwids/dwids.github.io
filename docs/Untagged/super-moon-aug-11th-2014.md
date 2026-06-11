@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2014-08-14*
+
 I thought the Super Moon was the night before, so wasn’t paying it to much attention…
 
 Anyway, what I wrote on Facebook captures the moment best: 
@@ -25,4 +27,3 @@ We met in the car park under the Westgate and then, by coincidence, at the Punt 
 
 ---
 
-> [!info] Original Published Date : *2014-08-14*

@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2005-03-16*
+
 A small step towards recovery, late in the day.
 
 My old-old spare PC (a 166 MHz Dell Gn box) has a 10/100 Ethernet card. From installing Linux on that box, I know it is a much more stable and supported card.
@@ -25,4 +27,3 @@ Yes, I&#8217;ve simply shifted the problem to another area. Hey, I&#8217;m Cityl
 
 ---
 
-> [!info] Original Published Date : *2005-03-16*

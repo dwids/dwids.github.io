@@ -11,6 +11,8 @@ cover:
 description: An introduction to Tags aka Metadata
 ---
 
+> [!info] Original Published Date : *2005*
+
 >  Here is the [original Age article](http://www.theage.com.au/news/livewire/tag-youre-it/2005/10/04/1128191720716.html) from 2005.
 
 What do your digital photographs and your MP3 music files have in common? More than you might think, for at the heart of our modern digital lifestyle are two things: data compression and tags.
@@ -56,4 +58,3 @@ Later, we can go to the search engine&#8217;s site and type in one or more of th
 
 ---
 
-> [!info] Original Published Date : *2005*

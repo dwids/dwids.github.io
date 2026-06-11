@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2020-05-03*
+
 ![](ss.20230215_155739-300x164.png)Just recently I said I couldn&#8217;t [work out the chords](../Music/blokes-love-songs.md) to Ed&#8217;s lovely &#8220;*I Wish You Were Here*&#8221; [song](https://youtu.be/KSnd43PeC6w), adding that &#8220;Even dropping the song into ‘find the chords’ software seems to confuse it&#8221; . BTW I meant the mp3 file when I &#8216;the song&#8217;.
 
 I found a site that uses YouTube clips to guess the guitar chords. I was sceptical when it confidently listed some simple chords. To my surprise, it was right and had deduced the main ones. I think I&#8217;ve got the rest. Normally I&#8217;m quite good at working them out, but this one eluded me; embarrassingly it only has a few chords.
@@ -41,4 +43,3 @@ He may have just held his fingers that way on the guitar&#8217;s neck to give hi
 
 ---
 
-> [!info] Original Published Date : *2020-05-03*

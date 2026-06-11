@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2004-09-17*
+
 No wonder MS are worried. One look at the Mozilla Firefox browser and  it&#8217;s easy to see why MS have reformed an Internet Explorer development team to (finally) give their old code a cut and polish. IE is positively bloated and ancient compared to Firefox. Yes it runs under Windows. And how! It&#8217;s a small, yet very powerful browser.
 
 If you haven&#8217;t used tabbed browsing, you haven&#8217;t lived. IE limits you to one web page open at a time; it must start a whole new IE if you want to open a 2nd page at the same time. Firefox lets you have multiple pages open at once, each with it&#8217;s own tab. You can easily jump betwen the pages via using these tabs. Also, unlike IE, Firefox is an &#8216;open&#8217; offering. This means that (say) if you don&#8217;t like the inbuilt tab support, people can write their own. Which is exactly what the excellent Tabbrowser Extensions is. To me, it&#8217;s a Must Get utility
@@ -31,4 +33,3 @@ Links:
 
 ---
 
-> [!info] Original Published Date : *2004-09-17*

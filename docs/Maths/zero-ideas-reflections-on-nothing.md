@@ -8,6 +8,8 @@ tags: ["maths"]
 description: This single thing can do nothing, totally destroy or literally do something undefined.
 ---
 
+> [!info] Original Published Date : *2020-05-18*
+
 For someone who is a Maths Person, I don’t really like *reading* books on maths. I don’t mean textbooks from back in the day, I mean ‘popular science’ books on maths. *101 Fun Factoids You Didn’t Know About Math.*
 
 I’m thinking it’s similar to comedy. I like telling – and making – jokes/puns, but certainly don’t like written comedy.  So the double whammy of writers who think they are funny, then write about maths and science…well…good manners prevent me from … 🙂
@@ -82,4 +84,3 @@ I wonder what came first, negative numbers (“I owe you 2 goats”) or zero (�
 
 ---
 
-> [!info] Original Published Date : *2020-05-18*

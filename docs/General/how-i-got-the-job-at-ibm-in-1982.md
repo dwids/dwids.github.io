@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2014-05-06*
+
 Okay, there’s a funny, even ironic, story about how a Physics student got to work at IBM.
 
 So it’s 1982. I’m doing 4th Year and spending a lot of time doing research work in a lab at Monash University. To be honest, my heart is not really in it. I’m using the same (paper!) notebook that the last Honours (4th year) student used. So I asked the excellent PhD-candidate who shared my lab “what did Andrew end up doing?”
@@ -39,4 +41,3 @@ The irony is that – through no great plan – I am now doing just what Profess
 
 ---
 
-> [!info] Original Published Date : *2014-05-06*

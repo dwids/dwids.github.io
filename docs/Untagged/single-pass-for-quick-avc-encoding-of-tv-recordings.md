@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2006-09-15*
+
 One of the benefits of AVC is the ability to adapt the compression to suit the target device or quality. So you can use a very high quality set of settings and take 19 hours to compress a 2 hour movie. By the way even these  are not the highest quality (read: slowest) settings.
 
 The good people over at the [doom9 forum](http://forum.doom9.org/showthread.php?t=101813) have already created a number of Profiles which you load into MeGUI and then choose from a drop down list. They range from the above multi-pass through to &#8221; I just need an okay compression&#8221; quick single pass.
@@ -35,4 +37,3 @@ On balance, I&#8217;d be aiming for **1P-Intermediate**. If it&#8217;s a show th
 
 ---
 
-> [!info] Original Published Date : *2006-09-15*

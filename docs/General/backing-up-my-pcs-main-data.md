@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2010-06-10*
+
 Not much to say really. Except regularly backing up your key data is important.&#160; I have an external USB2 hard disk (appears as my Q: drive) and use Microsoft’s free [SyncToy](http://en.wikipedia.org/wiki/Synctoy) 2.1
 
 I run it in ***contribute*** mode with my synching folders (folder-pairs) something like this
@@ -21,4 +23,3 @@ SyncToy (ST) was initially designed to keep the two folder-pairs (labelled Left 
 
 ---
 
-> [!info] Original Published Date : *2010-06-10*

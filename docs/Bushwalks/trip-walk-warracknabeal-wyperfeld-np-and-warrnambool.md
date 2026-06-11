@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2009-06-13*
+
 Saturday 14:30. Just back from a great few days away. I’d been thinking about this trip for a while and grabbed the chance this week. It was built around a *mallee-wimmera* (drier W & NW part of Victoria) walk in the huge [Wyperfeld National Park](https://www.parks.vic.gov.au/places-to-see/parks/wyperfeld-national-park) (Parks Victoria page)
 
 The nearest large town – with supermarkets and accommodation – appears to be Warracknabeal.&#160; So I booked in there for 2 nights as it’s too far to do the whole trip to Wyperfeld from Melbourne in one day.
@@ -29,4 +31,3 @@ And speaking of Maps, [here it is](http://maps.google.com/maps/ms?ie=UTF8&amp;hl
 
 ---
 
-> [!info] Original Published Date : *2009-06-13*

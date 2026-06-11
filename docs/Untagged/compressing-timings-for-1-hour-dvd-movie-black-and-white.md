@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2006-09-14*
+
 Using [*MeGUI *](http://www.videohelp.com/tools?tool=MeGUI)I took just over 1 hour of DVD and compressed it down via the &#8216;state of the art&#8217; compression schemes:
 
 - Video AVC (aka H.264 or MPEG4 Part 10) using the [*CE_Highprofile*](http://forum.doom9.org/showthread.php?t=101813) at 1000 kbps
@@ -37,4 +39,3 @@ But, to be fair, VOB has multiple soundtracks. Also this is an old black and whi
 
 ---
 
-> [!info] Original Published Date : *2006-09-14*

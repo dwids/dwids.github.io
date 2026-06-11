@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2008-04-15*
+
 Virginia Plain (Roxy Music, 1972). [Sample at last.fm](http://www.last.fm/music/Roxy+Music/_/Virginia+Plain?autostart). 
 Was used a few times in the excellent TV series Life on Mars. At first it did slightly annoy me, with it&#8217;s repetitive x-y, x-y chords, but then it grew on me. Early Roxy, with Ferry and Eno. And lots of eye shadow.
 
@@ -26,4 +28,3 @@ Stuck in an 1969/72 timewarp with this bunch of songs. This was a slightly more 
 
 ---
 
-> [!info] Original Published Date : *2008-04-15*

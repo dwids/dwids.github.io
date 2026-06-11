@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2020-04-26*
+
 Besides [podcasts](__GHOST_URL__/tag/podcasts/), I also subscribe to a few YouTube content makers. Now, this may come as a surprise, but they tend to be in the *music *and *maths *areas. I know, it shocked me too. Here&#8217;s a small sample, with their own Description at the start:
 
 ## 3Blue1Brown [maths]
@@ -57,4 +59,3 @@ But only after this lovely, live collaboration:
 
 ---
 
-> [!info] Original Published Date : *2020-04-26*

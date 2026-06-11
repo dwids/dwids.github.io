@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2024-11-19*
+
 I wish I'd found this great free resource a bit earlier. They are a series of one-page visual guides on all sorts of topic. From the Basics right up to ones that make me go "wow, what's that?!" As of today there are 62 of them.
 
 I was happy to give Toby a donation.
@@ -21,4 +23,3 @@ I was happy to give Toby a donation.
 
 ---
 
-> [!info] Original Published Date : *2024-11-19*

@@ -12,6 +12,8 @@ cover:
 description:
 ---
 
+> [!info] Original Published Date : *2013-08-30*
+
 I went for a walk out there today and paid more attention to the ruins. Not just the obvious things, like the rubble with the steps and the single tree, but the less obvious items. I came home and looked at both the Google Earth view and the excellent 1930s aerial photograph. Here’s my first cut and what might be what in the ruins, starting with the photograph with some markers added by me:
 
 [![WT-racecourse_markers_from-](cc807-wt-racecourse_markers_from-_thumb.jpg)](https://dwids.wordpress.com2020/03/d7c09-wt-racecourse_markers_from-.jpg)
@@ -28,4 +30,3 @@ Next steps: find proper maps, plans or descriptions of the exact layout of the T
 
 ---
 
-> [!info] Original Published Date : *2013-08-30*

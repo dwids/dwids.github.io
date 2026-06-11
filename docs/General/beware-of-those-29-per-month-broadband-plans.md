@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2004-03-22*
+
 It looks good on the ad. Broadband at Dialup prices. Sure does. But take a closer look. That price is only &#8216;low&#8217; speed ADSL (256 kbps) and a VERY limited download maximum (200 MB). Then they&#8217;ll hit you at 15 cents per MB you get after that 200MB is reached. Hey, sounds cheap!
 
 Do your maths and then think again. Trust me, when you get Broadband, there&#8217;s a good chance you&#8217;ll be downloading GB per month. Even only 1 GB is about 1,000 MB per month. BTW A single CD holds nearly 2/3rd of one GB.
@@ -25,4 +27,3 @@ Shop around. Do not fall these &#8216;honeymoon&#8217; prices. Numbers, plans an
 
 ---
 
-> [!info] Original Published Date : *2004-03-22*

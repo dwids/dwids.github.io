@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2020-05-24*
+
 As I’ve said before, [the Internet is not the Web](../General/web-internet-same-thing-choo-choo.md). The Internet came first.  The first browser (*Mosaic*) came out in about 1993. From memory, even by 1994 the Web and the browser hadn’t landed on my r[a](https://youtu.be/I8X3BAwfwag)dar. The Internet had, via News Groups; aka [Usenet](https://en.wikipedia.org/wiki/Usenet).
 
 It was a bit like a Forum and I used a dedicated Windows program to read and write messages to News Groups. They had names like *rec.sport.football.australian*  and *rec.arts.movies*  The *rec* meant recreation. There were also comp. (computers), sci. (science) , alt. (alternative) etc ‘trees’ of News Groups.
@@ -73,4 +75,3 @@ WWW:          [http://connexus.apana.org.au/~dsidwell](http://connexus.apana.org
 
 ---
 
-> [!info] Original Published Date : *2020-05-24*

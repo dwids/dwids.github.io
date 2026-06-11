@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2008-06-27*
+
 With the apparent July 1st announcement only a few days away, speculation is out and about as to a number of [TiVo ](tivo-pvr-finally-arrives-but-the-wise-may-hold-fire-on-buying-one.md)things.
 
 There&#8217;s talk of needing an Internet connection, possibly broadband, to be connected to the TiVo. This would be for three main purposes, it is assumed:
@@ -33,4 +35,3 @@ All will hopefully be revealed very soon.
 
 ---
 
-> [!info] Original Published Date : *2008-06-27*

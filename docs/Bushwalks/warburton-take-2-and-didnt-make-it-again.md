@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2009-08-18*
+
 There’s just something about this walk – and location – that trips me up every time. Not literally, but I have tried twice now and failed to finish it both times. It’s in the Little Peninsula and Big Peninsula tunnels area.
 
 ### First Time 
@@ -37,4 +39,3 @@ So Take 3 looms, probably this summer. I wonder what will happen this time.
 
 ---
 
-> [!info] Original Published Date : *2009-08-18*

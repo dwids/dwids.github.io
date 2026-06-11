@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2014-11-22*
+
 Hi Guys,
 
 Hope you got to see more of Mt Stapylton and Bird Rock!
@@ -25,4 +27,3 @@ Pack a lunch and have a coffee at HG about 10am.  Lunch at the &#8216;top&#8217;
 
 ---
 
-> [!info] Original Published Date : *2014-11-22*

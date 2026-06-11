@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2010-07-16*
+
 A media centre lets you manage and play back your media files on your PC (Mac, Linux..) system.&#160; XBMC is XBox Media Centre, and despite the name, really has nothing to do with the X-Box any more.&#160; They describe it as “‘an award-winning free and open source (GPL) software media player and entertainment hub for digital media”
 
 I have it on my laptop and main PC.&#160; It’s fantastic.&#160; I have my avi, flv, mkv, mp4 etc movies in C:Movies and use XBMC to watch them back. My quick steps:
@@ -85,4 +87,3 @@ Volume up/down&#160;
 
 ---
 
-> [!info] Original Published Date : *2010-07-16*

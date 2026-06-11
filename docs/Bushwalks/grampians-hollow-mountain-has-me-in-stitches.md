@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2009-11-06*
+
 Am fine and home now. But yesterday (Thursday November 5th) was a day of adventure.  A quick summary:
 
 Forecast for Thurs and Fri was for lovely weather, so decided a quick trip to the Northern Grampians was the go. 280km each way, so should try and stay 2 nights at least.
@@ -46,4 +48,3 @@ Stitches out in a week.   And I still haven’t got to Briggs Bluff.
 
 ---
 
-> [!info] Original Published Date : *2009-11-06*

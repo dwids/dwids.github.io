@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2009-06-14*
+
 I do like a good post-disaster tale and so when Cormac McCarthy’s book The Road was recommended to me, I reserved it at my local library.  
 
  A week later and it’s here.&#160; Just started and intrigued so far. To quote Amazon:  
@@ -25,4 +27,3 @@ Yes I am reading [two books](hitler-1889-1936-hubris.md) at once. Or that’s th
 
 ---
 
-> [!info] Original Published Date : *2009-06-14*

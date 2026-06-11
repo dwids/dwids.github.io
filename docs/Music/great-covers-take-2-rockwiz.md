@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2024-10-18*
+
 Captured live at The Espy pub during episodes of the much-missed *RockWiz*  on SBS. Every episode of this brilliant music-quiz show, finished with a duet. It was with artists who may have never worked together and possibly from different genres than they usually work in.
 
 ### Sarah McLeod & Angry Anderson – Highway To Hell
@@ -45,4 +47,3 @@ Stunning and beautiful and amazing.
 <iframe width="720" height="407" src="https://www.youtube.com/embed/Gx9kC4-UbkI" title="Tina Arena &amp; Jeff Martin - Don&#39;t Give Up (Live on RocKwiz)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ---
 
-> [!info] Original Published Date : *2024-10-18*

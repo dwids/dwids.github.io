@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2020-05-15*
+
 On a fine and chilly Friday you buy yourself a compass. A nice, old fashioned manual one with a needle that swings freely. 
 
 You take it out of the box and head out to a nice flat bit of  open country not far from Melbourne. The map tells you your test target destination is 5 km due North of you. It&#8217;s a small, but obvious, water tank.
@@ -63,4 +65,3 @@ And check out the current world map showing the Magnetic Declination values from
 
 ---
 
-> [!info] Original Published Date : *2020-05-15*

@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2008-08-20*
+
 When you get pre-written (&#8220;off the shelf&#8221;) software programs you usually get some sort of manual or user guide. It may be a printed book, PDF file, remote web site, local web site,  Help file&#8230;.whatever.  
 
 If you have software written for you &#8211; known as being developed &#8211; then the manuals etc must be created as well.  The usual steps in the big cycle are roughly:
@@ -45,4 +47,3 @@ Or as I say; I&#8217;m a ***TECHNICAL***Writer&#8230;.
 
 ---
 
-> [!info] Original Published Date : *2008-08-20*

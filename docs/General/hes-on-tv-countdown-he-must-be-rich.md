@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2020-05-06*
+
 ![](CountdownLogo-300x190.png)Television created the image that it was some sort of Golden Palace, particularly in the 1960s and 1970s when I started seriously watching. The media profiles of the glamorous lives &#8211; and large salaries &#8211; of the stars, were part of this carefully crafted image.
 
 It was the same for the music industry. Rinse and repeat for having a hit song on the radio.
@@ -83,4 +85,3 @@ Stevie&#8217;s sad, slow decline is [well documented](https://en.wikipedia.org/w
 
 ---
 
-> [!info] Original Published Date : *2020-05-06*

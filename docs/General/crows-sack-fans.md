@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2004-04-18*
+
 Directly following the club&#8217;s 4th straight loss for season 2004, the coach, president, vice president and football manager all hit the Adelaide radio talkback airwaves, demanding changes.
 
 During a series of irrational and increasingly hysterical calls, they managed to slip in the words *Victoria *and *Melbourne *at least 8 times. This really seemed to hit home and by 10pm the club had issued a Press Release stating that all fans had been offered fair and reasonable termination packages.
@@ -22,4 +24,3 @@ A spokesperson from the Crows fan base was approached for a comment, but didn&#8
 
 ---
 
-> [!info] Original Published Date : *2004-04-18*

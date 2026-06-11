@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2020-05-20*
+
 I’m sure the paper had green lines on it.
 
 It was wide and was supposed to be full of text. In a nice grid. Classes, dates, locations. Printed just for me. The fun few days of O-Week were over and it was time to move from Orientation to Application and start first-year University. However…
@@ -69,4 +71,3 @@ Chemistry.
 
 ---
 
-> [!info] Original Published Date : *2020-05-20*

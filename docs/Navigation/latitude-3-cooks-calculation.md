@@ -8,6 +8,8 @@ tags: ["navigation"]
 description: 
 ---
 
+> [!info] Original Published Date : *2020-06-05*
+
 >[!info] Jump to [[latitude-01-what-is-it|Part 1]], [[latitude-02-the-sun-and-the-book|Part 2]], [[latitude-3-cooks-calculation|Part 3]]
 
 We’ll dive straight in to see how Lt James Cook would have done this in the 1770s. To find his Latitude, he would have needed 3 things:
@@ -97,4 +99,3 @@ A quick search shows the modern value is `37.85°` South for Melbourne. Pretty g
 
 ---
 
-> [!info] Original Published Date : *2020-06-05*

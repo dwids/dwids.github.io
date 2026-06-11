@@ -9,6 +9,8 @@ tags:
 description:
 ---
 
+> [!info] Original Published Date : *2016-06-26*
+
 Something that happened today (see [[navigation-getting-the-basics-right-part-2|Part 2]]) reminded me when I first got a GPS. This was 2008 and it was a hand-held Garmin which cost a wee bit (\$280 USD, inc \$50 USD shipping). Arguably, most of the function I used then is now available in a \$4.99 phone app.
 
 So the first time I used it for navigation testing and route logging was in the Dandenongs. I had a paper map with a grid on it. My planned route (pale red, below) was roughly N-E; Edgar Track, Bills Tk, Camelia Tk.
@@ -29,4 +31,3 @@ The difference is about `200 metres to the north-east`. Which was exactly what I
 
 ---
 
-> [!info] Original Published Date : *2016-06-26*

@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2010-04-21*
+
 I’ve been looking at non-verbal communication tools for the iPhone. Most cost too much or generally were not fit for our purpose. So, I decided to create my own **free** Picture Board, but with two key criteria:
 
 1. To use existing, free graphic/pictures/clip_art, respecting any licensing 
@@ -56,4 +58,3 @@ I’m very happy with this, as a first effort. Some points of interest
 
 ---
 
-> [!info] Original Published Date : *2010-04-21*

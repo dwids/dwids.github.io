@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2011-02-11*
+
 Discovered AK&US a few years ago now. Whilst Alison normally sings &#8211; with a sweet, high and lovely voice &#8211; she&#8217;s silent here. Apart from the fiddle!
 
 There&#8217;s something about bluegrass that just works for me. So here&#8217;s the foot-tapping instrumental joy of Choctaw Hayride. Get on board&#8230;
@@ -19,4 +21,3 @@ There&#8217;s something about bluegrass that just works for me. So here&#8217;s 
 
 ---
 
-> [!info] Original Published Date : *2011-02-11*

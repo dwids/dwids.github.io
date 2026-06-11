@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2008-07-10*
+
 Haven&#8217;t been well over the last week, so Blogging hasn&#8217;t been on my mind as I fight off a head cold with sinus infection thrown in. This may have contributed to a very Human Error condition a few days ago.
 
 I was getting frustrated at my new mobile phone&#8217;s battery life. I&#8217;d charge it up and it would be nearly flat 8 hours later. And I&#8217;d hardly used it at all!!
@@ -25,4 +27,3 @@ Technorati Tags: [p3600i](http://technorati.com/tags/p3600i)
 
 ---
 
-> [!info] Original Published Date : *2008-07-10*

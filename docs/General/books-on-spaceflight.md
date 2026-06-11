@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2020-04-20*
+
 One of the benefits of cataloguing all my books in the free [Library Thing](https://www.librarything.com/) system, is I can quickly find all the books on a given topic (tag). And I don&#8217;t even have to add the tags; they are automatically sourced from other users and websites. I just scan the book&#8217;s barcode in &#8211; via the phone&#8217;s camera &#8211; and this magically is added to my catalogue:
 ![](image-30.png)All this from one quick barcode scan
 Of course older books don&#8217;t have barcodes, but it&#8217;s quite easy to search by ISBN or even title/author. If all else fails, you can just add your own data.
@@ -77,4 +79,3 @@ I have a few others, but that will do.
 
 ---
 
-> [!info] Original Published Date : *2020-04-20*

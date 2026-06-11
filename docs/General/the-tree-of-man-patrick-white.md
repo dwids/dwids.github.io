@@ -11,10 +11,11 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2010-04-27*
+
 Australia, 1955. &#8220;At the turn of the century Stan Parker takes a wife and makes a home as a small farmer in the wilderness of Australia. Amy bears his children and time brings him a procession of ordinary events &#8211; achievements, disappointments, sorrows and dreams. The author won the 1973 Nobel Prize for Literature&#8221; From the [Amazon review](http://www.amazon.com/dp/0099324512).  
 
 ![The Tree of Man cover](https://i0.wp.com/patrickwhitecatalogue.com/wp-content/uploads/2021/02/Tree-ES.jpg?w=650&amp;ssl=1)
 
 ---
 
-> [!info] Original Published Date : *2010-04-27*

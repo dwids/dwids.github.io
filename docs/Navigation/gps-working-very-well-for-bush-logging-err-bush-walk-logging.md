@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2008-09-14*
+
 Took the still fairly new [[got-a-gps-at-last|Garmin GPS]]  out for a walk yesterday. I started work just after I got it, so have hardly had time to get to know all the cool features it has. So with an unusually warm day forecast for this time of year, it was back to tackle Mount Macedon [[mt-macedon-walk-may-22nd-2008 | again]]
 
 The main reason I got it was for logging, that is **not** for telling me HOW to get somewhere, but to actually RECORD where I&#8217;ve been.  Later on I can take these GPS logs and do a number of interesting things with them, including:
@@ -24,4 +26,3 @@ The Mt Macedon walk is very enjoyable and a bit of a challenge. I guess I am som
 
 ---
 
-> [!info] Original Published Date : *2008-09-14*

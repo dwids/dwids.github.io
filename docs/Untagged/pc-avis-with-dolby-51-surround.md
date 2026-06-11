@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2005-03-11*
+
 It&#8217;s cool to be wrong. Well perhaps that&#8217;s a bit harsh. Maybe not up to date actually.
 
 I&#8217;d assumed (cough) that PC movie files  &#8211; specifically Xvid video stored in the AVI container file &#8211; could not have surround sound nor subtitles. Wrong, Jana, wrong.
@@ -21,4 +23,3 @@ Then I noticed that a foreign language show had a 2nd a file with it;* filename.
 
 ---
 
-> [!info] Original Published Date : *2005-03-11*

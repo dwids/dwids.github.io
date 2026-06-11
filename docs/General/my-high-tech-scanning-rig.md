@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2020-04-11*
+
 Yesterday I stumbled on a magic,  hand-written Form 4 (Year 10) book review of mine. Wanted to scan and share it, so the first step was to&#8230;.scan it.
 
 It was foolscap size, so too big for my little A4 printer-scanner. 
@@ -26,4 +28,3 @@ I&#8217;ll turn the jpg images into a PDF and upload it later today.
 
 ---
 
-> [!info] Original Published Date : *2020-04-11*

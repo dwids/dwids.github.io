@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2020-06-07*
+
 I sort of knew some of the songs from *Oklahoma!* but missed one connection, which – ironically – led me to listen to the movie soundtrack.
 
 I say *ironically* as the version (snippet) I heard was probably satire or even mocking. It was from Dave Warner; arch ocker satirist. The album was the biting *Mug’s Game* (1978).  Alas, no on-line version of said song – simply called *Oklahoma* – exists.  I remembered the lyrics:
@@ -68,4 +70,3 @@ Start strong and end even stronger.
 
 ---
 
-> [!info] Original Published Date : *2020-06-07*

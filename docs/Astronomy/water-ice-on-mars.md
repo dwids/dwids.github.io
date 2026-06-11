@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2008-06-21*
+
 ![](picHome05.jpg)
 
 One of the key things the Mars probe Phoenix was looking for was ice, specifically water ice. As my niece correctly told me, this is a vital for life (as we know it)  
@@ -19,4 +21,3 @@ Some Phoenix images showed what may have been it&#8230;or could have been salt. 
 
 ---
 
-> [!info] Original Published Date : *2008-06-21*

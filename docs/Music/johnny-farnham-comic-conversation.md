@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2011-02-08*
+
 Yes it&#8217;s 1970 so he was still Johnny. A lovely song displaying his excellent voice. Apparently written by a young bloke (not JF) who had &#8211; in real life &#8211; just finished up his first serious romance. He then imagined what it would be like to meet her again, some years later and how they&#8217;d interact.  The lyrics and music soar nicely with this:
 
 *I’d like to spin a web*
@@ -35,4 +37,3 @@ I think that James Rayne did a version too.
 
 ---
 
-> [!info] Original Published Date : *2011-02-08*

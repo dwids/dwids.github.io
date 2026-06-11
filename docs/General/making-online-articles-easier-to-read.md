@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2020-05-03*
+
 Sometimes you have a nice, long web article and you just want to sit back and read it, without the ads and headers and footers and other clutter. Maybe a nice sepia background, with an easy to read brown font (my favourite) 
 
 Or just easily send it from your PC to &#8216;read it later&#8217; on the phone or tablet. Offline, when I&#8217;m on the train or in bed. Plus in the above de-cluttered view.  
@@ -49,4 +51,3 @@ That&#8217;s better. Some images are there, but shrunk and moved to be less intr
 
 ---
 
-> [!info] Original Published Date : *2020-05-03*

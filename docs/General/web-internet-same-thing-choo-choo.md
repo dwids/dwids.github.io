@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2020-04-06*
+
 &#8220;Web, Internet, same thing&#8221;.  I&#8217;ve heard that a few times. It&#8217;s not actually true, but I let it slip. Until now.
 
 Firstly, **The Internet came first.** And by *years*.
@@ -63,4 +65,3 @@ Your device gets the packets for that web page, puts them back in the correct or
 
 ---
 
-> [!info] Original Published Date : *2020-04-06*

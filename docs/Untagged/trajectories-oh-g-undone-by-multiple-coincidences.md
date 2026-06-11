@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2020-05-10*
+
 Just a few days ago, in the [Trajectories post](trajectories-a-work-in-4-parts-and-still-in-progress.md), I could not get a simple example to work. To recap: the expected result was 0.2 metres and I was getting exactly 0.0000
 
 The following day I quickly worked out what it was. I was merging two &#8216;worked examples&#8217; and had missed one little change. Normally that wouldn&#8217;t matter, but **coincidences **in their values chosen &#8211; no doubt to make the maths easier &#8211; meant I kept getting 0. By hand or in Excel.
@@ -55,4 +57,3 @@ If it had been 30 degrees: cos2(30) multiplied by 2 would be 1.5 and so wouldn&#
 
 ---
 
-> [!info] Original Published Date : *2020-05-10*

@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2005-11-28*
+
 Two of my favourite songs are Judie Tzuke&#8217;s beautiful &#8220;Stay With Me Till Dawn&#8221; and Pink Floyd&#8217;s &#8220;Breathe&#8221; from Dark Side of the Moon.
 
 So it was with great interest I discovered a mashup of the two. Mashups are not remixes per se, but are usually two or more songs intertwined.  In this case it&#8217;s Floyd&#8217;s (original) music playing whilst Tzuke sings her (original) lyrics at the **same time**.
@@ -45,4 +47,3 @@ The result works very well. A nice mix of musical and technology smarts.
 
 ---
 
-> [!info] Original Published Date : *2005-11-28*

@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2004-04-07*
+
 In a surprise move David A Sidwell, founder and sole trader of [Artwill Services](http://www.artwill.com.au), today announced a bid for Telstra.
 
 Mr Sidwell, speaking on the condition he be taken out of context, said &#8220;With News Corporation moving offshore and Telstra buying kaz, I feel the time is right to issue a press release&#8221;
@@ -21,4 +23,3 @@ Analysts were too busy laughing, after Mr Sidwell pointed out that the first fou
 
 ---
 
-> [!info] Original Published Date : *2004-04-07*

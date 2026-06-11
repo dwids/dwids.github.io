@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2004-02-11*
+
 Scorched 3D is a game based loosely (or actually quite heavily now) on the classic DOS game Scorched Earth &#8220;The Mother Of All Games&#8221;. Scorched 3D adds amongst other new features a 3D island environment and LAN and internet play. Scorched 3D is totally free and is available for both Microsoft Windows and Unix (Linux, Mac OS X, Solaris etc.) operating systems.
 
 The above comes from the [Sourceforge home page](http://scorched3d.sourceforge.net/) of this VERY addictive game.
@@ -19,4 +21,3 @@ The above comes from the [Sourceforge home page](http://scorched3d.sourceforge.n
 
 ---
 
-> [!info] Original Published Date : *2004-02-11*

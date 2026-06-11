@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2020-04-24*
+
 This is directly following on from the earlier  [[midday-is-almost-never-1200|Midday is almost never 12:00]] post.  
 
 You may have noticed that if  you look at where the Sun is, in the sky, at **the same time** of the day it appears to change. Particularly over a gap of a week or a month. 
@@ -42,4 +44,3 @@ The last step was to use the free and magical **DaVinci Resolve** video editor t
 
 ---
 
-> [!info] Original Published Date : *2020-04-24*

@@ -11,6 +11,8 @@ cover:
 description: 
 ---
 
+> [!info] Original Published Date : *2011-02-06*
+
 What a gem to start with. I can only very vaguely recall it from July 1971. But a fairly recent documentary on the history of Australian surfing ([Bombora](http://www.abc.net.au/abccontentsales/s2509092.htm)) used it. And I thought &#8220;wow, that song rings a bell, it&#8217;s fantastic&#8221;
 
 The excellent Milesago web site has a [nice history](http://www.milesago.com/artists/healing-force.htm) of this Aussie &#8220;supergroup&#8221; 
@@ -25,4 +27,3 @@ Clearer audio on this music-only clip:
 
 ---
 
-> [!info] Original Published Date : *2011-02-06*
