@@ -5,7 +5,7 @@ draft: false
 
 ## About this SiC blog and me.
 
-**Ancora imparo** -  *I am still learning. *
+**Ancora imparo** -  *I am still learning.*
 
 That is the motto of Monash University, where I studied back when. And I’ve openly adopted it for myself.
 
