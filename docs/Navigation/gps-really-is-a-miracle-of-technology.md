@@ -21,7 +21,7 @@ As they use radio to measure distance, the speed of light kicks in.  It follows 
 
 **Special Relativity** must be taken into account.  The satellite is moving at ~ 14,000 km/h compared to your GPS unit on Earth. Due to this, time dilation occurs on the satellite; it&#8217;s clocks run more slowly every day compared to Earth&#8217;s.  That alone would lead to a navigation error of 2.1 km being added every day.
 
-**General Relativity** is also taken account.  The Earth is huge and distorts space-time near it.  The closer you are to Earth, the more time slows down. The satellites are further away and so this impact is less compared to on us on the surface. So, we see the satellite’s clock running **faster**every day compared to us. BTW, this is by a greater amount than due to Special Relativity, so they don’t balance out.
+**General Relativity** is also taken account.  The Earth is huge and distorts space-time near it.  The closer you are to Earth, the more time slows down. The satellites are further away and so this impact is less compared to on us on the surface. So, we see the satellite’s clock running **faster** every day compared to us. BTW, this is by a greater amount than due to Special Relativity, so they don’t balance out.
 
 If both are ignored, the navigation error would increase by** over 11 km** every day, making the system totally unusable. 
 
