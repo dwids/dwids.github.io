@@ -1,5 +1,5 @@
 ---
-title: Dimbools
+title: Dimboola
 draft: false
 tags: ["familyhistory"]
 lastmod: 2026-07-17
