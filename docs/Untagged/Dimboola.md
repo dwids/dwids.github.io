@@ -5,7 +5,7 @@ tags: ["familyhistory"]
 lastmod: 2026-07-17
 ---
 
-This was around October 1967
+This was around October 1967.
 
 We were from Melbourne, but lived in Adelaide. My late father (Brian) still worked in Melbourne and drove back and forth every few weeks.
 
