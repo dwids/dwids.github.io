@@ -32,6 +32,6 @@ I only have two memories of this:
 * Waving at a hospital window where Dad was (apparently) waving back
 * Looking out through the front window of the house and seeing a truck or ute pull up with furniture.
 
-I thought we stayed there for many months, but apparently it was ‘only’ about 6 weeks and Dad was out of hospital. I only found out recently, that his late brother — Uncle Derek — drove a truck from Melbourne to Adelaide (~700 km) to load up our house stuff.  Then he drove it back to our new place at Daylesford, Victoria. By luck, Mum's parents still owned their old Daylesford house — as a rental (they lived in Melbourne) — and the tenants had just moved out.  Hence, my interest in [[daylesford-x3 | Daylesford]]. 
+I thought we stayed there for many months, but apparently it was ‘only’ about 6 weeks and Dad was out of hospital. I only found out recently, that his late brother — Uncle Derek — drove a truck from Melbourne to Adelaide (~700 km) to load up our house stuff.  Then he drove it back to our new place at Daylesford, Victoria (650 km). By luck, Mum's parents still owned their old Daylesford house — as a rental (they lived in Melbourne) — and the tenants had just moved out.  Hence, my interest in [[daylesford-x3 | Daylesford]]. 
 
 As for me, it's nearly 60 years on and I can still see that vehicle pulling up with the furniture at Dimboola. I’m eternally grateful for the kindness and typical bush care provided to we total strangers.
