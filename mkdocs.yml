@@ -58,6 +58,3 @@ extra_css:
   - stylesheets/extra.css
   
 copyright: Copyright &copy; 2026 David Sidwell
-
-nav:
-  - Home: index.md
