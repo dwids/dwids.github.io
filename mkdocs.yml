@@ -4,7 +4,6 @@ site_url: https://dwids.github.io/
 
 theme:
   name: material
-  custom_dir: overrides
   palette:
     - scheme: slate
       toggle:
