@@ -57,4 +57,7 @@ extra_javascript:
 extra_css:
   - stylesheets/extra.css
   
-copyright: Copyright &copy; 2026 David Sidwell
+copyright: Copyright &copy; 2026 David Sidwell &mdash; Made with Material for MkDocs
+
+extra:
+  generator: false
