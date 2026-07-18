@@ -15,6 +15,7 @@ theme:
         name: Switch to dark mode
 
   features:
+    - navigation.tabs
     - navigation.top          # back to top button
     - navigation.indexes      # folder index pages
     - search.highlight        # highlights search terms in results
@@ -58,3 +59,6 @@ extra_css:
   - stylesheets/extra.css
   
 copyright: Copyright &copy; 2026 David Sidwell
+
+nav:
+  - Home: index.md

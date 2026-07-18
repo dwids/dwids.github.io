@@ -7,10 +7,3 @@
 [data-md-color-scheme="default"] h2 { color: #2a5038; font-weight: 400; }
 [data-md-color-scheme="default"] h3 { color: #5c4510; }
 [data-md-color-scheme="default"] h4 { color: #2d6b42; }
-
-.md-footer-copyright {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 6px;
-}
