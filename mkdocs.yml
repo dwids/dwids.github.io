@@ -15,7 +15,6 @@ theme:
         name: Switch to dark mode
 
   features:
-    - navigation.tabs
     - navigation.top          # back to top button
     - navigation.indexes      # folder index pages
     - search.highlight        # highlights search terms in results
