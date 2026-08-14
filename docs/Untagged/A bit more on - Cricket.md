@@ -10,7 +10,7 @@ draft: false
 
 <figure>
   <img src="https://resources.cricket-australia.pulselive.com/photo-resources/2023/05/04/6275321e-b3ee-4896-aea4-8820f0cda36f/1DW7WgUB.ashx?width=950&height=535" alt="The MCG">
-  <figcaption>The MCG.</figcaption>
+  <figcaption>The MCG. It holds over 100,000 people</figcaption>
 </figure>
 
 [Image source](https://resources.cricket-australia.pulselive.com/photo-resources/2023/05/04/6275321e-b3ee-4896-aea4-8820f0cda36f/1DW7WgUB.ashx?width=950&height=535)
@@ -68,7 +68,7 @@ My opinion only. This is who actually really controls International Cricket over
   
 ## The Modern Test Rivals -  Australia vs. 'x' 
 
-**England**. This Greatest/Longest Rivalry in Cricket (and International major sport?). This goes back nearly 150 years. I find there's more, umm, *feeling*  and *edge* in these matches. Okay, it's war out there, including in the media and in the stands.   Huge build up and crowds here.
+**England**. This Greatest/Longest Rivalry in Cricket (and International major sport?). This goes back nearly **150** years. I find there's more, umm, *feeling*  and *edge* in these matches. Okay, it's war out there, including in the media and in the stands.   Huge build up and crowds here.
 
 Don't forget Australia was a British Colony from 1788. And our Head of State is still King Charles III. The English supporters sing, en masse, at the MCG: "God save *YOUR* Gracious King" -  true!
 
@@ -76,7 +76,8 @@ Don't forget Australia was a British Colony from 1788. And our Head of State is 
 
 Why? My take: We were both English Colonies. And so the (sporting) Enemy of My Enemy is my Friend. Plus, I understand Australia encouraged and supported India way back (c 1930s and 40s) when India was starting out in Test Cricket. 
 
-## Farming The Strike  
+
+## Farming The Strike  (longer piece)
 
 > Slightly longer piece....
 
