@@ -40,6 +40,8 @@ Officially the *Ian Potter Centre: NGV Australia
 #### State Library Victoria
 Magnificent huge old Library building in the middle of the city on Swanston st. Has two train stations minutes away. ==Must see== is the main reading room; a huge dome, Also has has art works, permanent collections and rotating collections. ==free==
 
+
+
 #### Melbourne Museum
 Just out of the city; short walk for Parliament Station or a tram trip. "Experience the wonder of human history and life in all its forms"
 
