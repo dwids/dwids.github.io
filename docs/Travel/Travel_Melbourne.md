@@ -9,9 +9,16 @@ draft: false
 
 # Tourist Tips for Melbourne
 
+## Travel and the Sun
+
+Melbourne has an extensive public transport network; trains, trams and buses. And very dangerous sun levels 😵‍💫 So, I would look at getting:
+
+- A [Myki card](https://transport.vic.gov.au/tickets-and-payments/myki) or phone-app 
+- Sunscreen!  SPF 50+. Put it on 20 minutes before you go out. I am dead serious, we have the highest rate of skin cancer in the world. 
+
 ## Arts and Culture
 
-Most of these are on or near Swanston St (which becomes St Kilda road)
+Most of these are on or near Swanston St (which becomes St Kilda road) and so Flinders St train station.
 
 #### National Gallery of Victoria — International
 ==free== (except for any special exhibitions)
@@ -33,5 +40,17 @@ Magnificent huge old Library building in the middle of the city on Swanston st. 
 
 ### Melbourne Museum
 Just out of the city; short walk for Parliament Station or a tram trip. "Experience the wonder of human history and life in all its forms"
+
+
+## Sport
+### The MCG  (Cricket and Australian Rules Football)
+100,000 seat Melbourne Cricket Ground. Nice walk from Flinders St station, or tram or train. I think you have to pay to do a tour. You can't just walk in.
+
+## Melbourne Park (Tennis)
+Home of the Australian Open in January. Basically next door to the MCG. Not sure if it's open for tours. I will check later
+
+
+
+
 
 
