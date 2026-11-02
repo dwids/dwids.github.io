@@ -13,9 +13,12 @@ draft: false
 
 ## Travel and the Sun
 
-Melbourne has an extensive public transport network; trains, trams and buses. And very dangerous sun levels 😵‍💫 So, I would look at getting:
+Melbourne has:
 
-- A [Myki card](https://transport.vic.gov.au/tickets-and-payments/myki) or phone-app 
+- An extensive, cheap public transport network; trains, trams and buses. 
+- But...very dangerous sun levels 😵‍💫 So, I would look at getting:
+
+- A [Myki card](https://transport.vic.gov.au/tickets-and-payments/myki) or phone-app.  *Flat fare* system means a 'hard limit' per day on costs.
 - Sunscreen!  SPF 50+. Put it on 20 minutes before you go out. I am dead serious, we have the highest rate of skin cancer in the world. 
 
 ## Arts and Culture
@@ -52,7 +55,7 @@ Magnificent [huge old Library building](https://www.slv.vic.gov.au/) in the midd
 
 ## Sport
 #### The MCG  (Cricket and Australian Rules Football)
-100,000 seat Melbourne Cricket Ground. Nice walk from Flinders St station, or tram or train. I think you have to pay to do a tour. You can't just walk in.
+Imagine 100,000 people at a game at the [Melbourne Cricket Ground](https://www.mcg.org.au/). Nice walk from Flinders St station, or tram or train. I think you have to pay to do a tour. You can't just walk in.
 
 ![MCG|600](https://www.mcg.org.au/globalassets/global-media/images/mcg-images/home-page/banner-image/2026/afl/afl_26_wc1melbvcarl_348_homepage-banner.webp)
 
