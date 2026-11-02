@@ -47,7 +47,11 @@ Just out of the city; short walk for Parliament Station or a tram trip. "Experie
 100,000 seat Melbourne Cricket Ground. Nice walk from Flinders St station, or tram or train. I think you have to pay to do a tour. You can't just walk in.
 
 #### Melbourne Park (Tennis)
-Home of the Australian Open in January. Basically next door to the MCG. Not sure if it's open for tours. I will check later
+Home of the Australian Open in January. Basically next door to the MCG. Not sure if it's open for tours. I will check later.
+
+
+## More to come...
+Including photos and quick maps
 
 
 
