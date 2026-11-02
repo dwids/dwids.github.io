@@ -47,7 +47,7 @@ Magnificent [huge old Library building](https://www.slv.vic.gov.au/) in the midd
 
 
 #### Melbourne Museum
-[Just out of the city](https://museumsvictoria.com.au/melbournemuseum/); short walk for Parliament Station or a tram trip. "Experience the wonder of human history and life in all its forms"
+[Just out of the city](https://museumsvictoria.com.au/melbournemuseum/); short walk for Parliament Station or a tram trip from the city. "Experience the wonder of human history and life in all its forms"
  ![Melbourne Museum](https://museumsvictoria.com.au/media/0d3d4dkg/mm_heroimage-1.jpg?width=1448&height=616&v=1dc170a73ebfe70)
 
 ## Sport
