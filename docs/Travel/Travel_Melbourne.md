@@ -9,6 +9,8 @@ draft: false
 
 # Tourist Tips for Melbourne
 
+> [!info] Quick ideas for things to see when visiting Melbourne
+
 ## Travel and the Sun
 
 Melbourne has an extensive public transport network; trains, trams and buses. And very dangerous sun levels 😵‍💫 So, I would look at getting:
