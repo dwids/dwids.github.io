@@ -16,7 +16,9 @@ draft: false
 Melbourne has:
 
 - An extensive, cheap public transport network; trains, trams and buses. 
-- But...very dangerous sun levels 😵‍💫 So, I would look at getting:
+- But...very dangerous sun levels 😵‍💫 
+
+So, I would look at getting:
 
 - A [Myki card](https://transport.vic.gov.au/tickets-and-payments/myki) or phone-app.  *Flat fare* system means a 'hard limit' per day on costs.
 - Sunscreen!  SPF 50+. Put it on 20 minutes before you go out. I am dead serious, we have the highest rate of skin cancer in the world. 
