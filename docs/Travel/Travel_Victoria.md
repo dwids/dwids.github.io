@@ -12,7 +12,7 @@ draft: false
 
 ## 12 Apostles and the Great Ocean Road
 
-I'd tip a 2 or 3 day drive.  I would go west 'inland' from Melbourne to the 'far end' of the route, say Warrnambool, then hit the coast (Great Ocean Road) and travel East back towards Melbourne. See the map further on.  The 'attractions' get more dramatic as you move east.  So this way, they 'get bigger and better' towards the end of your trip.  It's about 250 km (150 mi) to Warrnambool
+I'd tip a 2 or 3 day drive.  I would go west; 'inland' from Melbourne to the 'far end' of the route, say Warrnambool, then hit the coast (Great Ocean Road) and travel East back towards Melbourne. **See the map further on**.  The 'attractions' get more dramatic as you move east.  So this way, they 'get bigger and better' towards the end of your trip.  It's about 250 km (150 mi) to Warrnambool
 
 ![[12_Apostles__DS_20250211_140636.jpg]]
 <small>⬆️My photo of the 12 Apostles</small>
@@ -29,6 +29,6 @@ Then make your way along the Great Ocean road, stopping at all the cools spots w
 
 ![[Melbourne - GOR loop.png]]
 
-[[Melbourne - GOR loop.pdf|PDF map of the above]]
+[[Melbourne - GOR loop.pdf|PDF map of the above]]  It's easier to read and you can zoom in and download it too.
 
 ## More to come...
