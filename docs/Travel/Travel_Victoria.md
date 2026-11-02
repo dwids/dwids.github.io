@@ -14,7 +14,9 @@ draft: false
 
 I'd tip 2 or 3 days.  I would go west 'inland' from Melbourne to the 'far end' of the route, say Warrnambool, then hit the coast (Great Ocean Road) and travel East back towards Melbourne. The 'attractions' get more dramatic as you move east.  So this way, they 'get bigger and better' towards the end of your trip.  It's about 250 km (150 mi) to Warrnambool
 
-![12 Apostles](https://upload.wikimedia.org/wikipedia/commons/e/ec/Twelve_Apostles_7_%288653706581%29.jpg)
+![[12_Apostles__DS_20250211_140636.jpg]]
+<small>⬆️My photo of the 12 Apostles</small>
+
 So, Melbourne > Inverleigh (coffee at bakery) > Warrnambool, (stay?  check out the Flagstaff Hill maritime museum?) 
 
 Pop over to [Tower Hill](https://www.tripadvisor.com.au/Attraction_Review-g2258636-d505936-Reviews-Tower_Hill_Wildlife_Reserve-Tower_Hill_Victoria.html) (old volcano) and lovely Port Fairy
