@@ -27,6 +27,8 @@ Then make your way along the Great Ocean road, stopping at all the cools spots w
 
 #### Image and PDF map of the above suggested touring route:
 
+> [!info] To keep maps easy to read, I don't show the loop **back** from Torquay (the end of the Great Ocean Road, for this trip). Just follow the signs back to Melbourne etc.
+
 ![[Melbourne - GOR loop.png]]
 
 [[Melbourne - GOR loop.pdf|PDF map of the above]]
