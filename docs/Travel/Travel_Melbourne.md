@@ -35,18 +35,18 @@ Officially the *Ian Potter Centre: NGV Australia
 > The above 3 are like 5 minutes walk from Flinders St station. ACMI is next door to NGV-Australia.
 
 
-### State Library Victoria
+#### State Library Victoria
 Magnificent huge old Library building in the middle of the city on Swanston st. Has two train stations minutes away. ==Must see== is the main reading room; a huge dome, Also has has art works, permanent collections and rotating collections. ==free==
 
-### Melbourne Museum
+#### Melbourne Museum
 Just out of the city; short walk for Parliament Station or a tram trip. "Experience the wonder of human history and life in all its forms"
 
 
 ## Sport
-### The MCG  (Cricket and Australian Rules Football)
+#### The MCG  (Cricket and Australian Rules Football)
 100,000 seat Melbourne Cricket Ground. Nice walk from Flinders St station, or tram or train. I think you have to pay to do a tour. You can't just walk in.
 
-## Melbourne Park (Tennis)
+#### Melbourne Park (Tennis)
 Home of the Australian Open in January. Basically next door to the MCG. Not sure if it's open for tours. I will check later
 
 
