@@ -21,7 +21,9 @@ So, `Melbourne > Inverleigh (coffee at bakery) > Warrnambool, (stay?  check out 
 
 Pop over to [Tower Hill](https://www.tripadvisor.com.au/Attraction_Review-g2258636-d505936-Reviews-Tower_Hill_Wildlife_Reserve-Tower_Hill_Victoria.html) (flooded volcanic cones) and lovely Port Fairy.
 
-Then make your way along the Great Ocean road, stopping at all the cools spots with the 12 Apostles near the end of this leg, then maybe stay at Apollo Bay. Then come back to Melbourne etc.
+Then make your way along the Great Ocean road (GOR), stopping at all the cools spots with the 12 Apostles near the end of this leg, then maybe stay at Apollo Bay. Then come back to Melbourne via the breathtaking GOR.  It is literally a road cut into the steep mountains that come down to the ocean:
+
+![The Great Ocean Road](https://autopiatours.com.au/wp-content/uploads/The-Great-Ocean-Road-travelling-.webp)
 
 #### Image and PDF map of the above suggested touring route:
 
