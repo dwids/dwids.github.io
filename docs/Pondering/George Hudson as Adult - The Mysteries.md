@@ -15,7 +15,7 @@ draft: false
 
 From what I can see:
 
-John and Eliza Hudson were in Upper Heyford, Oxfordshire, UK. By 1873 they had 3 children. In December they all got the steam ship "Mongol" and headed off to New Zealand. The departure records show their ages as:
+John and Eliza Hudson were in Upper Heyford, Oxfordshire, UK. By 1873 they had 3 children. In December they all boarded the steam ship "Mongol" and headed off to New Zealand. The departure records show their ages as:
 
 ```
 John: 35
