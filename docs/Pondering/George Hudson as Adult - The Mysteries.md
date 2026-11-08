@@ -71,10 +71,11 @@ Her Death Certificate says she was 31 and had lived:
 - 26 years in New Zealand
 - 5 Years in Victoria
 
+![[Death Certificate of Sarah Ann (Haycock) Hudson - 1896.jpg]]
+
 `1896 - 5 = 1891` ; this is where I get the 'arrived in Victoria in 1891' - assuming the Certificate is accurate.
 
 >[!info] So I need to try to find Departure or Arrival Records for them from 1890-1892.  As of 2026-11-09, no luck
-
 
 ## Australia: George and Alice
 Not the focus here, but widower George and widow Alice met and married. Both had children already. They then had more children, including their youngest **Arthur** William Hudson, my grandfather.  Hence my term *Brady Bunch Plus.*
