@@ -44,6 +44,7 @@ Sarah Haycock was born in New Zealand in 1865. She married George in late Januar
 ### NZ-born children
 
 **Minnie**:  Born November 10th, 1885 in Ngare, NZ.  (ref: Birth Certificate)
+
 **Raymond Clement** : Born Nov 26 June 1889 at Nelson, NZ (ref: Birth Certificate)
 
 
@@ -85,7 +86,7 @@ A quick aside.
 
 **Kenneth** (George and Sarah):  Served in WWI including Gallipoli. Survived.
 
-**Henry** (George and Alice): Known as *Henry*, I met my (Great) Uncle Henry. Served in WWII was captured in Singapore and had his leg amputated (!)
+**Henry** (George and Alice): Known as *Henry*, I met my (Great) Uncle Harry. Served in WWII, was captured in Singapore and had his leg amputated (!)
 
 **Arthur** (George and Alice):  My grandfather. Was already an engineer in the Air Force and served, in that capacity, in PNG.
 
