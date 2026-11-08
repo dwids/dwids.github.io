@@ -78,6 +78,10 @@ Her Death Certificate says she was 31 and had lived:
 ## Australia: George and Alice
 Not the focus here, but widower George and widow Alice met and married. Both had children already. They then had more children, including their youngest **Arthur** William Hudson, my grandfather.  Hence my term *Brady Bunch Plus.*
 
+Alice died in January 1933.
+
+George died in July 1935. Here is his [death notice]() and his record at [Find a Grave](https://www.findagrave.com/memorial/212320792/george-hudson)
+
 ### Military Records
 A quick aside.
 
