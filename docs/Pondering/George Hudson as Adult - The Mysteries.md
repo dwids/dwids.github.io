@@ -12,6 +12,8 @@ draft: false
 > [!info] My main focus in my Great Grandfather (GGF) as a married adult. In 1889, he was in New Zealand, marred to Sarah and with two young children. A few years latter they are in Raywood, Victoria, Australia. **How did they get there?**    
 
 
+
+
 ## England:  John and Eliza (George's parents) - 1873
 
 From what I can see:
@@ -24,9 +26,9 @@ Eliza: 36
   George: 14  <-- My GGF
   Eliza(beth?): 11
   Laura: 8 (bit hard to read)
-  
-Ref: departure records  
 ```
+
+![[George Hudson - arrival at NZ on Mongol.jpg]]
 
 
 Ref: for "Mongol" and John etc [this book](https://nzetc.victoria.ac.nz/tm/scholarly/tei-ArnFart-c3.html)  p 53.
