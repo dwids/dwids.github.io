@@ -91,6 +91,8 @@ A quick aside.
 
 I'm starting to think that John and Eliza Hudson (George's parents) went from NZ to **Tasmania**. I was talking to one of Mum's cousins — about George and Sarah — and she said something about 'going to Tasmania'.  Maybe she mean John and Eliza?  John was John *George* Hudson.
 
+Maybe, just speculating, John had other brothers and sisters who came to Tasmania. That would be fascinating!  
+
 
 
 
