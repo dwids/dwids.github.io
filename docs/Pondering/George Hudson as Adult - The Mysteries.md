@@ -80,7 +80,11 @@ Not the focus here, but widower George and widow Alice met and married. Both had
 
 Alice died in January 1933.
 
-George died in July 1935. Here is his [death notice]() and his record at [Find a Grave](https://www.findagrave.com/memorial/212320792/george-hudson)
+George died in July 1935. Here is his death notice:
+
+![[ss.20261108_213144_p1_-_31_Jul_1935_-_The_Age_(Melbourne,_Vic.__1854_.png]]
+
+...and his record at [Find a Grave](https://www.findagrave.com/memorial/212320792/george-hudson)
 
 ### Military Records
 A quick aside.
