@@ -16,6 +16,7 @@ This is a summary of [[George Hudson as Adult - The Mysteries]]. I am related to
 ## Quick Facts
 
 **George Hudson** (no middle name, it seems). Born 26 May 1859, Upper Heyford, Oxfordshire, England
+
 **Sarah Ann Haycock** . Born 23 Jan 1865.  Nelson? New Zealand
 
 Come 1854, 14 year old George is in NZ. By 1889 he is married to Sarah with two children:
