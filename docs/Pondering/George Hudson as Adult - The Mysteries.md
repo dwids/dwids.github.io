@@ -9,7 +9,7 @@ draft: false
 
 # George Hudson as Adult : The Mysteries
 
-> [!info] My main focus in my *George Hudson* — my Great Grandfather (GGF) — as a married adult. In 1889, he was in New Zealand, marred to Sarah and with two young children. A few years latter they are in Raywood, Victoria, Australia. **How did they get there?**    
+> [!info] My main focus in my *George Hudson* — my Great Grandfather (GGF) — as a married adult. In 1889, he was in New Zealand, married to *Sarah* and with two young children. A few years latter they are in Raywood, Victoria, Australia. **How did they get there?**    
 
 ## England:  John and Eliza (George's parents) - 1873
 
