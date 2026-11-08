@@ -12,7 +12,7 @@ draft: false
 > [!info] My main focus in my Great Grandfather (GGF) as a married adult. He was in New Zealand, marred to Sarah and with two young children. A few years latter they are in Raywood, Victoria, Australia. **How did they get there?**    
 
 
-## John and Eliza (George's parents) - 1873
+## England:  John and Eliza (George's parents) - 1873
 
 From what I can see:
 
@@ -29,7 +29,7 @@ Ref: departure records
 ```
 
 
-Ref: for "Mongol" and John etc https://nzetc.victoria.ac.nz/tm/scholarly/tei-ArnFart-c3.html  p 53.
+Ref: for "Mongol" and John etc [this book](https://nzetc.victoria.ac.nz/tm/scholarly/tei-ArnFart-c3.html)  p 53.
 
 Ancestry says John was *John George Hudson* but his son *George* doesn't seem to have a middle name.
 
@@ -87,9 +87,9 @@ A quick aside.
 **Arthur** (George and Alice):  My grandfather. Was already an engineer in the Air Force and served, in that capacity, in PNG.
 
 
-## John and Eliza
+## John and Eliza - Tasmania?
 
-I'm starting to think they (George's parents) went from NZ to Tasmania. I was talking to one of Mum's cousins — about George and Sarah — and she said something about 'going to Tasmania'.  Maybe she mean John and Eliza?
+I'm starting to think that John and Eliza Hudson (George's parents) went from NZ to **Tasmania**. I was talking to one of Mum's cousins — about George and Sarah — and she said something about 'going to Tasmania'.  Maybe she mean John and Eliza?  John was John *George* Hudson.
 
 
 
