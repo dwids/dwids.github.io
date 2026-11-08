@@ -28,7 +28,7 @@ Eliza: 36
 ![[George Hudson - arrival at NZ on Mongol.jpg]]
 
 
-Ref: for "Mongol" and John etc [this book](https://nzetc.victoria.ac.nz/tm/scholarly/tei-ArnFart-c3.html)  p 53.
+John Hudson is actually named in [this book](https://nzetc.victoria.ac.nz/tm/scholarly/tei-ArnFart-c3.html)  on page 53.
 
 Ancestry says John was *John George Hudson* but his son *George* doesn't seem to have a middle name.
 
