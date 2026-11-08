@@ -1,0 +1,98 @@
+---
+title: George Hudson as Adult - The Mysteries
+date: 2026-02-17
+tags:
+  - history
+  - family
+draft: false
+---
+
+# George Hudson as Adult : The Mysteries
+
+> [!info] My main focus in my Great Grandfather (GGF) as a married adult. He was in New Zealand, marred to Sarah and with two young children. A few years latter they are in Raywood, Victoria, Australia. **How did they get there?**    
+
+
+## John and Eliza (George's parents) - 1873
+
+From what I can see:
+
+John and Eliza Hudson were in Upper Heyford, Oxfordshire, UK. By 1873 they had 3 children. In December they all got the steam ship "Mongol" and headed off to New Zealand. The departure records show their ages as:
+
+```
+John: 35
+Eliza: 36
+  George: 14  <-- My GGF
+  Eliza(beth?): 11
+  Laura: 8 (bit hard to read)
+  
+Ref: departure records  
+```
+
+
+Ref: for "Mongol" and John etc https://nzetc.victoria.ac.nz/tm/scholarly/tei-ArnFart-c3.html  p 53.
+
+Ancestry says John was *John George Hudson* but his son *George* doesn't seem to have a middle name.
+
+I haven't researched what happened after they arrived in NZ as my focus is George et al and Australia.  Maybe John and Eliza went to Tasmania; I haven't looked.
+
+## NZ: George and Sarah
+
+Sarah Haycock was born in New Zealand in 1865. She married George in late January 1885 at the "Registrars Office" at Nelson, NZ
+
+### NZ-born children
+
+**Minnie**:  Born November 10th, 1885 in Ngare, NZ.  (ref: Birth Certificate)
+**Raymond Clement** : Born Nov 26 June 1889 at Nelson, NZ (ref: Birth Certificate)
+
+
+### The Gap :  June 1889-July 1894
+
+By July 27th, 1894 the four of them (George and family) are in little Raywood, Victoria, Australia. 
+Source: Birth of **Kenneth** Charles Hudson at Raywood.
+
+>[!info] As of now 2026-11-09, I have no information as to how they got there, let alone why.  This is what my focus is.
+
+I think they may have arrived in Victoria around **1891**, see below. This is by deduction.
+
+## Australia: George and Sarah
+
+They had another child:
+
+**Sarah** May Hudson (29 April 1896)
+
+So there are now four children.
+
+Sadly Sarah dies, at age 31, about a month after her baby Sarah is born. It was almost certainly related to the birth.
+
+Her Death Certificate says she was 31 and had lived:
+
+- 26 years in New Zealand
+- 5 Years in Victoria
+
+`1896 - 5 = 1891` ; this is where I get the 'arrived in Victoria in 1891' - assuming the Certificate is accurate.
+
+>[!info] So I need to try to find Departure or Arrival Records for them from 1890-1892.  As of 2026-11-09, no luck
+
+
+## Australia: George and Alice
+Not the focus here, but widower George and widow Alice met and married. Both had children already. They then had more children, including their youngest **Arthur** William Hudson, my grandfather.  Hence my term *Brady Bunch Plus.*
+
+### Military Records
+A quick aside.
+
+**Kenneth** (George and Sarah):  Served in WWI including Gallipoli. Survived.
+
+**Henry** (George and Alice): Known as *Henry*, I met my (Great) Uncle Henry. Served in WWII was captured in Singapore and had his leg amputated (!)
+
+**Arthur** (George and Alice):  My grandfather. Was already an engineer in the Air Force and served, in that capacity, in PNG.
+
+
+## John and Eliza
+
+I'm starting to think they (George's parents) went from NZ to Tasmania. I was talking to one of Mum's cousins — about George and Sarah — and she said something about 'going to Tasmania'.  Maybe she mean John and Eliza?
+
+
+
+
+
+
