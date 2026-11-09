@@ -11,6 +11,8 @@ draft: false
 
 > George was my Great Grandfather. The current 'gap' in my knowledge is by June 1889 he is married - to Sarah, his first wife - and living in New Zealand, with two young children. Come July 1894, all four of them are in Raywood, Victoria, Australia. I can't find their travel records from NZ to AU.  
 
+>[!Warning] My focus is on finding this 'travel gap' information — their NZ to AUS travel records — not on researching other information about George, Sarah etc.
+
 This is a summary of [[George Hudson as Adult - The Mysteries]]. I am related to George by his second wife, Alice.
 
 ## Quick Facts
