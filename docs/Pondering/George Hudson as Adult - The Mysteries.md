@@ -40,15 +40,17 @@ Sarah Haycock was born in New Zealand in 1865. She married George in late Januar
 
 ### NZ-born children
 
-**Minnie**:  Born November 10th, 1885 in Ngare, NZ.  (ref: Birth Certificate)
+- **Minnie**:  Born November 10th, 1885 in Ngare, NZ.  (ref: Birth Certificate)
 
-**Raymond Clement** : Born Nov 26 June 1889 at Nelson, NZ (ref: Birth Certificate)
+- **Raymond Clement** : Born Nov 26 June 1889 at Nelson, NZ (ref: Birth Certificate)
 
 
 ### The Gap :  June 1889-July 1894
 
 By July 27th, 1894 the four of them (George and family) are in little Raywood, Victoria, Australia. 
-Source: Birth of **Kenneth** Charles Hudson at Raywood.
+Source: Birth of :
+
+- **Kenneth** Charles Hudson at Raywood (July 27th, 1894) . 
 
 >[!info] As of now 2026-11-09, I have no information as to how they got there, let alone why.  This is what my focus is.
 
@@ -58,7 +60,7 @@ I think they may have arrived in Victoria around **1891**, see below. This is by
 
 They had another child:
 
-**Sarah** May Hudson (29 April 1896)
+- **Sarah** May Hudson (29 April 1896)
 
 So there are now four children.
 
@@ -76,7 +78,7 @@ Her Death Certificate says she was 31 and had lived:
 >[!info] So I need to try to find Departure or Arrival Records for them from 1890-1892.  As of 2026-11-09, no luck
 
 ## Australia: George and Alice
-Not the focus here, but widower George and widow Alice Maria Spratt met and married. Both had children already. They then had more children, including their youngest **Arthur** William Hudson, my grandfather.  Hence my term *Brady Bunch Plus.*
+Not the focus here, but widower George and widow **Alice** Maria Spratt met and married. Both had children already. They then had more children, including their youngest **Arthur** William Hudson, my grandfather.  Hence my term *Brady Bunch Plus.*
 
 Alice died in January 1933.
 
