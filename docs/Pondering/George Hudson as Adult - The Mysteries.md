@@ -1,5 +1,5 @@
 ---
-title: George Hudson as Adult - The Mysteries
+title: George Hudson as an Adult
 date: 2026-02-17
 tags:
   - history
@@ -7,7 +7,7 @@ tags:
 draft: false
 ---
 
-# George Hudson as Adult : The Mysteries
+# George Hudson as Adult 
 
 > [!info] My main focus in my *George Hudson* — my Great Grandfather (GGF) — as a married adult. In 1889, he was in New Zealand, married to *Sarah* and with two young children. A few years latter they are in Raywood, Victoria, Australia. **How did they get there?**    
 
