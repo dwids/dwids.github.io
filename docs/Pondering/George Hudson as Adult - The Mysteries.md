@@ -62,7 +62,7 @@ They had another child:
 
 So there are now four children.
 
-Sadly Sarah dies, at age 31, about a month after her baby Sarah is born. It was almost certainly related to the birth.
+Sadly Sarah dies, at age 31, about a month after her baby Sarah May is born. It was almost certainly related to the birth.
 
 Her Death Certificate says she was 31 and had lived:
 
@@ -93,7 +93,7 @@ A quick aside.
 
 **Henry** (George and Alice): Known as *Harry*, I met my (Great) Uncle Harry. Served in WWII, was captured in Singapore and had his leg amputated (!)
 
-**Arthur** (George and Alice):  My grandfather. Was already an engineer in the Air Force and served, in that capacity, in PNG.
+**Arthur** (George and Alice):  My grandfather. Was already an engineer in the Air Force and served, in that capacity, in PNG during WWII.
 
 
 ## John and Eliza - Tasmania?
