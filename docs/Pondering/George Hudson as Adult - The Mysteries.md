@@ -64,7 +64,7 @@ They had another child:
 
 So there are now four children.
 
-Sadly Sarah dies, at age 31, about a month after her baby Sarah May is born. It was almost certainly related to the birth.
+➡️Sadly Sarah dies, at age 31, about a month after her baby Sarah May is born. It was almost certainly related to the birth.
 
 Her Death Certificate says she was 31 and had lived:
 
