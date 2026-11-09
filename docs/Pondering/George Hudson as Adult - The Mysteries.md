@@ -76,7 +76,7 @@ Her Death Certificate says she was 31 and had lived:
 >[!info] So I need to try to find Departure or Arrival Records for them from 1890-1892.  As of 2026-11-09, no luck
 
 ## Australia: George and Alice
-Not the focus here, but widower George and widow Alice met and married. Both had children already. They then had more children, including their youngest **Arthur** William Hudson, my grandfather.  Hence my term *Brady Bunch Plus.*
+Not the focus here, but widower George and widow Alice Maria Spratt met and married. Both had children already. They then had more children, including their youngest **Arthur** William Hudson, my grandfather.  Hence my term *Brady Bunch Plus.*
 
 Alice died in January 1933.
 
@@ -91,7 +91,7 @@ A quick aside.
 
 **Kenneth** (George and Sarah):  Served in WWI including Gallipoli. Survived.
 
-**Henry** (George and Alice): Known as *Henry*, I met my (Great) Uncle Harry. Served in WWII, was captured in Singapore and had his leg amputated (!)
+**Henry** (George and Alice): Known as *Harry*, I met my (Great) Uncle Harry. Served in WWII, was captured in Singapore and had his leg amputated (!)
 
 **Arthur** (George and Alice):  My grandfather. Was already an engineer in the Air Force and served, in that capacity, in PNG.
 
