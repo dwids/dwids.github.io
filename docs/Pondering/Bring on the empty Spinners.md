@@ -38,7 +38,7 @@ but then...
 
 Cameron Bancroft publishes a large statement/tell-all alleging the whole team knew and **naming** bowlers and coaching staff.  Thus, it seems, nuking the original Crisis Management plan. 
 
-#### 21 November
+#### 21st November
  It seems the 2018 bowlers (per se, not their reps) and 2018 coaching staff have gone silent since Bancroft's article.  
 
 #### The deadlines: First Test and Squad
