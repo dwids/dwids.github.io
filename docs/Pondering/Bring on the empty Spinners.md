@@ -7,9 +7,7 @@ draft: false
 ---
 
 
- # Bring on the empty Spinners
-
-## Cricket - Sandpapergate 2026 🏏
+## Cricket : Sandpapergate 2026 🏏
 
 > Quick speculation on how we got here and where it may go. Bullet points, not narrative. As of 2026-11-21 at 7:30AM. I rate my final prediction(s) at 50/50.
 
