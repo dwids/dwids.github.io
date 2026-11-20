@@ -44,12 +44,12 @@ Cameron Bancroft publishes a large statement/tell-all alleging the whole team kn
 #### The deadlines: First Test and Squad
 The first Test against NZ starts on Wed 9 December.
 
-I expect the Australian Squad to be announced late November, i.e. just over ONE WEEK away
+I expect the Australian Squad to be announced late November, i.e. just over ONE WEEK away.
 
 
 ### The Next Ten Days
 Right now, I think the 2018 bowlers will be talking to CA.  If CA, behind closed doors, decides that Bancroft's tale is credible — or they see the public support for him is high — those bowlers are in an awkward position. 
 
-Most of the 2018 Bowlers are tipped to retire within a year, i.e. after the Ashes. As so to Crisis Management Plan, Take 2:
+Most of the 2018 Bowlers are tipped to retire within a year, i.e. after the Ashes. And so to Crisis Management Plan, Take 2:
 
 > I think the 2018 Bowlers, including Pat Cummins, will announce their retirement within the next few days. They — and CA — will make no formal comment on Sandpaper.  The boys just decided, for the good of the game and to let the team focus on the Tests, to walk away.
