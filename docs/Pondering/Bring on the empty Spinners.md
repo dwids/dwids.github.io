@@ -20,8 +20,9 @@ I suggest that Cricket Australia (CA) called in — or already had — a **Crisi
 The Crisis Management team suggested:
 
 - Ideally CA to be the sole voice and messenger. 
-- Arrange an "Independent Forum" BUT CA — and CA only — control the output. 
-- There will be no retrospective punishments 
+- Arrange an "Independent Forum".  They need to be *seen* to be doing something. 
+- BUT CA — and CA only — control the output.
+- There will be no retrospective punishments. 
 
 #### 13th November
 
