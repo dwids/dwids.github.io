@@ -58,7 +58,7 @@ After a bit of manual cross-checking, it would seem to have been late 1974 or 19
     1976   No BDT, probably due to Centenary Test in March 77.
     
 
-Given 26th was a holiday and Mr W was English, I'd tip it was 1975.  Having said that, both sports are played in the Christmas to New Years timeframe...and most people are on holidays.
+Given 26th was a holiday and Mr W was English, I'd tip it was 1974.  Having said that, both sports are played in the Christmas to New Years timeframe...and most people are on holidays.
 
 ### Centenary Test
 
